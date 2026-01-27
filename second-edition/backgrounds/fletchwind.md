@@ -1,46 +1,46 @@
 ---
-title: Fletchwind
+title: Ветрокрыл
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Fletchwind
+# Ветрокрыл
 
-> You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring nought but a warning, singing the silent promise of a quick death. 
+> Вы поражаете врагов издалека, но это не делает вас трусом. Вы музыкант, а песнь вашей тетивы — лишь предупреждение, несущее безмолвное обещание быстрой смерти.
 
-## Names
+## Имена
 
-Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
+Флинт, Фезер, Крайер, Тандер, Фэлкон, Плак, Нидл, Варсонг, Хок, Кай.
 
-## Starting Gear
+## Начальное снаряжение
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Bow (see table)
-- Serrated Knife (d6)
-- Boiled Leather (1 Armor)
-- Heartroot Salve (restores 1d4 STR, 1 use)
+- Вываренная кожа (Броня +1)
+- Зазубренный нож (к6)
+- Факел (3 использования)
+- Лук (к6, громоздкий)
+- 3к6 золотых монет
+- Пайки (3 использований)
+- Мазь сердцекорня (восстанавливает 1к4 СИЛ, 1 использование)
 
-## How did you earn your bow? Roll 1d6:
+## Как вы заслужили свой лук?? Бросьте 1к6:
 
 |       |                                                                                                                                                                                                             |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **War**. If you are first to attack, your bow gains the _blast_ property for the first round.                                                                                                               |
-| **2** | **Falconry**. You keep a falcon [3 hp, 5 STR, 16 DEX, 4 WIL, claws (d6+d6), bite (d8)]. It only eats live game.                                                                                             |
-| **3** | **Hunting**. When taking the Supply action, your ability to secure **Rations** increases by **one step** (e.g. 1d4 becomes 1d6).          |
-| **4** | **Tournaments**. Attacks with your bow are _enhanced_ if the target is immobile.                                                                                                                            |
-| **5** | **Training**. If you are the first to attack, melee attacks against you are _impaired_ until you take STR damage.                                                                                           |
-| **6** | **Scouting**. When taking the Travel action, your presence decreases the chance of getting lost by one step (e.g. 4-in-6 becomes 3-in-6). |
+| **1** | **Война**. Если вы атакуете первым, в первом раунде ваши выстрелы получают свойство взрыв.                                                                                                              |
+| **2** | **Соколиная охота**. У вас есть сокол, и он ест только живую добычу. [3 ОЗ, 5 СИЛ, 16 ЛОВ, 4 ВОЛ, когти (к6+к6), клюв (к8)].                                                                                           |
+| **3** | **Охота**. При выполнении действия «Снабжение», ваша способность добывать **Пайки** увеличивается на **одну ступен** (например, 1к4 становится 1к6).          |
+| **4** | **Турниры**. Ваши атаки из лука становятся _усиленными_, если цель обездвижена.                                                                                                                            |
+| **5** | **Тренировка**. Если вы атакуете первым, атаки в ближнем бою против вас _ослаблены_, пока вы не получите урон по СИЛ.                                                                                   |
+| **6** | Разведка. При выполнении действия «Путешествие», ваше присутствие снижает шанс заблудиться на одну ступен (например, 4-из-6 становится 3-из-6). |
 
-## What kind of wood is your bow made from? Roll 1d6:
+## Из какого дерева сделан ваш лук? Бросьте 1к6:
 
 |       |                                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------------- |
-| **1** | **Western Yew** (d6, _bulky_). Can be wielded as a blunt weapon (d6). Noisy.                             |
-| **2** | **Sessile Oak** (d8, _bulky_). Slams into targets. On **Critical Damage** something is torn off.         |
-| **3** | **Stone Pine** (d6, _bulky_). Produces one use of **Sticky Sap** per day. The sap is highly explosive.   |
-| **4** | **White Ash** (d6, _bulky_). Can be used in place of a shield in melee combat (+1 Armor).                |
-| **5** | **Striped Bamboo** (d6). Collapsible, it only requires one slot (but still requires both hands).         |
-| **6** | **Wych Elm** (d6, _bulky_). Protects the bearer from poisons and toxins, so long as they are holding it. |
+| **1** | **Западный тис** (к6, _громоздкий_). Может использоваться в качестве оружия с дробящим уроном в ближнем бою (к6 урон). Шумный.                             |
+| **2** | **Скальный дуб** (к8, _громоздкий_). Ваши выстрелы поразительно мощны. При нанесении **Критического Урона** что-то отрывается.        |
+| **3** | **Каменная сосна** (к6, _громоздкий_). Производит одну порцию **Липкой смолы** в день. Аккуратно, смола крайне взрывоопасна. |
+| **4** | **Белый ясень** (к6, _громоздкий_). Может использоваться вместо щита в ближнем бою (Броня +1).                |
+| **5** | Полосатый бамбук (к6). Складной, занимает только один слот (но все равно требует обеих рук для использования).         |
+| **6** | **Ведьмин вяз** (к6, громоздкий). Защищает носителя от ядов и токсинов, пока он держит лук. |

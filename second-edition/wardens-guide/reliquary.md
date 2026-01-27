@@ -1,209 +1,209 @@
 ---
 layout: default
-title: Reliquary
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: Реликварий
+parent: Книга Смотрителя
+grand_parent: Полное издание
 ---
 
-# Reliquary
+# Реликварий
 
-## A Blade Called Hope (d6)
+## Клинок по имени Надежда (к6)
 
-  - A thin, curved sword that glows with faint light, visible only in total darkness. When bathed in heavy sunlight, its first attack is _Enhanced_.
+  - Тонкий изогнутый меч. Он светится слабым светом, видимым лишь в полной темноте. Когда меч озарен ярким солнечным светом, первая его атака становится _Усиленной_.
 
-## Assassin's Goblets
+## Кубки убийцы
 
-  - A pair of fragile wine flutes. Any liquid poured into one is swapped with the other.
+  - Пара хрупких бокалов для вина. Любая жидкость, налитая в один из них, меняется местами с жидкостью в другом.
 
-## Babbleflask, 2 uses
+## Лепечущая фляга, 2 использования
 
-  - A foreign language is automatically understood and can be spoken back with fluency, so long as the drinker's native tongue is neither spoken nor heard.
+  - При использовании иной язык автоматически становится понятным, и на нем можно свободно говорить, пока родной язык пьющего не произносится и не слышен.
 
-## Barbed Epaulets, +1 Armor
+## Шипастые эполеты, Броня +1
 
-  - Spiked shoulder pads that poison anyone that touches them (STR save or lose consciousness).
+  - Наплечники с шипами, отравляющие любого, кто к ним прикоснется (спасбросок СИЛ или потеря сознания).
 
-## Betterwand, 2 charges
+## Лучшая палочка, 2 заряда
 
-  - Vibrates with increased intensity when pointed at the best of a series of objects.
-  - **Recharge**: Willingly accept a poor deal or trade while in possession of the wand.
+  - Ее вибрация усиливается, когда она указывает на лучший предмет из ряда.
+  - **Перезарядка**: Сознательно согласитесь на невыгодную сделку или обмен, пока владеете палочкой.
 
-## Bloodmap, 1 charge
+## Кровавая карта, 1 заряд
 
-  - A blank leather parchment that absorbs any blood spilled on its surface before rolling into a tight scroll. Unroll to see a rough map revealing the current location of any remaining blood. The image disappears after a few minutes.
-  - **Recharge**: Pour a pint of your own life essence onto the map, blood for blood. You are _deprived_ until you can rest and eat a Ration.
+  - Чистый кожаный пергамент, который впитывает любую кровь, пролитую на его поверхность, прежде чем свернуться в плотный свиток. Разверните, чтобы увидеть грубую карту, показывающую текущее местоположение оставшейся крови. Через несколько минут изображение исчезает.
+  - **Перезарядка**: Вылейте пинту своей собственной жизненной эссенции на карту, кровь за кровь. Вы _Истощены_ до тех пор, пока не сможете отдохнуть и съесть рацион.
 
-## Coin of the Father, 1 charge, _petty_
+## Монета отца, 1 заряд, _мелкий_ предмет
 
-  - Flip this worthless-looking hunk of flat metal in the air, and it will transform into d100 gold coins. The illusory coins disappear after one hour.
-  - **Recharge**: Carry the coin for three days without spending or earning any money.
+  - Подбросьте этот бесполезный на вид кусок плоского металла в воздух, и он превратится в к100 золотых монет. Иллюзорные монеты исчезают через час.
+  - **Перезарядка**: Носите монету с собой в течение трех дней, не тратя и не зарабатывая никаких денег.
 
-## Dryad's Tear, 1 use
+## Слеза дриады, 1 использование
 
-  - Shatter this crystal to merge with a tree you can touch. You can perceive the goings-on within whatever forest that tree belongs to.
+  - Разбейте этот кристалл, чтобы слиться с деревом, которого можете коснуться. Вы можете воспринимать все происходящее в том лесу, к которому принадлежит это дерево.
 
-## Empathy Rod, 3 charges
+## Посох эмпатии, 3 заряда
 
-  - When two creatures touch this wooden pole at the same time, their physical and emotional states become fully intertwined until they let go.
-  - **Recharge**: Give the rod to a former enemy as a gift. This is a one-way transaction.
+  - Когда два существа одновременно прикасаются к этому деревянному посоху, их физическое и эмоциональное состояния полностью переплетаются, пока они не разомкнут контакт.
+  - **Перезарядка**: Отдайте посох бывшему врагу в качестве подарка. Это односторонняя сделка.
 
-## Eyestone, 3 charges
+## Глазной камень, 3 заряда
 
-  - Choose an object created by living creatures. You can sense the nearest example.
-  - **Recharge**: Place in a bucket of rainwater overnight.
+  - Выберите предмет, созданный живым существом. Вы можете почувствовать ближайший пример этого предмета.
+  - **Перезарядка**: Положите камень в ведро с дождевой водой на ночь.
 
-## Falconstone, 3 charges
+## Соколиный камень, 3 заряда
 
-  - Perceive the world through the eyes and ears of a nearby bird of prey. You feel whatever it feels but have no control over it.
-  - **Recharge**: Kill and eat a common quarry, cooking the meat alongside the stone.
+  - Вы воспринимаете мир через глаза и уши ближайшей хищной птицы. Вы чувствуете то же, что и она, но не можете это контролировать.
+  - **Перезарядка**: Убейте и съешьте обычную добычу, приготовив мясо вместе с этим камнем.
 
-## Footpad's Friend
+## Друг головореза
 
-  - Soft leather shoes that adapt to fit any foot size. Leave behind footprints that scatter and turn in a confusing manner, making tracking nigh-impossible.
+  - Обувь из мягкой кожи, которая подстраивается под любой размер ноги. Оставляют за собой следы, которые ведут в разные стороны и приводят к путанице, делая выслеживание практически невозможным.
 
-## Gate Chalk, 1 use, _petty_
+## Мел для Врат, 1 использование, _мелкий_ предмет
 
-  - Draw a doorway on any flat surface to open a one-way passage to the Roots. Good luck.
+  - Нарисуйте дверной проем на любой плоской поверхности, чтобы открыть односторонний проход к Корням. Удачи.
 
-## Golden Wheat Paste, 2 uses
+## Золотистая пшеничная паста, 2 использвания
 
-  - When mixed with water, this substance chemically bonds any two objects.
+  - При смешивании с водой это вещество химически связывает любые два объекта.
 
-## Gossip Box, 1 charge
+## Шкатулка сплетен, 1 заряд
 
-  - Wind the crank to replay any sound made in the past day in your current location. Each crank goes back one hour.
-  - **Recharge**: Successfully spread one falsehood in the presence of the box.
+  - Поверните рукоятку, чтобы воспроизвести любой звук, прозвучавший в текущем месте за последний день. Каждый поворот возвращает на один час.
+  - **Перезарядка**: Успешно распространите одну ложь в присутствии шкатулки.
 
-## Harbinger's Bell, 1 charge
+## Колокол предвестника, 1 заряд
 
-  - Hang at chest height to ring when danger is imminent.
-  - **Recharge**: Melt and reforge. Each time, roll a d6. On a 1-2, it breaks forever.
+  - Повесьте на уровне груди, колокол будет звонить в случае неминуемой опасности.
+  - **Перезарядка**: Расплавьте и выкуйте заново. Каждый раз бросайте к6. На 1-2 колокол разбивается навсегда.
 
-## Homunculus Nail, 1 use, _petty_
+## Гвоздь гомункула, 1 использование, _мелкий_ предмет
 
-  - Prick a finger with the pointy end and hammer into any small object to form a loyal servant [3 HP, 4 STR, 13 DEX, 5 WIL] completely devoted to you. If not destroyed, it will outlive you.
+  - Уколите палец острым концом и вбейте в любой мелкий предмет, чтобы создать верного слугу [3 ОЗ, 4 СИЛ, 13 ЛОВ, 5 ВОЛ], полностью преданного вам. Если его не уничтожить, он переживет вас.
 
-## Honest Earworm, 1 use
+## Ушной червь честности, 1 использование
 
-  - A foul-smelling, pinky-sized worm that feeds on earwax by crawling into the ear canal of a sleeping person. The victim then loses the ability to lie for 1d4 hours.
+  - Дурно пахнущий червь размером с мизинец, который питается ушной серой, заползая в слуховой проход спящего человека. После этого жертва теряет способность лгать в течение 1к4 часов.
 
-## Jar of Ants
+## Банка муравьев
 
-  - Break to release a colony of fire ants [6 HP, 2 STR, 10 DEX, 1 WIL, bite (d10), _detachment_]. Consumes a ration every two days.
+  - Разбейте, чтобы выпустить колонию огненных муравьев [6 ОЗ, 2 СИЛ, 10 ЛОВ, 1 ВОЛ, укус (к10), _отряд_]. Каждые два дня муравьи съедают рацион.
 
-## Last Breath (d6), 1 charge
+## Последний вздох (к6), 1 заряд
 
-  - A chipped short sword of dubious quality. Drive into the earth to form a crystal dome that encircles and immobilizes the wielder. The dome is impenetrable by mundane , and shatters once the sword is lifted again.
-  - **Recharge**: Deliver a killing blow with the sword, absorbing the dying victim's soul into the blade. There is a cunning intelligence within that speaks to the wielder, forever asking for more souls, more!
+  - Зубчатый короткий меч сомнительного качества. Вонзите в землю, чтобы образовать кристаллический купол, который окружает и обездвиживает владельца. Купол непроницаем для обычных средств и рассыпается, как только меч снова поднимают.
+  - **Перезарядка**: Нанесите смертельный удар мечом, поглотив душу умирающей жертвы клинком. Внутри меча заключен хитрый разум, который говорит с владельцем, вечно требуя все больше и больше душ!
 
-## Lightsucker Candle, 3 uses
+## Свеча-светопоглотитель, 3 использвания
 
-  - Once lit, this black tallow wax sheds darkness rather than light, even in the brightest of days.
+  - Будучи зажженной, этот черный сальный воск источает тьму вместо света, даже в самый ясный день.
 
-## Lover's Covenant, 1 use
+## Завет любовника, 1 использование
 
-  - A bottle of red-tinted ink, a broken heart emblazoned on the front. Write up a contract of any length. Any who sign are bound to obey by penalty of death.
+  - Флакон красных чернил, изображение разбитого сердца украшает лицевую сторону. Составьте контракт любой длины. Каждый подписавший обязан подчиняться под страхом смерти.
 
-## Mace of the Kingslayer (d8), 2 charges
+## Булава цареубийцы (к8), 2 заряда
 
-  - Hold the weapon aloft and shout an order or declaration. Any who fail a WIL save must obey, against their better judgment.
-  - **Recharge**: Deliver a fatal blow to the leader of a group or faction.
+  - Поднимите оружие вверх и выкрикните приказ или заявление. Любой, кто провалит спасбросок ВОЛ, должен подчиниться вопреки своему здравому смыслу.
+  - **Перезарядка**: Нанесите смертельный удар лидеру группы или фракции.
 
-## Moth Mirror, _bulky_
+## Зеркало мотылька, _громоздкий_ предмет
 
-  - A full-length, double-sided glass mirror. Step into the mirror to be transported to another mirror you know. You come out of the other side as an enormous swarm of buzzing moths, striking those around you with paralysis (WIL save to avoid) as they gaze upon you in horror. You can revert to your normal form at will. The mirror only operates in one direction.
+  - Полноразмерное двустороннее зеркало. Шагните в зеркало, чтобы перенестись к другому известному вам зеркалу. Вы выходите с другой стороны в виде огромного роя жужжащих мотыльков, вводя окружающих вас людей в паралич (спасбросок ВОЛ), пока они в ужасе смотрят на вас. Вы можете вернуться к своей обычной форме по желанию. Зеркало работает только в одном направлении.
 
-## Muffle Dust, 2 uses
+## Пыль тишины, 2 использвания
 
-  - A pouch of fine dust that muffles all sound in a 40ft radius when scattered.
+  - Мешочек с мелкой пылью, которая при рассеивании заглушает все звуки в радиусе 40 футов.
 
-## Nightstone, 1 use
+## Ночной камень, 1 использование
 
-  - Rare moon-shaped stones dredged from underwater caves and jungle dolines. Swallow whole to relieve all fatigue and deprivation as if you had a good night's sleep and a good meal. The stone will eventually pass through your system. It isn't fun.
+  - Редкие камни в форме луны, добытые из подводных пещер и карстовых воронок в джунглях. Проглотите целиком, чтобы снять усталость и истощение, как после крепкого ночного сна и сытной еды. Камень в конечном счете выйдет из вашего организма. И весело не будет.
 
-## Obliteration Scroll, 1 use, _petty_
+## Свиток стирания, 1 использование, _мелкий_ предмет
 
- - A single-page document filled with gibberish. Sign anywhere on the page to remove any knowledge of your existence from this plane of reality. No one will know or remember you, and any references to your name or lineage will vanish. The scroll disappears in a puff of smoke that smells faintly of sulfur.
+ - Одностраничный документ, заполненный бессмыслицей. Подпишитесь в любом месте на странице, чтобы убрать любые сведения о вашем существовании из этого плана реальности. Никто не будет знать или помнить вас, любые упоминания вашего имени или происхождения исчезнут. Свиток исчезает в клубах дыма, слабо пахнущего серой.
 
-## Parliament's Promise, +1 Armor
+## Обещание парламента, Броня +1
 
- - A helmet in the form of an owl's head. Its wearer can twist their head around like an owl and can see in darkness with perfect clarity. While wearing the helm, the wearer loses the ability to speak, uttering only the simplest of cooing noises.
+ - Шлем в виде совиной головы. Его носитель может поворачивать голову, как сова, и видеть в темноте с идеальной четкостью. Во время ношения шлема носитель теряет способность говорить, издавая лишь простейшие воркующие звуки.
 
-## Phoenix Ash, 1 use
+## Пепел феникса, 1 использование
 
-  - Sprinkle over a corpse to resurrect the deceased. They return with full health but no memory of their past life.
+  - Рассейте пепел над трупом, чтобы воскресить умершего. Он возвращается совершенно здоровым, но без воспоминаний о своей прошлой жизни.
 
-## Ring of the Snake, 1 charge, _petty_
+## Кольцо змеи, 1 заряд, _мелкий_ предмет
 
-  - A wrought-iron serpent ring. Place it on your finger and fall into a sleep so deep that most will think you are dead. If the ring is removed, you will awaken feeling refreshed. Otherwise, the effect will wear off after one month.
-  - **Recharge**: Bury the ring with a corpse. A month later, exhume the corpse and retrieve it.
+  - Кольцо в виде змеи из кованого железа. Наденьте его на палец и погрузитесь в настолько глубокий сон, что большинство сочтут вас мертвым. Если снять кольцо, вы проснетесь отдохнувшим. В противном случае эффект исчезнет через месяц.
+  - **Перезарядка**: Закопайте кольцо вместе с трупом. Через месяц выкопайте труп и заберите кольцо.
 
-## Roc Feather, 1 use
+## Перо Рух, 1 использование
 
-  - Hold while falling to float safely to the ground from any height.
+  - Держите перо во время падения, чтобы безопасно опуститься на землю с любой высоты.
 
-## Skull Whistle, 3 charges
+## Свисток-череп, 3 заряда
 
-  - Produces a chilling scream that forces any who hear it (including the blower) to make a WIL save or become temporarily incapacitated.
-  - **Recharge**: Feed the instrument a clump of human hair pulled from a living skull.
+  - Издает леденящий душу крик, который заставляет любого, кто его слышит (включая свистящего), совершить спасбросок ВОЛ, или стать временно недееспособным.
+  - **Перезарядка**: Скормите инструменту пучок человеческих волос, вырванных с живого черепа.
 
-## Soul Clump
+## Сгусток души
 
-  - A hard, fist-sized ball covered in small bumps. When rolled on a flat surface, it collects any objects smaller than its current mass, which subsequently increases as more items are attached to its surface. Only living creatures are immune.
+  - Твердый шар размером с кулак, покрытый мелкими бугорками. При катании по ровной поверхности он собирает любые объекты меньше своей текущей массы, которая впоследствии увеличивается по мере присоединения новых предметов к его поверхности. Только живые существа невосприимчивы к этому.
 
-## Spystone, 1 charge
+## Шпионский камень, 1 заряд
 
-  - A smooth, flat stone that is slightly warm to the touch. Squeeze to record audio in a 40ft radius. Squeeze again to play it back, as many times as you like.
-  - **Recharge**: To record a new sound, skip the rock at least three times on a body of water and recover it.
+  - Гладкий плоский камень, слегка теплый на ощупь. Сожмите его, чтобы записать звук в радиусе 40 футов. Сожмите снова, чтобы воспроизвести запись сколько угодно раз.
+  - **Перезарядка**: Чтобы записать новый звук, запустите камень блинчиком по воде как минимум три раза, а затем подберите его.
 
-## Sticky Rope, 1 charge
+## Липкая веревка, 1 заряд
 
-  - A 100ft rope that can stick to any surface.
-  - **Recharge**: Cut off 10ft of rope, which then withers away.
+  - 100 футовая веревка, которая может прилипать к любой поверхности.
+  - **Перезарядка**: Отрежьте 10 футов веревки, которая затем иссохнет.
 
-## Stone Eater, 1 use
+## Камнеед, 1 использование
 
-  - A rodent-sized centipede that consumes and digests stone, capable of cutting a small tunnel in under an hour. It can be used more than once, but only if you can catch it (DEX 18).
+  - Сороконожка размером с грызуна, которая поедает и переваривает камень, способная проделать небольшой туннель менее чем за час. Ее можно использовать более одного раза, но только если вы сумеете ее поймать (ЛОВ 18).
 
-## Stonewax Gum, 3 uses, _petty_
+## Жвачка из каменного воска, 3 использвания, _мелкий_ предмет
 
-  - Chew, then spit. The gum will harden and stretch, making a perfect, unbreakable seal.
+  - Пожуйте, затем выплюните. Жвачка затвердеет и растянется, образуя идеальную, нерушимую печать.
 
-## Sponge Army, 1 use
+## Армия губок, 1 использование
 
-  - A dozen miniature soldiers made of carved sea sponges. When splashed with water, they grow to full size [8 HP, 6 STR, 13 DEX, 5 WIL, hardened sponge (d6), _detachment_] and follow the orders of the person they see until they are destroyed or dry out completely (about 10 minutes).
+  - Дюжина миниатюрных солдатиков, вырезанных из морской губки. Когда их обливают водой, они вырастают до полного размера [8 ОЗ, 6 СИЛ, 13 ЛОВ, 5 ВОЛ, затвердевшая губка (к6), _отряд_] и подчиняются приказам того, кого увидят, пока не будут уничтожены или не высохнут полностью (около 10 минут).
 
-## Tupshead Crown, +1 Armor, _bulky_
+## Тупоголовая корона, +1 Armor, _громоздкий_ предме
 
-  - A beautifully rendered ram's head helm wrought from tough alpine oak. The horns can be used as weapons (d6+d6).
+  - Прекрасно выполненный шлем в виде головы барана, сделанный из прочного альпийского дуба. Рога могут быть использованы в качестве оружия (к6+к6).
 
-## Veilsilk Grip, 1 charge, _petty_
+## Шелковая перчатка, 1 заряд, _мелкий_ предмет
 
-  - A hand wearing this glove can phase through solid objects.
-  - **Recharge**: Snip off one of the fingers.
+  - Рука в этой перчатке может проходить сквозь твердые предметы.
+  - **Перезарядка**: Отрежьте один из пальцев.
 
-## Voice of the Mountain, 1 use
+## Голос горы, 1 использование
 
-  - A rough pebble imbued with the essence of a mountain spirit. Crush to call forth an earthquake or similar natural disaster. Do not expect to be spared.
+  - Грубая галька, пропитанная сущностью горного духа. Раздавите, чтобы вызвать землетрясение или подобное стихийное бедствие. Не рассчитывайте, что вас пощадят.
 
-## Ward Stone, 1 use
+## Защитный камень, 1 использование
 
-  - A flat, unassuming river stone notched with faded symbols. Smash to release a silvery powder in a 20ft radius that pacifies anyone who breathes it.
+  - Плоский, ничем не примечательный речной камень с выцветшими символами. Разбейте, чтобы рассыпать серебристый порошок в радиусе 20 футов, который умиротворяет любого, кто его вдохнет.
 
-## Whispergale, 1 use
+## Шепот ветра, 1 использование
 
-  - A balloon-shaped plant that captures a spoken message and delivers it to a location within a day's walk.
+  - Растение в форме воздушного шара, которое улавливает произнесенное сообщение и доставляет его в место на расстоянии дня пути.
 
-## Whistle-Rope
+## Свистящая веревка
 
-  - 15ft of highly flexible leather. Swirl in the air to generate a powerful subsonic effect that drives away wildlife. Also works underwater.
+  - 15 футов крайне эластичной кожи. Раскрутите ее в воздухе, чтобы создать мощный инфразвуковой эффект, отпугивающий диких животных. Также работает под водой.
 
-## Wonder Bar, 1 charge
+## Чудо-стержень, 1 заряд
 
-  - Pressing the switch on the side of this iron bar freezes it in place, even in midair. Once frozen, it cannot be moved by any force until the switch is depressed.
-  - **Recharge**: Hold the bar with both hands without letting go for one continuous hour (WIL save to succeed). You can make only one attempt each day.
+  - При нажатии переключателя на боку этого железного стержня, он застывает на месте даже будучи в воздухе. После этого он не может быть сдвинут с места никаким усилием до тех пор, пока переключатель не будет нажат.
+  - **Перезарядка**: Держите стержень обеими руками, не отпуская, в течение одного непрерывного часа (спасбросок ВОЛ для успеха). Вы можете сделать только одну попытку в день.
 
-## Wraith Lantern, 1 charge
+## Призрачный фонарь, 1 заряд
 
-  - Write someone's name onto its glass, and the name will disappear. The lantern reveals a path to their current location, visible only to the holder (day or night).
-  - **Recharge**: Kill the last person found with the help of the lantern, trapping their spirit inside. The lantern must be nearby when they are killed.
+  - Напишите чье-нибудь имя на стекле фонаря, и оно исчезнет. Фонарь показывает путь к текущему местоположению носителя имени, видимый только тому, кто его держит (днем или ночью).
+  - **Перезарядка**: Убейте последнего человека, найденного с помощью фонаря, заточив его дух внутри. Фонарь должен быть поблизости во время убийства.

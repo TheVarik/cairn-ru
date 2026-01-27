@@ -1,47 +1,46 @@
 ---
-title: Half Witch
+title: Полуведьма
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Half Witch
+# Полуведьма
 
-> Born of both the mortal world and the unseen, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide.
+> Родившись наполовину в мире смертных, наполовину в незримом, вы — загадка для одних и объект страха для многих. Ваша история — это рассказ о том, что бывает, когда два мира столкнулись.
 
-## Names
+## Имена
 
-Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
+Солена, Велес, Брин, Сабина, Разван, Ровена, Гален, Никс, Векс, Иван
 
-## Starting Gear
+## Начальное снаряжение
  
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Spellbook (Thicket: A thicket of trees and dense
-brush up to 50ft wide suddenly sprouts up. _Wrapped in vines that must be destroyed again with each use._)
-- Iron Dagger (d6)
-- Herbs Pouch (restore 1 STR, 3 uses)
-- Ghillie Suit
+ - Железный кинжал (к6 урон)
+ - Факел (3 использования)
+ - 3к6 золотых монет
+ - Пайки (3 использований)
+ - Мешочек с травами (восстанавливает 1 СИЛ, 3 использования)
+ - Книга заклинания «Заросли»: внезапно вырастает чаща из деревьев и густого кустарника шириной до 50 фт. Увита лозами, которые необходимо разрушать при каждом использовании заклинания.
+ - Маскировочный костюм
 
-## What did you bring back from the Unseelie Court? Roll 1d6:
+## Что вам досталось от Незримого двора? Бросьте 1к6:
 
 |       |                                                                                                                                                                                                                                                               |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A **Black Rose Fiddle** (_bulky_). Its music causes intense sadness and immobility in nearby mortals. (Others are merely fascinated.) You don't know how to play.                                                                                              |
-| **2** | **Paper legs**. You are extremely light, and can fall a few stories without getting hurt. Try to avoid tearing them or getting them wet.                                                                                                                                |
-| **3** | A **Living Nightmare** that dwells within you but manifests whenever you are in danger. It has your same **Attributes** and **HP** and attacks with claws (d8+d8). It disappears on **Critical Damage** (take 1d4 WIL damage), re-appearing again on the next full moon. |
-| **4** | A **Raven Familiar** [8 HP, 3 STR, 11 DEX, 13 WIL, beak, (d6)]. It speaks as an intelligent being and is entirely devoted to you.                                                                                                                             |
-| **5** | A **Briar Thorn**. It can pierce any organic material (quite painfully) but when removed leaves no trace of the intrusion.                                                                                                                                    |
-| **6** | A Fae creature's **True Name**. Use it to summon its owner for an act of great service, but only once. It could also fetch a hefty price, from the right buyer.                                                                                               |
+| **1** | **Скрипка из черной розы** (_громоздкий_). Ее музыка вызывает у смертных сильную печаль и обездвиживает их. На иных она производит лишь завораживающий эффект. Вы не умеете играть на скрипке.                                                                                             |
+| **2** | **Бумажные ноги**. Вы чрезвычайно легки и можете падать с высоты нескольких этажей без травм. Постарайтесь не намочить их и не порвать.                                                                                                                    |
+| **3** | **Кошмарное существо**, обитающее внутри вас и проявляющееся, когда вы в опасности. Оно обладает такими же Характеристиками и Очками Защиты, как и вы, и атакует когтями (к8+к8). Исчезает при получении **Критического Урона** (вы теряете 1к4 ВОЛ), и появляется вновь на следующее полнолуние.|
+| **4** | Ворон-фамильяр. Он говорит как разумное существо и полностью предан вам. [8 ОЗ, 3 СИЛ, 11 ЛОВ, 13 ВОЛ, клюв (к6 урон)]                                                                                                                       |
+| **5** | **Шип шиповника**. Он может проколоть любой органический материал (довольно болезненно), но при извлечении не оставляет следов.                                                                                                                                    |
+| **6** | **Истинное имя феи**. Используйте его, чтобы призвать владельца для выполнения значимой услуги, но только один раз. Также может быть продано за значительную сумму подходящему покупателю.                                                                                           |
 
-## What concoction do you carry, and what rare ingredients did you gather to make it? Roll 1d6:
+## Какую алхимическую смесь вы носите с собой и какие редкие ингредиенты вы собрали для ее изготовления? Бросьте 1к6:
 
 |       |                      |                                                                                                                                                                                |
 | ----- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Rebirth Ash**      | Remnants of a bark spirit. Sprinkle to reignite a fire that has died or return to life a creature that has died only moments before. 3 uses.                                  |
-| **2** | **Glamour Feather**  | Plume of a firebird. Can make any creature appear convincingly as someone (or something) else. 1 use.                                                                         |
-| **3** | **Hawthorn Seed**    | An acorn from the other side, gathered on the spring equinox. When planted, it sprouts a luxurious shelter, collapsing at moonrise the next day. 1 use.                         |
-| **4** | **Stonetree Sap**    | Sap obtained in exchange for blood. Hardens when rubbed on any surface (+1 Armor). 3 uses.        |
-| **5** | **Nightdust Powder** | Made from the ritual burning of six owls. When tossed in the air, day turns to night for a short while. 2 uses.                                                             |
-| **6** | **Hex Stone**        | Gathered from a river that flows from the _other side_. Removed from its iron tin, it can absorb the effects of an active magical effect. If destroyed, the magic is released. 1 use. |
+| **1** | **Пепел возрождения**      | Останки берестяного духа. Развейте над целью, чтобы вновь зажечь потухший огонь или вернуть к жизни существо, умершее мгновение назад (3 использования).                  |
+| **2** | **Гламурное перо**  | Перо жар-птицы. Может заставить любое существо выглядеть как кто-то (или что-то) другое (1 использование).                                                      |
+| **3** | **Семя из иного мира**    | Желудь из иного мира, собранный в день весеннего равноденствия. При посадке, вырастает в роскошное укрытие, которое исчезает на закате следующего дня (1 использование).               |
+| **4** | **Сок камнедрева**    | Получен в обмен на кровь. Затвердевает при нанесении на любую поверхность (+1 к броне, 3 использования).        |
+| **5** | **Порошок ночной пыли** | Изготовлен путем ритуального сжигания шести сов. При распылении в воздухе, на короткое время превращает день в ночь (2 использования).                            |
+| **6** | **Шестигранный камень** | Собран из реки, текущей из _иного мира_. Вынутый из железной коробочки, он может поглотить эффект заклинания. При разрушении камня магия освобождается (1 использование). |

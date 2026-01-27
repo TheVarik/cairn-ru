@@ -1,48 +1,48 @@
 ---
-title: Cutpurse
+title: Карманник
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Cutpurse
+# Карманник
 
-> You live in the grey space between those who have power and those who don’t. You find opportunity where others see only chaos. With nimble fingers, you unburden both the richest merchant and the lowliest guard. 
+> Вы живете в серой зоне между теми, кто обладает властью, и теми, у кого ее нет. Вы находите возможности там, где другие видят лишь хаос. Проворными пальцами вы освобождаете от ноши как богатейших торговцев, так и скромных стражников.
 
-## Names
+## Имена
 
-Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
+Арло, Лира, Эймон, Салина, Элара, Фрейя, Булл, Спэрроу, Айви, Сайлас
 
-## Starting Gear
- 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Twin Daggers (d6+d6, _bulky_)
-- Padded Leather (1 Armor)
-- Lockpicks
-- Black Outfit (_petty_)
+## Начальное снаряжение
 
-## What was your last big job? Roll 1d6:
+- 3к6 золотых монет
+- Пайки (3 использований)
+- Факел (3 использования)
+- Двойные кинжалы (к6+к6а, громоздкий)
+- Кожаная броня (Броня +1)
+- Отмычки
+- Черный наряд (мелкий)
+
+## Какое было ваше последнее крупное дело? Бросьте 1к6:
 
 |       |                                                                                                                                                                                                   |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A noble's summer home. The place was full of fancy wine (+20gp) but not much else. Take **Fence Cutters**.                                                                                        |
-| **2** | A bank. (You were caught.) You bear a brand only visible by firelight, and anyone who sees the mark can ask you for a beer. Take **Retractable Wires**.                                           |
-| **3** | A guild warehouse. Take a **Ladder** (_bulky_, 10ft) and **Blinding Powder** (1 use).                                                                                                             |
-| **4** | Moneylender. Someone beat you to the job but left behind a **Scroll** of _Arcane Eye_ (_petty_). _Arcane Eye_: You can see through a magical floating eyeball that flies around at your command. |
-| **5** | Constable's quarters. You escaped but left some friends behind. Take **Strong Silk Rope** (30ft) and a queasy feeling.                                                                           |
-| **6** | A university. You were seen but not pursued. You still don't know why. Take **Smoke Pellets** (3 uses).                                                                                          |
+| **1** |Летний домик дворянина. В этом месте было полно изысканного вина (+20 зм), но больше ничего ценного. Возьмите **Кусачки для проволоки**.                                                                                        |
+| **2** | Банк (вас поймали). На вас есть клеймо, видимое только при свете огня, и любой, кто увидит клеймо, может попросить у вас пива. Возьмите **Катушку с проводом**.                                         |
+| **3** | Склад гильдии. Возьмите **Лестницу** (_громоздкий_, 10 фт) и **Ослепляющий порошок** (1 использование).                                                                                                             |
+| **4** | Ростовщик. Кто-то опередил вас, но оставил **свиток** «Магический глаз» (_мелкий_). **Магический глаз**: _вы можете видеть через парящий магический глаз, который летает неподалеку и перемещается по вашей команде._|
+| **5** | Комната констебля. Вы сбежали, но бросили друзей позади. Начните игру с **Прочной шелковой веревкой** и ощущением тошноты от своего поступка.                                                                          |
+| **6** | Университет. Вас заметили, но не преследовали. Вы до сих пор не знаете, почему. Возьмите **Дымовые бомбы** (3 использования).                                                                                      |
 
-## What helps you steal? Roll 1d6:
+## Что помогает вам воровать?? Бросьте 1к6:
 
 |       |                       |                                                                                                                                                    |
 | ----- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Catring**           | 2 charges. Climb up walls and fall safely. **Recharge**: Place the ring on a stray cat's tail.                                                     |
-| **2** | **Gildfinger**        | 1 charge. A finger glove that mimics any mundane key. **Recharge**: Bundle it with at least 100gp for a night.                                     |
-| **3** | **Glimpse Glass**     | 3 uses. A monocle that lets you see through walls or other obstructions. It shatters after the last use.                                        |
-| **4** | **Sweetwhistle**      | 1 charge. Listeners hear a soft, familiar voice in the distance that they cannot resist following. **Recharge**: Lose a dear memory. (Describe it.) |
-| **5** | **Vagrant's Veil**    | 1 charge. Wear it to blend seamlessly into crowds, appearing as a simple pauper. **Recharge**: Donate the day's winnings to the poor. _Petty_      |
-| **6** | **Reverse Teetotum** | 1 use. When spun, time skips backwards 30 seconds. Everyone remembers what happened.                                                                                    |
+| **1** | **Кольцо-кошки**           | 2 заряда. Позволяет взбираться по стенам и безопасно падать. **Перезарядка**: наденьте кольцо на хвост бездомной кошки.                                                     |
+| **2** | **Золотой палец**        | 1 заряд. Накладка на палец, имитирующая любой обычный ключ. **Перезарядка**: оставьте ее на ночь вместе с не менее чем 100 зм.                              |
+| **3** | **Стекло подглядывания**     | 3 использования. Монокль, позволяющий видеть сквозь стены или другие преграды. Разбивается после последнего использования.                                       |
+| **4** | **Сладкий свисток**      | 1 заряд. Окружающие слышат мягкий знакомый голос вдалеке. Они следуют за ним, не в силах сопротивляться. **Перезарядка**: потеряйте дорогое воспоминание (опишите его). |
+| **5** | **Покров бродяги**    | 1 заряд. Наденьте его, чтобы незаметно слиться с толпой, выглядя как простой нищий. **Перезарядка**: пожертвуйте весь дневной заработок бедным. _Мелкий_ предмет.  |
+| **6** | **Обратный тетотум** | 1 использование. При вращении, отматывает время на 30 секунд назад. Все помнят,  что произошло.              |
 
 

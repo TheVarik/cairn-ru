@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Home
+title: Заглавная страница
 nav_order: 1
 permalink: /
 ---
 
-Cairn is an adventure game about exploring a dark and mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, adventures are tense and reward careful exploration, and combat is frantic and deadly. The game was written by [Yochai Gal](https://newschoolrevolution.com). There are now multiple editions (see sidebar) that are all rules-compatible.
+Cairn — это приключенческая игра про исследование темного и мистического Леса, заполненного странными существами, потойными сокровищами и непоисумыми монстрами. Персонажи создаются быстро и непресказуемо, приключения напряженные и поощрают исследования, а бой резкий и смертельный. Игра написана [Йохаем Галом](https://newschoolrevolution.com) и переведена студией [Hex Cat](https://hexcat.run). Игра имеет две совместимые друг с другом редакции, но на данном сайте находится перевод второй редакции.
 
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can find the source files [here](https://github.com/yochaigal/cairn).
+Весь текст распростроняется под [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-This is a game that values community contributions! If you'd like to submit an adventure, hack, monster, or conversion take a look at the [submission guide](/submissions/submission-guide).
+Автор игры и студия Hex Cat очень дорожит внесением от сообщества! Если вы хотите выложить здесь свое приключение, хак, монстра или перенос из другой игры, то рекомендуем прочитать [Инструкцию по подаче материалов](/submissions/submission-guide).
+
+**Данный перевод находится на стадии Бэта тестирования и может получить некоторые изменения перед выпуском**.

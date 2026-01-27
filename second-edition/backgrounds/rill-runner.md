@@ -1,46 +1,46 @@
 ---
-title: Rill Runner
+title: Певец Ручьев
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Rill Runner
+# Певец Ручьев
 
-> You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
+> Вы поете истории рек и озер, ваши таланты успокаивают как друзей, так и стихии. Вы видели больше, чем многие, но вам всегда кажется, что этого недостаточно.
 
-## Names
+## Имена
 
-Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
+Гейл, Пайпер, Брук, Адаир, Стоун, Дейл, Рен, Клифф, Рейн, Робин
 
-## Starting Gear
+## Начальное снаряжение
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Water Shoes
-- Brigandine (1 Armor, _bulky_)
-- Compass
-- Dagger (d6)
+- 3к6 золотых монет
+- Пайки (3 использования)
+- Факел (3 использования)
+- Бригандина (Броня +1, громоздкий)
+- Водостойкие ботинки
+- Кинжал (к6)
+- Компас
 
-## What songs are you best known for? Roll 1d6:
+## Какими песнями вы наиболее известны? Бросьте 1к6:
 
 |       |                                                                                                                                                                                                                                          |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | _The Tinker's Two-Step_. A humorous fairy tale about a gift-giving traveler. Start with a **Reed Whistle**. Anyone in earshot must pass a WIL save to perform an act of violence.                                                       |
-| **2** | _The Sylph and Her Lover_. A bawdy tale of lost love. Start with a **Breeze Knot** (3 charges). Creates a strong breeze. **Recharge**: Tie it to a mast during a storm.                                                         |
-| **3** | _Harper's Devotion_. A sad, short tale about a musician that falls in love with a star. Start with a **Celestial Lute**. Reveals the constellations above, no matter the weather.                                                              |
-| **4** | _The Reed Fisher_. A celebrated song about a massive carp that always seems to get away. Begin with a spool of **River Twine** (5 uses). Each dip into the river guarantees a catch, though it might not be pleasant.                              |
-| **5** | _Song of the Silver Stream_. A wordless lullaby that mimics flowing water. Take a **Stone Flute** that can calm almost any river.                                                                                             |
-| **6** | _The Thrush and the Meadow_. A moody tale told in alternating chorus. Start with a **Feather Quill** (1 use, _petty_). A map drawn with this quill reveals the most expedient course between any two points. |
+| **1** | **Тустеп жестянщика**. Веселая сказка о страннике, раздающем подарки. Возьмите **Тростниковый свисток**. Все, кто его услышит, должны пройти проверку ВОЛ, перед совершением акта насилия.                                                       |
+| **2** | **Сильф и ее возлюбленный**. Непристойная история о потерянной любви. Возьмите **Узелок ветра** (3 заряда). Создает сильный ветер. **Перезарядка**: привяжите узелок к мачте во время шторма.                                                 |
+| **3** | **Преданность арфиста**. Грустная короткая история о музыканте, влюбившемся в звезду. Возьмите **Небесную лютню**. Показывает созвездия над головой, независимо от погоды.                                                              |
+| **4** | **Ловец тростника**. Известная песня о гигантском карпе, который всегда ускользает. Возьмите **Моток речной бечевки** (5 использований). Каждое погружение в реку гарантирует улов, хотя он может быть неприятным.                       |
+| **5** | **Песня серебряного ручья**. Безмолвная колыбельная, имитирующая звук текущей воды. Возьмите **Каменную флейту**, способной успокоить почти любую реку.                                                                                        |
+| **6** | **Дрозд на лугу**. Меланхоличная история, рассказанная хором сменяющихся голосов. Возьмите **Гусиное перо** (1 использование, мелкое). Карта, нарисованная этим пером, показывает самый быстрый путь между двумя точками. |
 
-## What pays your way across the land? Roll 1d6:
+## Как вы добываете деньги на оплату ваших путешествий? Бросьте 1к6:
 
 |       |                     |                                                                                                                                             |
 | ----- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Performance**     | Performing at taverns always yields both room and board. Sometimes you even get tips! Start with an extra **10gp**.                          |
-| **2** | **Bodyguard**       | You are a protector for those afraid to travel alone. Start with a **Rapier** (d8).                                                          |
-| **3** | **Wares**           | You buy low and sell high, always making just enough to get by. Take a **single item** worth **20gp** (or less) from the [gear](/second-edition/players-guide/marketplace#gear) table.                              |
-| **4** | **Transport**       | You deliver "delicate" packages throughout the lands. You have at least one contact in any major town.                                        |                                                    
-| **5** | **Sailor's Friend** | Over troubled waters and dangerous winds, you always make sure a ship reaches its destination. For you, passage is always free.  |
-| **6** | **Guide**           | You shepherd caravans and travelers across water-soaked lands. Start a **map** (_petty_) relevant to your next journey. |
+| **1** | **Концерты**     | Выступления в тавернах всегда обеспечивают вас жильем и едой, иногда даже чаевыми! Начните игру с дополнительными 1к6 зм.           |
+| **2** | **Охрана**       |Вы защищаете тех, кто боится путешествовать в одиночку. Возьмите Рапиру (к8).   |
+| **3** | **Торговля**           | Вы покупаете дешево и продаете дорого, зарабатывая себе на жизнь торговлей. Возьмите **Один предмет** стоимостью до 20 золотых из таблицы снаряжения.  |
+| **4** | **Перевозка**       | Вы доставляете «деликатные» посылки по всей земле. У вас есть как минимум один контакт в любом крупном городе.  |                                                   
+| **5** | **Друг моряков** | Сквозь бурные воды и опасные ветра вы всегда обеспечиваете прибытие корабля к месту назначения. Для вас проезд всегда бесплатен. |
+| **6** | **Проводник**           | Вы сопровождаете путешественников и караваны по заболоченным землям. Возьмите **Карту** (_мелкий_), относящейся к вашему следующему путешествию. |

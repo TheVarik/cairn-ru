@@ -1,46 +1,46 @@
 ---
-title: Prowler
+title: Ловчий
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Prowler
+# Ловчий
 
-> You are a specter in the night, a fleeting shadow that slips by its prey, unseen. Each kill is a test of cunning and animal determination, a contest between life and death. You know that one day you will lose. You look forward to it. 
+> Вы — призрак в ночи, мимолетная тень, что незаметно проходит мимо своей добычи. Каждое убийство — испытание хитрости и звериной решимости, поединок между жизнью и смертью. Вы знаете, что однажды придется проиграть. Вы ждете этого.
 
-## Names
+## Имена
 
-Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
+Винда, Бриэль, Терон, Чейз, Найя, Дев, Рэйвен, Баруани, Араван, Сейбл
 
-## Starting Gear
+## Начальное снаряжение
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Tarp
-- Boiled Leather (1 Armor)
-- Short Sword (d6)
-- Spring-Loaded trap (4 STR damage)
+- 3к6 золотых монет
+- Пайки (3 порции)
+- Факел (3 использования)
+- Брезент (укрытие на 1 персону)
+- Вываренная кожа (Броня +1)
+- Короткий меч (к6)
+- Ловушка с пружинным механизмом (4 урона СИЛ)
 
-## What did you last hunt? Roll 1d6:
+## На кого вы охотились в последний раз? Бросьте 1к6:
 
 |       |                                                                                                                                                                                                                                           |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A _mock firefly_, baiting water carriers with its glowing lure. Take an **Alchemical Limb** (d8, _petty_ when worn) to replace the one it tore off and an **Oil Can** (6 uses). The limb is immune to heat and poison. Needs to be oiled daily. |
-| **2** | An _ice nettle_, trapping and draining sheep. You lost your commission when the fungus you introduced killed half the flock. Take a **Rime Seed** (1 use). It freezes any body of water, no matter the size. Don't eat it.                |
-| **3** | A _silver marsh crawler_ that killed someone close to you. You now carry its **Tooth** (_petty_) on a chain around your neck as a warning to others of its kind. _The tooth hums softly when something is stalking you_.                  |
-| **4** | A malicious _forest spirit_ that poisoned a homestead. You saved a **Heartseed** from the roots of a dying tree. (Plant it to create a new forest.) Also, take **Iron Bracers** (+1 Armor, _bulky_).                                        |
-| **5** | A _hollow wolf_ that had been frightening travelers. You took pity on the half-starved creature and nursed it back to health. Now it is loyal to you unto death. It is also a great tunneler. 5 HP, 11 STR, 13 DEX, 8 WIL, teeth (d6).  |
-| **6** | An _azure warbler_. The gametes attract a sizeable profit, if properly extracted. You succeeded but left its nest to the wolves. Take a **Paring Knife** (d6), **an extra 20gp**, and a pang of regret.                                  |                                                               |
+| **1** | **Светлячок-Иммитатор**, приманивающее рыбаков своим мерцанием.  Вы потеряли конечность в схватке с ним и заменили ее на алхимический протез (к8, _мелкое_ при ношении). Протез устойчив к нагреву и ядам, но требует ежедневной смазки. В комплекте — **Масленка** (6 использований). |
+| **2** | **Ледяная крапива**, хватающая и выпивающая кровь овец.  Вы потеряли свою награду, когда распыленный вами грибок уничтожил половину стада. Но теперь у вас есть **Семя ледяной крапивы**, которое замораживает любой водоем независимо от размера. Не употребляйте его внутрь (1 использование). |
+| **3** | **Серебряный болотный ползун**, убивший кого-то из ваших близких. Теперь вы носите его **Зуб** (мелкий) на цепочке вокруг шеи как предупреждение для его сородичей. _Зуб мягко гудит, когда за вами кто-то следит_.  |
+| **4** | **Обозленный лесной дух**, отравивший усадьбу. Вы спасли **сердечное семя** из корней умирающего дерева. Посадите его, чтобы вырастить новый лес. Также у вас есть **Железные наручи** (Броня +1, _громоздкий_). |
+| **5** | **Пустотелый волк**, нападавший на путников. Вы сжалились и выходили это изголодавшее существо. Теперь он предан вам до смерти, а еще он отлично роет туннели. [5 ОЗ, 11 СИЛ, 13 ЛОВ, 8 ВОЛ, зубы (к6)]. |
+| **6** | **Лазурная камышовка**. Ее гаметы при правильном извлечении приносят огромную прибыль. Вы преуспели, но оставили гнездо на съедение волкам. У вас есть **Разделочный нож** (к6), дополнительные **20 зм** и чувством вины.   |
 
-## What tool is always in your pack? Roll 1d6:
+## Какой инструмент всегда в вашем рюкзаке? Бросьте 1к6:
 
 |       |                       |                                                                                                     |
 | ----- | --------------------- | --------------------------------------------------------------------------------------------------- |
-| **1** | **Fermented Spirits** | Keeps you warm at the best of times and as an explosive at the worst. 3 Uses.                       |
-| **2** | **Trail Shaker**      | A noisy instrument that reveals nearby trails, even when deeply hidden.                             |
-| **3** | **Drowse Balm**       | A wax bar. If boiled in water, the steam acts as a soporific agent.                                 |
-| **4** | **Spike and Cord**    | For traversing difficult terrain or for creating makeshift traps and structures.      |
-| **5** | **Iron Rattle**       | A noisemaker for distracting or scaring your quarry. Sounds convincingly like a snake.              |
-| **6** | **Hardening Glue**    | Makes any flat material (cloth, leather, sand) as hard as stone. Expensive (20gp a bottle, 3 uses). |
+| **1** | **Забродивший спирт** | Согревает в лучшие времена и может стать взрывчаткой в худшие (3 использования).                   |
+| **2** | **Следоискатель**      | Шумный инструмент, выявляющий поблизости тропы, даже глубоко скрытые.                           |
+| **3** | **Успокаивающий бальзам**       | Восковой брусок. Если прокипятить в воде, пар действует как снотворное средство.    |
+| **4** | **Клин и кабель**    | Для преодоления сложной местности или создания самодельных ловушек и сооружений.      |
+| **5** | **Железная погремушка**       | Шумелка для отвлечения или отпугивания добычи. Звучит убедительно, как змея.     |
+| **6** | **Затвердевающий клей**    | Делает любой плоский материал (ткань, кожу, песок) твердым как камень. Дорогостоящий (20 зм за бутылку, 3 использования). |

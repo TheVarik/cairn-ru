@@ -1,45 +1,45 @@
 ---
-title: Aurifex
+title: Ремесленник
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Aurifex
+# Ремесленник
 
-> You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are warped to suit your needs. 
+> Вы мастер арканы, кузнец тонких сил. В горниле вашей мастерской законы этого мира искажаются в угоду вашим нуждам.
 
-## Names
+## Имена
 
-Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
+Гестия, Бэзил, Рун, Призма, Эмбер, Квинтэсс, Алудель, Мордант, Саламан, Джазия.
 
-## Starting Gear
+## Начальное снаряжение
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Needle-knife (d6)
-- Protective Gloves (_petty_)
+- 3к6 золотых монет
+- Пайки (3 использований)
+- Фонарь
+- Масленка (6 использований)
+- Нож-игла (к6)
+- Защитные перчатки (_мелкий_)
 
-## What went horribly wrong? Roll 1d6:
+## Какой эксперимент пошел не так? Бросьте 1к6:
 
-|       |                                                                                                                                                                                                                                     |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | There was an explosion, and you lost your sense of smell. Well, almost: you can sniff out gold as a pig does truffles. Take a **Tin of Snuff** (6 uses) to dampen the impact. Use it every day or become _deprived_.                                  |
-| **2** | You dematerialized a beloved pet. Now it follows you around, invisible but always present. Although it cannot interact with the physical realm, you are able to share its senses. (Add a **Fatigue** each time.) It follows basic commands. |
-| **3** | You were exposed to a long-acting truth serum whose effects have yet to wear off. The disorder has its advantages: you cannot repeat lies you've heard, either.                                                                     |
-| **4** | You were adept at creating _fake_ gold, which is almost as good. Eventually, your ruse was discovered, and you had to make a hasty retreat. Take a heavy **Metal Ingot** and **Gold Powder** (3 uses).                                                    |
-| **5** | Your alchemical recipe worked, but a rival stole the blueprint before your claims could be proven. Take a prototype **Blunderbuss** (d12, _blast_, _bulky_) that takes one round to reload, and a taste for revenge.                                                      |
-| **6** | Ridiculed for discovering how to turn gold into _lead_, you were a laughing stock. Take a bottle of **Universal Solvent** (2 uses) that dissolves anything it touches into its constituent parts.                                   |
+|       |                                                                                                                                                                                                                                                           |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Произошел взрыв, и вы потеряли обоняние. Ну, почти: теперь вы можете учуять золото, как свинья трюфели. Возьмите табакерку с нюхательным табаком (6 использований), чтобы ослабить эффект. Используйте его ежедневно, иначе получите _истощение_.         |
+| **2** | Вы развоплотили любимого питомца, и теперь он следует за вами незримым духом. Хотя он не способен влиять на физический мир, вы можете обращаться к его ощущениям (добавляя каждый раз 1 **Усталость**), а также отдавать простые команды.                 |
+| **3** | Вы подверглись воздействию сыворотки правды, эффект от которой еще не прошел. В этом есть свое преимущество: вы не способны повторять услышанную ложь.                                                                                                    |
+| **4** | Вы искусно создавали _фальшивое_ золото, почти такое же, как настоящее. В конце концов, вашу аферу раскрыли, а вам пришлось бежать. Добавьте в инвентарь тяжелый **Металлический слиток** и **Золотой порошок** (3 использования).                        |
+| **5** | Ваш алхимический рецепт сработал, но конкурент выкрал чертеж, прежде чем вы смогли заявить права на это изобретение. Запишите персонажу прототип **Мушкетона** (к12, _взрыв_, _громоздкий_), который требует одного раунда для перезарядки, и жажду мести |
+| **6** | Вы стали посмешищем за открытие способа превращения золота в _свинец_. Возьмите бутылку **Универсального растворителя** (2 исп.), который растворяет на составляющие все, к чему прикасается.                                                             |
 
-## What alchemical marvel is the product of your latest ingenuity? Roll 1d6:
+## Какое алхимическое чудо является вашим недавним изобретением? Бросьте 1к6:
 
-|       |                    |                                                                                                                                                                                                                      |
-| ----- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Pyrophoric Gel** | A sticky green fluid that catches fire when exposed to air, then burns for 8 hours. Cannot be extinguished (1 use).                                                                                                |
-| **2** | **Blast Sphere**   | A head-sized iron ball filled with explosive powder that detonates on impact (d12, _blast_, _bulky_, 1 use).                                                                                                             |
-| **3** | **Aqua Vita**      | Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR (1 use).                                                                                                                                         |
-| **4** | **Mimic Stone**    | Records a short phrase that can later be played back.                                                                                                                                                     |
-| **5** | **Spark Dust**     | Ignites easily and quickly. Useful for starting a fire or as an incendiary device (3 uses).                                                                                                                           |
-| **6** | **Homunculus**     | A miniature clay replica of yourself that follows your every command. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. 3 HP, 4 STR, 13 DEX, 5 WIL |
+|       |                           |                                                                                                                                                                                                                  |
+| ----- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Воспламеняющийся гель** | Липкая зеленая жидкость, загорающаяся при контакте с воздухом и горящая 8 часов. Невозможно потушить (1 использование).                                                                                          |
+| **2** | **Взрывная сфера**        | Железный шар размером с голову. Наполнен порошком, взрывающимся при ударе  (к12, _взрыв_, _громоздкий_, 1 использование).                                                                                        |
+| **3** | **Живая вода**            | Очищает любую жидкость, превращая ее в чистую воду, выпив которую, вы восстановите 1к6 СИЛ (1 использование).                                                                                                    |
+| **4** | **Камень-мимик**          | Записывает короткую фразу, которую можно воспроизвести позже.                                                                                                                                                    |
+| **5** | **Искрящаяся пыль**       | Легко и быстро воспламеняется. Полезна для разжигания огня, может стать зажигательным устройством (3 использования).                                                                                             |
+| **6** | **Гомункул**              | Ваша миниатюрная копия из глины, которая выполняет все ваши команды. Ненавидит подчиняться и жалуется при любой возможности. Любой урон, нанесенный гомункулу, также наносится вам [3 ОЗ, 4 СИЛ, 13 ЛОВ, 5 ВОЛ]. |

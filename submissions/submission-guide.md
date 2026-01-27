@@ -1,62 +1,58 @@
 ---
 layout: default
-title: Submission Guide
-navorder: 1
-parent: Submissions
+title: Инструкция для подачи материалов
+nav_order: 1
+parent: Подача материалов
 ---
 
-# Submission Guide
+# Инструкция для подачи материалов
 
-Welcome! The following guide will help folks interested in submitting Cairn content to the website. Files are written in Markdown, and submitted through git (the preferred method, see below). However, if this all seems a bit too technical, that's OK! Join our [Discord server](/discord-server) and ask for help, or even send Yochai a direct message with your work and he'll update it for the website. Formatting content does take some work, but in the end we are all better for it!
+Здраствуйте! Эта инструкция поможет всем заинтересованным в подаче своих материлов для нри Cairn на этот сайт. Все страницы написаны на языке Markdown и отправляются через git (наилучший способ описанный ниже). Однако, если процесс показался вам слишком затруднительным, вы можете зайти в наш чат в [телеграмме](/telegram-server). Там вы сможете задать вопрос или попросить о помощи.
 
 ## Markdown
-Markdown is a syntax that uses entirely text characters in order to do fancy formatting. For example, if you want to write something in bold text, you put extra characters around the words to tell Markdown what should be bolded (e.g. `**bold**` becomes **bold**). Follow [this guide](https://www.markdownguide.org/tools/jekyll/) for proper Markdown formatting. 
 
-To create a page on the Cairn website, you need to create a text file with your content, written in the Markdown format and ending in the *.md suffix. GitHub then handles the rest!
+Markdown — это язык вёрстки, который использует простые символы для создания красивого форматирования. Например, если вы хотите что-то выделить жирным, то отмечьте в документе при помощи `**` в начале и конце места выделения (т.е. `**жирный**` станет **жирный**). При знании английского можно прочитать [эту инструкцию (на английском)](https://www.markdownguide.org/tools/jekyll/) для наилучшего форматирования.
 
-### Creating a file in markdown
- - Create a file with a .md extension using your favorite text editor. While programs like Microsoft Notepad and TextEdit on MacOS get the job done, there are editors out there that make writing markdown a breeze. An example is [GhostWriter](https://ghostwriter.kde.org/), [Notepad++](https://notepad-plus-plus.org/downloads/) on Windows and [TextMate](https://macromates.com/) are good options. 
- - Type text using the [Markdown](https://www.markdownguide.org/tools/jekyll/) format into the file. Please refer to the Cairn [Style Guide](/submissions/style-guide) when writing your submission!
- - Save the file to the [appropriate folder](#folders) on the website using Github (see below).
- 
-## How do I get my submission onto the Cairn site?
-### Using Github
+Для создания нужной вам страницы на сайте, сделайте текстовый файл со всем нужным и обозначите его как файл Markdown расширения .md. Github сделает за вас остальное!
 
- - First, you need to create a GitHub account and 'fork' the repo. See [fork this](/hacks/fork-this/), and this [GitHub documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo) for specific instructions and examples.
-> **You have now created a version of the website files that is entirely your own.** It's based on the original set of website files (in GitHub terms, the 'repository'), but the website does not look at your copy of the files at all. This gives you complete freedom to play around with edits before they get pushed to the main website.
-- If you would like to work on the files from your local computer, you will need to install [git](https://git-scm.com/downloads).
-> If you like editing files through installed programs, rather than in a web browser, this allows you to download and upload files easily to GitHub and have your method of choice for writing the webpages.
- - Clone the repository to your own computer. See [here](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone) for a tutorial.
-- Should you want to edit the files directly on your computer, this step does the mass-downloading of files onto your computer. 
-> This creates yet another version of the files on your computer, different from the repository you forked. 
+### Создание файла markdown
 
-### Folders
+- Для создания текстового файла с расширением .md подойдет любой вами любимый текстовый редактор, самые популярными из них являются Microsoft Notepad, Visual Studio Code и ViM. Мы рекомендуем [GhostWriter](https://ghostwriter.kde.org/) и [VS Code](https://code.visualstudio.com)
+- Напишите весь текст соблюдая формат [Markdown](https://www.markdownlang.com/ru/intro/) в ваш текстовый файл. Просим также соблюдать [Стиль документов](/submissions/style-guide) при написании вашего материала!
+- Сохраните файл в [нужной папке](#папки) на сайте через Github (см. ниже).
 
-Files should be placed in the following locations:
- - [Adventure conversions](/adventures/conversions) (see [submission-template](/submissions/adventure-conversions#submission-template))
- - [Original adventures](/adventures/originals)
- - [Third party hacks](/hacks/third-party/)
- - [Monsters](/resources/monsters/)
- - [General resources](/resources/)
+## Как мне подать материал на сайт?
 
-### Pushing your changes
-The general workflow is to write files on your computer to your local copy of the website, then submit the changes back to the original website files.
+### Через Github
 
-- Using Git, [commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit) the changes to your repository.
-- Using Git, [push](https://www.atlassian.com/git/tutorials/syncing) the changes onto GitHub.
-- You uploaded your new files and any changes to the GitHub website (which has a separate version of your files).
-- Using GitHub, [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to the original GitHub repository that we forked from. 
-  - Note that last this step is different; it's a request and thus not automatic. The maintainers of the main repository will then approve or deny the changes.
-- Wait for a repository maintainer to accept changes.
- 
-### Where do we go from here?
+ - Сначала создайте себе аккаунт на Gihub, зайдите на репозиторий и сделайте его "fork". Советуйтесь со странице [«Форкни это!»](/hacks/fork-this) и [документации Github](https://docs.github.com/ru/get-started/quickstart/fork-a-repo)
+> **Теперь вы создали свою собственную версию сайта, которая принадлежит именно вам.** Она сделана на базе оригинальных файлов (в Github это назвывается "репозитория"), но оригинальный сайт не смотрит на твою копию файлов. Это позволяет вам свободно менять и играться с файлами не меняя файлы на оригинальном сайте.
+- Если вы хотите работать с файлами на своём локальном компьютере, то установите [git](https://git-scm.com/downloads).
+> Этот способ позволяет вам редактировать файлы вашей программой на выбор, а не в бразуере. Сохраняя возомжность скачивать и отправлять файлы на Github.
+ - Сделайте клон репозитория на ваш компьютер. Рекомендуем [эту инструкцию](https://webdevkin.ru/courses/git/clone-init).
+- Этот способ массово скачивает файлы на ваш компьютер, создавая облик вашего репозитория. 
 
-Now that you know how to contribute, take a look at what is desired for the website. In particular:
+### Папки
 
- - [Future adventure conversions](/adventures/future-conversions/) if you are looking for popular adventures without existing Cairn conversions.
- - [Third party resources](/hacks/third-party/) if you have a product related to Cairn.
- - [This site in another language](/localizations/localization-guide) if you can translate this site.
+Файлы должны лежать в следующих папках:
 
-### Further Help
+- [Перенос приключения](/adventures/conversions) (см. [Шаблон материалов](/submissions/adventure-conversions/#шаблон-материалов))
+- [Оригинальные приключения](/adventures/originals)
+- [Стороние хаки](/hacks/third-party/)
+- [Монстры](/resources/monsters/)
+- [Общие ресурсы](/resources/)
 
-If you need further assistance, technical or otherwise, feel free to reach out on the [Discord server](/discord-server). In particular, this page was written by Sam (`@quajzen`), and can be reached through Discord.
+### Пуш изменений
+
+Общий алгоритм работы заключается в редактрировании файлов в вашей локальной копии, затем .
+
+- Используйте комманду [commit](https://doka.guide/tools/git-cli/) в Git для закрепления изменений.
+- Используйте комманду [push](https://docs.github.com/ru/get-started/using-git/pushing-commits-to-a-remote-repository) для отправки изменений на Github.
+- Вы загрузили новые файлы и изменения в свою репозиторию на Github.
+- Используя Github, создайте [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) в изначальную Github репозиторию.
+  - Подмечу, что этот шаг отличается тем, что требует человеческого вмешательства. Ментейнерам основного репозитория нужно будет подтвердить или опровергнуть запрос на pull ваших изменений.  
+- Подождите когда внесут ваши изменения.
+
+### Дальнейшая помощь
+
+Если вы хотите получить дополнительную помощь, включая техническую. Напишите вашу просьбу в [чат в Телеграме](/telegram-server). В особенности, перевод сайта был сделан Вариком (`@thevarik`), и его легко найти в телеграмме.

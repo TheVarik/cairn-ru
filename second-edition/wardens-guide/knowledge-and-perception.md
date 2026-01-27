@@ -1,48 +1,48 @@
 ---
 layout: default
-title: Knowledge And Perception
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: Знания и восприятие
+parent: Книга Смотрителя
+grand_parent: Полное издание
 ---
 
-# Knowledge And Perception
+# Знания и восприятие
 
-## Introduction
+## Введение
 
-Cairn differs from many modern roleplaying games by not including mechanics for knowledge or expertise. Instead, it is assumed that a character has the necessary knowledge so long as it can be justified in the fiction. Similarly, there are no mechanics that govern a character's perception or ability to "detect" important details in their environment. Instead, the Warden should provide unlimited relevant information about every detail a character can perceive with their basic senses.
+Cairn отличается от многих современных ролевых игр тем, что в нем нет механик для проверки знаний или экспертизы. Вместо этого предполагается, что персонаж обладает необходимыми знаниями, если это можно обосновать в рамках нарратива. Точно так же нет никакой механики, управляющей восприятием персонажа или его способностью «замечать» важные детали в окружающей обстановке. Вместо этого Смотритель должен предоставлять неограниченную уместную информацию обо всех деталях, которые персонаж может воспринимать своими основными органами чувств.
 
-## Knowledge
+## Знание
 
-Character knowledge is limited only by what can be explained by elements in the fiction. If it is known that a PC comes from an impoverished background and learned how to survive by any means necessary, then their player may argue that their character is better able to track down a notable NPC hiding in the slums. They may know whom to speak to and what sorts of trades might be required to collect the information they need about their target's whereabouts. 
+Знания персонажей ограничены лишь тем, что может быть объяснено элементами нарратива. Если известно, что ПИ происходит из бедной среды и научился выживать любыми необходимыми средствами, то его игрок может утверждать, что его персонаж что его персонаж лучше способен выследить известного ПС, скрывающегося в трущобах. Он может знать, с кем поговорить и какие сделки потребуются для сбора необходимой информации о местонахождении объекта.
 
-If a character has no justifiable knowledge of a subject, then they simply do not know anything about it! However, the Warden may decide to roll the **Die of Fate** to determine if the character has a chance of knowing _something_. The higher the result, the more they might (reasonably) know.
+Если у персонажа нет обоснованных знаний о предмете, то он просто ничего о нем не знает! Однако Смотритель может решить бросить **Кость судьбы**, чтобы определить, есть ли у персонажа шанс знать о _чем-то_. Чем выше результат, тем больше они могут знать (в разумных пределах).
 
-### Relics
+### Реликвии
 
-When a character first acquires a Relic they are not familiar with, they can either spend time learning more about it (using a Downtime action) or experiment with it. The latter carries some dangers and may even require a successful WIL save to avoid negative consequences. However, it is often more interesting to allow the player to ask as many questions as they like about it and (eventually) to simply _tell them how it works_.
+Когда персонаж впервые получает незнакомую ему реликвию, он может либо потратить время на ее изучение (используя действие Простоя), либо поэкспериментировать с ней. Последний вариант сопряжен с определенными опасностями и может даже потребовать успешного спасброска ВОЛ, чтобы избежать негативных последствий. Однако зачастую интереснее позволить игроку задавать о реликвии столько вопросов, сколько он пожелает, и (в конце концов) просто рассказать ему, _как она работает_.
 
-## Perception
+## Восприятие
 
-When informing the players of what their PCs can perceive, the Warden should provide maximal sensory information pertaining to the objects, characters, dangers, and interactive elements in the given situation. Consider what can be gained by limiting what the PCs know or do not know. Do secrets help create interesting choices and decision points? Do they raise interesting questions? Do they give the players a sense of control over their own actions? The answer to these questions is almost always an emphatic _No_. 
+Сообщая игрокам о том, что могут чувствовать их ПИ, Смотритель должен предоставлять максимальную сенсорную информацию, относящуюся к объектам, персонажам, опасностям и интерактивным элементам в данной ситуации. Подумайте, чего можно добиться, ограничивая то, что ПИ знают или не знают. Помогают ли секреты создавать интересные выборы и точки принятия решений? Задают ли они интересные вопросы? Дают ли они игрокам чувство контроля над собственными действиями? Ответом на эти вопросы почти всегда должно являться категорическое _«Нет»_.
 
-Players should feel that the consequences of their character's actions are _earned_, and that they are _deserved_, even if the results aren't always in their favor. True agency comes from providing the players with everything they need to know to make an interesting decision, even if that is simply asking a question about what their character might perceive. 
+Игроки должны чувствовать, что последствия действий их персонажей _заслужены_ и оправданы, даже если результаты не всегда складываются в их пользу. Настоящая свобода действий проявляется в предоставлении игрокам всей необходимой информации для принятия интересного решения, даже если это просто вопрос о том, что их персонаж может воспринять.
 
-Take for example the following keyed location:
+Возьмем, к примеру, следующую ключевую локацию:
 
-A colony of **bees** furiously circles a massive hive hanging from the branch of a large oak tree. A **man** observes in the shadows beneath the tree, and a rusted **sword** lies on the ground not far from the tree.
+Колония **пчел** яростно кружит вокруг массивного улья, свисающего с ветки большого дуба. **Мужчина** наблюдает за происходящим в тени под деревом, а неподалеку от улья на земле лежит ржавый **меч**.
 
-- **Bees**: Their buzzing is nearly deafening, creating a wall of sound around the tree.
-  - The hive is dripping with honey. It is delicious, and mundane.
-  - Any attempt to take honey from the hive is met with an aggressive response from the colony [3 HP, 3 STR, 12 DEX, 4 WIL, sting (d6), _detachment_].
-- **Man**: Leans against a long staff, his gaze fixed on the hive. He appears unfazed by the swarm. 
-  - The man is a magical illusion created by the beekeeper as a means to drive away any potential predators. He will not react to any direct stimuli.
-  - If the hive is damaged in any way, the man will scream very loudly, then disappear.
-- **Sword**: Shoe prints in the earth lead towards it but stop abruptly a few feet away. 
-  - The weapon belongs to the skeleton buried just beneath the earth. It is a regular short sword (d6), strangely preserved.
-  - Bloodvines [3 HP, 4 STR, 13 DEX, 1 WIL, tendrils (d6, _blast_)] attack anyone that steps close to the sword, sapping 1 STR per round from their target (STR save to escape after the first round).
+- **Пчелы**: Их жужжание почти оглушает, создавая звуковую стену вокруг дерева.
+  - Из улья сочится мед. Он восхитителен на вкус и совершенно обычен.
+  - Любая попытка забрать мед из улья сталкивается с агрессивной реакцией колонии [3 ОЗ, 3 СИЛ, 12 ЛОВ, 4 ВОЛ, укус (к6), _отряд_].
+- **Мужчина**: Опирается на длинный посох, его взгляд прикован к улью. Похоже, рой его совершенно не беспокоит.
+  - Этот человек — магическая иллюзия, созданная пчеловодом, чтобы отгонять потенциальных хищников. Он не будет реагировать на какие-либо прямые воздействия.
+  - Если улей будет каким-либо образом поврежден, мужчина громко вскрикнет, а затем исчезнет.
+- **Меч**: Следы от обуви на земле ведут к нему, но резко обрываются в нескольких футах от меча.
+  - Оружие принадлежит скелету, погребенному под землей в том же месте. Это обычный короткий меч (к6), сохранившийся чудным образом.
+  - Кровавые лозы [3 ОЗ, 4 СИЛ, 13 ЛОВ, 1 ВОЛ, щупальца (к6, взрыв)] атакуют любого, кто приблизится к мечу, высасывая у цели 1 СИЛ за раунд (спасбросок СИЛ для побега после первого раунда).
 
-In this example, there are three potential dangers: the bees, the man, and the Bloodvine plant. The danger from bees is more obvious, as the PCs can clearly see the danger and are familiar with bees already. The man is an unknown entity and could be friend or foe, while the Bloodvines are hidden and act as a sort of trap. The Warden should therefore communicate exactly what the PCs can see, hear, and smell. 
+В этом примере есть три потенциальные опасности: пчелы, мужчина и Кровавые лозы. Угроза от пчел более очевидна, поскольку ПИ могут ясно видеть опасность и уже знакомы с пчелами. Мужчина — неизвестная сущность и может быть как другом, так и врагом, тогда как Кровавые лозы скрыты и действуют как своего рода ловушка. Поэтому Смотритель должен точно сообщить все, что персонажи могут видеть, слышать и обонять.
 
-The PCs will likely try to interact with the man first or perhaps ask questions about the sword, as these are both fairly passive ways to engage with the scene. When the PCs realize that the man does not respond, they may try to get a closer look or perhaps toss a rock in his direction (avoiding the hive), and so on. If the PCs ask questions about the sword or try to interact with it, the Warden should tell them about the shoe prints in the grass right away. 
+Скорее всего, ПИ сначала попытаются взаимодействовать с мужчиной или, возможно, расспросят о мече, поскольку оба этих подхода к сцене довольно пассивны. Когда ПИ поймут, что человек не реагирует, они могут попытаться рассмотреть его поближе или, возможно, бросить камень в его сторону (избегая попадания в улей) и тому подобное. Если ПИ зададут вопросы о мече или попытаются взаимодействовать с ним, Смотритель должен немедленно сообщить им о следах обуви на траве.
 
-If the PCs decide to engage with the bee hive, the Warden should "warn" them with a hint of some kind: the bees begin to fly in a more aggressive manner, or the noise they create gets louder, and so on. It is up to the players whether to ignore the clues in front of them and continue, or to stop and ask questions. 
+Если ПИ решат взаимодействовать с пчелиным ульем, Смотритель должен «предупредить» их каким-либо намеком: пчелы начинают летать более агрессивно, или издаваемый ими шум становится громче, и так далее. Только от игроков зависит, игнорировать ли подсказки перед ними и продолжить или остановиться и задать вопросы!

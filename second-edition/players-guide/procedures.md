@@ -1,301 +1,304 @@
 ---
 layout: default
-title: Procedures
-parent: Player's Guide
-grand_parent: Second Edition
+title: Процедуры
+parent: Книга Игрока
+grand_parent: Полное издание
 ---
 
-# Procedures
+# Процедуры
 
-## Dungeon Exploration
+## Исследование подземелий
 
-### The Basics
+### Основы
 
-- The dungeon exploration cycle (see below) is divided into a series of **Turns**, **Actions**, and their consequences. 
-- On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft), and perform one **action**. Players can use their **action** to move up to three times that distance though that will increase the chance of triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
-- The **Warden** should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of encountering a wandering monster, springing a trap, or triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
+- Цикл исследования подземелий разделен на серии **Ходов**, **Действий** и их последствий.
+- В свой **ход** персонаж может переместиться на расстояние, равное радиусу освещения его факела (около 40 фт), и выполнить одно **действие**. Игроки могут потратить свое **действие** преодаление расстояния в 3 раза большее, но это может стать причиной для броска на случайное [**событие в подземелье**](#событие-в-подземелье).
+- **Смотритель** должен вовремя и безвозмездно давать очевидную информацию о местности и ее опасностях. Поспешные или неосторожные действия могут стать причиной для попадания в ловушку, встречи с блуждающим монстром или броска на случайное [**событие в подземелье**](#событие-в-подземелье).
 
-> Although the term "dungeon" is used here, it can mean any dangerous locale (mansions, farmhouses, adventure site, etc).
+> Термин «подземелье» здесь используется для обозначения любого опасного места: склепа, заброшенного особняка, руин и т.д.
 
-### Dungeon Exploration Cycle
+### Цикл исследования подземелий
 
-1. The **Warden** describes the party's surroundings and any immediate dangers (combat, traps, surprises, etc.). The players then declare their character's intended movements and **actions**. 
-2. The Warden resolves the **actions** of each character simultaneously, along with any **actions** that are already in progress. Remember, the Die of Fate can be a useful tool whenever the Warden is in doubt!
-3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then begins again. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table. Keep common sense in mind when interpreting the results! 
+1. **Смотритель** описывает окружение и любые непосредственные опасности (врагов, ловушки, сюрпризы и т.д.). Затем игроки объявляют о **действиях** и перемещениях своих персонажей.
+2. Смотритель одновременно обрабатывает **действия** всех персонажей и уже происходящие события. Помните, Куб судьбы может быть полезным инструментом, когда у Смотрителя возникают сомнения!
+3. Игроки фиксируют любые потери ресурсов и новые состояния (использование предметов, _усталость_ и т.д.), после чего цикл начинается заново. При необходимости **Смотритель** может сделать бросок по таблице [**событий в подземелье**](#событие-в-подземелье). Используйте здравый смысл при интерпретации результатов!
 
-### Dungeon Events
+### Событие в подземелье
 
-Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location's denizens, natural hazards, and worse.  
-When the party:
+Исследование подземелий всегда связано с опасностью, поэтому затраченное время нужно соизмерять с риском обнаружения местных обитателей, природных опасностей и худшего.  
+Если группа:
 
-- Spends more than one dungeon cycle in a single room or location 
-- Moves quickly or haphazardly through a room
-- Moves into a new area, level, or zone
-- Creates a loud disturbance 
+- Проводит более одного цикла в комнате или локации.
+- Переходит в новую область, уровень или зону
+- Быстро или неосторожно перемещается.
+- Создает громкий шум.
 
-**Roll on the table below.**
+**Бросьте кость и определите событие по таблице ниже.**
 
-|       |                 |                                                                                                           |
-| :---: | :-------------: | :-------------------------------------------------------------------------------------------------------: |
-| **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile**. (See [Reactions](/second-edition/players-guide/core-rules/#reactions).)    |
-| **2** |    **Sign**     |                  A clue, spoor, track, abandoned lair, scent, victim, etc is discovered.                  |
-| **3** | **Environment** |      Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
-| **4** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **5** | **Exhaustion**  |   The party must rest (triggering another roll on this table), add a **Fatigue**, or consume a ration.    |
-| **6** |    **Quiet**    |                          The party is left alone (and safe) for the time being.                           |
+|       |                 |                                                                                                                                  |
+| :---: | :-------------: | :------------------------------------------------------------------------------------------------------------------------------: |
+| **1** |   **Встреча**   |  Сделайте бросок по таблице встреч. [Реакцию](/second-edition/players-guide/core-rules/#реакции) можно определить броском куба.  |
+| **2** |  **Подсказка**  |                           Обнаружена подсказка, след, тропа, заброшенное логово, запах, жертва и т.д.                            |
+| **3** |  **Окружение**  |    Окружение меняется или становится опаснее. Уровень воды поднимается, потолок рушится, ритуал близится к завершению и т.д.     |
+| **4** |   **Потеря**    |     Факелы гаснут, действующее заклинание прерывается и т.д. Группа должна решить эту проблему "прежде чем продолжить путь.      |
+| **5** | **Измождение**  | Группа должна остановиться на короткий отдых (сделайте еще один бросок по этой таблице), добавить Усталость или употребить паек. |
+| **6** | **Спокойствие** |                                    На некоторое время группа остается в покое и безопасности.                                    |
 
-### Actions
+### Действия
 
-- **Actions** are any non-passive activities, such as _searching for traps_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _running away_, _resting_, etc. 
-- Some **actions** have special rules (see below), while others may take multiple **turns** to complete. 
-- Loud or noticeable **actions** may also trigger an **encounter** with the dungeon's denizens. 
+- **Действиями** считаются любые активности персонажей, такие как _взлом дверей_, _поиск опасностей_, _обезвреживание ловушек_, _вступление в бой_, _сотворение заклинаний_, _бегство_, _отдых_ и т.д.
+- Некоторые **действия** проходят по особым правилам , а другие могут требовать нескольких **ходов** для завершения.
+- Громкие или заметные **действия** могут спровоцировать **встречу** с обитателями подземелья.
 
-#### Searching
+#### Поиск
 
-- A character can spend a **turn** performing an _exhaustive_ search of **one** object or location in an area, revealing any relevant hidden treasure, traps, secret doors, etc. 
-- Larger rooms and difficult or complex dungeon terrain may take a few **turns** to properly search.
-- Searching a room _first_ is a safer way to explore the dungeon, but it has a steep cost: time.
+- Персонаж может потратить **ход** на _тщательный_ обыск **одного** объекта или локации в области, выявляя скрытые сокровища, ловушки, секретные двери и т.д
+- Большие комнаты, сложный или запутанный ландшафт подземелья - могут потребовать нескольких **ходов** для полноценного обыска.
+- _Предварительный_ осмотр комнат является более безопасным способом исследования подземелья, но имеет высокую цену — время.
 
-#### Resting
+#### Отдых
 
-- A character can spend a turn **resting** to restore all **HP**.
-- A light source and a _safe location_ are required to **rest**. Present or oncoming danger makes **rest** impossible.
-- **Resting** does not restore **Fatigue**, as it is impossible to safely **Make Camp** in a dungeon.
+- Персонаж может потратить **ход** на отдых, чтобы восстановить все потерянные **ОЗ**.
+- Для **отдыха** требуются источник света и _безопасное место_. При наличии текущей или надвигающейся опасности **отдых** невозможен.
+- **Отдых** не избавляет от **Усталости**, так как безопасно **разбить лагерь** в подземелье не получится.
 
-## Panic
+## Паника
 
-- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
-- A _panicked_ character must make a **WIL** **save** to overcome their condition as an **action** on their **turn**.
-- A _panicked_ character has 0 **HP**, does not act in the first round of combat, and all of their attacks are _impaired_.  
+- В окружении врагов, погрузившись во тьму или столкнувшись с глубинными страхами, персонаж может пасть в _панику_. Прохождение **спасброска ВОЛ** поможет ему обуздать чувства и не _запаниковать_.
+- Чтобы выйти из состояния _паники_, персонаж должен в свой **ход** потратить **действие** и пройти **спасбросок ВОЛ**.
+- _Паникующий_ персонаж имеет 0 **ОЗ**, не может действовать в первый раунд боя, и все его атаки _ослаблены_.
 
-### Dungeon Elements
+### Элементы подземелья
 
-#### Light
-- Torches and other radial sources of light illuminate 40ft of dungeon and beyond that only a dim outline of objects. Torches last until they are put out by a character or their environment.
-- A torch can be lit 3 times before permanently degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
+#### Свет
 
-#### Doors
+- Факелы и другие радиальные источники света освещают 40 фт подземелья, а за этой границей видны только смутные очертания объектов. Факелы горят до тех пор, пока их не потушит персонаж или окружающая среда.
+- Факел можно зажечь 3 раза, после чего он окончательно выходит из строя. Лампу можно зажигать неограниченно, но для ее использования требуется масло.
+- Персонажи без источника света будут испытывать приступы _паники_, пока их ситуация не улучшится.
 
-- Doors and entryways may be locked, stuck, or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue) or through raw ability. 
-- The party's marching order determines who is most impacted by whatever lies beyond a door.
-- A character can detect, through careful observation (listening, smelling, etc.), signs of life and other hazards through nearby doors and walls.
+#### Двери
 
-#### Traps 
+- Двери и проходы могут быть заперты, заклинены или полностью заблокированы. Персонажи могут попытаться взломать дверь с помощью доступных ресурсов или применив силу. Заклинить дверь можно с помощью клиньев и клея.
+- Порядок движения группы определяет, кто больше остальных пострадает от того, что находится за дверью.
+- С помощью внимательного осмотра, (прислушивания, обнюхивания и т.д.) персонаж может обнаружить признаки жизни и другие опасности за ближайшими дверями и стенами.
 
-- A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise will have a 2-in-6 chance.
-- **Traps** can usually be detected by carefully **searching** a room.
-- Damage from traps is taken from Attributes (usually **STR** or **DEX**) and _not_ from **HP**. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
+#### Ловушки
 
-## Wilderness Exploration
+- Осторожному персонажу следует предоставить всю информацию, которая позволит ему _избежать_ срабатывания ловушки. Невнимательный персонаж активирует ловушку в соответствии с ситуацией или с вероятностью 2-из-6.
+- **Ловушки** обычно можно обнаружить при **тщательном** обыске комнаты.
+- Урон от ловушек наносится по характеристикам (обычно **СИЛ** или **ЛОВ**), а _не_ по **ОЗ**. Броня может уменьшить урон, но только если это применимо. Например, щит не уменьшит урон от ядовитого газа.
 
-### Watches
+## Исследование дикой местности
 
-- A day is divided into three **watches**, called _morning_, _afternoon_, and _night_. 
-- Each character can choose _one_ [**Wilderness Action**](#wilderness-actions) per **watch**. 
+### Фазы
+
+- Сутки делятся на три **фазы**: _утро_, _день_ и _ночь_.
+- Каждый персонаж может выполнить _одно_ [**действие в Дикой местности**](#действия-в-дикой-местности) за **фазу**.
 - If the characters split up, each group is treated as an independent entity.
 
-### Points
+### Точки
 
-- Potential destinations on a map are called **points**. 
-- One or more **watches** may be required to journey between two **points** on a map, depending on the path, terrain, weather, and party status.
-- The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics. 
+- Потенциальные пункты назначения на карте называются **точками**.
+- Путешествие между двумя **точками** может занимать одну или несколько **фаз**, в зависимости от пути, местности, погоды и состояния группы.
+- Группа должна иметь общее представление о предстоящих трудностях на пути к месту назначения, но редко знает все подробности.
 
-### Travel Duration
+### Продолжительность путешествия
 
-Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use "days" as a shorthand for travel time.
+Время путешествия в Cairn измеряется в фазах, каждая из которых составляет восемь часов. Поскольку большинство групп предпочитают тратить фазу ночи на отдых, для упрощения можно использовать «дни» как единицу измерения времени в пути. Например, если расстояние между точками равно четырем фазам, группа будет путешествовать два дня, прибывая вечером второго дня.
 
-To determine the distance between two points, combine all penalties from the path, terrain, and weather difficulty tables, taking into account any changes to those elements along the route. For travel via waterways, refer to the surrounding terrain difficulty. For especially vast terrain, assign a penalty of up to +2 watches to the journey.
+Чтобы определить дистанцию между двумя точками, суммируйте все штрафы из таблиц расстояния, типа тропы и сложности местности, учитывая любые изменения этих элементов по маршруту. Путешествуя по воде, ориентируйтесь на сложность окружающей местности. Для особенно обширной местности можно добавить штраф до +2 фаз.
 
-The weather, terrain, darkness, injured party members, and other obstacles can impact travel or even make it impossible! In some cases, the party may need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party’s travel speed or even negate certain penalties.
+Погода, местность, темнота, раненые персонажи и другие обстоятельства могут осложнить путешествие и даже сделать его невозможным! В некоторых случаях группе придется добавить **Усталость** или израсходовать ресурсы, чтобы поддерживать темп. Верховые животные, проводники, подробные карты — могут увеличить скорость перемещения и даже устранить некоторые штрафы.
 
-### Path Difficulty
+### Сложность тропы
 
-|            |             |                          |
-| ---------- | ----------- | ------------------------ |
-| **Path**   | **Penalty** | **Odds of Getting Lost** |
-| Roads      | None        | None                     |
-| Trails     | +1 Watch    | 2-in-6                   |
-| Wilderness | +2 Watches  | 3-in-6                   |
+|           |           |                      |
+| --------- | --------- | -------------------- |
+| **Тропа** | **Штраф** | **Шанс заблудиться** |
+| Дорога    | Нет       | Нет                  |
+| Тропинка  | +1 Фаза   | 2-из-6               |
+| Глушь     | +2 Фазы   | 3-из-6               |
 
-|                   |             |
-| ----------------- | ----------- |
-| **Path Distance** | **Penalty** |
-| Short             | +1 Watch    |
-| Medium            | +2 Watches  |
-| Long              | +3 Watches  |
+|                |           |
+| -------------- | --------- |
+| **Расстояние** | **Штраф** |
+| Близкое        | +1 Фаза   |
+| Среднее        | +2 Фазы   |
+| Дальнее        | +3 Фазы   |
 
-## Terrain Difficulty
+## Сложность местности
 
-|                |                               |             |                                                                                                       |
-| -------------- | ----------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
-| **Difficulty** | **Terrain**                   | **Penalty** | **Factors**                                                                                           |
-| **Easy**       | **Plains, plateaus, valleys** | none        | _Safe areas for rest, fellow travelers, good visibility_                                              |
-| **Tough**      | **Forests, deserts, hills**   | +1 Watch    | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| **Perilous**   | **Mountains, jungles, swamp** | +2 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+|               |                            |           |                                                                                                              |
+| ------------- | -------------------------- | --------- | ------------------------------------------------------------------------------------------------------------ |
+| **Сложность** | **Местность**              | **Штраф** | **Особенность**                                                                                              |
+| **Легкая**    | **Равнины, плато, долины** | Нет       | _Безопасные места для отдыха,попутчики, хорошая видимость_                                                   |
+| **Трудная**   | **Леса, пустыни, холмы**   | +1 Фаза   | _Дикие животные, наводнения,поломки снаряжения, камнепады, небезопасные укрытия, ловушки охотников_          |
+| **Опасная**   | **Горы, джунгли, болота**  | +2 Фазы   | _Зыбучие пески, топкая грязь, удушающие лианы, грязная вода, ядовитые растения и животные, плохая навигация_ |
 
-### Weather
+### Погода
 
-Each day, the Warden should roll on the weather table for the appropriate season. If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
+Каждый день Смотритель должен бросать кубик по таблице погоды соответствующего сезона. Если результат «**Экстремальная**» выпадает дважды подряд — погода становится «**Катастрофической**». Шквал превращается в ураган, шторм вызывает наводнение и т.д.
 
-#### Weather Type
+#### Тип погоды
 
-|        |            |            |            |            |
-| :----: | :--------: | :--------: | :--------: | :--------: |
-| **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
-| **1**  |    Nice    |    Nice    |    Fair    |    Fair    |
-| **2**  |    Fair    |    Nice    |    Fair    | Unpleasant |
-| **3**  |    Fair    |    Fair    | Unpleasant | Inclement  |
-| **4**  | Unpleasant | Unpleasant | Inclement  | Inclement  |
-| **5**  | Inclement  | Inclement  | Inclement  |  Extreme   |
-| **6**  |  Extreme   |  Extreme   |  Extreme   |  Extreme   |
+|        |               |               |               |               |
+| :----: | :-----------: | :-----------: | :-----------: | :-----------: |
+| **к6** |   **Весна**   |   **Лето**    |   **Осень**   |   **Зима**    |
+| **1**  |   Приятная    |   Приятная    |    Хорошая    |    Хорошая    |
+| **2**  |    Хорошая    |   Приятная    |    Хорошая    |  Неприятная   |
+| **3**  |    Хорошая    |    Хорошая    |  Неприятная   |    Суровая    |
+| **4**  |  Неприятная   |  Неприятная   |    Суровая    |    Суровая    |
+| **5**  |    Суровая    |    Суровая    |    Суровая    | Экстремальная |
+| **6**  | Экстремальная | Экстремальная | Экстремальная | Экстремальная |
 
-#### Weather Difficulty
+#### Погоды
 
-|                  |                                                                                                         |                                                           |
-| :--------------: | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-|   **Weather**    | **Effect**                                                                                              | **Examples**                                              |
-|     **Nice**     | Favorable conditions for travel.                                                                        | _Clear skies, sunny_                                      |
-|     **Fair**     | Favorable conditions for travel.                                                                        | _Overcast, breezy_                                        |
-|  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                                | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Add a **Fatigue** _or_ add **+1 watch**. Increase terrain **Difficulty** by a step.  | _Thunderstorms, lightning, rain, muddy ground_           |
-|   **Extreme**    | Add a **Fatigue** _and_ add **+1 watch**. Increase terrain **Difficulty** by a step. | _Blizzards, freezing winds, flooding, mud slides_         |
-| **Catastrophic** | Most parties cannot travel under these conditions.                                                      | _Tornados, tidal waves, hurricane, volcanic eruption_     |
+|                      |                                                                                            |                                                   |
+| :------------------: | ------------------------------------------------------------------------------------------ | ------------------------------------------------- |
+|      **Погода**      | **Эффект**                                                                                 | **Примеры**                                       |
+|     **Приятная**     | Условия благоприятны для путешествия.                                                      | _Ясное небо, солнечно_                            |
+|     **Хорошая**      | Условия благоприятны для путешествия.                                                      | _Облачно, свежий ветер_                           |
+|    **Неприятная**    | Добавьте 1 **Усталость** _или_ +1 **Фазу** ко времени путешествия.                         | _Порывистый ветер, дождь, знойная жара, прохлада_ |
+|     **Суровая**      | Добавьте 1 **Усталость** и +1 **Фазу**. Увеличьте **Сложность** местности на одну ступень. | _Гроза, молнии, ливень, грязь_                    |
+|  **Экстремальная**   | Добавьте 1 **Усталость** и +1 **Фазу**. Увеличьте **Сложность** местности на одну ступень. | _Метель, оползень, морозный ветер, наводнение_    |
+| **Катастрофическая** | Большинство групп не могут путешествовать в таких условиях.                                | _Торнадо, цунами, извержение вулкана, ураган_     |
 
-### Wilderness Exploration Cycle
+### Цикл исследования дикой местности
 
-1. The **Warden** describes the current **point** or **region** on the map and how the path, weather, terrain, or party status might affect **travel speed**. The party plots or adjusts a given course towards their destination. 
-2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
-3. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc), and the cycle repeats. 
+1. **Смотритель** описывает текущую **точку** или **регион** на карте, а также то, как путь, погода, местность или состояние группы могут повлиять на **скорость путешествия**. Группа в свою очередь намечает или корректирует свой маршрут.
+2. Каждый персонаж выбирает одно из **Действий** в Дикой местности. **Смотритель** описывает результаты, затем делает бросок по таблице событий в дикой местности. Группа реагирует на новые обстоятельства.
+3. **Игроки** и **Смотритель** фиксируют любые потери ресурсов и новые состояния (использование предметов, факелов, _истощение_ и т. д.), после чего цикл повторяется.
 
-### Wilderness Events
+### События в дикой местности
 
-|       |                 |                                                                                                                                                                                                                            |
-| ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/second-edition/players-guide/core-rules.md/#reactions) if applicable.                                                                               |
-| **2** | **Sign**        | The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.                                                                                      |
-| **3** | **Environment** | A shift in weather or terrain.                                                                                                                                                                                             |
-| **4** | **Loss**        | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort.                                                                                                                        |
-| **5** | **Exhaustion**  | The party encounters a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties. |
-| **6** | **Discovery**   | The party finds food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.                                                                                    |
+|       |                |                                                                                                                                                                                                                                   |
+| ----- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Встреча**    | Сделайте бросок по таблице встреч для данного типа местности или локации. Определите [реакцию](/second-edition/players-guide/core-rules/#реакции) ПС, если это применимо.                                                   |
+| **2** | **Подсказка**  | Группа обнаруживает подсказку, след или указание на близлежащую встречу, место интереса или скрытый объект. Также это может быть информацией о соседней области.                                                                  |
+| **3** | **Окружение**  | Происходит изменение погоды или местности.                                                                                                                                                                                        |
+| **4** | **Потеря**     | Группа сталкивается с выбором, который требует от них затрат ресурсов (провизии, инструментов и т. д.), времени или усилий.                                                                                                       |
+| **5** | **Измождение** | Группа встречает преграду, требующую усилий, осторожности или затрат времени для преодоления. Это может означать разыгрывание дополнительного **Действия** в дикой местности или добавление **Усталость** в инвентарь персонажей. |
+| **6** | **Открытие**   | Группа находит пищу, сокровища или другие полезные ресурсы. Вместо этого **Смотритель** может открыть одну из особенностей местности.                                                                                             |
 
-### Wilderness Elements
+### Элементы дикой местности
 
-#### Night
+#### Ночь
 
-- The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Traveling at night is always more dangerous! The **Warden** should roll _twice_ on the [**Wilderness Events**](#wilderness-events) table.
-- Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
+- Группа может захотеть перемещаться ночью, а отдыхать днем, но ночные путешествия проходят медленнее и опаснее!
+- В ночных переходах всегда есть дополнительный риск. **Смотритель** надо будет сделать _два_ броска по таблице [**Событий в дикой местности**](#действия-в-дикой-местности).
+- Некоторые местности и погодные условия могут быть легче преодолимы ночью (например, пересечение пустыни). **Смотритель** должен учитывать это наравне с остальными факторами.
 
-#### Sleep
+#### Сон
 
-- The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
-- Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- If the party skips the **Make Camp** action, they each add a **Fatigue** to their inventory and are _deprived_. Additionally, traveling when sleep-deprived raises the terrain **Difficulty** by a step (i.e. _Easy_ becomes _Tough_).
+- Последняя **фаза** дня обычно отводится на действие [«**Разбить лагерь**»](#разбить-лагерь)
+- Персонажи, как правило, должны спать каждый день. Любое серьезное прерывание цикла может свести на нет преимущества сна.
+- Если группа пропускает действие [«**Разбить лагерь**»](#разбить-лагерь), каждый персонаж добавляет 1 **Усталость** в свой инвентарь и становится _истощенным_. Кроме того, путешествие без сна повышает **сложность** местности на одну ступень (_легкая_ станет _трудной_).
 
-#### Light
+#### Свет
 
-- Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
-- Environmental conditions (sudden gusts of wind, dust, water, etc.) can easily blow out a torch.
+- Факелы и другие источники света освещают 40 фт перед группой, а за этой границей видны только смутные очертания объектов.
+- Персонажи без источника света будут испытывать приступы _паники_, пока их ситуация не улучшится.
+- Условия окружающей среды (внезапные порывы ветра, пыль, вода и т.д.)
+могут легко погасить факел.
 
-##### Light Sources
+##### Источники света
 
-- A torch can be lit 3 times before degrading. 
-- A lantern can be relit indefinitely but requires a separate oil can (6 uses).
+- Факел можно зажечь 3 раза, после чего он приходит в негодность.
+- Лампу можно зажигать без ограничений, заполняя по мере необходимости маслом (6 исп.).
 
-### Wilderness Actions
+### Действия в дикой местности
 
-#### Travel
+#### Путешествие
 
-- Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one.
-- The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on path **Difficulty**, maps, party skills, and guides.
-- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. 
+- Путешествие начинается. Очевидные локации, особенности и местность постепенно раскрываются в соответствии с расстоянием. Это действие обычно выполняется всей группой вместе.
+- Группа бросает 1к6, чтобы определить, заблудилась ли она по пути. Риск может увеличиваться или уменьшаться в зависимости от **сложности** тропы, навыков группы, наличия карты и проводников.
+- Если группа заблудилась, им нужно потратить одно дополнительное **действие** в дикой местности, чтобы вернуться на правильный путь. В противном случае группа достигает следующей **точки** своего маршрута.
 
-> Remember to compare the results of getting lost to the relevant path **Difficulty**. 
+> Помните, что шанс заблудиться зависит от сложности тропы.
 
-#### Explore
+#### Исследование
 
-- One or more party members search a large area, searching for hidden features, scouting ahead, or treading carefully.
-- A Location (shelter, village, cave, etc.) or Feature (geyser, underground river, beached ship, etc.) is discovered.
-- The **Travel** action is still required to _leave_ the current area, even if it has been completely explored.
+- Один или несколько участников группы исследуют большую область, ищут скрытые особенности, разведывают дорогу или передвигаются с осторожностью.
+- Обнаруживается место интереса (укрытие, деревня, пещера и т. д.) или достопримечательность (гейзер, подземная река, обломки корабля и т. д.).
+- Чтобы _покинуть_ исследованную область и отправиться дальше, вам нужно выполнить действие «**Путешествие**».
 
-#### Supply
+#### Снабжение
 
-- One or more party members may hunt, fish, or forage for food, collecting 1d4 **Rations** (3 uses each). The chance of a greater bounty increases with each additional participant (e.g. 1d4 becomes 1d6, up to a maximum of 1d12). 
-- Relevant experience or equipment may also increase the bounty collected.
-- The party may encounter homes and small villages, spending gold and a full **watch** to resupply. 
+- Один или несколько участников группы могут отправиться на охоту, рыбалку или сбор пищи. Это принесет им 1к4 **Пайков** (каждый по 3 исп.). Шанс на больший улов увеличивается с каждым дополнительным участником, например, с 1к4 становится 1к6, до максимума в 1к12.
+- Опыт и наличие специальных инструментов также увеличивают добычу.
+- Группа может встретить дома и небольшие деревни, где можно потратить золото и всю **фазу** на пополнение запасов.
 
-#### Make Camp
+#### Разбить лагерь
 
-- The party stops to set up camp in the wilds. Each party member (and their mounts) consumes a **Ration**.
-- A **lookout rotation** is set so that the party can sleep unmolested. A smaller party may need to risk sleeping unguarded or switch off sleeping over multiple days.
-- Party members that were able to rest remove all of **Fatigue** from their inventory.
+- Группа останавливается, чтобы разбить лагерь в дикой местности. Каждый участник группы (и их верховые животные) используют **Рацион**.
+- Устанавливается **график дежурств**, чтобы группа могла отдохнуть без помех. Малочисленной группе, возможно, придется рисковать, засыпая без охраны, либо чередовать отдых и дежурство в течение нескольких дней.
+- Участники группы, которые смогли отдохнуть, удаляют все **Усталость** из своего инвентаря.
 
-## Downtime
+## Время простоя
 
-Between game sessions, players can engage in a variety of activities such as research, following up on leads, improving skills, or building relationships. A PC is limited to one **Downtime Action** at a time. These actions cannot be undertaken in unsafe conditions or while a character is in recovery. A character cannot perform an action if it would put their safety at risk.
+Между игровыми сессиями персонажи могут заниматься различными делами: исследованием, поиском зацепок, улучшением навыков или построением отношений. Каждый игрок может выбрать одно **действие**, которое его персонаж будет выполнять в период простоя. Его нельзя делать в небезопасных условиях или во время восстановления персонажа. Также во время простоя персонаж не может выполнять действия, связанные с риском для жизни.
 
-### Milestones
+### Этапы
 
-For activities requiring multiple steps, the **Warden** assigns 1-5 **Milestones** for players to track progress. Each **Milestone** represents a comprehensive, non-interactive task. The **Warden** may present different strategies to achieve these goals, each with distinct **Milestones**. Depending on the unfolding events in the game, the **Warden** is also empowered to introduce new **Milestones** or discard existing ones.
+Если действие игрока достаточно сложное, **Смотритель** создает счетчик отслеживания прогресса на 1-5 **Этапов**. Каждый **Этап** представляет собой комплексную, не интерактивную задачу. **Смотритель** может предложить различные способы выполнения задачи, которые также могут иметь под **Этапы**. По мере развития событий, Смотритель может ставить перед игроком новые **Этапы** или отменять текущие.
 
-### Costs
+### Траты
 
-PCs can complete individual **Milestones** by taking a **Downtime Action** and paying its respective **Cost**. If a character is unable to pay the **Cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
-- **Gold**: Direct payment of gold from a character's inventory.
-- **Resources**: Non-monetary costs such as material goods, specific common items, and so on. 
-- **Reputation**: Betting on a character's renown, personality, presence, social connections, etc.
-- **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.
+Персонажи могут завершать отдельные **Этапы**, выполняя действия во время простоя и оплачивая соответствующую **Стоимость**. Если персонаж не может оплатить **затраты**, ему придется найти альтернативный способ завершения цели. Примеры возможных **Трат**:
 
-Some **Costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success, the cost is either reduced or avoided entirely. 
+- **Золото**: прямая оплата золотом из кошелька персонажа.
+- **Ресурсы**: такие как материальные блага, определенные предметы и так далее.
+- **Репутация**: использование известности персонажа, его черт личности,социального статуса или связей.
+- **Потери**: предоставление чего-то конкретного и уникального, например,пальца, души, **Реликвии** и т.д.
 
-## Downtime Actions
+Иногда персонажи могут уменьшить или полностью избежать **затрат** благодаря своим навыкам, связям или силе воли. Например, если персонаж уже обладает достаточной репутацией для доступа в известное учреждение, требуемые **затраты** может быть снижена. В других случаях персонажу может не повезти, и ему придется полагаться на свою харизму. В такой ситуации Смотритель определяет возможные риски, например, постоянный запрет на вход или потерю репутации. Персонаж выполняет спасбросок **ВОЛ**; при успехе затраты уменьшаются или полностью отменяются.
 
-The following activities represent some of the most common **Downtime Actions** a players can choose. The **Warden** can also create custom actions based on the needs of play.
+## Действия в период простоя
 
-### Research
+Ниже представлены некоторые из наиболее распространенных **Действий**, доступных игрокам в период простоя. **Смотритель** может добавлять свои варианты **Действий** в зависимости от потребностей игры.
 
-A PC investigates a question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action, the player must have a clearly formulated question they'd like to answer and a **Source** of knowledge in the game world that their character can interact with. If the PC does not have a **Source**, then they can spend a **Downtime Action** trying to find one. There is no guarantee that they will be successful. Once a question is posed and an appropriate **Source** has been identified, the **Warden** should provide any **Milestones** and associated **Costs**. 
+### Анализ
 
-#### Questions
+Персонаж исследует конкретный вопрос, связанный с поиском информации, предмета, местоположения важной персоны и т. д. Для этого действия игрок четко формулирует вопрос и определяет **Источник** знаний в игровом мире, с которым его персонаж будет взаимодействовать. Если у **ПИ** нет такого **Источника**, он может потратить **Действие простоя** на его поиск, хотя успех не гарантирован. После постановки вопроса и определения источника, **Смотритель** определяет **Этапы** выполнения задачи и необходимые **Затраты**.
 
-As always, the question must come from an experience that occurred during play.
+#### Вопросы
 
-**Examples:**
+Вопросы всегда должны быть связаны с опытом, полученным во время игры.
 
-- "Where is the **Lost Temple of East Nipoor**?" 
-- "Who in **Fortune City** might know how to crack an ancient vault?"
-- "Where can I find the cure to **curly sickness**?" 
+**Примеры:**
 
-#### Sources
+- «Где находится **Затерянный храм восточного Нипура**?»
+- «Кто в **Городе Удачи** может знать, как вскрыть древний сейф?»
+- «Где я могу найти лекарство от **курчавой лихорадки**?»
 
-A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. They can be NPCs, Factions, spirits, or even other PCs. 
+#### Источники
 
-##### Examples: 
+**Источник** — это личность, место, фракция или сущность, обладающая частью или полным ответом на вопрос персонажа. Также источником могут быть персонажи других игроков.
 
-- **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
-- A **Woodwose** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition and the meeting did not end well. Still, he is said to know the nature of every herb and their healing properties.
-- The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
+**Примеры:**
 
-### Training
+- **Кьюр по прозвищу «Рот»** — надежный контакт **Конклава торговцев**. Несмотря на отличные отношения, просьба о помощи в незаконной деятельности может потребовать высокую цену.
+- **Леший**, обитающий глубоко в **Лесу Клинков**. Группа встретила его в предыдущей экспедиции, и встреча закончилась неудачно. Тем не менее, ходят слухи, что он знает лечебные свойства всех трав.
+- **Храм Марионеток** - кочующая цирковая труппа, путешествующая по обжитым и неизвестным землям. Вы помогли одному из них во время **Огненного дождя**, когда даже существа Леса готовились покинуть свои дома. Если кто-то и слышал о забытых местах, так это ребята из Храма.
 
-A character can improve their skills with an item or ability, with clear narrative or mechanical results. They might be interested in dealing greater damage with a particular weapon, decreasing their chances of getting lost in rough weather, or learning to read the languages of the ancients. A PC might spend multiple **Downtime Actions** sparring with a particular weapon, improving their skills week by week. Or they may need to travel to the home of a distant sage, improving themselves through short but intense study.
+### Обучение
 
-The player must describe precisely what they'd like to improve and a **Master** whom they might train with. And of course, the character's inspiration to improve should come from an experience in play. The **Warden** should provide any **Milestones** and associated **Costs**. 
+Персонаж может улучшить свои навыки с помощью предмета или способности с четким повествовательным или механическим эффектом. Например, это может быть увеличение урона от выбранного оружия, снижение вероятности заблудиться в сложных погодных условиях или умение читать на древних языках. Посвятив несколько **действий** простоя тренировкам с определенным оружием, персонаж постепенно отточит свои навыки. Или же он может отправиться на поиски мастера для краткого, но интенсивного обучения.
 
-**Examples:**
+Игрок должен четко описать, что именно он хочет улучшить, и выбрать **наставника**, у которого будет проходить обучение. Разумеется, стремление персонажа к совершенствованию должно быть обусловлено событиями игры. **Смотритель** рассчитывает количество **Этапов** для этой задачи и сопутствующие **траты**.
 
-- **The Two-Handed Parry**: When fighting with one hand free, a PC's HP temporarily increases by 1d4. The party took on a hireling from the **Cratered Lands**, whose fighters emphasize avoiding enemy attacks. She has agreed to train anyone who can best her in hand to hand combat.
-- **Herbology**: Given proper ingredients, a PC can create a **Healing Salve** (restores 4 STR) as a **Downtime Action**. After receiving care from an elderly herbalist in the **Verdant Glades**, the wounded PC asked to be trained in the healing arts. The **Master** has agreed, but asked that they collect three rare herbs before training can begin. 
-- **Troutmaster**: When taking the Supply **Action**, **Rations** gathered near cold freshwater sources increase by one step (e.g. 1d4 becomes 1d6). The party escorted a stranded naturalist from the famously dreadful **Silver Wastes** safely back to the city. As thanks, she has offered to train a PC to identify and capture a common lakefish that frequents colder waters.
+**Примеры:**
 
-### Strengthening Ties
+- **Двуручный парирующий прием**: при сражении с одной свободной рукой максимальные ОЗ персонажа временно увеличиваются на 1к4. Группа наняла наемницу из **Кратерных земель**, чьи воины известны умением избегать ударов. Она согласилась обучить любого, кто сможет победить ее в рукопашном бою.
+- **Травничество**: имея необходимые ингредиенты, персонаж может создать **целебную мазь** (восстанавливает 1к4 СИЛ, 1 использование) в качестве **действия** во время простоя. После лечения у старого травника в **Зеленых лугах**, раненый персонаж захотел обучиться искусству исцеления. **Наставник** также согласился, но попросил собрать три редкие травы в качестве начального испытания.
+- **Мастер ловли форели**: при выполнении действия **«Снабжение»**, количество собранных **пайков** рядом с холодными пресноводными источниками увеличивается на одну ступен (например, с 1к4 до 1к6). Группа сопроводила застрявшего натуралиста из печально известных **Серебряных пустошей** обратно в город. В знак благодарности она предложила обучить ПИ ловле распространенной озерной рыбы, обитающей в холодных водах.
 
-A character fosters a connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, as well as a specific **intent** (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance, and so on). The **Warden** then provides concrete measures (described as **Milestones** and **Costs**) that the PC can undertake to advance the relationship. With each completed **Milestone**, the **Warden** describes how the PC's relationship has grown or changed. 
+### Укрепление связей
 
-**Examples:**
+Персонаж стремится укрепить связь с конкретной персоной или фракцией в игровом мире. Сначала необходимо четко сформулировать **цель**: например, установить доверие, восстановить дружбу, добиться членства в фракции, заключить союз и т.д. **Смотритель** описывает этапы и траты, нужные для развития этих отношений. С каждым завершенным **Этапом** **Смотритель** описывает, как изменились отношения к ПИ.
 
-- After returning from an unsuccessful delve into the **Roots**, a PC discovers that they'd unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature and train it in secret. 
-- During a play session, a PC becomes friendly with an agent of the **Order of the Helm**. Impressed by the Order's values, the PC asks what the requirements are to join.
-- An agent for a powerful faction dies during the **Battle of Frogs** while under the party's care. Now those responsible wish to provide redress, so that the party can once again perform tasks for that faction.
+**Примеры:**
+
+- После неудачной экспедиции в **Корни**, ПИ обнаруживает, что случайно привез с собой незрячего, только что вылупившегося пожирателя. Он решает оставить существо и тайно его приручить.
+- Во время игровой сессии ПИ заводит дружбу с **агентом ордена Шлема**. Впечатленный ценностями ордена, ПИ интересуется, что требуется для вступления.
+- Агент могущественной фракции погибает во время **Битвы Лягушек**, находясь под опекой группы. Группа стремится загладить вину, чтобы вновь получить возможность сотрудничать с этой фракцией.

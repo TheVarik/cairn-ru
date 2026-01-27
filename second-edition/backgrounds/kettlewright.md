@@ -1,48 +1,47 @@
 ---
-title: Kettlewright
+title: Котельщик
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Kettlewright
+# Котельщик
 
-> You are known by the smell of molten metal and the jingle of tin. You are no mere merchant but an artisan of fire and metal. 
+> Вас узнают по запаху раскаленного металла и звону жести. Вы не просто торговец, а мастер огня и металла.
 
-## Names
+## Имена
 
-Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
+Фергус, Эона, Брам, Идрис, Хестер, Дарраг, Серена, Ронан, Берек, Лоренц
 
-## Starting Gear
+## Начальное снаряжение
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Pincers
-- Roll of Tin
-- Gloves (_petty_)
-- Hammer (d6)
+- Перчатки (_мелкий_)
+- Факел (3 использования)
+- 3к6 золотых монет
+- Молоток (к6 урон)
+- Пайки (3 использований)
+- Рулон жести
+- Клещи
 
-## What is your trade? Roll 1d6:
+## Чем вы занимаетесь? Бросьте 1к6:
 
 |       |                                                                                                                                                                                                                 |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | You build small contraptions for local guilds (and don't ask too many questions). Take an extra 40gp and a wanted poster with your face on it. Given time and materials, you can open almost any door or vault. |
-| **2** | You deal in home goods and tools, hawking your wares to townspeople across the lands. Take 20gp worth of items from the [gear](/second-edition/players-guide/marketplace#gear) table. You are fluent in the _Traveler's Cant_.       |
-| **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **tin helm** (+1 Armor). Given time and adequate materials, you can repair armor.          |
-| **4** | You sell rare and quality items to monasteries and nobles alike. Take a **Spyglass**, a **Necklace** (_petty_) worth 20gp, and a **Scroll** of Mirrorwalk (_petty_).                      |
-| **5** | You offer protection as a service, quietly watching for threats as money exchanges hands. You start with **+d4 HP**, and carry a **Long Sword** (d10, _bulky_) and a **Gambeson** (+1 Armor).         |
-| **6** | You scavenge raw tin and iron from battlefields, pulling teeth from still-twitching corpses. Start with a young **Donkey** (+4 slots, slow), a **Crossbow** (d8 damage, _bulky_), and a **Saw** (d6).           |
+| **1** | Вы создаете небольшие устройства для местных гильдий и не задаете лишних вопросов. Получите дополнительно **40 зм** и объявление о вашем розыске, с вашим лицом. Имея время и материалы, вы можете открыть почти любую дверь или сейф. |
+| **2** | Вы торгуете товарами для дома и инструментами, предлагая свой товар жителям разных поселений. Возьмите **предметы на сумму 20 зм** из таблицы [снаряжения](/second-edition/players-guide/marketplace#gear). Вы свободно владеете жаргоном путешественников. |
+| **3** | Вы были военным литейщиком, пока мир не разрушил ваш источник дохода. Возьмите **Литейный молот** (к10, _громоздкий_) и **Жестяной шлем** (Броня +1). Имея время и материалы, вы можете ремонтировать доспехи.          |
+| **4** | Вы продаете редкие и качественные товары как монастырям, так и дворянам. Возьмите **Подзорную трубу**, **Ожерелье** (_мелкий_) стоимостью 20 зм и свиток «Зеркальный путь» (_мелкий_). Зеркальный путь: _зеркало становится порталом к другому зеркалу, в которое вы смотрели сегодня_.         |
+| **5** | Вы предоставляете услуги по охране, незаметно отслеживая угрозы во время обмена денег. Начните игру с дополнительными **+1к4 к ОЗ**, **Длинным мечом** (к10, _громоздкий_) и **Стеганка** (+1 к броне).         |
+| **6** | Вы собираете жесть и железо с полей сражений, вырывая зубы из еще подергивающихся трупов. Начните игру с молодым **Ослом** (+4 слота, _медленный_), **Арбалетом** (к8, _громоздкий_) и **Пилой** (к6).       |
 
-## What never fails to get you out of trouble? Roll 1d6:
+## Что всегда выручает вас из беды? Бросьте 1к6:
 
 |     |                    |                                                                                                                                                                  |
 | --- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Fire Eggs**      | Six small pellets made of sea salt, wood, and crockery-dust. They explode at low heat (d8, _blast_) but the flames dissipate quickly.                            |
-| 2   | **Black Tar**      | Versatile: both sticky and highly flammable. 3 uses.                                                                                                             |
-| 3   | **Spiked Boots**   | Cracks heads (d8) as easily as it does ice and muck. Travel is also a bit slower, but easier.                                                                    |
-| 4   | **Tinker's Paste** | Seals shut any fist-sized opening. 3 uses.                                                                                                                       |
-| 5   | **Fireworks**      | A dazzling albeit dangerous display. Enough explosive material to blow off a finger or three. 2 uses remain.                                                    |
-| 6   | **Carrion Cat**    | A clever pet, small enough to hide in your pack (_bulky_), but strong enough to scare off smaller predators. Requires one **Ration** a day, and it must be meat. |
-|     |                    |                                                                                                                                                                  |
+| 1   | **Огненные яйца**      | Шесть небольших гранул из морской соли, древесины и керамической пыли. Они взрываются даже при небольшом нагреве (к8, _взрыв_), но пламя быстро гаснет.  |
+| 2   | **Черная смола**      |Универсальна: легко воспламеняющаяся и липкая (3 использования). |
+| 3   | **Шипованные ботинки**   | Легко пробивают головы (к8), а также лед и грязь. Передвижение становится немного медленнее, но устойчивее.                         |
+| 4   | **Паста мастера** | Запечатывает любое отверстие размером с кулак (3 использования). |
+| 5   | **Фейерверки**      | Ослепительное, хотя и опасное зрелище. Достаточно взрывчатого вещества, чтобы оторвать палец или два (осталось 2 использования). |
+| 6   | **Кот-падальщик**    | Хитрый питомец: достаточно маленький, чтобы спрятаться в вашем рюкзаке (_громоздкий_), но довольно сильный, чтобы отпугнуть мелких хищников. Требует одну порцию мяса в день. [3 ОЗ, 5 СИЛ, 15 ЛОВ, 12 ВОЛ].  |
 

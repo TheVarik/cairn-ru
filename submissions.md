@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Submissions
+title: Подача материалов
 has_children: true
 nav_order: 15
 ---
 
-# Submissions
+# Подача материалов

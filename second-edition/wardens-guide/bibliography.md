@@ -1,33 +1,33 @@
 ---
 layout: default
-title: Bibliography
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: Библиография
+parent: Книга Смотрителя
+grand_parent: Полное издание
 ---
 
-# Bibliography
+# Библиография
 
-## Games & Supplements
+## Игры и дополнения
 
-- [Apocalypse World by Vincent and Meguey Baker](https://lumpley.itch.io/apocalypse-world/)
-- [Beyond the Wall by Peter S. Williams](https://www.flatlandgames.com/btw/)
-- [Dungeon World by Sage LaTorra and Adam Koebel](https://dungeon-world.com/)
-- [Electric Bastionland by Chris McDowall](https://bastionlandpress.com/)
-- [Errant by Ava Islam](https://killjestergames.itch.io/errant)
-- [FLEE by Emmy Verte](https://emmv.itch.io/flee)
-- [Into The Dungeon: Revived by Vladimir Arabadzhi](https://vladar4.github.io/itdr/)
-- [Knave & Maze Rats by Ben Milton](https://questingbeast.itch.io/knave)
-- [Mausritter by Isaac Williams](https://mausritter.com/)
-- [Old School Essentials by Gavin Norman](https://necroticgnome.com/)
-- [Perilous Wilds by Jason Lutes](https://www.drivethrurpg.com/en/product/407161/the-perilous-wilds-revised-edition)
-- [The Monster Overhaul by Skerples](https://www.drivethrurpg.com/en/product/421868/The-Monster-Overhaul/)
-- [Tunnel Goons by Nate Treme](https://www.tunnelgoons.com/)
-- [Vaults of Vaarn by Leo Hunt](https://antipodezines.com/collections/vaults-of-vaarn)
-- [World of Dungeons by John Harper](https://johnharper.itch.io/world-of-dungeons/)
+- [Apocalypse World Винсента и Мегги Бейкер](https://lumpley.itch.io/apocalypse-world/)
+- [Beyond the Wall Питера С. Уильямса](https://www.flatlandgames.com/btw/)
+- [Dungeon World Сейджа Латорры и Адама Кёбеля](https://dungeon-world.com/)
+- [Electric Bastionland Криса Макдауэлла](https://bastionlandpress.com/)
+- [Errant Авы Ислам](https://killjestergames.itch.io/errant)
+- [FLEE Эмми Верте](https://emmv.itch.io/flee)
+- [Into The Dungeon: Revived Владимира Арабаджи](https://vladar4.github.io/itdr/)
+- [Knave и Maze Rats Бена Милтона](https://questingbeast.itch.io/knave)
+- [Mausritter Айзека Уилльямса](https://mausritter.com/)
+- [Old School Essentials Гэвина Нормана](https://necroticgnome.com/)
+- [Perilous Wilds Джейсона Лютеса](https://www.drivethrurpg.com/en/product/407161/the-perilous-wilds-revised-edition)
+- [The Monster Overhaul от Skerples](https://www.drivethrurpg.com/en/product/421868/The-Monster-Overhaul/)
+- [Tunnel Goons Нэйта Трема](https://www.tunnelgoons.com/)
+- [Vaults of Vaarn Лео Ханта](https://antipodezines.com/collections/vaults-of-vaarn)
+- [World of Dungeons Джона Харпера](https://johnharper.itch.io/world-of-dungeons/)
 
-## Blogs
+## Блоги
 
-### Philosophy & Design
+### Философия и дизайн
 
 - [Maxims of the OSR](https://alldeadgenerations.blogspot.com/2023/08/maxims-of-osr.html)
 - [New School Revolution](https://boneboxchant.wordpress.com/2019/12/21/nsr/)
@@ -35,7 +35,7 @@ grand_parent: Second Edition
 - [The Universal Procedure of the OSR](https://www.prismaticwasteland.com/blog/the-universal-procedure-of-the-osr)
 - [Weird Materialism and the OSR](https://deepunderstone.wordpress.com/2019/11/23/weird-materialism-and-the-osr/)
 
-### Adventure Writing
+### Написание приключений
 
 - [Adventure Writing Tips](http://throneofsalt.blogspot.com/2022/02/adventure-writing-tips.html)
 - [Against Incentive](https://lukegearing.blot.im/against-incentive)
@@ -56,7 +56,7 @@ grand_parent: Second Edition
 - [Question-Based Adventure Design](https://www.mindstormpress.com/question-based-adventure-design)
 - [World Building and Old School Games](https://maziriansgarden.blogspot.com/2017/12/world-building-and-old-school-games.html)
 
-### Growth
+### Развитие
 
 - [Coins in D&D and Found Advancement](https://lichvanwinkle.blogspot.com/2021/11/coins-in-d-and-found-advancement.html)
 - [Diegetic Advancement Triggers](https://dreamingdragonslayer.wordpress.com/2020/06/13/diegetic-advancement-triggers/)
@@ -66,7 +66,7 @@ grand_parent: Second Edition
 - [Game-enhancing powers, game-ruining powers, and yet more magic items](https://udan-adan.blogspot.com/2021/10/game-enhancing-powers-game-ruining.html)
 - [Less Rules To Do More: Advancement](https://aboleth-overlords.com/2020/09/19/less-rules-to-do-more-advancement/)
 
-### Mechanics
+### Механики
 
 - [A Player-Facing Sandbox](https://pointlessmonument.blot.im/a-player-facing-sandbox-part-1-the-map)
 - [A simple resource management system for Into the Odd](https://blog.thesconesalone.com/2018/07/a-simple-resource-management-system.html)
@@ -91,7 +91,7 @@ grand_parent: Second Edition
 - [Why I Use Point Crawls More Than Hex Crawls](https://silverarmpress.com/why-i-use-point-crawls-more-than-hex-crawls/)
 - [Wilderness Paths](https://blog.trilemma.com/2021/08/wilderness-paths.html)
 
-### Worldbuilding
+### Создание мира
 
 - [100 Misfortunes on the Road](https://wizardthieffighter.blogspot.com/2018/02/ultraviolet-grasslands-100-misfortunes.html)
 - [5-Point Conflict Map](https://chaosgrenade.com/5-point-conflict-map)

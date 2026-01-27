@@ -1,47 +1,47 @@
 ---
-title: Foundling
+title: Найденыш
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Foundling
+# Найденыш
 
-> An odd birthmark, a strange smell: somehow, the touch of _elsewhere_ still lingers. Wherever you are, you have trouble fitting in. Roll on the **Omens** table (even if you're not the youngest player), but keep the results private for now.
- 
-## Names
+> Странное родимое пятно, необычный запах: в вас до сих пор ощущается прикосновение чего-то чужого. Где бы вы ни были, вам сложно вписаться. Сделайте бросок по таблице **Знамений** (даже если вы не младший игрок), но пока сохраните результат в тайне.
 
-Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Hazel
+## Имена
 
-## Starting Gear
+Фавний, Снежка, Огник, Серебрянка, Брим, Сольстис, Стиллай, Артея, Госсамер, Хейзел.
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Salt Pouch
-- Heirloom Amulet (_petty_, glows in the presence of magic)
-- Sling (d6)
-- Dagger (d6) 
+## Начальное снаряжение
 
-## Who took you in? Roll 1d6:
+- 3к6 золотых монет
+- Пайки (3 использований)
+- Факел (3 использования)
+- Мешочек с солью
+- Праща (к6 урон)
+- Кинжал (к6 урон)
+- Фамильный амулет (мелкий предмет, светится в присутствии магии)
+
+## Кто вас приютил? Бросьте 1к6:
 
 |       |                                                                                                                                                                                                                          |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | An old hunter. You were both quite happy, until it all ended. Take a **Weathered Longbow** (d8, _bulky_) and a **Leather Jerkin** (1 Armor).                                                                             |
-| **2** | A wizened apothecary, who taught you the healing arts but maintained a clinical detachment. Take a **Healing Unguent** (restores d4 STR, 1 use).                                                                                 |
-| **3** | A druid, who taught you the language of trees. When it came time to , you took with you only a **Gnarled Staff** (d8) and left a promise that one day you would return.                                                 |
-| **4** | A gruff blacksmith from a sleepy river town. You were always kept at arm's length. Now the forge is cold, and you've moved on. Take a **Smith's Apron** (_petty_) and a set of **Oft-mended Chain Mail** (2 Armor, _bulky_). |
-| **5** | A troupe of traveling entertainers. For a time, they were like family to you. One day you woke up and they were gone with no explanation. Take a **Storybook**, a **Dagger** (d6), and some burning questions.           |
-| **6** | The monks of a secluded forest monastery. When their rules became too strict, and you snuck away. Take a **Monk's Habit** (warm, _petty_) and a **Spellbook** of _Control Plants_. Control Plants: Nearby plants and trees obey you and gain the ability to move at a slow pace. _Leaves grow along the spine, and it smells faintly of decay._                                        |
+| **1** | Старый охотник. Вы были счастливы вместе, пока все не закончилось. Возьмите потрепанный **Длинный лук** (к8, _громоздкий_) и **Кожаный жакет** (Броня +1).                                                                             |
+| **2** | Мудрый формацевт, который обучил вас искусству исцеления, но сохранял эмоциональную отстраненность. Возьмите **Лечебную мазь** (восстанавливает 1к4 СИЛ, 1 использование).                                                                            |
+| **3** | Друид, который научил вас языку деревьев. Когда пришло время уйти, вы взяли с собой только **Корявый посох** (к8) и дали обещание однажды вернуться.                                                |
+| **4** | Суровый кузнец из тихого речного городка. Он всегда держал вас поблизости. Теперь кузница холодна, и вы отправились дальше. Возьмите **Фартук кузнеца** (_мелкий_) и **Кольчужный доспех** (Броня +2, _громоздкий_), который часто чинили.|
+| **5** |Труппа странствующих артистов. Некоторое время они были для вас как семья. Однажды вы проснулись, а они исчезли без объяснений. Начните игру со **Сборником рассказов**, **Кинжалом** (к6) и множеством вопросов без ответов.           |
+| **6** | Монахи из уединенного лесного монастыря. Когда их правила стали слишком строгими, вы сбежали. Возьмите **Монашескую рясу** (_теплая_, _мелкий_) и **Книгу заклинания** «Управление растениями». Управление растениями: _ближайшие растения и деревья подчиняются вам и получают способность медленно двигаться. Книга источает слабый запах разложения, а по ее корешку растут листья_.                                       |
 
 
-## What keeps bad tidings at bay? Roll 1d6:
+## Что уберегает вас от дурных происшествий? Бросьте 1к6:
 
 |       |                   |                                                                                                                                         |
 | ----- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Pipeweed**      | Your good luck charm. Conversations tend to flow more easily after a smoke. 6 uses.                                                     |
-| **2** | **Stink Jar**     | Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit. 1 use.                                 |
-| **3** | **Ivy Worm**      | A green worm often mistaken for a weed. Swallowed whole, it absorbs any toxins or rot in the body before exiting through the usual way. |
-| **4** | **Dream Stone**   | A smooth blue stone that helps recall dreams more clearly. Overuse can cause dream-addiction.                                           |
-| **5** | **Drowning Rod**  | A finger-sized wooden stick that doubles in size each time it is fully submerged in water. It does not shrink down again.         |
-| **6** | **Rabbit's Foot** | You were wearing it when they found you. They say it is the foot of she who left you and that it protects you from witch magic. _Petty_.       |
+| **1** | **Трубочный табак**      | Ваш талисман на удачу. Беседы обычно становятся легче после курения (6 использований).                           |
+| **2** | **Вонючий сосуд**     |Разбив этот сосуд, вы выпускаете такой отвратительный запах, что все поблизости должны пройти проверку СИЛ или немедленно вырвать (1 использование).      |
+| **3** | **Плющевой червь**      | Зеленый червь, которого часто принимают за сорняк. Проглоченный целиком, он поглощает любые токсины или гниль в организме, а затем выходит естественным путем. |
+| **4** | **Камень сновидений**   | Гладкий синий камень, помогающий яснее вспоминать сны. Чрезмерное использование может вызвать зависимость от сновидений.                                         |
+| **5** | **Палочка утопления**  | Деревянная палочка размером с палец, которая удваивается в размере каждый раз, когда полностью погружается в воду. Она не уменьшается обратно.    |
+| **6** | **Кроличья лапка** | Она была на вашей шее, когда вас нашли. Говорят, это лапка той, кто вас оставил, и что она защищает вас от ведьмовской магии (_мелкий_).       |

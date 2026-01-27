@@ -1,53 +1,53 @@
 ---
 layout: default
-title: Adventure Conversions
+title: Перенос приключений
 nav_order: 3
-parent: Submissions
+parent: Подача материалов
 ---
 
-# Adventure Conversions
+# Перенос приключений
 
-- Copy the following template when submitting an adventure to the Cairn website. 
-- Please follow the [Style Guide](/submissions/style-guide) for the text of the conversion. 
-- The file should be written in [Markdown](/submissions/submission-guide/#markdown). The filename should be lowercase, and use the *.md suffix (example: cool-adventure.md).
-- Make sure the add the "front matter" at the top of the file (the parts starting with the `---` at the beginning) or the submission won't work. For an example, see [here](/adventures/conversions/stellarium-of-the-vinteralf) (raw text [here](https://github.com/yochaigal/cairn/blob/main/adventures/conversions/stellarium-of-the-vinteralf.md)).
-- Adventure submissions should _always_ credit the author of the work _as well_ as the name of the person converting the work. 
-- Please link to the author, as well as the adventure and (if you're comfortable with it) your own website or contact. 
-- If possible, ask for the author's permission. If not, that's OK! We don't generally need it, but it's great to have.
+- Скопируйте следующий шаблон при подаче приключений на данный сайт.
+- Пожалуйста соблюдайте [Стиль документов](/submissions/style-guide) при написании переноса.
+- Все файлы должны быть написаны в формате [Markdown](/submissions/submission-guide/#markdown). Названия всех файлов должны быть написаны исключительно строчными латинскими буквами и иметь суффикс .md (например cool-adventure.md).
+- Удостоверьте что присутствует «верхняя» часть документа (что начинается и заканчиатеся на `---` с пустой линией в конце) или материал не будет работать на сайте. 
+- Приключения должны _всегда_ упоминать автора оригинального приключения _также как_ и автора переноса.
+- Просим вас также вставить ссылку на само приключение и (если вас не затруднит) на ваш сайт или контакт.
+- При возможности, попросите автора о разрешении переноса. Если нет возможности, то ничего страшного, обычно оно нам не нужно, но лучше его иметь.
 
-## Submission Template
+## Шаблон материалов
 
 ```
 ---
 layout: default
-parent: Conversions
-grand_parent: Adventures
-title: Adventure Title
+parent: Переносы
+grand_parent: Приключения
+title: Название приключения
 nav_exclude: true
 search_exclude: true
 ---
 
-# Adventure Title
+# Название приключения
 
-- Based on the [original work](link-to-game-page) by [Author Name](link-to-author-site).
-- Conversion by [Your Name](link to your contact on the web).
+- Основана на [название оригинала](ссылка-на-игру) от [Имя автора](ссылка-на-сайт-автора).
+- Перенос сделанный [Ваше имя](ссылка-на-ваш-контакт)
 
-## General Notes
-- Put any notes on the conversion here!
-- You can list monsters & NPCs separately or by the location they can be found
+## Общие заметки
+- Это место для любых заметок в материала
+- Вы можете сделать список монстров и ПИ отдельно или сортировать по локациям, где они находятся.
 
-## Monsters or NPCs
+## Монстры и ПС
 
-### Monster Name
-Monster 1
-- Monster special (critical damage, abilities)
-- More monster specials, etc.
+### Имя монстра
+Монстр 1
+- Особенность монстра (критический урон, способности)
+- Ещё особенности монстра и т.п.
 
-## Locations
-### Location A
-#### Weird thing 1
-- Notes on weird thing 1
+## Локации
+### Локация A
+#### Странность 1
+- Заметки о Странность 1
 
 ```
 
-Note that the "nav_exclude" and "search_exclude" directives in the Front Matter are for staging purposes only; when the conversion is "complete" they can be removed.
+На заметку, что «nav_exclude» и «search_exclude» во вступительной части файла используются исключительно при подтверждении материала. При "завершении" работы над переносом, эти строки могут быть убраны.

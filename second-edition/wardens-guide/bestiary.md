@@ -1,671 +1,669 @@
 ---
 layout: default
-title: Bestiary
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: Бестиарий
+parent: Книга Смотрителя
+grand_parent: Полное издание
 ---
 
-# Bestiary
+# Бестиарий
 
-## Monster Categories
+## Категории монстров
 
-|         |               |                                                                             |
-| ------- | ------------- | --------------------------------------------------------------------------- |
-| **d20** | **Group**     | **Monsters**                                                                |
-| **1**   | Avian         | Phoenix, Roc, Wyvern                                                        |
-| **2**   | Beast         | Blood Elk, Grizzly Bear, Killer Bees, Night Cat, Viper, Wolf                |
-| **3**   | Behemoth      | Green Dragon, Purple Worm                                                   |
-| **4**   | Construct     | Bone Construct, Cobblehounds, Gargoyle                                      |
-| **5**   | Demon         | Hellhound, Nightmare                                                        |
-| **6**   | Extraplanar   | Eye of Terror, Mind Lasher                                                  |
-| **7**   | Fey           | Boggart, Dryad, Frost Elf, Pixie, Red Cap, Night Hag, Sea Hag, Will-o-Wisp  |
-| **8**   | Giant         | Ettin, Sky Giant, Storm Giant, Titan                                        |
-| **9**   | Goblinoid     | Bugbear, Goblin, Hobgoblin, Ogre, Root Goblin, Troll, Wood Troll            |
-| **10**  | Humanoid      | Acolyte, Bandit, Gnoll, Hooded Men, Triton                                  |
-| **11**  | Hybrid        | Centaur, Manticore, Minotaur, Owlbear                                       |
-| **12**  | Incorporeal   | Invisible Stalker, Shadow                                                   |
-| **13**  | Insectoid     | Aranea, Burrowing Horror, Cave Locust, Giant Scorpion                       |
-| **14**  | Lizard        | Basilisk, Hydra, Kobold, Naga, Reptilian                                    |
-| **15**  | Magical       | Blink Dog, Warp Panther, Water Elemental                                    |
-| **16**  | Mythical      | Banshee, Griffon, Harpy, Hydra, Lamia, Unicorn                              |
-| **17**  | Plant         | Creeping Vines, Root Witch, Shambling Mound, Treant                         |
-| **18**  | Shape Shifter | Swine Thing, Werewolf                                                       |
-| **19**  | Undead        | Crypt Guardian, Ghost, Ghoul, Lich, Mummy, Skeleton, Vampire, Wight, Zombie |
-| **20**  | Unusual       | Gelatinous Ooze, Mimic, Rust Monster, Warrior Snail                         |
+|         |                 |                                                                                    |
+| ------- | --------------- | ---------------------------------------------------------------------------------- |
+| **к20** | **Вид**         | **Монстры**                                                                        |
+| **1**   | Птица           | Феникс, Рух, Виверна                                                               |
+| **2**   | Зверь           | Кровавый лось, Гризли, Пчелы-убийцы, Ночной кот, Гадюка, Волк                      |
+| **3**   | Исполин         | Зеленый дракон, Фиолетовый червь                                                   |
+| **4**   | Конструкт       | Костяной голем, Каменная гончая, Гаргулья                                          |
+| **5**   | Демон           | Адская гончая, Кошмар                                                              |
+| **6**   | Экстрапланарный | Око ужаса, Разрушитель разума                                                      |
+| **7**   | Фея             | Боггарт, Дриада, Морозный эльф, Пикси, Красный колпак, Ночная карга, Морская карга |
+| **8**   | Гигант          | Эттин, Небесный гигант, Штормовой гигант, Титан                                    |
+| **9**   | Гоблиноид       | Багбир, Гоблин, Хобгоблин, Огр, Корневой гоблин, Тролль, Древесный тролль          |
+| **10**  | Гуманоид        | Послушник, Бандит, Гнолл, Люди в капюшонах, Тритон                                 |
+| **11**  | Гибрид          | Кентавр, Мантикора, Минотавр, Медвесыч                                             |
+| **12**  | Бестелесный     | Невидимый преследователь, Тень                                                     |
+| **13**  | Инсектоид       | Аранея, Роющий ужас, Пещерная саранча, Гигантский скорпион                         |
+| **14**  | Ящер            | Василиск, Гидра, Кобольд, Нага, Рептилия                                           |
+| **15**  | Магический      | Мерцающий пес, Искажающая пантера, Водный элементаль                               |
+| **16**  | Мифический      | Банши, Грифон, Гарпия, Гидра, Ламия, Единорог                                      |
+| **17**  | Растение        | Ползучие лозы, Корневая ведьма, Ползающая насыпь, Древень                          |
+| **18**  | Оборотень       | Свиная тварь, Оборотень                                                            |
+| **19**  | Нежить          | Страж склепа, Призрак, Гуль, Лич, Мумия, Скелет, Вампир, Умертвие, Зомби           |
+| **20**  | Необычный       | Студенистая слизь, Мимик, Ржавник, Улитка-воин                                     |
 
-## Acolyte
+## Послушник
 
-4 HP, 1 Armor, 8 STR, 11 DEX, 14 WIL, ceremonial dagger (d6)
+4 ОЗ, Броня 1, 8 СИЛ, 11 ЛОВ, 14 ВОЛ, церемониальный кинжал (к6)
 
-- Holy servants bound to a particular deity. Typically travel in groups of four or more.
-- Carry a holy symbol (_Ward_ once per day).
+- Святые слуги, привязанные к определенному божеству. Обычно они путешествуют группами по четыре человека и более.
+- Несут с собой священный символ (применяет _Оберег_ раз в день).
 
-## Aranea
+## Аранея
 
-6 HP, 13 STR, 12 DEX, 15 WIL, bite (d8)
+6 ОЗ, 13 СИЛ, 12 ЛОВ, 15 ВОЛ, укус (к8)
 
-- Enormous spiders with greenish-black skin and large brains. Can shape shift into human form at will. 
-- Conduct their magical research in dark, web-filled caverns. Carry the _Charm_ and _Command_ spellbooks at all times.
-- Fire damage against Aranea is _enhanced_.
+- Огромные пауки с зеленовато-черной кожей и большим мозгом. Могут принимать человеческий облик по своему желанию.
+- Проводят свои магические исследования в темных, заполненных паутиной пещерах. Всегда носят с собой книги заклинаний _Очарование_ и _Приказ_.
+- Урон от огня, наносимый Аранее, считается _усиленным_.
 
-## Bandit
+## Бандит
 
-4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, short sword (d6) or short bow (d6)
+4 ОЗ, Броня 1, 12 СИЛ, 12 ЛОВ, 9 ВОЛ, короткий меч (к6) или короткий лук (к6)
 
-- Outlaws who raid settlements, attack ships, or ambush travelers. Groups of four or more are a _detachment_.
-- A detachment always travels with one leader wearing chain mail or similar (2 Armor) and a long sword (d10) or crossbow (d8).
-- **Loyal**: When testing Morale, save using the leader's WIL (13). If the leader dies, the others will flee.
+- Преступники, совершающие набеги на поселения, атакующие корабли или устраивающие засады на путешественников. Группы из четырех и более человек считаются _отрядом_.
+- Отряд всегда путешествует с одним лидером, одетым в кольчугу или что-то подобное (Броня 2) и вооруженным длинным мечом (к10) или арбалетом (к8).
+- **Верность**: При проверке морали, спасбросок использует ВОЛ лидера (13). Если лидер умрет, остальные убегут.
 
-## Banshee
+## Банши
 
-8 HP, 6 STR, 12 DEX, 15 WIL, ghostly touch (d8)
+8 ОЗ, 6 СИЛ, 12 ЛОВ, 15 ВОЛ, призрачное касание (к8)
 
-- Incorporeal spirits that linger long after death to haunt the living.
-- Unharmed by cold, heat, or the elements. Iron weapon damage is _enhanced_.
-- **Wail**: Anyone in earshot must make a WIL save or fall unconscious.
+- Бестелесные духи, застрявшие в мире смертных, чтобы преследовать живых.
+- Холод, жар и элементальный урон не могут причинить Банши вред. Урон от железного оружия считается _усиленным_.
+- **Вопль**: Любой, кто находится в пределах слышимости, должен сделать спасбросок ВОЛ, иначе он потеряет сознание.
 
-## Basilisk
+## Василиск
 
-10 HP, 1 Armor, 12 STR, 13 DEX, 13 WIL, bite (d10)
+10 ОЗ, Броня 1, 12 СИЛ, 13 ЛОВ, 13 ВОЛ, укус (к10)
 
-- Long, serpentine lizards that nest deep below the earth or in brambles just underfoot. 
-- Fighting a **Basilisk** without meeting its gaze is difficult. (Attacks facing it are _impaired_.)
-- **Gaze**: A target facing the Basilisk is slowly petrified from the bottom up and completely frozen after three rounds. An antidote can be brewed from the Basilisk's gizzards. The creature's reflection is harmless.
+- Длинные змеевидные ящерицы, которые гнездятся глубоко под землей или в зарослях ежевики прямо под ногами.
+- Сложно сражаться с **Василиском**, не встречаясь с ним взглядом (атаки, направленные против него считаются _ослабленными_).
+- **Взгляд**: Цель, обращенная к Василиску, медленно каменеет снизу вверх и полностью превращается в камень после трех раундов. Из желудков василиска можно приготовить противоядие. Отражение существа безвредно.
 
-## Blink Dog
+## Мерцающий пес
 
-5 HP, 11 STR, 14 DEX, 5 WIL, bite (d6)
+5 ОЗ, 11 СИЛ, 14 ЛОВ, 5 ВОЛ, укус (к6)
 
-- Teleporting canines in service of a powerful master.
-- Can phase out of reality at will. Melee attacks against them are _impaired_.
+- Телепортирующиеся псы, состоящие на службе у могущественного хозяина.
+- Могут по своей воле выходить за пределы реальности. Атаки ближнего боя против них _ослаблены_.
 
-## Blood Elk
+## Кровавый лось
 
-4 HP, 12 STR, 13 DEX, 5 WIL, horns (d8)
+4 ОЗ, 12 СИЛ, 13 ЛОВ, 5 ВОЛ, рога (к8)
 
-- Born from violence resulting from a greedy or selfish act.
-- Kill their victims for sustenance, but gains no succor. They are always hungry.
-- **Critical Damage**: Gores its victims by ripping out their entrails.
+- Рожденные в результате насилия, вызванного жадным или эгоистичным поступком.
+- Убивают своих жертв ради пропитания, но не получают никакого удовлетворения. Они всегда голодны.
+- **Критический урон**: Вырывает внутренности своей жертвы.
 
-## Boggart
+## Боггарт
 
-3 HP, 4 STR, 17 DEX, 13 WIL
+3 ОЗ, 4 СИЛ, 17 ЛОВ, 13 ВОЛ
 
-- Wild, hairy tricksters that prize shiny trinkets above coin.
-- Boggarts have true names that describe their true nature. Knowing these names gives a person control over them.
-- **Magic**: The Boggart can _bring objects to life_,  _sow confusion_, _create magical disguises_, use _telekinesis_, and _teleport_.
+- Дикие, волосатые проказники, ценящие блестящие безделушки выше монет.
+- У Боггартов есть настоящие имена, которые описывают их истинную природу. Знание этих имен дает человеку контроль над ними.
+- **Магия**: Боггарт может _оживлять предметы_, _вводить в смятение_, _создавать магическую маскировку_, использовать _телекинез_ и _телепортироваться_.
 
-## Bone Construct
+## Костяной голем
 
-8 HP, 3 Armor, 15 STR, 5 DEX, 3 WIL, sharpened arms (d8+d8), _detachment_
+8 ОЗ, Броня 3, 15 СИЛ, 5 ЛОВ, 3 ВОЛ, заостренные руки (к8+к8), _отряд_
 
-- Gigantic, four-armed constructs made of bone and sorcery.
-- Mindless guardians that stand ready to attack any creature other than their creator.
+- Гигантские четырехрукие конструкты, созданные из костей и колдовства.
+- Неразумные стражи, готовые напасть на любое существо, кроме своего создателя.
 
-## Bugbear
+## Багбир
 
-8 HP, 1 Armor, 14 STR, 12 DEX, 11 WIL, club (d8)
+8 ОЗ, Броня 1, 14 СИЛ, 12 ЛОВ, 11 ВОЛ, дубина (к8)
 
-- Large, goblin-like creatures covered in fur.
-- Prefer stealth and trickery to gain an advantage.
-- Often command parties of like creatures (typically goblins).
+- Большие, похожие на гоблинов существа, покрытые мехом.
+- Предпочитают использовать скрытность и хитрость для получения преимущества.
+- Часто командуют отрядами похожих существ (обычно это гоблины).
 
-## Burrowing Horror
+## Роющий ужас
 
-6 HP, 1 Armor, 16 STR, 11 DEX, 4 WIL, bite (d10), acid squirt (d8, _blast_)
+6 ОЗ, Броня 1, 16 СИЛ, 11 ЛОВ, 4 ВОЛ, укус (к10), плевок кислотой (к8, _взрыв_)
 
-- Huge insectoids with multiple legs and shiny black eyes. Subsist from dirt, roots, and flesh.
-- Burrow just beneath surfaces to ambush unsuspecting creatures.
-- **Critical Damage**: Target loses a body part. Roll 1d6. 1: Head, 2-4: Leg, 5-6: Arm.
+- Огромные инсектоиды с множеством ног и блестящими черными глазами. Питаются грязью, корнями и плотью.
+- Зарываются прямо под поверхностью, чтобы устраивать засады на ничего не подозревающих существ.
+- **Критический урон:** Цель теряет часть тела. Бросьте 1к6. 1: Голова, 2-4: Нога, 5-6: Рука.
 
-## Cave Locust
+## Пещерная саранча
 
-2 HP, 6 STR, 12 DEX, 3 WIL, bite (d6)
+2 ОЗ, 6 СИЛ, 12 ЛОВ, 3 ВОЛ, укус (к6)
 
-- Giant plant-eating crickets that dwell in caves. Immune to most types of poison.
-- Their natural coloration allows them to blend in with the stone. They emit loud shrieks when threatened.
+- Гигантские травоядные сверчки, обитающие в пещерах. Невосприимчивы к большинству видов ядов.
+- Их естественный цвет позволяет им сливаться с камнем. Они издают громкий визг, когда им угрожают.
 
-## Centaur
+## Кентавр
 
-6 HP, 1 Armor, 14 STR, 12 DEX, 14 WIL, spear (d8) or short bow (d6)
+6 ОЗ, Броня 1, 14 СИЛ, 12 ЛОВ, 14 ВОЛ, копье (к8) или короткий лук (к6)
 
-- Creatures with the lower body and legs of a horse, but a humanoid upper body.
-- Rarely found alone, preferring the company of their own.
+- Существа с нижней частью тела и ногами лошади, но с гуманоидным торсом.
+- Редко встречаются поодиночке, предпочитая общество себе подобных.
 
-## Cobblehounds
+## Каменная гончая
 
-12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
+12 ОЗ, Броня 2, 14 СИЛ, 1 ЛОВ, 8 ВОЛ, укус (к10)
 
-- Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques, but love a good bone.
+- Неподвижные конструкты, обычно используемые в качестве стражей великих гробниц или артефактов.
+- Не подвержены влиянию обычных методов убеждения, но не откажутся от хорошей кости.
 
-## Creeping Vines
+## Ползучие лозы
 
-8 HP, 10 STR, 12 DEX, 2 WIL, vines (d4, _blast_)
+8 ОЗ, 10 СИЛ, 12 ЛОВ, 2 ВОЛ, лозы (к4, _взрыв_)
 
-- Appear as an inert, typical vine. Attacks passing creatures to use their corpses as fertilizer.
-- **Critical Damage**: Target is pulled into the air where they asphyxiate within a few minutes.
+- Выглядят как обычные, безжизненные лозы. Нападают на проходящих мимо существ, чтобы использовать их трупы в качестве удобрения.
+- **Критический урон**: Лозы подтягивают цель в воздух, где она задыхается в течение нескольких минут.
 
-## Crypt Guardian
+## Страж склепа
 
-12 HP, 12 STR, 11 DEX, 14 WIL, ethereal claws (d8+d8)
+12 ОЗ, 12 СИЛ, 11 ЛОВ, 14 ВОЛ, эфирные когти (к8+к8)
 
-- Animated skeletons clothed in billowing robes. Their eye sockets are hypnotically red. Defend crypts and tombs, but will not attack if left undisturbed.
-- Non-magical attacks against them are _impaired_.
-- Can teleport any target in eyesight to a random room nearby.
+- Ожившие скелеты, одетые в развевающиеся робы. Их глазницы гипнотически красные. Защищают склепы и гробницы, но не нападают, если их не тревожить.
+- Немагические атаки против них _ослаблены_.
+- Могут телепортировать любую цель в поле зрения в случайную комнату поблизости.
 
-## Dryad
+## Дриада
 
-4 HP, 8 STR, 12 DEX, 14 WIL, knotted arms (d6)
+4 ОЗ, 8 СИЛ, 12 ЛОВ, 14 ВОЛ, узловатые руки (к6)
 
-- Shy, protective tree spirits that manifest as beautiful, green-skinned humanoids.
-- Unable to travel far from the tree they are bound to. They perish if the tree is destroyed.
-- **Befuddle**: Target becomes confused, gradually moving further and further away from the host tree. WIL save once per round to break free.
+- Застенчивые, защищающие деревья духи, проявляющиеся в виде красивых зеленокожих гуманоидов.
+- Они не могут отходить далеко от дерева, к которому привязаны. Они погибают, если дерево уничтожено.
+- **Одурманивание**: Цель приходит в замешательство, постепенно удаляясь все дальше и дальше от связанного дерева. Спасбросок ВОЛ раз в раунд, чтобы освободится от эффекта.
 
-## Ettin
+## Эттин
 
-10 HP, 16 STR, 8 DEX, 6 WIL, club (d10)
+10 ОЗ, 16 СИЛ, 8 ЛОВ, 6 ВОЛ, дубина (к10)
 
-- The two-headed kin of giants. Prefer caves and underground hovels.
-- Cannot be surprised.
+- Двуглавый род гигантов. Предпочитают пещеры и подземные логова.
+- Их невозможно застать врасплох.
 
-## Eye of Terror
+## Око ужаса
 
-15 HP, 9 STR, 8 DEX, 16 WIL, bite (d8)
+15 ОЗ, 9 СИЛ, 8 ЛОВ, 16 ВОЛ, укус (к8)
 
-- Floating spheres with large mouths, enormous eyes, and several small eyes set atop long stalks. 
-- They are highly intelligent, intensely greedy, and completely insane. 
-- Can cast the following spells at will: _Charm, Phobia, Telekinesis, Sleep, Shuffle, Vision_. Magic used against them requires a WIL save or it fizzles out.
+- Парящие сферы с большими ртами, огромными глазами и несколькими маленькими глазами, расположенными на длинных стебельках
+- Они очень умны, чрезвычайно алчны и совершенно безумны.
+- Может по желанию творить следующие заклинания: _Очарование_, _Фобия_, _Телекинез_, _Сон_, _Перетасовка_, _Видение_. Магия, используемая против них, требует спасброска ВОЛ, иначе она развеивается
 
-## Frost Elf
+## Морозный эльф
 
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6)
+14 ОЗ, Броня 1, 8 СИЛ, 13 ЛОВ, 14 ВОЛ, кинжал-сосулька (к6)
 
-- Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
-- Can cast the following spells at will: _Sleep_, _Teleport_, _Detect Magic_.
+- Красивые, аморальные и долгоживущие.
+- Устойчивы к большинству форм магии.
+- Могут по желанию творить следующие заклинания: _Сон_, _Телепортация_, _Обнаружение магии_.
 
-## Gargoyle
+## Гаргулья
 
-8 HP, 3 Armor, 14 STR, 4 DEX, 12 WIL, claws (d8+d8)
+8 ОЗ, Броня 3, 14 СИЛ, 4 ЛОВ, 12 ВОЛ, когти (к8+к8)
 
-- Magical, slow-moving statues of monstrous winged creatures, typically employed as guards or watchdogs. 
-- Prowl at nights but fear the day, when the sun's light freezes them in place.
-- Immune to charms and magical sleep.
+- Волшебные, медленно двигающиеся статуи чудовищных крылатых существ, обычно используемые в качестве охранников или сторожевых псов.
+- Бродят по ночам, но боятся дня, когда солнечный свет заставляет их замирать на месте.
+- Невосприимчивы к чарам и магическому сну.
 
-## Gelatinous Ooze
+## Студенистая слизь
 
-8 HP, 1 Armor, 15 STR, 6 DEX, 3 WIL, devouring touch (d8)
+8 ОЗ, Броня 1, 15 СИЛ, 6 ЛОВ, 3 ВОЛ, пожирающее касание (к8)
 
-- Large shapeless masses of transparent jelly. Mindlessly hunt for food in dungeons and underground caverns.
-- **Critical Damage**: The target is engulfed, losing d6 STR damage per round until they are consumed.
+- Бродят по ночам, но боятся дня, когда солнечный свет заставляет их замирать на месте.
+- **Критический урон**: Цель поглощена и теряет к6 единиц СИЛ в раунд, пока не будет съедена полностью.
 
-## Ghost
+## Призрак
 
-8 HP, 14 STR, 12 DEX, 15 WIL, life drain (d6)
+8 ОЗ, 14 СИЛ, 12 ЛОВ, 15 ВОЛ, поглощение жизни (к6)
 
-- Incorporeal spirits of the restless dead, vulnerable only to magic and specific anointed rites.
-- **Critical Damage**: Target must save WIL or is possessed, acting only on behalf of the ghost's whims.
+- Бестелесные духи неупокоенных мертвецов, уязвимые только для магии и особых святых ритуалов.
+- **Критический урон**: Цель должна совершить спасбросок ВОЛ или стать одержимой, действуя только по прихоти призрака.
 
-## Ghoul
+## Гуль
 
-6 HP, 14 STR, 8 DEX, 3 WIL, elongated claws (d6+d6)
+6 ОЗ, 14 СИЛ, 8 ЛОВ, 3 ВОЛ, удлиненные когти (к6+к6)
 
-- Grey-skinned man-things wearing shredded clothes that crave only the flesh of the living.
-- **Critical Damage**: Target is _deprived_ from their necrotic wound, dying in d4 days unless treated by a priest or skilled healer. If the body is not burned it later rises as a Ghoul as well.
+- Серокожие человекоподобные твари в лохмотьях, жаждующие лишь плоти живых.
+- **Критический урон**: Цель получает некротическую рану, приводящую к истощению, и умирает через к4 дня, если не будет исцелена жрецом или опытным лекарем. Если тело не сжечь, то позже оно тоже превратится в гуля.
 
-## Giant Scorpion
+## Гигантский скорпион
 
-8 HP, 1 Armor, 11 STR, 12 DEX, 4 WIL, claws (d10+d10)
+8 ОЗ, Броня 1, 11 СИЛ, 12 ЛОВ, 4 ВОЛ, когти (к10+к10)
 
-- Horse-sized arachnids commonly found in dry terrain or caverns.
-- **Critical Damage**: The stinger's poison liquefies the target's insides for an additional d8 STR damage. The STR loss is permanent.
+- Арахниды размером с лошадь, часто встречающиеся в сухой местности или пещерах.
+- **Критический урон**: Яд жала разжижает внутренности цели, нанося дополнительный урон к8 по СИЛ. Потеря СИЛ необратима.
 
-## Gnoll
+## Гнолл
 
-6 HP, 1 Armor, 12 STR, 14 DEX, 8 WIL, spear (d8)
+6 ОЗ, Броня 1, 12 СИЛ, 14 ЛОВ, 8 ВОЛ, копье (к8)
 
-- Ferocious humanoid hyenas spawned from arcane experiments long ago.   
-- Deadly warriors, they attack as a pack (as _detachment_) or on their own.
+- Свирепые гуманоидные гиены, порождtнные древними магическими экспериментами.
+- Смертоносные воины, атакующие стаей (_отряд_) или поодиночке.
 
-## Goblin
+## Гоблин
 
-4 HP, 8 STR, 12 DEX, 8 WIL, dagger (d6) or sling (d6)
+4 ОЗ, 8 СИЛ, 12 ЛОВ, 8 ВОЛ, кинжал (к6) или праща (к6)
 
-- Small, grotesque humanoids with skin in earthly tones of green, brown, and grey.
-- Avoid combat, only attacking when advantageous, using hit-and-run tactics.
-- Sometimes are found using dire wolves as mounts.
+- Маленькие, гротескные гуманоиды с кожей землистых оттенков зеленого, коричневого и серого.
+- Избегают боя, атакуют только когда имеют преимущество, используя тактику бей и беги.
+- Иногда гоблины используют лютых волков в качестве ездовых животных.
 
-## Green Dragon
+## Зеленый дракон
 
-12 HP, 2 Armor, 14 STR, 15 DEX, 18 WIL, bite (d12), _detachment_
+12 ОЗ, Броня 2, 14 СИЛ, 15 ЛОВ, 18 ВОЛ, укус (к12), _отряд_
 
-- Forest-dwelling snakes topped with tall green scales. Collect great hoards of treasure.
-- Use intelligence and cunning to manipulate the weak into their service.
-- **Chlorine Gas**: Anyone nearby must make a DEX save to escape its reach or lose 1d4 STR and becomes _deprived_.
+- Обитающие в лесу змеи, покрытые длинной зеленой чешуей. Собирают несметные груды сокровищ.
+- Используют ум и хитрость, чтобы подчинить слабых и обратить их себе в услужение.
+- **Газообразный хлор**: Любой, кто находится поблизости, должен сделать спасбросок ЛОВ, чтобы избежать его досягаемости, иначе он потеряет 1к4 СИЛ и станет _истощенным_.
 
-## Griffon
+## Грифон
 
-7 HP, 14 STR, 15 DEX, 12 WIL, claws (d6+d6), _detachment_
+7 ОЗ, 14 СИЛ, 15 ЛОВ, 12 ВОЛ, когти (к6+к6), _отряд_
 
-- Ravenous hybrids, with the head and wings of an eagle and the lower body of a lion.
-- Can be used as mounts if taken young and properly trained.
-- Fly and attack at astonishing speeds, diving in to scoop up their prey.
-- **Critical Damage**: Tears flesh and bone from its victim with its razor-sharp beak.
+- Хищные гибриды с головой и крыльями орла, а также телом льва.
+- Их можно использовать в качестве ездовых животных, если взять их детенышами и правильно выдрессировать.
+- Летают и атакуют с поразительной скоростью, пикируя, чтобы схватить свою добычу.
+- **Критический урон**: Вырывает плоть и кости своей жертвы острым клювом.
 
-## Grizzly Bear
+## Гризли
 
-6 HP, 15 STR, 13 DEX, 5 WIL, claws (d8+d8)
+6 ОЗ, 15 СИЛ, 13 ЛОВ, 5 ВОЛ, когти (к8+к8)
 
-- Reddish-brown bears commonly found in mountains, woodlands, and prairies. 
-- Prefer to eat fish and meat, and will attack the rare unfortunate who crosses their path.
-- **Critical Damage**: Bites the victim for an additional d6 STR damage. They bleed out very quickly.
+- Рыжевато-бурые медведи обычно обитают в горах, лесах и степях.
+- Предпочитают питаться рыбой и мясом. Нападают на редких и несчастных путников, которые попадутся им на пути.
+- **Критический урон**: Кусает жертву, нанося дополнительный урон к6 по СИЛ. Жертва очень быстро истекает кровью.
 
-## Harpy
+## Гарпия
 
-8 HP, 7 STR, 12 DEX, 14 WIL, claws (d6+d6)
+8 ОЗ, 7 СИЛ, 12 ЛОВ, 14 ВОЛ, когти (к6+к6)
 
-- Hideous monstrosities with the body of a giant eagle and a humanoid head.
-- Their movements and flight are clumsy due to their disproportionate size. Rely on charmed victims to do anything of note. 
-- **Song**: Anyone nearby must save WIL or be charmed by its voice, following the harpy and defending it from any threat.
+- Отвратительные чудовища с телом гигантского орла и гуманоидной головой.
+- Их движения и полет неуклюжи из-за непропорционального размера. Полагаются на своих очарованных жертв, чтобы совершить что-либо значимое.
+- **Песня**: Любой, кто находится поблизости, должен совершить спасбросок ВОЛ или будет очарован голосом Гарпии, следуя за ней и защищая ее от любой угрозы.
 
-## Hellhound
+## Адская гончая
 
-8 HP, 12 STR, 15 DEX, 9 WIL, bite (d8), fire breath (d6, _blast_)
+8 ОЗ, 12 СИЛ, 15 ЛОВ, 9 ВОЛ, укус (к8), огненное дыхание (к6, _взрыв_)
 
-- Monstrous, intelligent dogs that dwell near volcanoes.
-- Immune to fire and heat damage. Hot enough to melt iron simply by biting it.
+- Чудовищные разумные собаки, обитающие вблизи вулканов.
+- Невосприимчивы к воздействию огня и жара. Достаточно горячи, чтобы плавить железо одним лишь укусом.
 
-## Hobgoblin
+## Хобгоблин
 
-6 HP, 2 Armor, 14 STR, 8 DEX, 11 WIL, mace (d8)
+6 ОЗ, Броня 2, 14 СИЛ, 8 ЛОВ, 11 ВОЛ, булава (к8)
 
-- Large and burly relatives of goblins. Dwell in underground fortresses until called for war.
-- Automatically succeed in Morale Saves if a commander is present. 
-- Trained to fight together. Damage dealt is _enhanced_ if an ally is also engaged with the same enemy.
+- Большие и коренастые родственники гоблинов. Обитают в подземных крепостях, пока не ведут войну.
+- Автоматически проходят спасбросок на боевой дух, если рядом присутствует командир.
+- Обучены сражаться вместе. Наносимый урон Хобгоблина считается _усиленным_, если его союзник также вступает в бой с тем же врагом.
 
-## Hooded Men
+## Люди в капюшонах
 
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8)
+12 ОЗ, 9 СИЛ, 12 ЛОВ, 14 ВОЛ, лей-посох (к8)
 
-- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- **Critical Damage**: Leech a part of the victim's soul (1d4 WIL damage).
-- Carries two of the following spellbooks: _Charm, Hypnotize, Push/Pull, Shield_.
+- Стражи леса — культ, черпающий свою силу из лей линий, рунических камней и тому подобного.
+- **Критический урон**: Высасывает часть души жертвы (урон 1к4 по ВОЛ).
+- Носят с собой две из следующих книг заклинаний: _Очарование_, _Гипноз_, _Толкать/Тянуть_, _Щит_.
 
-## Hydra
+## Гидра
 
-12 HP, 2 Armor, 13 STR, 7 DEX, 12 WIL, bite (d12, _blast_), _detachment_
+12 ОЗ, Броня 2, 13 СИЛ, 7 ЛОВ, 12 ВОЛ, укус (к12, _взрыв_), _отряд_
 
-- Large reptilians with nine serpentine heads. Very difficult to throw off once their quarry is detected.
-- On taking **Critical Damage**, the hydra loses one head. It then continues fighting until no heads remains.
+- Крупные рептилии с девятью змеевидными головами. От Гидры очень трудно сбежать, как только она заприметила свою добычу.
+- Получив **Критический урон**, гидра теряет одну голову. Затем она продолжает сражаться, пока не лишится всех голов.
 
-## Invisible Stalker
+## Невидимый преследователь
 
-8 HP, 12 STR, 12 DEX, 15 WIL, fists (d4+d4)
+8 ОЗ, 12 СИЛ, 12 ЛОВ, 15 ВОЛ, кулаки (к4+к4)
 
-- Intelligent beings shaped into reality by a powerful wizard. Completely invisible and silent.
-- Attacks deal direct STR damage (subtracting Armor).
+- Разумные существа, воплощенные в реальность могущественным волшебником. Совершенно невидимы и бесшумны.
+- Атаки преследователя наносят прямой урон СИЛ (не учитывая Броню).
 
-## Killer Bees
+## Пчелы-убийцы
 
-6 HP, 6 STR, 14 DEX, 8 WIL, sting (d6), _detachment_
+6 ОЗ, 6 СИЛ, 14 ЛОВ, 8 ВОЛ, жало (к6), _отряд_
 
-- Oversized bees that build underground hives. Hyper-aggressive, attack anything that comes near.
-- Produce special honey that heals 1d6 STR. 3 uses.
-- When the bees cause STR damage, the stingers are lodged into the target, dealing d4 damage each round until removed.
+- Крупные пчелы, которые строят подземные ульи. Сверхагрессивные. Нападают на все, что приближается.
+- Производят особенный мед, который лечит 1к6 СИЛ. 3 использования.
+- Когда пчелы наносят урон по СИЛ, жала вонзаются в цель, нанося к4 урона каждый раунд, пока они не будут удалены.
 
-## Kobold
+## Кобольд
 
-3 HP, 8 STR, 13 DEX, 4 WIL, bite (d6), spear (d8)
+3 ОЗ, 8 СИЛ, 13 ЛОВ, 4 ВОЛ, укус (к6), копье (к8)
 
-- Hairless humanoids with canine-like features and scaly skin. Can see perfectly in the dark, but are harmed by direct sunlight. 
-- Use traps and ambush to defeat opponents. Often act in service of a more powerful creatures.
+- Безволосые гуманоиды с собачьими чертами лица и чешуйчатой кожей. Они прекрасно видят в темноте, но им вредят прямые солнечные лучи.
+- Используют ловушки и засады, чтобы одолеть противников. Часто служат более могущественным существам.
 
-## Lamia
+## Ламия
 
-6 HP, 11 STR, 12 DEX, 16 WIL, toothy bite (d8)
+6 ОЗ, 11 СИЛ, 12 ЛОВ, 16 ВОЛ, зубастый укус (к8)
 
-- Centaur-like creatures that prey on the life force of others, seducing their victims through heightened charm and intelligence. Their upper bodies are typically humanoid, the lower half any number of animal hybrids.
-- Inherently magical. Can create illusions, charm creatures, and disguise themselves at will.
-- **Critical Damage**: The target takes d6 WIL damage as their spirit is slowly sapped away. They then become enthralled to the Lamia, obeying its every command while in its presence.
+- Существа, похожие на кентавров, которые питаются жизненной силой других. Они соблазняют своих жертв очарованием и высоким интеллектом. Верхняя часть их тел, как правило, гуманоидная, а нижняя представляет собой гибрид разных животных.
+- Являются магическими существами. Могут создавать иллюзии, очаровывать существ и маскироваться по своей воле.
+- **Критический урон**: Цель получает урон в размере к6 по ВОЛ, поскольку ее душа медленно истощается. Затем они становятся очарованными Ламией, повинуясь каждому ее приказу, пока она находится рядом.
 
-## Lich
+## Лич
 
-14 HP, 1 Armor, 8 STR, 8 DEX, 18 WIL, soul dagger (d8)
+14 ОЗ, Броня 1, 8 СИЛ, 8 ЛОВ, 18 ВОЛ, кинжал души (к8)
 
-- Powerful sorcerers that paid the ultimate price for immortality: their own life. Now their thirst for power knows no bounds.
-- Maintain unlife by binding themselves to an earthly artifact, which is typically protected by at least d6 other undead servants.
-- Carry up to six of the following spellbooks: _Animate Object_, _Arcane Eye_, _Deafen_, _Disassemble_, _Elemental Wall_, _Frenzy_, _Gate_, _Hover_, _Hatred_, _Identify Owner_, _Knock_, _Pacify_, _Raise Dead_, _Raise Spirit_, _Shield_, _Sleep_, _Smoke Form_, _Telekinesis_, _Telepathy_, _Teleport_, _Vision_, _Wizard Mark_.
+- Могущественные маги, которые отдали свою собственную жизнь за бессмертие. Теперь их жажда власти не знает границ.
+- Поддерживают нежизнь, привязывая себя к земному артефакту, который обычно охраняют как минимум к6 нежитей-слуг.
+- Носят с собой до шести из следующих книг заклинаний: _Оживить предмет_, _Магическое око_, _Оглушение_, _Разбор_, _Стихийная стена_, _Ярость_, _Врата_, _Парение_, _Ненависть_, _Определить владельца_, _Стук_, _Умиротворение_, _Призыв духов_, _Щит_, _Сон_, _Форма дыма_, _Телекинез_, _Телепатия_, _Телепортация_, _Видение_, _Знак волшебника_.
 
-## Manticore
+## Мантикора
 
-6 HP, 15 STR, 14 DEX, 12 WIL, claws (d6+d6), tail spike (d8)
+6 ОЗ, 15 СИЛ, 14 ЛОВ, 12 ВОЛ, когти (к6+к6), шип на хвосте (к8)
 
-- Spiteful monstrosities that wear a humanoid face, a lion's body, wings of a bat, and a scorpion's tail. Dwell in mountainous regions, abandoned castles, and forgotten dungeons.
-- Tail spikes act like darts, regrowing after a few days. A single spike is worth 150gp to a collector.
-- **Critical Damage**: Target is _deprived_ until they get a good night's sleep. Until then, they act boorish, selfish, and cruel (or more so, if that already is their nature).
+- Злобные чудовища с гуманоидным лицом, телом льва, крыльями летучей мыши и хвостом скорпиона. Обитают в горных регионах, заброшенных замках и забытых подземельях.
+- Шипы на хвосте действуют как дротики, отрастая заново через несколько дней. Один шип стоит 150 золотых при продаже коллекционеру.
+- **Критический урон**:Цель становится _истощенной_ до тех пор, пока как следует не выспится. До этого момента они ведут себя грубо, эгоистично и жестоко (эффект проявляется сильнее, если такое поведение уже присуще для цели).
 
-## Mimic
+## Мимик
 
-9 HP, 2 Armor, 13 STR, 6 DEX, 12 WIL, bite (d8)
+9 ОЗ, Броня 2, 13 СИЛ, 6 ЛОВ, 12 ВОЛ, укус (к8)
 
-- Malicious shape shifters that take on the form of inanimate objects commonly found in dungeons.
-- Remain motionless while in disguise, surprising anyone that comes near.
-- The mimic's saliva is extremely sticky and difficult to remove. Alchemists will pay up to 150gp for even the smallest vial.
+- Злобные перевертыши, которые принимают форму неодушевленных предметов, обычно встречающихся в подземельях.
+- Оставаясь неподвижными во время маскировки, они застают врасплох любого, кто приблизится.
+- Слюна мимика невероятно липкая, и от нее трудно избавиться. Алхимики готовы заплатить до 150 золотых, даже за самый маленький флакон.
 
-## Mind Lasher
+## Разрушитель разума
 
-12 HP, 8 STR, 12 DEX, 18 WIL, tentacles (d6, _blast_)
+12 ОЗ, 8 СИЛ, 12 ЛОВ, 18 ВОЛ, щупальца (к6, _взрыв_)
 
-- Humanoid creatures with purple skin and squid-like heads. Dwell deep underground or in spacefaring vessels. Feed on the brains of other humanoids, absorbing their memories and life essence. Highly intelligent, but evil beyond belief.
-- **Mind Blast**: Nearby targets must save WIL or lose 1d4 WIL and become paralyzed.
-- **Critical Damage**: A tentacle rips the victim's brain out of their skull.
+- Гуманоидные существа с фиолетовой кожей и головой, напоминающей кальмара. Обитают глубоко под землей или на космических кораблях. Питаются мозгами других гуманоидов, поглощая их воспоминания и жизненную сущность. Очень умные, но невероятно злые по своей природе.
+- **Взрыв разума**: Ближайшие цели должны совершить спасбросок ВОЛ или потерять 1к4 ВОЛ и стать парализованными.
+- **Критический урон**: Щупальце вырывает мозг жертвы из черепа.
 
-## Minotaur
+## Минотавр
 
-12 HP, 1 Armor, 16 STR, 12 DEX, 8 WIL, two-handed axe (d10), charge (d12)
+12 ОЗ, Броня 1, 16 СИЛ, 12 ЛОВ, 8 ВОЛ, двуручный топор (к10), рывок (к12)
 
-- Large humanoids (typically male) with the head of a bull. Dwell in mazes or dungeons.
-- Extraordinary trackers with an excellent sense of smell and navigation skills.
+- Крупные гуманоиды (как правило, мужского пола) с головой быка. Обитают в лабиринтах или подземельях.
+- Исключительные следопыты с превосходным обонянием и навыками навигации.
 
-## Mummy
+## Мумия
 
-6 HP, 12 STR, 8 DEX, 6 WIL, necrotic touch (d10)
+6 ОЗ, 12 СИЛ, 8 ЛОВ, 6 ВОЛ, некротическое касание (к10)
 
-- Undead humanoids wrapped in funerary cloth. Found in pyramids, ruins, temples, and tombs.
-- **Critical Damage**: Target is infected with mummy rot, and is unable to recover STR until they are cured by a specialist healer. The target is also _deprived_.
+- Неживые гуманоиды, завернутые в погребальную ткань. Встречаются в пирамидах, руинах, храмах и гробницах.
+- **Критический урон**: Цель заражена гнилью мумии и не может восстанавливать СИЛ до тех пор, пока ее не вылечит специалист-целитель. Цель также _истощена_.
 
-## Naga
+## Нага
 
-6 HP, 1 Armor, 14 STR, 12 DEX, 14 WIL, sword (d6), bite (d10)
+6 ОЗ, Броня 1, 14 СИЛ, 12 ЛОВ, 14 ВОЛ, меч (к6), укус (к10)
 
-- Humanoids with the lower body, tail, and neck of snakes. Dwell in hot jungles and temples lost to time.
-- Use cunning and hypnosis to capture other creatures to be enslaved.
-- **Gaze**: A target facing the Naga is hypnotized, falling under its will. Its victims cannot be compelled to violence.
+- Гуманоиды с нижней частью тела, хвостом и шеей змеи. Обитают в жарких джунглях и давно затерянных храмах.
+- Используют хитрость и гипноз, чтобы захватывать других существ в рабство.
+- **Взор**: Цель, обращенная к Наге, загипнотизирована и подчиняется ее воле. Жертва также не может быть принуждена к насилию.
 
-## Night Cat
+## Ночной кот
 
-6 HP, 9 STR, 14 DEX, 5 WIL, claws (d6+d6)
+6 ОЗ, 9 СИЛ, 14 ЛОВ, 5 ВОЛ, когти (к6+к6)
 
-- Intelligent, nocturnal marsupials that make their homes in forests and swamps. Hunt in
-packs.
-- Critical Damage: The Night Cat begins to eat the target (d4 STR damage) while they are
-still alive.
+- Разумные ночные сумчатые, которые обустраивают свои жилища в лесах и болотах. Охотятся стаями.
+- **Критический урон**: Ночной кот начинает поедать цель (урон к4 по СИЛ), пока она еще жива.
 
-## Night Hag
+## Ночная карга
 
-8 HP, 9 STR, 11 DEX, 16 WIL, talons (d8+d8)
+8 ОЗ, 9 СИЛ, 11 ЛОВ, 16 ВОЛ, когти (к8+к8)
 
-- Hideous old women that dwell in dead forests, swamps, and bogs.
-- Carry three of the following spellbooks: _Arcane Eye_, _Disguise_, _Fog Cloud_, _Identify Owner_, _Smoke Form_.
+- Отвратительные старухи, которые живут в мертвых лесах, болотах и топях.
+- Носят с собой три из следующих книг заклинаний: _Магическое око_, _Маскировка_, _Облако тумана_, _Определить владельца_, _Форма дыма_.
 
-## Nightmare
+## Кошмар
 
-8 HP, 15 STR, 12 DEX, 8 WIL, flaming hooves (d8+d8)
+8 ОЗ, 15 СИЛ, 12 ЛОВ, 8 ВОЛ, пылающие копыта (к8+к8)
 
-- Intelligent, demonic horses with eyes like burning coals, smoldering nostrils, and flaming hooves.
-- Melee attacks against the Nightmare are _impaired_ due to the thick clouds of smoke it produces.
+- Разумные, демонические лошади с глазами, подобными горящим углям, тлеющими ноздрями и пылающими копытами.
+- Атаки в ближнем бою против Кошмара _ослаблены_ из-за густых клубов дыма, которые он выпускает.
 
-## Ogre
+## Огр
 
-6 HP, 1 Armor, 16 STR, 8 DEX, 6 WIL, club (d10)
+6 ОЗ, Броня 1, 16 СИЛ, 8 ЛОВ, 6 ВОЛ, дубина (к10)
 
-- Massive, gluttonous brutes of ill-spirit and low intelligence.
-- Easily impressed by shiny materials, keeping sacks of gold and treasure in their lairs.
+- Массивные, прожорливые существа с дурным характером и низким интеллектом.
+- Их легко впечатлить блестящими материалами, поэтому они хранят в своих логовах сокровища и мешки с золотом.
 
-## Owlbear
+## Медвесыч
 
-9 HP, 16 STR, 12 DEX, 5 WIL, beak (d10), claws (d8+d8)
+9 ОЗ, 16 СИЛ, 12 ЛОВ, 5 ВОЛ, клюв (к10), когти (к8+к8)
 
-- Bear-like carnivores with the face of an owl. Found in dense forests. Rumored spawn of a magical mishap.
-- **Critical Damage**: A piece of armor is rent and destroyed.
+- Похожие на медведей хищники с головой совы. Обитают в густых лесах. Известные порождения магической неудачи.
+- **Критический урон**: Часть брони разрывается и уничтожается.
 
-## Phoenix
+## Феникс
 
-4 HP, 15 STR, 13 DEX, 12 WIL, talons (d10+d10)
+4 ОЗ, 15 СИЛ, 13 ЛОВ, 12 ВОЛ, когти (к10+к10)
 
-- Intelligent, hawk-like spirits of pure flame, found in isolated deserts and high mountains.
-- If killed, they explode in a burst of flames. They are reborn 1d3 days later from the ashes.
-- Their feathers are highly-sought after for their healing properties.
+- Разумные, похожие на ястребов духи чистого пламени, обитающие в безлюдных пустынях и высоких горах.
+- Если их убить, они взорвутся во вспышке пламени. Фениксы возрождаются из пепла через 1к3 дня.
+- Их перья высоко ценятся за целебные свойства.
 
-## Pixie
+## Пикси
 
-3 HP, 3 STR, 15 DEX, 13 WIL
+3 ОЗ, 3 СИЛ, 15 ЛОВ, 13 ВОЛ
 
-- Tiny humanoids with insectoid wings. Naturally invisible.
-- Can cast _Sleep_ and _Masquerade_ at will.
+- Крошечные гуманоиды с крыльями, как у насекомых. Невидимые по своей природе.
+- Могут по своей воле сотворять _Сон_ и _Маскарад_.
 
-## Purple Worm
+## Фиолетовый червь
 
-18 HP, 1 Armor, 18 STR, 8 DEX, 6 WIL, bite (d12), _detachment_
+18 ОЗ, Броня 1, 18 СИЛ, 8 ЛОВ, 8 ВОЛ, укус (к12), _отряд_
 
-- Gargantuan worms that lair in enormous burrows deep underground, only coming to the surface to eat. Found in high deserts and hot tundra.
-- **Critical Damage**: The target is devoured, taking d8 STR damage from the acid in the worm's stomach.
+- Гигантские черви, которые прячутся в огромных норах глубоко под землей и выходят на поверхность лишь для того, чтобы раздобыть себе пропитание. Встречаются в высокогорных пустынях и жарких тундрах.
+- **Критический урон**: Цель поглощается и получает к8 урона по СИЛ от кислоты в желудке червя.
 
-## Red Cap
+## Красный колпак
 
-6 HP, 6 STR, 12 DEX, 8 WIL, dual sickles (d6+d6)
+6 ОЗ, 6 СИЛ, 12 ЛОВ, 8 ВОЛ, парные серпы (к6+к6)
 
-- Born from blood left to rot in the land of Fairy. Their hats are a deep red from the blood they bathe in.
-- Ignore those with little to live for, as there is no pleasure in their murder.
-- **Critical Damage**: Target is eviscerated, the spray of their blood restoring STR loss suffered by the Red Cap.
+- Рожденные из крови, оставленной гнить в землях фей. Их шляпы темно-красные от крови, в которой они купаются.
+- Не обращают внимания на тех, кому незачем жить, поскольку в их убийстве нет никакого удовольствия.
+- **Критический урон**: Цель выпотрошена, и брызги ее крови восстанавливают потерянную Красным колпаком СИЛ.
 
-## Reptilian
+## Рептилия
 
-5 HP, 1 Armor, 14 STR, 12 DEX, 5 WIL, bone spear (d8)
+5 ОЗ, Броня 1, 14 СИЛ, 12 ЛОВ, 5 ВОЛ, костяное копье (к8)
 
-- Amphibian humanoids that live in large tribes near swamps and jungles.
-- Craft their armor and weapons from the bones of their prey. They will eat anything, including humanoids.
+- Гуманоиды-амфибии, живущие большими племенами вблизи болот и джунглей.
+- Изготавливают себе доспехи и оружие из костей своей добычи. Они едят что угодно, включая гуманоидов.
 
-## Root Goblin
+## Корневой гоблин
 
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
+4 ОЗ, 8 СИЛ, 14 ЛОВ, 8 ВОЛ, копье (к6)
 
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Root Goblins prize spellbooks and are always willing to trade.
+- Избегают боя, если у них нет преимущества (например, превосходящей численности).
+- Охраняют украденные вещи до самой смерти.
+- Корневые гоблины ценят книги заклинаний и всегда готовы к обмену.
 
-## Root Witch
+## Корневая ведьма
 
-8 HP, 9 STR, 16 DEX, 14 WIL, tuber-fingers (d6)
+8 ОЗ, 9 СИЛ, 16 ЛОВ, 14 ВОЛ, пальцы-клубни (к6)
 
-- Excellent tunnelers that hide underground near water. Wiggle tiny fronds into the air as lures.
-- Above-ground, appear vaguely humanoid with the face of a rotted tree stump.
-- Will exchange rare minerals for a “fresh corpse” of any kind.
+- Искусные землекопы, которые прячутся под землей рядом с водой. Они шевелят крошечными листочками в воздухе, как приманкой.
+- На поверхности они смутно выглядят как гуманоиды с лицом, напоминающим сгнивший пень.
+- Готовы обменять редкие минералы на «свежий труп» любого вида.
 
-## Rust Monster
+## Ржавник
 
-5 HP, 16 STR, 13 DEX, 5 WIL, bite (d6)
+5 ОЗ, 16 СИЛ, 13 ЛОВ, 5 ВОЛ, укус (к6)
 
-- Armadillo-like creatures with club-like tails and long antennae. Feed on iron and rusted metal.
-- Any mundane metals their antennae touch instantly become rust. Can smell metal from a long distance away.
-- **Critical Damage**: Metal armor rusts into useless weight.
+- Существа, похожие на броненосцев, с булавовидными хвостами и длинными антеннами. Питаются железом и ржавым металлом.
+- Любой обычный металл, к которому прикасаются их антенны, мгновенно покрывается ржавчиной. Чувствуют запах металла на большом расстоянии.
+- **Критический урон**: Металлическая броня ржавеет до состояния бесполезного груза.
 
-## Sea Hag
+## Морская карга
 
-6 HP, 11 STR, 15 DEX, 14 WIL, long claws (d6+d6)
+6 ОЗ, 11 СИЛ, 15 ЛОВ, 14 ВОЛ, длинные когти (к6+к6)
 
-- Ghostly, green-skinned hags that dwell in seaweed forests and warm shallow waters.
-- Immune to magic from spellbooks. 
-- **Hideous Gaze**: A target is overcome with fear (HP drops to 0). WIL save each round to break the spell.
+- Призрачные зеленокожие ведьмы, обитающие в лесах из водорослей и на теплом мелководье.
+- сприимчивы к магии из книг заклинаний.
+- **Ужасающий взор**: Цель охвачена страхом (ОЗ падает до 0). Спасбросок ВОЛ каждый раунд, чтобы разрушить чары.
 
-## Shadow
+## Тень
 
-14 HP, 1 STR, 18 DEX, 14 WIL, draining touch (d6, ignores armor) 
+14 ОЗ, 1 СИЛ, 18 ЛОВ, 14 ВОЛ, иссушающее касание (к6, игнорирует броню)
 
-- Incorporeal monsters that look like animated shadows. Unharmed by mundane attacks, sleep or mind control.
-- **Critical Damage**: Target loses d4 STR. If reduced to 0 STR, they become a shadow as well.
+- Бестелесные монстры, которые выглядят как ожившие тени. Неуязвимы для обычных атак, сна и контроля разума.
+- **Критический урон**: Цель теряет к4 СИЛ. Если значение СИЛ упадет до 0, цель также станет тенью.
 
-## Shambling Mound
+## Ползающая насыпь
 
-9 HP, 15 STR, 6 DEX, 8 WIL, tendrils (d8+d8), _detachment_
+9 ОЗ, 15 СИЛ, 6 ЛОВ, 8 ВОЛ, усики (к8+к8), _отряд_
 
-- Tall humanoids made of slimy vegetation. Dwell in dark swamps and damp undergrounds.
-- **Critical Damage**: Target is swallowed whole and dragged away.
+- Высокие гуманоиды, состоящие из склизкой растительности. Обитают в темных болотах и сырых подземельях.
+- **Критический урон**: Цель проглатывают целиком и утаскивают прочь.
 
-## Skeleton
+## Скелет
 
-5 HP, 1 Armor, 8 STR, 13 DEX, 0 WIL, rusty sword (d6) or bow (d6)
+5 ОЗ, Броня 1, 8 СИЛ, 13 ЛОВ, 0 ВОЛ, ржавый меч (к6) или лук (к6)
 
-- Frequently found serving a master or necromancer, often in groups of 3 or more.
-- Found wearing whatever was on them at the time of their death.
-- If a skeleton is killed and its bones are not scattered, it reforms.
+- Часто встречаются на службе у хозяина или некроманта, обычно передвигаются группами по 3 и более.
+- Их находят одетыми в то, что было на них в момент смерти.
+- Если скелет убит и его кости не разбросаны, он собирается обратно.
 
-## Sky Giant
+## Небесный гигант
 
-12 HP, 1 Armor, 16 STR, 12 DEX, 14 WIL, mace (d10), _detachment_
+12 ОЗ, Броня 1, 16 СИЛ, 12 ЛОВ, 14 ВОЛ, булава (к10), _отряд_
 
-- Towering, white-skinned giants that live in castles high in the mountains.
-- Missile attacks against them are _impaired_ due to the powerful winds surrounding them.
+- Исполинские белокожие гиганты, живущие в замках высоко в горах.
+- Дальнобойные атаки против них _ослаблены_ из-за сильных ветров, окружающих их.
 
-## Sphinx
+## Сфинкс
 
-18 HP, 12 STR, 13 DEX, 18 WIL, claws (d8+d8, _blast_), beak (d10)
+18 ОЗ, 12 СИЛ, 13 ЛОВ, 18 ВОЛ, когти (к8+к8, _взрыв_), клюв (к10)
 
-- Mythical beasts with the upper body and head of a human, the wings of an eagle, and the body of a lion. Immune to magic of any kind.
-- Poses riddles to anyone they meet. Failure to answer correctly is usually met with death. They know almost everything worth knowing.
-- **Roar**: Anyone in earshot must save WIL or flee in fear.
+- Мифические звери с верхней частью тела и головой человека, крыльями орла и телом льва. Невосприимчивы к любой возможной магии.
+- Задает загадки каждому встречному. Неправильный ответ обычно приводит к смерти. Они знают почти все, что нужно знать.
+- **Рык**: Любой, кто находится в пределах слышимости, должен совершить спасбросок ВОЛ, иначе он убегает от страха.
 
-## Storm Giant
+## Штормовой гигант
 
-18 HP, 2 Armor, 18 STR, 16 DEX, 18 WIL, great sword (d12), _detachment_
+18 ОЗ, Броня 2, 18 СИЛ, 16 ЛОВ, 18 ВОЛ, двуручный меч (к12), _отряд_
 
-- Building-sized humanoids with bronze-hued skin and light-colored hair. Live on the highest mountain peaks and rockiest coastlines.
-- Unharmed by lightning, can summon storm clouds at their will. Can fly with the wind as a their chariot.
-- **Thunderclap**: Deals 4 STR damage against a single target. Targets wearing metal armor take double damage.
+- Гуманоиды размером со здание, с кожей бронзового оттенка и светлыми волосами. Живут на самых высоких горных вершинах и скалистых побережьях.
+- Молния не может навредить Гиганту, он призывает грозовые тучи по своей воле. Могут летать, используя ветер как свою колесницу.
+- **Громовой хлопок**: Наносит 4 урона по СИЛ одной цели. Цели, одетые в металлическую броню, получают двойной урон.
 
-## Swine Thing
+## Свиная тварь
 
-9 HP, 16 STR, 8 DEX, 13 WIL, gore (d6+d6)
+9 ОЗ, 16 СИЛ, 8 ЛОВ, 13 ВОЛ, резня (к6+к6)
 
-- Obese humanoids that transform into massive porcine monstrosities to feast on human flesh.
-- Prefer to hunt in isolated settlements close to forests and wetlands. Can only shapeshift at night.
-- **Charm**: Target obeys the swine's every command until it is killed. WIL save once per round to break free.
+- Тучные гуманоиды, превращающиеся в массивных свиноподобных чудовищ, чтобы пожирать человеческую плоть.
+- Предпочитают охотиться в уединенных поселениях вблизи лесов и болот. Могут менять форму только ночью.
+- **Очарование**: Цель подчиняется любым приказам свиньи, пока не будет убита. Спасбросок ВОЛ раз в раунд, чтобы освободится от эффекта.
 
-## Titan
+## Титан
 
-18 HP, 3 Armor, 16 STR, 15 DEX, 18 WIL, lightning sword (d12), _detachment_
+18 ОЗ, Броня 3, 16 СИЛ, 15 ЛОВ, 18 ВОЛ, меч молний (к12), _отряд_
 
-- Mythical, humanoid giants of radiant beauty and powerfully athletic bodies. Beneficent of character, but prone to megalomania. 
-- Natives of other planes of existence, but sometimes have strongholds in the mortal world.
-- Can levitate, shape shift, and sculpt elements at will.
+- Мифические гуманоидные гиганты ослепительной красоты с мощными атлетическими телами. Благородные по характеру, но склонные к мании величия.
+- Являются уроженцами других планов бытия, но иногда возводят твердыни в мире смертных.
+- Могут левитировать, изменять облик и управлять стихиями по своей воле.
 
-## Treant
+## Древень
 
-10 HP, 3 Armor, 15 STR, 3 DEX, 12 WIL, roots (d8+d8, _blast_)
+10 ОЗ, Броня 3, 15 СИЛ, 3 ЛОВ, 12 ВОЛ, корни (к8+к8, _взрыв_)
 
-- Sentient, bipedal trees with a vaguely humanoid face on their trunks. Found in the deepest part of the wood.
-- Speak slowly and ponderously, with a deep voice. Timeless, living for thousands of years.
+- Разумные двуногие деревья со смутно гуманоидным лицом на стволе.
+- Говорят медленно и веско, низким голосом. Неподвластны времени, живут тысячи лет.
 
-## Triton
+## Тритон
 
-6 HP, 12 STR, 15 DEX, 12 WIL, trident (d8)
+6 ОЗ, 12 СИЛ, 15 ЛОВ, 12 ВОЛ, трезубец (к8)
 
-- Aquatic humanoids with silvery skin, blue-green hair, and scaled legs ending in fins. Dwell in warmer waters close to land.
-- Lair in beautiful castles sculpted from sea rock and coral. Command vast schools of fish for both protection and food.
+- Водные гуманоиды с серебристой кожей, сине-зелеными волосами и чешуйчатыми ногами, переходящими в плавники. Обитают в более теплых водах вблизи суши.
+- Обитают в прекрасных замках, высеченных из морской скалы и кораллов. Управляют огромными косяками рыб как для защиты, так и для пропитания.
 
-## Troll
+## Тролль
 
-14 HP, 1 Armor, 14 STR, 12 DEX, 4 WIL, bite (d10), claws (d8+d8)
+14 ОЗ, Броня 1, 14 СИЛ, 12 ЛОВ, 4 ВОЛ, когти (к8+к8), дубина (к10)
 
-- Giant, warty humanoids of flesh and bark. Dwell underground or in deep forests, as well as the ruined homes of their former victims. Carnivorous. 
-- When taking **Critical Damage**, a Troll will continue fighting, despite loss of flesh and limb. Only when their STR is 0 are they truly killed. Unless their heads are bathed in acid, fire, or powerful magic, they will fully regenerate within 1d4 days.
+- Гигантские бородавчатые гуманоиды из плоти и коры. Обитают под землей или в глубине лесов, а также в разрушенных жилищах своих прежних жертв. Плотоядны.
+- Получив **Критический урон**, тролль продолжает сражаться, несмотря на потерю плоти и конечностей. Только когда его значение СИЛ станет равным 0, он умрет окончательно. Если не окунуть голову тролля в кислоту, огонь или мощную магию, тролль полностью восстановится в течение 1к4 дней.
 
-## Unicorn
+## Единорог
 
-6 HP, 14 STR, 12 DEX, 14 WIL, horn (d10, ignores armor)
+6 ОЗ, 14 СИЛ, 12 ЛОВ, 14 ВОЛ, рог (к10, игнорирует броню)
 
-- Magical horses with a single long horn on their foreheads. Timid, but proud and willful, are seen as divine beings.
-- Their hair is worth a small fortune due to its powerful healing properties.
+- Магические лошади с единственным длинным рогом на лбу. Робкие, но гордые и своенравные, почитаются как божественные существа.
+- Их волосы стоят целое состояние благодаря мощным целебным свойствам.
 
-## Vampire
+## Вампир
 
-12 HP, 1 Armor, 14 STR, 12 DEX, 16 WIL, bite (d10)
+12 ОЗ, Броня 1, 14 СИЛ, 12 ЛОВ, 16 ВОЛ, укус (к10)
 
-- Charming, undead creatures that drink the blood of mortals. Act at night and sleep in a coffin during the day. Can change into a bat at will.
-- **Regeneration**: A damaged vampire regains 6 HP when it bites a target that has blood. If killed, it becomes a cloud of gas and retreats to its coffin, reforming at the next nightfall. Can only be killed if exposed to sunlight or if the coffin is destroyed.
-- **Critical Damage**: The vampire drains the target's essence, dealing d12 damage to WIL. If the target reaches 0 WIL this way, it dies and is raised as a thrall of the vampire.
+- Чарующие неживые существа, пьющие кровь смертных. Активны по ночам, а днем вампиры спят в гробу. Могут превращаться в летучую мышь по своей воле.
+- **Регенерация**: Поврежденный вампир восстанавливает 6 ОЗ, когда кусает цель, у которой есть кровь. Если его убить, он превращается в облако газа и возвращается в свой гроб, чтобы возродиться с наступлением следующей ночи. Может быть убит только при попадании на него солнечного света или при разрушении гроба.
+- **Критический урон**: Вампир высасывает жизненную сущность цели, нанося к12 урона по ВОЛ. Если таким образом ВОЛ цели опускается до 0, она умирает и восстает траллом вампира.
 
-## Viper
+## Гадюка
 
-3 HP, 5 STR, 12 DEX, 3 WIL, bite (d6)
+3 ОЗ, 5 СИЛ, 12 ЛОВ, 3 ВОЛ, укус (к6)
 
-- Poisonous snakes often found in caves, pits, and other dark places. An antitoxin can be made from their poison sacs.
-- Use heat and smell to track their victims.
-- **Critical Damage**: Target is poisoned, dying in 1d12 hours without a cure.
+- Ядовитые змеи, часто встречающиеся в пещерах, ямах и других темных местах. Из их ядовитых желез можно приготовить антитоксин.
+- Используют тепло и запах, чтобы выслеживать своих жертв.
+- **Критический урон**: Цель отравлена и умрет в течение 1к12 часов, если не применить противоядие.
 
-## Warp Panther
+## Искажающая пантера
 
-8 HP, 13 STR, 16 DEX, 12 WIL, tentacles (d8+d8, _blast_), bite (d10)
+8 ОЗ, 13 СИЛ, 16 ЛОВ, 12 ВОЛ, щупальца (к8+к8, _взрыв_), укус (к10)
 
-- Grotesque panther-like predators with long razored tentacles growing out of their backs.
-- Resistant to magical attacks. Caster must make a WIL save for the intended effect to succeed.
-- Can teleport a short distance away at will. Hate Blink Dogs.
+- Гротескные хищники, похожие на пантер, с длинными острыми щупальцами, растущими у них на спине.
+- Устойчивы к магическим атакам. Заклинатель должен совершить спасбросок ВОЛ, чтобы добиться желаемого эффекта.
+- Пантеры могут телепортироваться на небольшое расстояние по своей воле. Ненавидят Мерцающих псов.
 
-## Warrior Snail
+## Улитка-воин
 
-4 HP, 2 Armor, 14 STR, 6 DEX, 3 WIL, tentacles (d8+d8)
+4 ОЗ, Броня 2, 14 СИЛ, 6 ЛОВ, 3 ВОЛ, щупальца (к8+к8)
 
-- Giant armored snails with heavy, club-like tentacles. 
-- Some species have colorful shells that can reflect magical attacks.
+- Гигантские бронированные улитки с тяжелыми, похожими на дубинки щупальцами.
+- У некоторых видов есть разноцветные панцири, которые могут отражать магические атаки.
 
-## Water Elemental
+## Водный элементаль
 
-14 HP, 15 STR, 16 DEX, 4 WIL, spray (d8)
+14 ОЗ, 15 СИЛ, 16 ЛОВ, 4 ВОЛ, водяная струя (к8)
 
-- Rare spirits of lakes, rivers, and seas. 
-- Mundane attacks against the Water Elemental are _impaired_.
-- **Critical Damage**: Target is enveloped by the water and drowns in three rounds.
+- Редкие духи озер, рек и морей.
+- Обычные атаки против Водного элементаля _ослаблены_.
+- **Критический урон**: Цель окутана водой и утонет в течение трех раундов.
 
-## Werewolf
+## Оборотень
 
-8 HP, 15 STR, 14 DEX, 6 WIL, claws (d6+d6), bite (d8)
+8 ОЗ, 15 СИЛ, 14 ЛОВ, 6 ВОЛ, когти (к6+к6), укус (к8)
 
-- Ferocious lycanthropes that can transform into a wolf-shape at will.
-- Mundane attacks are _impaired_ against werewolves, but attacks with weapons made of silver are _enhanced_.
-- **Critical Damage**: Target becomes infected with lycanthropy, transforming into a werewolf by the next full moon.
+- Свирепые ликантропы, способные по своей воле превращаться в волка.
+- Обычные атаки против оборотней _ослаблены_, но атаки оружием, сделанным из серебра, _усилены_.
+- **Критический урон**: Цель заражается ликантропией и к следующему полнолунию превращается в оборотня.
 
-## Wight
+## Умертвие
 
-12 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, long sword (d10)
+12 ОЗ, Броня 3, 16 СИЛ, 8 ЛОВ, 12 ВОЛ, длинный меч (к10)
 
-- Grotesque, fallen warriors, raised from death for ill purpose. Often astride equally nightmarish steeds, leading lesser undead creatures into battle.
-- **Critical Damage**: On a fail, any STR loss is permanent.
+- Гротескные, павшие воины, восставшие из мертвых со злыми намерениями. Часто верхом на столь же кошмарных скакунах, они ведут в бой более слабую нежить.
+- **Критический урон**: В случае провала спасброска, любая потеря СИЛ является необратимой.
 
-## Will-o-Wisp
+## Блуждающий огонек
 
-3 HP, 6 STR, 17 DEX, 12 WIL
+3 ОЗ, 6 СИЛ, 17 ЛОВ, 12 ВОЛ
 
-- Nocturnal spirits of cool flame, commonly found in dense woodlands, marshes, and swamps.
-- Known to lead travelers astray, to a corpse, or back home again.
+- Ночные духи холодного пламени, обычно обитающие в густых лесах, болотах и топях.
+- Известно, что они сбивают путешественников с пути, ведут их к смерти или обратно домой.
 
-## Wolf
+## Волк
 
-6 HP, 12 STR, 14 DEX, 8 WIL, bite (d8)
+6 ОЗ, 12 СИЛ, 14 ЛОВ, 8 ВОЛ, укус (к8)
 
-- Large canines that dwell primarily in forest or tundra. 
-- Can be trained with effort if captured at a young age.
+- Крупные псовые, обитающие преимущественно в лесах или тундре.
+- Их можно дрессировать, если поймать в молодом возрасте.
 
-## Wood Troll
+## Древесный тролль
 
-10 HP, 15 STR, 12 DEX, 7 WIL, bite (d8), club (d10)
+10 ОЗ, 15 СИЛ, 12 ЛОВ, 7 ВОЛ, укус (к8), дубина (к10)
 
-- Large humanoids with elongated arms made of bark or root. They live in forests, sharing a deep connection with the vegetation around them.
-- If killed, they will slowly regenerate unless their corpse is taken out of the forest or burned with fire.
-- **Critical Damage**: Moss and twigs begin growing out of target's wounds.
+- Крупные гуманоиды с удлиненными руками из коры или корней. Они живут в лесах, испытывая глубокую связь с окружающей их растительностью.
+- После смерти они будут медленно регенерировать, если не вынести их труп из леса или не сжечь его на костре.
+- **Критический урон**: Из ран цели начинают расти мох и ветки.
 
-## Wyvern
+## Виверна
 
-11 HP, 15 STR, 14 DEX, 13 WIL, stinger (d10)
+11 ОЗ, 15 СИЛ, 14 ЛОВ, 13 ВОЛ, жало (к10)
 
-- Large, intelligent, winged reptiles. Dwell in any terrain, but favor dry cliffs.
-- Shy away from other creatures, preferring to silently stalk their targets from afar.
-- **Critical Damage**: The victim is impaled and held in place. The wyvern then bites their head off.
+- Крупные, умные, крылатые рептилии. Обитают в любой местности, но предпочитают сухие скалы.
+- Сторонятся других существ, предпочитая бесшумно подкрадываться к своим целям издалека.
+- **Критический урон**: Жертва пронзена и обездвижена. Затем она откусывает жертве голову.
 
-## Zombie
+## Зомби
 
-2 HP, 12 STR, 6 DEX, 3 WIL, jagged nails (d6)
+2 ОЗ, 12 СИЛ, 6 ЛОВ, 3 ВОЛ, зазубренные ногти (к6)
 
-- Re-animated corpse brought back through necromantic ritual or fell influence. Immune to all mind-influencing effects.
-- If not utterly destroyed (by fire, complete dismemberment, etc.), the Zombie will rise again within a few minutes.
-- **Critical Damage**: Target is infected and becomes _deprived_. Without the services of a specialist or healer, they will become a zombie in 1d4 days.
+- Оживленный труп, возвращенный к жизни с помощью ритуала некромантии или пагубного влияния. Невосприимчивы ко всем эффектам воздействия на сознание.
+- Если зомби не будет уничтожен полностью (огнем, полным расчленением и т.д.), он воскреснет в течение нескольких минут.
+- **Критический урон**: Цель заражена и становится _истощенной_. Без услуг специалиста или целителя они превратятся в зомби в течение к4 дней.

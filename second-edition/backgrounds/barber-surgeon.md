@@ -1,46 +1,46 @@
 ---
-title: Barber-Surgeon
+title: Цирюльник
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Barber-Surgeon
+# Цирюльник
 
-> You walk the line between healer and harrower, knowing the frailty of the flesh but also the secrets that lie within. With the right tools, life and death are merely words.
+> Вы балансируете на грани между целителем и палачом, знаете хрупкость плоти и тайны, скрытые внутри. Жизнь и смерть — всего лишь слова, если у вас есть нужные инструменты.
 
-## Names
+## Имена
 
-Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johanna  
+Уилмот, Пэтч, Лансет, Соубоунс, Тео, Катвелл, Хьюмор, Лэндсфорд, Гудай, Джоанна.
 
-## Starting Gear
+## Начальное снаряжение:
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Bonesaw (d6)
-- Bandages (3 uses)
-- Leech (restores 1 STR, 3 uses)
-- Stained Medical Finery (_petty_)
+- 3к6 золотых монет
+- Ампутационный нож (к6а)
+- Бинты (3 использования)
+- Запятнанная одежда врача (_мелкий_)
+- Пайки (3 использований)
+- Пиявка (восстанавливает 1 СИЛ, 3 использования)
+- Факел (3 использования)
 
-## How have you "improved" yourself? Roll 1d6:
+## Как вы «усовершенствовали» себя? Бросьте 1к6:
 
-|       |                                                                                                                                                                                                                                                            |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | You have a replacement **eye** that can magnify objects, act as a telescope, and provide minimal night vision. You cannot wear anything metal on your head, and the presence of strong magnets make you _deprived_.                                                |
-| **2** | One **foot** is mostly metal (kick, d6), and you treat some Tough terrain as **Easy**. Carry a **Oil Can** (6 uses). Without a daily application, you are _deprived_ and noisy.    |
-| **3** | One of your fingers has been swapped, the bone replaced by gold and iron. Take a **Hook** and a **Screwdriver** that can attach to the fingertip.                                                                                                            |
-| **4** | Both **ears** have been surgically enhanced, tripling your hearing. You can focus on a specific sound, such as a conversation, at a great distance. You wear an ear flap to protect against sudden loud noises (WIL save to avoid temporary paralysis). |
-| **5** | Your **chest** is lined with alchemical sigils, _toughening the skin_ (1 Armor). Wearing other metallic armor nullifies the effect.                                                                                                                              |
-| **6** | One **arm** is fully metal and comes off at the shoulder. It can be used as a weapon (d8, _bulky_ when not attached) and can move independently if you are within sight of it.                                                                                 |
+|       |                                                                                                                                                                                                                                                                                                             |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Ваш искусственный _глаз_ позволяет рассматривать предметы, как в телескоп, и минимально ориентироваться в темноте. Однако вы не можете надевать на голову металлические предметы, а сильные магниты приводят вас к _истощению_.                                                                             |
+| **2** | Одна из ваших **ног** почти полностью металлическая (пинок наносит 1к6), что позволяет вам считать некоторые типы труднопроходимой местности как **Легкая**. У вас при себе **Масленка** (6 использований); без ежедневного смазывания вы становитесь _истощенным_ и издаете скрип при движении.            |
+| **3** | Кость одного из ваших пальцев заменена протезом из золота и железа. У вас есть **Крюк** и **Отвертка**, которые можно закрепить на кончике пальца.                                                                                                                                                          |
+| **4** | Ваши **Уши** хирургически модифицированы, что значительно утончает ваш слух. Вы можете сосредоточиться на определенном звуке, например, разговоре на большом расстоянии. Вы носите ушные накладки для защиты от внезапных громких звуков  (успешный спасбросок ВОЛ позволяет избежать временного паралича). |
+| **5** | Ваша **грудь** покрыта алхимическими символами, делающими кожу более _прочной_ (Броня +1). При этом ношение металлической брони нейтрализует этот эффект.                                                                                                                                                   |
+| **6** | Одна из ваших **рук** полностью металлическая и может отсоединяться от плеча. Ее можно использовать как оружие (d8; _громоздкий_, когда не прикреплена) и она способна двигаться самостоятельно, если вы находитесь в пределах видимости.                                                                   |
 
-## What rare tool is essential to your work? Roll 1d6:
+## Какой редкий инструмент незаменим в вашей работе? Бросьте 1к6:
 
-|       |                    |                                                                                                                                                                   |
-| ----- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Regrowth Salve** | Regrows a body part over the course of a day. 1 use.                                                                                                                    |
-| **2** | **Graftgrub**      | A small worm that can fuse inanimate objects with parts of the body.  1 use.                                                                                      |
-| **3** | **Woundwax**       | Heals wounds from fire or chemicals (restoring full STR) but nothing else. 2 uses.                                                                               |
-| **4** | **Quicksilver**    | A stimulant. Go first in combat, and automatically pass any WIL saves for one hour. _Addictive_: Save STR or become _deprived_ after 24 hours without it. 4 uses. |
-| **5** | **Pneuma Pump**    | Portable iron lungs (_bulky_). Enables life-saving surgery or underwater breathing.                                                                               |
-| **6** | **Lodestone**      | Draws out dangerous elements from the body and acts as a powerful magnetic force.                                                                                 |
+|       |                          |                                                                                                                                                                                                                                           |
+| ----- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Мазь регенерации**     | Восстанавливает утраченную часть тела в течение дня (1 использование).                                                                                                                                                                    |
+| **2** | **Приращивающий червь**  | Маленький червь, способный сращивать неодушевленные объекты с частями тела (1 использование).                                                                                                                                             |
+| **3** | **Воск для ран**         | Заживляет раны от огня или химических ожогов, полностью восстанавливая СИЛ, но не лечит другие повреждения (2 использования).                                                                                                             |
+| **4** | **Ртуть**                | Стимулятор, позволяющий действовать первым в бою и автоматически проходить спасброски ВОЛ в течение одного часа. Вызывает зависимость: через 24 часа без применения, пройдите спасбросок СИЛ, иначе станете истощенным (4 использования). |
+| **5** | **Пневматический насос** | Портативные железные легкие (_громоздкий_), позволяющие проводить операции или дышать под водой.                                                                                                                                          |
+| **6** | **Магнитный камень**     | Вытягивает опасные элементы из тела и действует как мощный магнит.                                                                                                                                                                        |

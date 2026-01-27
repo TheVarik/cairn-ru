@@ -1,171 +1,171 @@
 ---
 layout: default
-title: Variable Difficulty
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: Вариативная сложность
+parent: Книга Смотрителя
+grand_parent: Полное издание
 ---
-# Variable Difficulty
+# Вариативная сложность
 
-## Introduction
+## Введение
 
-In Cairn, players are encouraged to overcome problems by asking questions, thinking critically, and working within the fiction of the game world to curry advantage. The following principles and examples should help Wardens create consistent and fair rulings that both challenge and reward players for their effort.
+В Cairn игрокам поощряют преодолевать проблемы, задавая вопросы, критически мысля и действуя в рамках игрового мира, чтобы получить преимущество. Следующие принципы и примеры должны помочь Смотрителям принимать последовательные и справедливые решения, которые одновременно бросают вызов игрокам и вознаграждают их за усилия.
 
-## Principles For Variable Difficulty 
+## Принципы вариативной сложности
 
-- Reward thinking outside the box. This may be a simple mitigation of risk, a new piece of knowledge, character growth, and more.
-- Modify outcomes according to the effort that went into them. If the PCs worked really hard to make something succeed despite the danger involved, enhance the result to match their trouble.
-- Emphasize fictional consequences rather than mechanical buffs. Purely mechanical rewards are usually hollow and lack the potential of in-world benefits.
-- Many dangers can be mitigated or extinguished given time, effort, and skill. If there is no real risk, just skip the roll!
-- Create situations that emphasize non-mechanical solutions. A problem is more interesting when the key to solving it can be understood purely within the fiction.
+- Вознаграждайте нестандартное мышление. Это может быть простым снижением риска, новым знанием, ростом персонажа и так далее.
+- Изменяйте исходы в зависимости от приложенных усилий. Если ПИ очень старались, чтобы добиться успеха, несмотря на опасность, улучшите результат, улучшите результат соответственно их трудам.
+- Делайте акцент на нарративных последствиях, а не на механических бонусах. Чисто механические награды обычно пусты и не обладают потенциалом внутриигровых преимуществ.
+- Многие опасности можно смягчить или устранить, имея время, усилия и навыки. Если нет реального риска, просто пропустите бросок!
+- Создавайте ситуации, которые подчеркивают немеханические решения. Проблема становится интереснее, когда ключ к ее решению можно понять исключительно в рамках нарратива.
 
-## Examples
+## Примеры
 
-### Evening The Odds
+### Уравнивание шансов
 
-> Freya is facing off against a Wood Troll after being separated from the rest of the party. Pinned between the creature and a cave wall, she has no choice but to engage in direct combat. She has already passed her initial DEX save and thus gets to attack before her opponent.
+> Фрейя столкнулась лицом к лицу с Лесным троллем после того, как она отделилась от остальной группы. Зажатая между существом и стеной пещеры, у нее нет другого выбора, кроме как вступить в прямой бой. Она уже прошла свой первоначальный спасбросок ЛОВ, и может атаковать раньше своего противника.
 
-**Freya**: _"I know I can't beat this guy fair and square, so I'd like to know if there is anything nearby that might even the odds a bit. I grew up on the streets, which means I know how to fight dirty. I'd like to try and blind him without getting clobbered in the process. What are my options?"_
+**Фрейя**: _«Я знаю, что не смогу победить этого парня в честном бою, так что хочу узнать, есть ли поблизости что-нибудь, что могло бы немного уравнять шансы. Я выросла на улице, а значит знаю, как драться грязно. Я хочу попытаться ослепить его, не получив при этом по башке. Какие у меня есть варианты?»_
 
-**Warden**: _"I'll roll a Die of Fate to see how dusty things are around here. A 4! Alright, there is definitely some dust between you and your opponent, but you might need to get close to him in order to scoop some up. You'll need to make a DEX save."_ 
+**Смотритель**: _«Я брошу Кость судьбы, чтобы узнать, насколько здесь пыльно. 4! Хорошо, между тобой и твоим противником определенно есть пыль, но, возможно, тебе придется приблизиться к нему, чтобы ее зачерпнуть. Тебе нужно будет сделать спасбросок ЛОВ.»_
 
-> Freya rolls a 13: a success!
+> Фрейя выбрасывает 13: успех!
 
-**Warden**: _"You grab a fistful of dust off the ground in front of you and toss it straight into your opponent's face. He staggers backward and is unable to defend himself as he fights to clear the grit from his eyes!"_
+**Смотритель**: _«Ты берешь горсть пыли с земли перед собой и бросаешь ее прямо в лицо своему противнику. Он отшатывается назад и не в состоянии защититься, так как пытается смахнуть песок с глаз!»_
 
-> The Wood Troll loses a turn as he tries to remove the dust from his face. He cannot rely on HP in this state; damage will go directly to STR!
+> Лесной тролль теряет свой ход, пытаясь убрать попавшую в лицо пыль. В этом состоянии он не может полагаться на ОЗ; урон будет идти напрямую в СИЛ!
 
-**Freya**: _"I know I should run for it... but I can't help but take advantage of this situation. I'd like to introduce this fellow to the Twins."_
+**Фрейя**: _«Я знаю, что должна бежать… но не могу удержаться, чтобы не воспользоваться ситуацией. Я хотела бы познакомить этого типа с Близнецами.»_
 
-> Freya rolls d6+d6 for her daggers (a 3 and a 5), dealing 5 damage directly to the Wood Troll's STR Attribute. The Warden then makes a Critical Damage save for the Troll, rolling a 19: a fail!
+> Фрейя бросает к6+к6 за свои кинжалы (3 и 5), нанося 5 урона прямо по СИЛ Лесного тролля. Затем Смотритель совершает спасбросок от критического урона для Тролля, выпадает 19: провал!
 
-**Warden**: _"You stab him with both blades, green blood gushing from open wounds as the creature roars out in anger. Let's see if it survives the attack! Oooh, it fails its STR save and takes **Critical Damage**! It's down!"_
+**Смотритель**: _«Ты вонзаешь в него оба клинка, из открытых ран хлещет зеленая кровь, пока существо ревет от ярости. Посмотрим, переживет ли он атаку! Оу, он проваливает свой спасбросок СИЛ и получает **Критический урон**! Он мертв!»_
 
-**Freya**: _"Alright, I'm taking this as a sign. Time to make my exit!"_
+**Фрейя**: _«Хорошо, я принимаю это как знак. Пора валить!»_
 
-> Freya flees the scene (no DEX save required), leaving the Wood Troll to bleed out. If she had known that it can slowly regenerate its health, she might have stayed...
+> Фрейя убегает (спасбросок ЛОВ не требуется), оставляя Лесного тролля истекать кровью. Если бы она знала, что он может медленно регенерировать, возможно она бы осталась…
 
-### Teamwork
+### Командная работа
 
-> Wolfram, Lucius, and Freya are investigating rumors of an invisible creature that has been attacking locals in the Wood. They've tracked the creature to its island den just 40ft from the shoreline of a poison lake. The lake is separated from the surrounding forest by heavy mud flats.
+> **Вольфрам**, **Люциус** и **Фрейя** расследуют слухи о невидимом существе, которое нападает на местных жителей в Лесу. Они выследили это существо до его логова на острове, расположенном в 40 футах от берега ядовитого озера. Озеро отделено от окружающего леса топкими илистыми равнинами.
 
-**Warden**: _"The creature's footprints end at the shore of a roiling lake that bubbles and swirls violently. Knowing the history of the region, you realize that if the lake water doesn't kill you, the toxic fumes coming from its surface definitely will!"_
+**Смотритель**: Следы существа обрываются у берега бурлящего озера, которое клокочет и завихряется. Зная историю региона, вы понимаете: если вода озера не убьет вас, то токсичные испарения с его поверхности определенно да!»_
 
-**Wolfram**: _"We know that the blasted thing makes its home on that pile of rocks out there. Obviously we can't swim across, but I have an idea about how we might draw it out! Lucius, I'm sorry but of the three of us, you're the most... soft. In other words, the perfect bait! Let's make it seem as if your cart is stuck in the mud. I've had a blanket rolled up in my pack for a while now. Perhaps Freya and I can hide under it, then pounce on the creature at just the right moment?"_
+**Вольфрам**: _«Мы знаем, что эта проклятая тварь обитает вон на той груде камней. Очевидно, мы не сможем переплыть, но у меня есть идея, как мы могли бы выманить ее! Люциус, прости, но из нас троих ты самый... нежный. Другими словами, идеальная приманка! Давай сделаем вид, будто твоя повозка застряла в грязи. У меня в рюкзаке уже давно свернуто одеяло. Может быть, мы с Фрейей сможем спрятаться под ним, а затем наброситься на существо в подходящий момент?»_
 
-**Lucius**: _"I knew I shouldn't have sported my fancy hat today! Fine, let's proceed."_
+**Люциус**: _«Так и знал, что не стоило сегодня щеголять в моем шикарном цилиндре! Ну хорошо, давайте действовать.»_
 
-**Warden**: _"The party executes their plan as described, creating the perfect bait for their unsuspecting quarry. I'm going to roll a Die of Fate to determine whether the creature even takes notice... a 5! Alright, that means that the creature definitely wants to investigate the situation, but there's a wrinkle as well: it's starting to get dark."_
+**Смотритель**: _«Группа осуществляет свой план, как было описано, создавая идеальную приманку для ничего не подозревающей добычи. Я брошу Кость судьбы, чтобы определить, заметит ли существо их вообще… 5! Ладно, это значит, что существо определенно захочет узнать что там такое, но есть и загвоздка: начинает темнеть.»_
 
-**Freya**: _"Presumably this means that Wolfram and I are able to spy on the island while we hide, right? And that Lucius is still looking the opposite way, pretending to fuss over a stuck wheel?"_
+**Фрейя**: _«Предположительно, это означает, что мы с Вольфрамом можем наблюдать за островом, пока прячемся, верно? И что Люциус все еще смотрит в другую сторону, делая вид, что возится с застрявшим колесом?»_
 
-**Warden**: _"Correct. Both Wolfram and Freya can still see through the cart slats that something clambered out from beneath the pile of rocks on the island, scattering them as it moves towards the water. You can't actually tell what moved the rocks, though. It really is invisible! As you watch, something slips into the toxic waters, making a quiet splash. And its ripples are heading in your direction!"_
+**Смотритель**: _«Все верно. Вольфрам и Фрейя все еще могут разглядеть сквозь щели повозки, как что-то выползло из-под груды камней на острове, рассыпая их по пути к воде. Однако на самом деле вы не можете сказать, что именно сдвинуло камни. Существо действительно невидимое! Пока вы наблюдаете, что-то погружается в ядовитую воду, издавая тихий всплеск. Его рябь направляется в вашу сторону!»_
 
-**Wolfram**: _"Well, I guess this is as good a time as ever to bring out my Voidglass Shard! It lets me see invisible creatures but packs a wallop! I won't be able to see out of one eye for an hour, during which time my fighting skills will be... less effective. Might I be able to get a shot with the crossbow while looking through the glass?"_
+**Вольфрам**: _«Что ж, полагаю, сейчас самое время достать мой осколок Стекла пустоты! Он позволяет мне видеть невидимых существ, но доставляет массу хлопот! Я не смогу видеть одним глазом в течение часа, и в это время мои боевые навыки будут… менее эффективными. Могу ли я выстрелить из арбалета, глядя через стекло?»_
 
-**Warden**: _"You need two hands for the crossbow."_
+**Смотритель**: _«Тебе нужны две руки, чтобы держать арбалет.»_
 
-**Freya**: _"I can hold the Voidglass Shard up to his eye."_
+**Фрейя**: _«Я могу поднести осколок Стекла пустоты к его глазу.»_
 
-**Warden**: _"That will work, but you won't have an action of your own until after the creature has a chance to react."_
+**Смотритель**: _«Это сработает, но ты не сможешь совершить свой ход до появления у существа шанса отреагировать.»_
 
-**Lucius**: _"Um, what about me? I won't be able to see the creature at all, let alone defend myself! I'd like to prepare an action for the moment Wolfram gets a shot off. I still have the large sack from our last caper. I wonder if I could leap on the creature when it approaches, trapping it like a giant fish?"_
+**Люциус**: _«Эм, а что насчет меня? Я же вообще не смогу видеть существо, не говоря уже о защите! Я хочу подготовить действие на тот момент, когда Вольфрам выстрелит. У меня все еще остался большой мешок с нашей последней авантюры. Интересно, смогу ли я прыгнуть на существо, когда оно приблизится, и поймать его, как гигантскую рыбу?»_
 
-**Warden**: _"That works! You each prepare yourselves for what is to come. Freya and Wolfram, you wait in silence as the ripples come ever closer. Finally, they stop! Freya places the Voidglass Shard on Wolfram's eye as he raises his crossbow. Wolfram, you see a slimy, fish-like creature climbing out of the water, yellowed scales crisscrossing its multi-limbed body. There is a brief, breathless pause and then a loud TWANG as he lets loose a crossbow bolt."_
+**Смотритель**: _«Смотритель: "Это подходит! Каждый из вас готовится к предстоящему. Фрейя и Вольфрам, вы ждете в тишине, пока рябь приближается все ближе. Наконец она останавливается! Фрейя подносит осколок Стекла пустоты к глазу Вольфрама, пока тот поднимает свой арбалет. Вольфрам, ты видишь, как слизистое, рыбообразное существо вылезает из воды, его тело с множеством конечностей покрыто желтоватой чешуей. Наступает краткая, затаившая дыхание пауза, а затем раздается громкий ДЗЫНЬ, когда Вольфрам выпускает арбалетный болт.»_
 
-> Wolfram rolls a d8, resulting in a 6! As the creature was unaware of its attackers, the damage goes directly to STR. It makes a Critical Damage save, and the result is a 3: a success. 
+> Вольфрам бросает к8, в результате выпадает 6! Поскольку существо не подозревало о нападавших, урон проходит напрямую в СИЛ. Оно совершает спасбросок от критического урона, и результат 3: успех.
 
-**Warden**: _"The creature is impaled by the bolt, green fluid spurting out of its body. Where it lands, the surface hisses as if in contact with acid. It turns towards the cart, but before it can react, Lucius throws his large sack over it. The creature thrashes about inside the sack, twisting in every which way."_
+**Смотритель**: _«Существо пронзено болтом, из его тела хлещет зеленая жидкость. Там, где она падает, поверхность шипит, словно от контакта с кислотой. Существо поворачивается к повозке, но прежде чем оно успевает среагировать, Люциус накидывает на него свой большой мешок. Существо бьется внутри мешка, извиваясь во все стороны.»_
 
-> The Warden makes a DEX save for the creature to see if it can quickly break free from the sack. Out of water, it has only 8 DEX. It rolls a 12: a fail. Unable to defend itself, the creature is quickly tied up and placed in the cart, along with a jar of the toxic water for the journey. Working together, the party quickly heads back towards town.
+> Смотритель совершает спасбросок ЛОВ за существо, чтобы определить, сможет ли оно быстро вырваться из мешка. Вне воды у него только 8 ЛОВ. Оно выкидывает 12: провал. Неспособное защищаться, существо быстро связывают и кладут в повозку, прихватив с собой и банку ядовитой воды на дорогу. Действуя сообща, группа быстро возвращается в город.
 
-### Character History
+### История персонажа
 
-> The party are escorting an agent of the Alsace faction deep in enemy territory. Their destination is hidden in a small village protected by tall wooden walls. Their job is to sneak their client into the heavily guarded town and then into the ancient vault of Der Thunn. As they approach the village, the sun is just beginning to set, and Lucius has been sent ahead to investigate, posing as a troubadour from the South.
+> Отряд сопровождает агента фракции Эльзас в самой гуще вражеской территории. Их пункт назначения скрыт в маленькой деревушке, защищенной высокими деревянными стенами. Их задача: тайно провести своего клиента в тщательно охраняемый город, а затем в древнее хранилище Дер Тунна. Когда они приближаются к деревне, солнце только начинает садиться, а Люциуса посылают вперед на разведку под видом трубадура с Юга.
 
-**Warden**: _"You approach the walled village, following the dirt trail that leads directly to the town's front gate. Two guards stand on either side of the gate, which is closed. The guards are nearly identical save for a weak mustache sported by one."_
+**Смотритель**: _«Вы приближаетесь к деревне, окруженной стеной, следуя по грунтовой тропе, ведущей прямо к главным воротам. Два стражника стоят по обе стороны от закрытых ворот. Стражники почти неотличимы, за исключением жидких усов, которые носит один из них.»_
 
-**Lucius**: _"Ho there, fine gentlemen! May one such as myself inquire as to whether entry to your village would be permissible on this fine evening? I've had a long journey but am flush with gold and would love to spread some of my good luck!"_
+**Люциус**: _«Здравствуйте, уважаемые джентльмены! Может ли такой человек, как я, поинтересоваться, разрешен ли въезд в вашу деревню в сей прекрасный вечер? У меня было долгое путешествие, но мои карманы полны золота и хотел бы поделиться с другими своей удачей!»_
 
-**Warden**: _"The men exchange a look. The mustachioed guard replies, 'No entry after dark. That's the rule.'"_
+**Смотритель**: _«Мужчины переглядываются. Усатый стражник отвечает: "После наступления темноты вход воспрещен. Таковы правила."»_
 
-> At this point, Lucius is putting on all his charm and is essentially trying to bribe the guards to gain entry. He is also the most at risk in this situation, as the two men are well-equipped to handle a lone traveler and have backup besides. If it were required, Lucius would make the WIL save and not the guards.
+> В этот момент Люциус пускает в ход все свое обаяние и по сути пытается подкупить стражников, чтобы проникнуть внутрь. Он же в этой ситуации подвергается наибольшему риску, поскольку двое мужчин хорошо экипированы, чтобы справиться с одиноким путником, да и подкрепление у них под рукой. Если бы потребовалось, спасбросок ВОЛ совершал бы именно Люциус, а не стражники.
 
-**Lucius**: _"Yes, I understand. But it isn't quite dark yet, is it? The Sun is only just setting. May I please enter? I'd happily start sharing my newfound wealth with you two first, if you catch my drift. Perhaps I could bring you each a well-earned beer? To show my appreciation, of course._"
+**Люциус**: _«Да, я понимаю. Но ведь еще не совсем стемнело, не так ли? Солнце только-только садится. Позвольте мне, пожалуйста, войти? Я бы с радостью начал делиться своим новообретенным богатством с вами обоими, если вы понимаете, к чему я клоню. Может, принести вам каждому по заслуженному пиву? В знак признательности, разумеется.»_
 
-**Warden**: _"The two men exchange looks once more, but this time the other man replies, smirking. 'Well... perhaps this once. The Sun hasn't truly set just yet. And we are quite thirsty, after all.'"_
+**Смотритель**: _«Двое мужчин снова переглядываются, но на этот раз отвечает другой, усмехаясь. "Что ж… возможно, в виде исключения. Солнце пока еще не село. А мы, в конце концов, очень хотим пить."»_
 
-> The Warden made a ruling based on what was known about these men: they were simple village guards, they'd been working a long day, and they love beer. Perhaps with another character, this wouldn't have worked, but Lucius is a Mountebank, and his capacity for winning the confidence of his targets has been well established. The guards let him in. 
+> Смотритель вынес решение, основываясь на известном об этих людях: они были простыми деревенскими стражниками, у них был долгий рабочий день, и они любят пиво. Возможно, с другим персонажем это бы и не сработало, но **Люциус** - Шарлатан, и его способность завоевывать доверие своих целей уже хорошо проявлена. Стражники впустили его.
 
-### Greater Risk For Greater Reward 
+### Большее вознаграждение за больший риск
 
-> The party has sent Freya under the cover of darkness to spy on an enemy encampment. Her goal is to ascertain their enemy's total number as well as what sort of dangers might await there.
+> Группа отправила Фрейю под покровом темноты шпионить за вражеским лагерем. Ее цель — определить общее количество врагов и узнать, а также какие опасности могут там ожидать.
 
-**Warden**: _"Halfway to the camp, you see a light flickering along the trail. Someone is coming toward you! What do you do?"_
+**Смотритель**: _«На полпути к лагерю ты видишь мерцающий свет вдоль тропы. Кто-то идет к тебе навстречу! Что ты делаешь?»_
 
-**Freya**: _"I slip into the foliage on the side of the trail, keeping as quiet as possible. Does that require a save?"_
+**Фрейя**: _«Я спрячусь в листве у края тропы, стараясь быть как можно тише. Это требует спасброска?»_
 
-**Warden**: _"No, because you've got enough of a distance from this person and you don't have any light sources lit. You may hide without risk of being found."_
+**Смотритель**: _«Нет, ведь ты находишься достаточно далеко от этого человека и у тебя нет никаких источников света. Ты можешь спрятаться, не рискуя быть обнаруженной.»_
 
-**Freya**: _"If it seems to me like this person might belong to the same faction as our enemy, I would like to ambush them and steal their clothes. I don't want to raise the alarm, so I will need to be fast and furious."_
+**Фрейя**: _«Если мне кажется, что этот человек может принадлежать к той же фракции, что и наш враг, я бы хотела устроить на него засаду и украсть его одежду. Я не хочу поднимать тревогу, так что мне нужно будет действовать быстро и яростно.»_
 
-**Warden**: _"OK. They will need to make a DEX save to react in time to fend off your attack, then. It might not go as cleanly as you hope!"_
+**Смотритель**: _«Окей. Тогда ему нужно будет сделать спасбросок ЛОВ, чтобы вовремя среагировать и отразить твою атаку. Все может пройти не так гладко, как ты рассчитываешь!»_
 
-**Freya**: _"What if instead I just knock them unconscious by dropping a tree branch on top of them? I have a hand ax in here somewhere."_
+**Фрейя**: _«А что, если вместо этого я просто вырублю его, сбросив на него ветку дерева? У меня где-то здесь был топор.»_
 
-**Warden**: _"That might work. You'll need to sprint back a bit, climb a tree, and then save STR to determine if you can cut the branch down at just the right moment, without notifying your target. If you fail, you will come down with the branch as well, potentially taking damage and putting yourself in a very vulnerable position."_
+**Смотритель**: _«Это может сработать. Тебе нужно будет немного отбежать назад, залезть на дерево, а затем совершить спасбросок СИЛ, чтобы определить, сможешь ли ты срубить ветку в нужный момент, не предупредив цель. Если провалишь, то свалишься вниз вместе с веткой, потенциально получив урон и поставив себя в крайне уязвимое положение.»_
 
-> Freya rushes back down the trail, climbs a tree, and begins hacking at one of the branches with her ax. She rolls a STR save: a 7, a success! She thwacks the branch at just the right moment, and it falls atop the lone traveler below her, knocking them unconscious. Freya steals their clothes and their torch, then sets off down the trail towards the camp. 
+> Фрейя бросается обратно по тропе, взбирается на дерево и начинает рубить одну из веток своим топором. Она выбрасывает 7: успех! Она бьет по ветке в самый нужный момент, и та падает на одинокого путника под ней, лишая его сознания. Фрейя крадет его одежду и факел, а затем отправляется по тропе в сторону лагеря.
 
-## Combat Is War
+## Сражение это война
 
-> **Wolfram**, **Lucius**, and **Freya** are on the run from a _detachment_ of twelve city guards [4 HP, 1 Armor, 11 STR, 14 DEX, 12 WIL, short sword (d6)], and they are taking shelter in a burnt-out old outpost at the edge of a forest, accessible only by a single ladder. The soldiers each carry a short sword and bow, except for their leader, a tall man with a bright blue epaulet on his shoulder. The soldiers know that the party has taken refuge in the outpost, and are talking among themselves at a safe distance away, just North of where the party is hunkering down. The _detachment_ will be treated as a single entity until they take Critical Damage. 
+> **Вольфрам**, **Люциус** и **Фрейя** спасаются бегством от отряда из двенадцати городских стражников [4 ОЗ, Броня 1, 11 СИЛ, 14 ЛОВ, 12 ВОЛ, короткий меч (к6)], они укрываются в старом сгоревшем форпосте на опушке леса, куда можно попасть только по единственной лестнице. Каждый солдат вооружен коротким мечом и луком, за исключением их командира, высокого мужчины с ярко-синим эполетом на плече. Солдаты знают, что группа укрылась в форпосте, и переговариваются между собой на безопасном расстоянии, как раз к северу от того места, где засели герои. Отряд будет рассматриваться как единое целое до тех пор, пока не получит критический урон.
 
-**Warden**: _"The outpost is partly shielded by what remains of its walls, and through the slats, you see the soldiers split off: six head towards the Southwest, adjacent to the treeline, while the rest (including the tall man) move Southeast, where the walls are the most damaged. It looks like they are planning some kind of pincer attack. You have less than a minute to act before they reach the open-side of the shield wall! What do you do?"_
+**Смотритель**: _«Форпост частично прикрыт тем, что осталось от его стен, и сквозь щели вы видите, как солдаты разделяются: шестеро направляются на юго-запад, к кромке леса, в то время как остальные (включая высокого мужчину) движутся на юго-восток, где стены наиболее повреждены. Похоже, они планируют взять вас в клещи. У вас меньше минуты, чтобы действовать, прежде чем они достигнут открытой стороны стены! Что вы делаете?»_
 
-**Wolfram**: _"I was in the military, so I know how this goes. That man with the fancy tassel is their leader. If we take him out, the rest might flee. I'm going to wait until he is as close as possible, then fire my crossbow at him. If that leaves me exposed, then so be it!"_
+**Вольфрам**: _«Я служил в армии, так что знаю, как это происходит. Тот мужчина с нарядной кистью — их командир. Если мы устраним его, остальные могут разбежаться. Я собираюсь подпустить его как можно ближе, а затем выстрелю в него из своего арбалета. Если это сделает меня уязвимым, то так тому и быть!»_
 
-**Lucius**: _"You're always so direct, Wolfie! I'm going to pour some of my famous Miracle Oil on the ladder leading up here. That should both prove effective and entertaining!"_
+**Люциус**: _«Ты всегда такой прямолинейный, Волфи! Я собираюсь вылить немного своего знаменитого чудесного масла на лестницу, ведущую сюда. Это должно быть и эффективно, и забавно!»_
 
-**Freya**: _"And what exactly will stop them from simply firing into our hiding spot from the giant holes on the South side? At the very best, they'll just wait until we run out of food. I have another idea: I'll poke my head through the trapdoor and toss  Smoke Bombs towards each side of the building. That'll give us an advantage for when these other two plans inevitably fail!_
+**Фрейя**: _«А что именно помешает им просто обстреливать наше укрытие через огромные дыры на южной стороне? В лучшем случае они просто подождут, пока у нас не закончится еда. У меня есть другая идея: я просуну голову через люк и брошу дымовые шашки в разные стороны здания. Это даст нам преимущество на тот случай, когда оба ваших плана неизбежно провалятся!»_
 
-**Lucius**: _"Uh, I guess I’ll use my oil just after she tosses the Smoke Bombs, then?”_
+**Люциус**: _«Э-э, полагаю, я воспользуюсь своим маслом сразу после того, как она бросит дымовые шашки?»_
 
-**Warden**: _"That should be fine, yes. But be aware that combat officially breaks out as soon as Wolfram stands to fire. And since you're all at the ready, there is no need to make a DEX save: you go first."_
+**Смотритель**: _«Да, с этим никаких проблем нет. Но имейте в виду, что сражение официально начнется, как только Вольфрам поднимется, чтобы выстрелить. И поскольку вы все наготове, нет необходимости делать спасбросок ЛОВ: вы ходите первыми.»_
 
-**Warden**: _"The soldiers continue their trajectory, until finally the leader draws his sword into the air and screams, 'Charge!' And the soldiers rush towards you. Everything happens at once. Wolfram stands and fires his crossbow at the leader. Since the leader is part of a detachment, Wolfram can only roll a d4."_
+**Смотритель**: _«Солдаты продолжают двигаться по своей траектории, пока наконец командир не поднимает свой меч в воздух и не кричит: "В атаку!" И солдаты бросаются на вас. Все происходит одновременно. Вольфрам поднимается и стреляет из арбалета в командира. Поскольку командир является частью отряда, Вольфрам может бросить только к4.»_
 
-> The result of Wofram's attack is a 3, and as the leader's helmet absorbs 1 point of damage, he loses only 2 HP.
+> Результат атаки Вольфрама равен 3, и, поскольку шлем командира поглощает 1 единицу урона, он теряет всего 2 ОЗ.
 
-**Warden**: _"The arrow whizzes past the leader's shoulder, tearing his brightly-colored shoulder epaulet. He grimaces and rushes forward towards the East side of the building. Freya, at the same time, you pop your head through the trap door and toss Smoke Bombs on the East and West sides of the building - mark off 2 uses please. Lucius, you stand behind her, and the moment she moves away, you pour some Miracle Oil on the stepladder."_
+**Смотритель**: _«Стрела со свистом пролетает мимо плеча командира, срывая его яркий наплечный эполет. Он морщится и бросается вперед к восточной стороне здания. Фрейя, в этот самый момент ты высовываешь голову через люк и бросаешь дымовые шашки на восточную и западную стороны здания - пожалуйста, отметь 2 использования. Люциус, ты стоишь позади нее и, как только она отходит, выливаешь на лестницу немного Чудесного масла.»_
 
-**Warden**: _"As smoke fills either side of the building, it becomes impossible to tell friend from foe. A few of the men try to climb the ladder but immediately slide off, landing at the bottom in a heap. Your enemies have essentially lost their turn, but the smoke is starting to dissipate. Amidst coughing and shouts, you hear a voice cry, 'Burn it to the ground!'"_
+**Смотритель**: _«Когда дым заполняет обе стороны здания, становится невозможно отличить друга от врага. Несколько человек пытаются взобраться по лестнице, но тут же соскальзывают, падая в кучу. Ваши враги по сути потеряли свой ход, но дым начинает рассеиваться. Среди кашля и криков вы слышите кричащий голос: "Сожгите все дотла!"»_
 
-**Wolfram**: _"Well that bought us some time, at least. Hey, Lucius, how flammable is that oil of yours?"_
+**Вольфрам**: _«Что ж, это хотя бы дало нам немного времени. Эй, Люциус, насколько горюче твое масло?»_
 
-**Lucius**: _"Very. And it seems we may be running out of options."_
+**Люциус**: _«Весьма. И, кажется, у нас заканчиваются варианты.»_
 
-**Freya**: _"Well, it's been fun, but I'd rather die fighting down there than get burned alive up here with you lot! No offense."_
+**Фрейя**: _«Что ж, было весело, но я лучше умру, сражаясь внизу, чем сгорю заживо тут наверху с вами! Без обид.»_
 
-**Wolfram**: _"None taken. See if you can take out their leader while we try to open up an escape route."_
+**Вольфрам**: _«Никаких обид. Посмотри, не сможешь ли ты убрать их командира, пока мы пытаемся проложить путь к отступлению.»_
 
-**Wolfram**: _"I'm going to cast Disassemble on myself, then scream 'he's going to tear my arms off!' I will then drop down to the ground and start running around in circles. Lucius, when my arms are removed, I want you to pick them up and come after me."_
+**Вольфрам**: _«Я наложу на себя заклинание Разбор, а затем закричу: "Он сейчас оторвет мне руки!" Затем я спрыгну вниз и начну бегать кругами. Люциус, когда у меня отпадут руки, я хочу, чтобы ты поднял их и последовал за мной.»_
 
-**Lucius**: _"OK. I really hope this works... And if not, well at least we'll go down fighting! Or screaming. Probably the latter."_
+**Люциус**: _«Окей. Надеюсь, это сработает… А если нет, что ж, по крайней мере, мы умрем сражаясь! Или крича. Скорее последнее.»_
 
-**Warden**: _"Freya, who will be your target and what weapon?"_
+**Смотритель**: _«Фрейя, кто будет твоей целью и каким оружием ты будешь атаковать?»_
 
-**Freya**: _"Their leader, and I'll be using the Twins._"
+**Фрейя**: _«Их командир, буду атаковать Близнецами.»_
 
-**Warden**: _"Alright. Freya leaps down to the smokey earth, making a beeline for the leader. She draws her twin daggers, but as she is still attacking a detachment, she must still roll only a d4 each dagger."_
+**Смотритель**: _«Хорошо. Фрейя спрыгивает на задымленную землю и устремляется прямо к командиру. Она обнажает свои двойные кинжалы, но, поскольку она все еще атакует отряд, за каждый кинжал она может бросить только к4.»_
 
-> Freya makes two d4 rolls, a 4 and a 1. She keeps the higher, and the leader's helmet again absorbs 1 point of damage. The remaining 3 damage is enough to trigger a Critical Damage save on the behalf of the detachment. The result is a 15 (a fail), and with the defeat of their leader, the detachment is both broken and routed.
+> Хорошо. Фрейя спрыгивает на задымленную землю и устремляется прямо к командиру. Она обнажает свои двойные кинжалы, но, поскольку она все еще атакует отряд, за каждый кинжал она может бросить только к4.
 
-**Warden**: _"Freya slashes at the leader, but her dagger misses as he takes a lucky step back. He is less fortunate on her second attack, however, as she stabs him in the chest. He slumps over, and those closest to him shout in surprise; some even begin backing away. It is at this moment that you hear a scream, and then see Wolfram leap onto the ground from the outpost and begin running in circles, followed by Lucius, holding both of his friend's arms. The others then pick up their leader and hightail it back to the edge of the hill amid screams of 'Sorcery!' and 'We weren't trained for this!'"_ 
+**Смотритель**: _«Фрейя наносит удар по командиру, но ее кинжал проходит мимо, так как он удачно делает шаг назад. Однако во время второй атаки ему везет меньше, и Фрейя вонзает клинок ему в грудь. Он резко падает, и те, кто находился к нему ближе всего, вскрикивают от неожиданности; некоторые даже начинают пятиться назад. Именно в этот момент ты слышишь крик, а затем видишь, как Вольфрам спрыгивает на землю с форпоста и начинает бегать кругами, а за ним следует Люциус, держа обе руки своего друга. Затем остальные солдаты подхватывают своего командира и со всех ног бегут обратно к краю холма с криками "Колдовство!" и "Нас к подобному не готовили!"»_
 
-**Wolfram**: _"I knew that would work!"_
+**Вольфрам**: _«Знал, что это сработает!»_
 
-**Freya**: _"I'm pretty sure this was all me, but whatever._"
+**Фрейя**: _«Я почти уверена, что это целиком моя заслуга, но неважно.»_
 
-**Lucius** _"Who cares? Let's just get out of here while the getting's good._"
+**Люциус** _«Какая разница? Давай просто уберемся отсюда, пока не поздно.»_
 
-**Warden** _"You have an opportunity to flee into the nearby Wood, or across the open fields if you think you can run fast enough. What do you do?"_
+**Смотритель** _«У вас есть возможность убежать в близлежащий лес или через открытые поля, если вы считаете, что сможете бежать достаточно быстро. Что вы делаете?»_

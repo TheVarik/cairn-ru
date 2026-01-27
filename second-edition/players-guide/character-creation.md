@@ -1,194 +1,196 @@
 ---
 layout: default
-title: Character Creation
-parent: Player's Guide
-grand_parent: Second Edition
+title: Создание персонажа
+parent: Книга Игрока
+grand_parent: Полное издание
 ---
 
-# Character Creation 
+# Создание персонажа
 
-## Roll or choose a Background
+## Сгенерируйте или выберите предысторию
 
-- First, roll or choose from the [Backgrounds](#backgrounds) table below and note the page number. You will refer to that page for the next few steps.
-- Choose a name from the available list, then record each of your character's starting items. See [Inventory](#inventory) and [Inventory Slots](#inventory-slots) for how to record items. 
-- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](/second-edition/players-guide/marketplace) as well.
+- Выберите [Предысторию](#предыстории) персонажа из таблицы ниже или бросьте кость к20, чтобы определить ее случайно. Запишите номер страницы с  предысторией, вы будете обращаться к ней в следующих шагах.
+- Выберите имя из списка на странице предыстории или придумайте самостоятельно, затем запишите начальные предметы вашего персонажа. В главах [Инвентарь](#инвентарь) и [Слоты инвентаря](#слоты-инвентаря) описано их заполнение.
+- Бросьте кости для каждой из таблиц, включенных в предысторию. Запишите предметы, навыки или способности вашего персонажа, полученные в результате бросков. Для некоторых предысторий вам нужно будет обратиться к таблицам в разделе [Рынок](/second-edition/players-guide/marketplace).
 
-## Backgrounds
+## Предыстории
 
 |         |                                                                                 |        |                                                                             |
 | ------- | ------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------- |
-| **d20** | **Background**                                                                  |        |                                                                             |
-| **1**   | [Aurifex](/second-edition/backgrounds/aurifex)               | **11** | [Half-Witch](/second-edition/backgrounds/half-witch)     |
-| **2**   | [Barber-Surgeon](/second-edition/backgrounds/barber-surgeon) | **12** | [Hexenbane](/second-edition/backgrounds/hexenbane)       |
-| **3**   | [Beast Handler](/second-edition/backgrounds/beast-handler)   | **13** | [Jongleur](/second-edition/backgrounds/jongleur/)        |
-| **4**   | [Bonekeeper](/second-edition/backgrounds/bonekeeper/)        | **14** | [Kettlewright](/second-edition/backgrounds/kettlewright) |
-| **5**   | [Cutpurse](/second-edition/backgrounds/cutpurse)             | **15** | [Marchguard](/second-edition/backgrounds/marchguard/)    |
-| **6**   | [Fieldwarden](/second-edition/backgrounds/fieldwarden/)      | **16** | [Mountebank](/second-edition/backgrounds/mountebank)     |
-| **7**   | [Fletchwind](/second-edition/backgrounds/fletchwind)         | **17** | [Outrider](/second-edition/backgrounds/outrider)         |
-| **8**   | [Foundling](/second-edition/backgrounds/foundling)           | **18** | [Prowler](/second-edition/backgrounds/prowler)           |
-| **9**   | [Fungal Forager](/second-edition/backgrounds/fungal-forager) | **19** | [Rill Runner](/second-edition/backgrounds/rill-runner)   |
-| **10**  | [Greenwise](/second-edition/backgrounds/greenwise/)          | **20** | [Scrivener](/second-edition/backgrounds/scrivener)       |
+| **к20** | **Предыстории**                                                                  |        |                                                                             |
+| **1**   | [Ремесленник ](/second-edition/backgrounds/aurifex)               | **11** | [Полуведьма](/second-edition/backgrounds/half-witch)     |
+| **2**   | [Цирюльник](/second-edition/backgrounds/barber-surgeon) | **12** | [Антимаг](/second-edition/backgrounds/hexenbane)       |
+| **3**   | [Укротитель зверей](/second-edition/backgrounds/beast-handler)   | **13** | [Трюкач](/second-edition/backgrounds/jongleur/)        |
+| **4**   | [Хранитель костей](/second-edition/backgrounds/bonekeeper/)        | **14** | [Котельщик](/second-edition/backgrounds/kettlewright) |
+| **5**   | [Карманник](/second-edition/backgrounds/cutpurse)             | **15** | [Страж пограничья](/second-edition/backgrounds/marchguard/)    |
+| **6**   | [Страж полей](/second-edition/backgrounds/fieldwarden/)      | **16** | [Шарлатан](/second-edition/backgrounds/mountebank)     |
+| **7**   | [Ветрокрыл](/second-edition/backgrounds/fletchwind)         | **17** | [Наездник](/second-edition/backgrounds/outrider)         |
+| **8**   | [Найденыш](/second-edition/backgrounds/foundling)           | **18** | [Ловчий](/second-edition/backgrounds/prowler)           |
+| **9**   | [Грибной следопыт](/second-edition/backgrounds/fungal-forager) | **19** | [Певец ручьев](/second-edition/backgrounds/rill-runner)   |
+| **10**  | [Лесничий ](/second-edition/backgrounds/greenwise/)          | **20** | [Писарь](/second-edition/backgrounds/scrivener)       |
 
-## Attributes, Hit Protection, and Traits 
+## Характеристики, Очки Защиты и Черты
 
-- Roll for your Characters **Attributes** and **Hit Protection**.
-- Roll for the rest  of your character's [Traits](#character-traits-d10), and then on the the [Bonds](#bonds) table.
-- Finally, roll for your character's **Age** (2d20+10). If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the other players. The Warden should incorporate Omens into the setting as they see fit.
+- Определите **характеристики** и начальное количество **очков защиты** вашего персонажа.
+- Определите при помощи бросков ваши [Черты](#черты-персонажа-к10) и [Узы](#узы).
+- Наконец, определите возраст вашего персонажа: 2к20+10. Если он окажется самым молодым в группе, сделайте бросок по таблице [Знамений](#знамения).
 
-## Attributes
+Результат следует озвучить другим игрокам. Смотритель интегрирует полученное знамение в игровой мир по своему усмотрению.
 
-- Player Characters have just three Attributes: (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
-- Roll 3d6 for each of your character's **Attributes**, in order. You may then swap any two of the results. 
-- Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
+## Характеристики
 
-## Hit Protection
+- У персонажей игроков есть три характеристики: **Сила** (СИЛ), **Ловкость** (ЛОВ) и **Воля** (ВОЛ).
+- Для определения значение каждой из них, сделайте три последовательных броска 3к6. После этого можете поменять местами любые два результата.
+- Помните, что характеристики не ограничивают вашего персонажа. Даже при низком значении силы, он может попытаться выбить дверь или одолеть противника в кулачном бою! Просто риск неудачи будет выше.
 
-- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/second-edition/players-guide/core-rules#healing--recovery). 
-- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](/second-edition/players-guide/core-rules#scars) table.
+## Очки защиты
 
-## Inventory
+- Бросьте 1к6, чтобы определить начальное количество **Очки Защиты** (ОЗ). Они отражают способность персонажа избегать повреждений в бою, и не являются отображением его здоровья или выносливости. Потерянные ОЗ восстанавливаются довольно быстро. Посмотрите [Лечение и Восстановление](/second-edition/players-guide/core-rules/#лечение-и-восстановление).
+- Если в результате атаки ОЗ персонажа снижается ровно до 0, игрок должен сделать бросок по таблице [**Травм**](/second-edition/players-guide/core-rules/#травмы).
 
-- Characters have a total of ten inventory slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
-- Each PC starts with a **Backpack** that can hold up to six slots of items or **Fatigue**. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
-- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. A character cannot fill more than ten slots.
+## Инвентарь
 
-### Inventory Slots
+- Инвентарь персонажей состоит из **10** слотов, но без использования сумки, рюкзака, лошади, телеги и подобного можно нести лишь **четыре** предмета.
+- Каждый персонаж начинает игру с **рюкзаком** на шесть слотов для предметов или **Усталости**. Телеги (которые необходимо тянуть обеими руками), лошади или мулы позволяют взять в путешествие гораздо больше предметов. Также для этой цели можно использовать **наемников**.
+- Пространство инвентаря является абстрактным и зависит только от игровой ситуации и видения Смотрителя. Персонаж, заполнивший все 10 слотов, считается перегруженным и его ОЗ снижается до 0. Вы не можете нагрузить персонажа больше, чем вмещает его инвентарь.
 
-- Most items take up one slot unless otherwise indicated. 
-- _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
-- A bag of coins worth less than 100gp is _petty_ and does not occupy a slot.
+### Слоты инвентаря
 
-## Character Traits (d10)
+- Большинство предметов занимают один слот, если не указано иначе.
+- _Мелкие_ предметы не занимают слоты, а _громоздкий_ - занимают сразу **два**.
+- Мешок с монетами стоимостью менее 100 золотых считается _мелким_ предметом
 
-### Physique
+## Черты персонажа (к10)
 
-|       |          |        |            |
-| ----- | -------- | ------ | ---------- |
-| **1** | Athletic | **6**  | Scrawny    |
-| **2** | Brawny   | **7**  | Short      |
-| **3** | Flabby   | **8**  | Statuesque |
-| **4** | Lanky    | **9**  | Stout      |
-| **5** | Rugged   | **10** | Towering   |
+### Телосложение
 
-### Skin
+|       |            |        |            |
+| ----- | ---------- | ------ | ---------- |
+| **1** | Атлетичное | **6**  | Изможденное |
+| **2** | Мускулистое| **7**  | Щуплое     |
+| **3** | Дряблое    | **8**  | Статное |
+| **4** | Долговязое | **9**  | Тучное      |
+| **5** | Крепкое    | **10** | Гигантское   |
+
+### Кожа
 
 |       |             |        |           |
 | ----- | ----------- | ------ | --------- |
-| **1** | Birthmarked | **6**  | Soft      |
-| **2** | Marked      | **7**  | Tanned    |
-| **3** | Oily        | **8**  | Tattooed  |
-| **4** | Rosy        | **9**  | Weathered |
-| **5** | Scarred     | **10** | Webbed    |
+| **1** | В родимых пятнах | **6**  | Нежная      |
+| **2** | С меткой     | **7**  | Загорелая    |
+| **3** | Жирная        | **8**  | В татуировках  |
+| **4** | Румяная        | **9**  | Обветренная |
+| **5** | В шрамах     | **10** | С перепонками    |
 
-### Hair
+### Волосы
 
 |       |         |        |           |
 | ----- | ------- | ------ | --------- |
-| **1** | Bald    | **6**  | Long      |
-| **2** | Braided | **7**  | Luxurious |
-| **3** | Curly   | **8**  | Oily      |
-| **4** | Filthy  | **9**  | Wavy      |
-| **5** | Frizzy  | **10** | Wispy     |
+| **1** | Лысина    | **6**  | Длинные      |
+| **2** | Заплетенные | **7**  | Роскошные |
+| **3** | Кудрявые   | **8**  | Сальные      |
+| **4** | Грязные  | **9**  | Волнистые      |
+| **5** | Пушистые  | **10** | Тонкие     |
 
-### Face
+### Лицо
 
 |       |           |        |         |
 | ----- | --------- | ------ | ------- |
-| **1** | Bony      | **6**  | Perfect |
-| **2** | Broken    | **7**  | Rakish  |
-| **3** | Chiseled  | **8**  | Sharp   |
-| **4** | Elongated | **9**  | Square  |
-| **5** | Pale      | **10** | Sunken  |
+| **1** | Костлявое      | **6**  | Без изъянов |
+| **2** | Разбитое    | **7**  | Озорное  |
+| **3** | Выразительное  | **8**  | Острые черты  |
+| **4** | Вытянутое | **9**  | Квадратное  |
+| **5** | Бледное      | **10** | Впалое  |
 
-### Speech
+### Речь
 
 |       |         |        |            |
 | ----- | ------- | ------ | ---------- |
-| **1** | Blunt   | **6**  | Gravelly   |
-| **2** | Booming | **7**  | Precise    |
-| **3** | Cryptic | **8**  | Squeaky    |
-| **4** | Droning | **9**  | Stuttering |
-| **5** | Formal  | **10** | Whispery   |
+| **1** | Грубая   | **6**  | Заунывная   |
+| **2** | Громогласная | **7**  | Четкая    |
+| **3** | Загадочная | **8**  | Писклявая    |
+| **4** | Монотонная | **9**  | Заикающаяся |
+| **5** | Деловая  | **10** | Шепчущая   |
 
-### Clothing
+### Одежда
 
 |       |         |        |        |
 | ----- | ------- | ------ | ------ |
-| **1** | Antique | **6**  | Frayed |
-| **2** | Bloody  | **7**  | Frumpy |
-| **3** | Elegant | **8**  | Livery |
-| **4** | Filthy  | **9**  | Rancid |
-| **5** | Foreign | **10** | Soiled |
+| **1** | Старинная | **6**  | Изношенная |
+| **2** | Окровавленная  | **7**  | Неряшливая |
+| **3** | Элегантная | **8**  | Ливрея |
+| **4** | Грязная  | **9**  | Вонючая |
+| **5** | Иностранная | **10** | Грязная |
 
-### Virtue
+### Добродетель
 
 |       |             |        |           |
 | ----- | ----------- | ------ | --------- |
-| **1** | Ambitious   | **6**  | Honorable |
-| **2** | Cautious    | **7**  | Humble    |
-| **3** | Courageous  | **8**  | Merciful  |
-| **4** | Disciplined | **9**  | Serene    |
-| **5** | Gregarious  | **10** | Tolerant  |
+| **1** | Амбициозность   | **6**  | Честность |
+| **2** | Осторожность    | **7**  | Скромность    |
+| **3** | Мужество  | **8**  | Милосердие  |
+| **4** | Дисциплина | **9**  | Спокойствие    |
+| **5** | Общительность  | **10** | Терпимость  |
 
-### Vice
+### Порок
 
 |       |            |        |          |
 | ----- | ---------- | ------ | -------- |
-| **1** | Aggressive | **6**  | Lazy     |
-| **2** | Bitter     | **7**  | Nervous  |
-| **3** | Craven     | **8**  | Rude     |
-| **4** | Deceitful  | **9**  | Vain     |
-| **5** | Greedy     | **10** | Vengeful |
+| **1** | Агрессивность | **6**  | Лень     |
+| **2** | Придирчивость     | **7**  | Нервозность  |
+| **3** | Трусость     | **8**  | Грубость     |
+| **4** | Лживость  | **9**  | Тщеславие     |
+| **5** | Алчность     | **10** | Мстительность |
 
-## Bonds
+## Узы
 
 |         |                                                                                                                                                                                                                                                                                          |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **D20** | **Bond**                                                                                                                                                                                                                                                                                 |
-| **1**   | You inherited a **Single Gem** (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches, and a debt long thought forgotten would be called in.                                                                                       |
-| **2**   | A distant cousin left you a small inheritance. Take **20Gp** and a **Strange Compass** (_petty_) that always points towards something deep in the Wood.                                                                                                                              |
-| **3**   | You carry a **Portrait** in a locket (_petty_) of a past love who disappeared into the Wood long ago. Somehow you know that they are still alive.                                                                                                                                    |
-| **4**   | You found a **Tiny Crystal Prism** (_petty_) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within the Wood. Sometimes you feel a presence looking back at you.                                                                         |
-| **5**   | You once freed a Naiad from a choked stream. In return, it gave you some **Silver Moss** (petty). Swallow it near water, and the creature will come, once, to repay its debt.                                                                                                                    |
-| **6**   | You inherited an old **Journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly written from the journal's perspective. The writing is crude but accurate.                                                                                       |
-| **7**   | You protect a long-dormant family secret. Take one half of an **Ancient Key** (_petty_). They say that if joined with its twin, it opens a **Gate** through any door.                                                                                                                    |
-| **8**   | You received a **Letter** (_petty_) detailing incontrovertible proof that your true parentage is that of Fae nobility. The note also indicates a date and location where you are to meet the letter's author, deep in the the Wood.                                                  |
-| **9**   | You owe a great debt to a member of the nobility and carry their **Signet Ring** (_petty_), which serves as proof of their protection as well as your obligation.                                                                                                                        |
-| **10**  | You consumed a **Mischievous Spirit** that wreaks havoc on your insides, demanding to be taken home, deep in the Wood. It occupies one slot but absorbs one **Fatigue** each day. It wants you alive (for now). |
-| **11**  | A roaming storyteller once spun you tales of great treasure hidden deep in the Wood. You thought it naught but fancy, till they gave you **A Rolled-Up Map** (_petty_) marked with an X.                                                                                             |
-| **12**  | During your travels, you met a dying hunter who asked you to deliver a message to their loved ones. Take a **Letter** (_petty_), sealed with tree sap. It is addressed only to the **Lord Of Winter**.                                                                                   |
-| **13**  | You found a wounded beast in the forest but chose to ignore it. You see it everywhere now, but only when you're alone. It looks sad but not angry. You cannot become _panicked_ when acting alone.                                                                                       |
-| **14**  | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **Bracelet** (_petty_) woven from twine and wildflowers.                                                                                                               |
-| **15**  | You crossed a creature of the Wood, and it cursed you with a **Stone Heart**. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.                                                                      |
-| **16**  | You carved a **Whistle** (_petty_) from an **Oak Lord's** branch. Your act did not go unnoticed. You cannot seem to rid yourself of the whistle either.                                                                                                                                  |
-| **17**  | The **Dawn Brigade** did your family a service, giving you a dried **Blood-Red Flower** (_petty_) as proof. When the flower turns white, it means the favor is owed.                                                                                                                     |
-| **18**  | An entertainer once visited your home, filling it with story and song. He left one day without a word, leaving behind only **A Miniature Lute**. Something rattles inside.                                                                                                               |
-| **19**  | A white crow appeared to you in a dream, holding a twig in its mouth. You awoke the next morning with the **Twig** (_petty_) in your hand. You believe it brings you luck. It smells faintly of sulfur.                                                                                  |
-| **20**  | One of your ancestors wronged a **Moss Witch**, who cursed their bloodline. Your visage causes mirrors to shatter. You've noticed that the shards can sometimes reveal illusions.                                                                                                        |
+| **к20** | **Узы**                                                                                                                                                                                                                                                                                 |
+| **1**   | Вы унаследовали **самоцвет** (500 золотых, холодный и хрупкий) от давно умершего родственника. Вместе с ним пришло предупреждение: если растратите это неожиданное богатство, будет востребован долг, о котором давно забыли.                                                                                       |
+| **2**   |Дальний родственник оставил вам небольшое наследство: 20 золотых и **странный компас** (_мелкий_), который всегда указывает на нечто глубоко в Лесу.                                                                                                                              |
+| **3**   | Вы носите с собой нарисованный от руки **портрет любимого человека** (_мелкий_), который давно исчез в Лесу. Каким-то образом вы знаете, что он еще жив.                                                                                                                                    |
+| **4**   | Вы обнаружили крошечную **хрустальную призму** (_мелкий_), зарытую в земле. Когда вы подносите ее к свету, внутри возникает образ неизвестного вам места глубоко в Лесу. Иногда вам кажется, что нечто смотрит на вас в ответ.  |
+| **5**   | Однажды вы освободили наяду из пересохшего ручья. В благодарность она подарила **серебряный мох** (_мелкий_). Если проглотить его рядом с водоемом, наяда придет к вам один раз, чтобы вернуть долг.                                                                                                                    |
+| **6**   | Вы унаследовали **старый дневник**, переплетенный корой. Каждый вечер его страницы заполняются событиями дня, описанными с точки зрения самого дневника. Слог изложения груб, но правдив.                                                                                       |
+| **7**   | Вы храните давнюю семейную тайну, приняв в наследство **половину древнего ключа** (_мелкий_). Говорят, если соединить его с другой половиной, он поможет пройти через любую дверь, используя **Врата**.                                                    |
+| **8**   |Вы получили **письмо** (_мелкий_), содержащее неоспоримые доказательства вашего происхождения от фейской знати. В нем также указаны дата и место встречи с автором письма, глубоко в Лесу.     |
+| **9**   | Вы имеете значительный долг перед представителем знати и носите его **перстень с печаткой** (_мелкий_). Он служит как символом покровительства, так и вашей обязанности.               |
+| **10**  | Вы поглотили **озорного духа**, голос которого теперь звучит внутри вас и причиняет беспокойство. Он требует возвращения домой, глубоко в Лес, занимает один слот инвентаря, но ежедневно поглощает одну **Усталость**. Пока что ему выгодно, чтобы вы были живы. |
+| **11**  |Бродячий рассказчик поведал вам историю о великом сокровище, спрятанном глубоко в Лесу. Вы считали это вымыслом, пока он не вручил вам **свернутую карту** (_мелкий_) с отметкой «X».                                       |
+| **12**  | Во время странствий вы встретили умирающего охотника, который попросил вас передать сообщение своим близким. У вас есть **письмо** (_мелкий_), запечатанное древесной смолой. Оно адресовано **Владыке Зимы**.            |
+| **13**  | Вы обнаружили раненое существо в Лесу, но решили не помогать ему. Теперь оно повсюду преследует вас, появляясь только когда вы одни. Оно выглядит печальным, но не злым. Вы не можете впасть в _панику_, действуя в одиночку.                                                            |
+| **14**  | Вы пообещали другу детства привезти редкий подарок, уникальный в своем роде. У вас есть **Браслет** (_мелкий_), сплетенный из бечевки и полевых цветов.       |
+| **15**  | Вы перешли дорогу существу из Леса, и оно наложило на вас проклятие **Каменного сердца**. С каждым месяцем камень становится тяжелее, занимая дополнительный слот инвентаря. Пока вы не снимете это проклятие, вы не можете по-настоящему умереть.                   |
+| **16**  | Вы вырезали **Свисток** (_мелкий_) из ветви Владыки Дуба. Ваш поступок не остался незамеченным. К тому же, вы не можете избавиться от этого свистка.      |
+| **17**  | **Отряд Рассвета** оказал вашей семье услугу, в знак чего подарил засушенный **Кроваво-красный цветок** (_мелкий_). Когда цветок станет белым - это будет знаком, что услуга должна быть оплачена.   |
+| **18**  | Однажды ваш дом посетил артист, наполнив его историями и песнями. Внезапно он ушел, не сказав ни слова, оставив после себя лишь **Миниатюрную лютню**, внутри которой что-то гремит.   |
+| **19**  | Вам приснилась белая ворона с веточкой в клюве. Проснувшись на следующее утро, вы обнаружили эту **Веточку** (_мелкий_) у себя в руке. Веточка слегка пахнет серой, но вы верите, что она приносит удачу.                                                                      |
+| **20**  | Один из ваших предков обидел **Моховую ведьму**, и она прокляла ваш род. Ваше отражение заставляет зеркала разбиваться вдребезги. Вы заметили, что осколки иногда могут развеять иллюзии.   |
 
 
-## Omens
+## Знамения
 
 |         |                                                                                                                                                                                                                                                    |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **d20** | **Omen**                                                                                                                                                                                                                                           |
-| **1**   | The once rich waters of a life-giving river have turned black and putrid, tainting the land and sickening those who drink from it. A village elder points to some recent desecration as the cause, but most do not heed their words.               |
-| **2**   | It feels like winter has arrived too quickly this year, frost and snows making their appearance much earlier than expected. There is talk of a pattern to the frost found in windows, ponds, and cracks in the ground. It almost looks like a map. |
-| **3**   | A thick, unnatural fog has begun encroaching upon an ancient and holy grove. It is said to be the work of a great forest spirit, angered by nearby deforestation.                                                                                  |
-| **4**   | The night sky grows dimmer each evening, as if stars are disappearing one by one. Rumors of hellish creatures capturing farmers and pulling them into the Roots are spreading like wildfire. Village elders believe the two are connected.     |
-| **5**   | The songbirds of the Wood have fallen eerily silent as of late. Hunters claim that a spectral figure has been spotted wandering the forest, gazing longingly at anyone it encounters.                                                          |
-| **6**   | Strange, tear-shaped stones have been found throughout the region, sparking a "gold rush" of sorts for jewelers and thieves alike. The locals believe they are the tears of the earth itself, weeping for a great tragedy yet to come.             |
-| **7**   | Swarming pests gnaw away at the edges of dreams, and farmers speak of a loud buzzing sound emanating from deep within the Wood. They also say that the sound is getting closer.                                                                |
-| **8**   | There is a village known far and wide for its impressive “mother tree," said to shelter the town’s secrets in its boughs. Recently it has begun bleeding red sap, worrying the elders.                                                             |
-| **9**   | The moon turns a deep crimson, bathing the night in an eerie, blood-red light. Some say it heralds a time of chaos and strife, as the boundaries between the Wood and the mortal realm grow thin.                                              |
-| **10**  | Strange cracks have appeared in the night sky, revealing a swirling vortex of light and color. Some say that the divide between realms is at its weakest in centuries and fear what may emerge from the other side.                                |
-| **11**  | A night-blooming flower once thought extinct is sprouting up throughout the Wood. Its scent is intoxicating but also causes vivid nightmares.                                                                                                  |
-| **12**  | Local livestock have grown increasingly agitated and unmanageable as of late. An old shepherd says it is due to an unsettling howl that emanates from the Wood each full moon.                                                                 |
-| **13**  | Swarms of insects are fleeing from the Wood in droves, destroying any wooden structures they come across. The sound of their wings hum a familiar tune as they pass overhead, like a forgotten nursery rhyme.                                  |
-| **14**  | Hunters talk of a curse that befalls any who kill a beast with a streak of white fur: soon after, they are found dead in their homes. Each day, there are fewer and fewer creatures to hunt.                                                                    |
-| **15**  | Folks say that a faint laughter can be heard echoing out of wells all over the city, and that the echoes change to sobs at night.                                                                                                                  |
-| **16**  | The constellations have slowly started shifting in the night sky, forming unfamiliar patterns that have stargazers and sages perplexed. Even the animals seem disturbed.                                                                           |
-| **17**  | An ancient tree at the heart of a sleepy village has suddenly withered and died, despite showing no signs of disease. After its trunk was cut, a bloody hand was found in its core.                                                                |
-| **18**  | Statues have been weeping blood for months on end, and the wombs of the village have lain barren since.  A single child has been the only exception, hidden away by elders overcome with fear and dread.                                           |
-| **19**  | The local fauna is behaving oddly, displaying heightened aggression or fleeing the area entirely. Hunters talk of a shadowy figure that roams the Wood, calling to the animals.                                                                |
-| **20**  | Border towns have become riotous in recent weeks after multiple claims of a red-robed figure appearing in their children's dreams, uttering the same warning: A fire is coming, and it will consume everything.                                    |
+| **к20** | **Знамения**                                                                                                                                                                                                                                           |
+| **1**   | Воды некогда полноводной и дарующей жизнь реки почернели и стали зловонными, отравляя землю и вызывая болезни у тех, кто пьет из нее. Старейшина деревни указывает на недавнее осквернение как на причину, но большинство не прислушивается к его словам.  |
+| **2**   | В этом году зима наступила слишком быстро: морозы и снегопады появились гораздо раньше, чем ожидалось. Говорят, что узоры инея на окнах, прудах и трещинах в земле напоминают карту. |
+| **3**   | Густой, неестественный туман начал окутывать священную рощу. Говорят, это дело рук великого лесного духа, разгневанного вырубкой близлежащих лесов.                                                                                  |
+| **4**   | Ночное небо с каждым вечером становится все темнее, словно звезды исчезают одна за другой. Слухи о демонических существах, похищающих фермеров и утаскивающих их под самые Корни, распространяются как лесной пожар. Старейшины деревни считают, что эти события связаны между собой.   |
+| **5**   | Певчие птицы Леса в последнее время зловеще умолкли. Охотники утверждают, что видели призрачную фигуру, блуждающую по чаще и с тоской смотрящую на каждого встречного.                                       |
+| **6**   | Странные, слезообразные камни были найдены по всему региону, вызвав своего рода «золотую лихорадку» среди ювелиров и воров. Местные жители верят, что это слезы самой земли, оплакивающей грядущую трагедию.       |
+| **7**   | Рои вредителей нарушают спокойствие снов, а фермеры говорят о громком жужжании, исходящем из глубин Леса. Они также уверены, что этот звук становится все ближе.                                               |
+| **8**   | Есть деревня, известная своим впечатляющим «материнским древом», которое, как говорят, хранит секреты города в своих ветвях. Недавно оно начало истекать красным соком, что беспокоит старейшин.                                   |
+| **9**   | Луна окрасилась в багровый, и теперь заливает ночь зловещим, кроваво-красным светом. Некоторые говорят, что это предвещает время хаоса и раздора, так как границы между Лесом и миром смертных становятся тоньше.                                  |
+| **10**  | В ночном небе появились странные трещины, расползающиеся клубящимися вихрями света и цвета. Некоторые утверждают, что границы миров сейчас наиболее тонки, и боятся того, что может появиться с другой стороны.                       |
+| **11**  | Ночной цветок, считавшийся вымершим, снова распространился по всему Лесу. Его аромат опьяняюще прекрасен, но также вызывает яркие кошмары.                                          |
+| **12**  | Местный скот в последнее время стал все более беспокойным и неуправляемым. Старый пастух говорит, что это из-за тревожного воя, исходящего из Леса каждое полнолуние.                                             |
+| **13**  | Рои насекомых массово покидают Лес, разрушая все деревянные строения на своем пути. Звук от их крыльев напоминает знакомую мелодию, когда они пролетают над головой, словно забытый детский стишок.                     |
+| **14**  | Охотники говорят о проклятии, которое постигает каждого, кто убивает зверя с белой шерстью: вскоре их находят мертвыми в своих домах. С каждым днем зверей для охоты становится все меньше и меньше.                                                            |
+| **15**  | Говорят, что из колодцев по всему городу доносится слабый смех, который ночью превращается в рыдания.    |
+| **16**  | Созвездия медленно начинают смещаться в ночном небе, образуя незнакомые узоры, что озадачивает астрономов и мудрецов. Даже животные кажутся обеспокоенными.                                                        |
+| **17**  | Древнее дерево в самом сердце тихой деревни внезапно засохло и погибло, несмотря на отсутствие признаков болезни. После того как его ствол был разрезан, в сердцевине нашли окровавленную руку.                                             |
+| **18**  | Статуи плачут кровью уже несколько месяцев подряд, и в деревне не рождаются дети. Единственный ребенок стал исключением, и старейшины, охваченные страхом и ужасом, спрятали его. |
+| **19**  | Местная фауна ведет себя странно, проявляя повышенную агрессию или полностью покидая обжитые места. Охотники говорят о теневой фигуре, бродящей по Лесу и призывающей животных.       |
+| **20**  | В последние недели приграничные города стали бунтовать после заявлений о том, что их детям во снах является фигура в красном и произносит одно и то же предупреждение: «Грядет огонь, что поглотит все.»                                   |

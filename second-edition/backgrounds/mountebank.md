@@ -1,46 +1,46 @@
 ---
-title: Mountebank
+title: Шарлатан
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Mountebank
+# Шарлатан
 
-> Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly. 
+> Ваше самое опасное оружие — остроумие, а ваша крепчайшая защита — обман. Но когда вы проигрываете, то делаете это по-крупному.
 
-## Names
+## Имена
 
-Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, Noa
+Амброзий, Люциус, Борегард, Корнелий, Ария, Тофик, Индиго, Дельфина, Солена, Ноа
 
-## Starting Gear
+## Начальное снаряжение
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Cart (+4 slots, _bulky_ when pulled)
-- Trick Playing Cards 
-- Fancy Hat (_petty_)
-- Cane Sword (d6)
+- Модная шляпа (_мелкий_)
+- Тележка (+4 слота; _громоздкий_, если тащить)
+- Факел (3 использования)
+- Трость-меч (к6)
+- Крапленая колода карт
+- 3к6 золотых монет
+- Пайки (3 использований)
 
-## How was your fraud exposed? Roll 1d6:
+## Как была раскрыта ваша афера? Бросьте 1к6:
 
 |       |                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Your "patients" kept reporting miraculous recoveries, despite your lack of training. Start with **Bandages** (3 uses) and a knack for healing.                                                                                                                                                                                                                                                                 |
-| **2** | After seducing a wealthy patron, their family hired a criminal gang to retrieve you. You got away and need to lay low. Start with **Beauty Cream**, 2 uses. Apply to appear irresistibly beautiful for the next 12 hours.                                                                                                                                                                                      |
-| **3** | You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself. Start with a concealable **Knife** (d6, _petty_).                                                                                                                                                                                         |
-| **4** | Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a **Captain's Uniform** (_petty_), a **Ceremonial Sword** (harmless, 60gp), and a **Bouquet of Flowers**.                                                                                                                                                                                                          |
-| **5** | You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictably in your hands (_WIL save to avoid disaster_). If you are the target of magic, the same applies to its wielder.                                                                                                                                                                                                |
-| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of Auditory Illusion. Inevitably, a patron discovered your secret. Start with the **Spellbook** and a bundle of scarves. Auditory Illusion: You create illusory sounds that seem to come from a direction of your choice. _Produces random and occasionally inopportune sounds throughout the day_. |
+| **1** | Ваши «пациенты» сообщали о чудесных выздоровлениях, несмотря на отсутствие у вас медицинской подготовки. Начните игру с **Бинтами** (3 использования) и талантом к исцелению.     |
+| **2** | После соблазнения богатого покровителя, его семья наняла банду преступников, чтобы вас найти. Вы сбежали и вынужденны скрываться. Начните игру с **Кремом красоты** (2 использования).  Нанесите его, чтобы выглядеть неотразимо в течение следующих 12 часов.   |
+| **3** | Вы продавали поддельные пророчества, но когда одно из них сбылось, это привлекло нежелательное внимание. Сделайте бросок по таблице **Знамений** и сохраните результат в тайне. Начните игру со скрытым **Клинком** (к6, _мелкий_). |
+| **4** | Ваша выходка уничтожила бесценный артефакт и ранила дюжину зрителей. Начните игру с **Капитанской униформой** (_мелкий_), церемониальным мечом (безвредный, 60 зм) и **Букетом цветов**.  |
+| **5** | Межевая ведьма прокляла вас за обман деревенских жителей. Магия работает непредсказуемо в ваших руках: пройдите спасбросок ВОЛ, чтобы избежать катастрофы. Если вы становитесь целью чужой магии, спасбросок должен пройти ее создатель. |
+| **6** | Ваши «сеансы» общения с мертвыми на самом деле были обманом с использованием скрытой от глаз **Книги заклинания** «Слуховая иллюзия». В конце концов, один из клиентов раскрыл ваш секрет. Начните игру с книгой заклинания и набором шарфов. Слуховая иллюзия: _вы создаете иллюзорные звуки, исходящие из выбранного вами направления. В качестве дополнительного эффекта после использования заклинания, книга издает случайные и порой неуместные звуки в течение дня._ |
 
-## What keepsake could always identify you? Roll 1d6:
+## Какой сувенир может вас выдать? Бросьте 1к6:
 
 |       |                       |                                                                                                                                                                                  |
 | ----- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Royal Crest**       | Born into royalty, you chose a different life. The crest grants you access but also alerts your family of your whereabouts. _Petty_.                                            |
-| **2** | **Miracle Oil**       | A smelly, slippery concoction. 2 uses.                                                                                                                                           |
-| **3** | **Surgeon's Soap**    | A lye and ash block that makes skin temporarily transparent, revealing the anatomy within. 4 uses.                                                                               |
-| **4** | **Goat Powder**       | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours.                                                                   |
-| **5** | **Cursed Sapphire**   | Worth **200gp**, it noticeably returns to your pocket shortly after you spend it. You can't seem to get rid of it.                                                             |
-| **6** | **Alchemical Tattoo** | A dog, cat, or bird that can leave your body on demand. It follows your commands to the best of its abilities and can pass its injuries (_as STR loss_) back onto you. _Petty_. |
+| **1** | **Королевский герб**       | Родившись в королевской семье, вы выбрали иной путь. Герб (_мелкий_) дает вам доступ, но также уведомляет семью о вашем местонахождении.  |
+| **2** | **Чудо-масло**       | Пахучая, скользкая смесь (2 использования).                     |
+| **3** | **Хирургическое мыло**    | Брусок из щелочи и золы, временно делающий кожу прозрачной, обнажая анатомию (4 использования).              |
+| **4** | **Козий порошок**       | Получен из плаценты козленка. Временно излечивает любую болезнь, но симптомы возвращаются через несколько часов.  |
+| **5** | **Проклятый сапфир**   | Стоимость **200 зм**; заметно для окружающих возвращается в ваш карман вскоре после того, как вы его потратите. Вы не можете от него избавиться. |
+| **6** | **Алхимическое тату** | Собака, кошка или птица, способная покидать ваше тело по требованию. Она выполняет ваши команды по мере своих возможностей и может передавать вам свои ранения, например, потерю СИЛ (_мелкий_). |

@@ -1,46 +1,46 @@
 ---
-title: Fungal Forager
+title: Грибной следопыт
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Fungal Forager
+# Грибной следопыт
 
-> You follow the whisperings of the deep earth, the rhythmic pulse of the mycelium forest that grows beneath the surface. The dark holds no terror for you. Also, you really love mushrooms.
+> Вы следуете шепотам из глубин земли, ритмичному пульсу грибного леса, что растет под поверхностью. Темнота вас не страшит. А еще вы действительно любите грибы.
 
-## Names
+## Имена
 
-Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
+Унтер, Вузи, Хильда, Каррент, Лейф, Ратан, Морелла, Лал, Пер, Мадригал
 
-## Starting Gear
+## Начальное снаряжение
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Sharpened Trowel (d6)
-- Candle Helmet (+1 Armor, dim, 6 uses)
-- Rope (25ft)
-- Metal Pail
+- 3к6 золотых монет
+- Пайки (3 использований)
+- Заостренный шпатель (к6 урон)
+- Металлическое ведро
+- Веревка (25 фт)
+- Свечной шлем (Броня +1, тусклый, 6 использований)
 
-## What strange fungus did you discover? Roll 1d6:
+## Какой странный гриб вы обнаружили? Бросьте 1к6:
 
 |       |                                                                                                                                                                                |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Shrieking Trumpet**. When exposed to light, it screams so loudly that all nearby attacks (including your own) are _impaired_. 2 uses.                                        |
-| **2** | **Torch Fungus**. When crushed, it creates a cold blue light for a short while. 2 uses.                                                                                        |
-| **3** | **Murderous Truffle**. Pungent, highly toxic, and very rare (worth 50gp to assassins).  Illegal pretty much everywhere. 1 use.                                                 |
-| **4** | **Hellcap**. Exposure to its aroma causes intense nausea and vomiting. Either way, it clears the room. Bottled (1 use).                                                        |
-| **5** | **Sproutcup**. Ingest to shrink down to the size of a mouse. (Your belongings stay the same size.) You return to normal size within the hour, often in fits and starts. 1 use. |
-| **6** | **Rootflower**. A white fungus found only on corpses deep underground. Ingest to restore d6 WIL. You will dream of the dead and their stories. 1 use.                          |
- 
+| **1** | **Кричащая труба**. При воздействии света издает такой громкий крик, что все ближайшие атаки (включая ваши собственные) становятся _ослабленными_ (2 использования).                                       |
+| **2** | **Факельный гриб**. При раздавливании излучает холодный синий свет в течение короткого времени (2 использования).                                                                                   |
+| **3** | **Убийственный трюфель**. Резкий, высокотоксичный и очень редкий (можно продать убийцам за 50 зм). Практически везде считается вне закона (1 использование).                                           |
+| **4** | **Чертовка**. Воздействие ее аромата вызывает сильную тошноту, вплоть до рвоты. Тем не менее, превосходно очищает помещение. Хранится в бутылке (1 использование).                                                   |
+| **5** | **Чашечный росток**. При употреблении уменьшает вас до размеров мыши, вещи остаются прежнего размера. Вы возвращаетесь к нормальному виду в течение часа, процесс проходит рывками (1 использование). |
+| **6** | **Корневой цветок**. Белый гриб, встречающийся лишь на трупах, зарытых глубоко в землю. При употреблении восстанавливает 1к6 ВОЛ. Вам будут сниться мертвецы и их история (1 использование).                     |
 
-## What keeps you sane, even in utter darkness? Roll 1d6:
+
+## Что помогает вам сохранять рассудок даже в полной темноте? Бросьте 1к6:
 
 |       |                     |                                                                                                |
 | ----- | ------------------- | ---------------------------------------------------------------------------------------------- |
-| **1** | **Glowsnail**       | Casts a soft, bioluminescent light. Feeds on one ration every two days.                        |
-| **2** | **Silk Moth Shawl** | A weatherproof blanket, it can also douse a fire without being damaged.                        |
-| **3** | **Milkflower**      | A gentle stimulant. Chewing it makes you immune to _panic_ for the next hour. 3 uses.          |
-| **4** | **Luxcompass**      | Hums softly as it moves closer to the Sun. Eventually the noise becomes unbearably loud.       |
-| **5** | **Sloth-Tarp**      | A tough and weatherproof fabric, useful for hanging off trees. When inside, you have +1 Armor. |
-| **6** | **Miner's Grease**  | Great for dislodging a gem, tool, or limb from a tight crack. Highly explosive. 3 uses.        |
+| **1** | **Светящийся улитка**       | Излучает мягкий биолюминесцентный свет. Питается одной порцией пищи каждые два дня.                      |
+| **2** | **Шаль Шелкового Мотылька** | Водонепроницаемое одеяло, способное потушить огонь без повреждений.                       |
+| **3** | **Молочный цветок**      | Легкий стимулятор. Жевание делает вас невосприимчивым к _панике_ на следующий час (3 использования).         |
+| **4** | **Светокомпас**      | Тихо гудит по мере приближения к солнцу. Со временем шум становится невыносимо громким.      |
+| **5** | **Ленивый тент**      | Прочный и водонепроницаемый материал, пригодный для подвешивания на деревьях. Когда вы внутри, получаете +1 к броне. |
+| **6** | **Шахтерская смазка**  | Отлично подходит для высвобождения драгоценного камня, инструмента или конечности из узкой щели. Крайне взрывоопасна (3 использования).       |

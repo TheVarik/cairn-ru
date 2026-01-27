@@ -1,45 +1,45 @@
 ---
-title: Marchguard
+title: Страж пограничья
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Marchguard
+# Страж пограничья
 
-> Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds their own.
+> Вы дали клятву крови патрулировать границу и защищать королевство. Однажды принесенная клятва не может быть нарушена. Стражи всегда находят своих.
 
-## Names
+## Имена
 
-Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
+Амброзий, Люциус, Борегард, Корнелий, Ария, Тофик, Индиго, Дельфина, Солена, Ноа
 
-## Starting Gear
+## Начальное снаряжение
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Long Sword (d10, _bulky_)
-- Boiled Leather (1 Armor)
+- Длинный меч (к10, _громоздкий_)
+- Вываренная кожа (Броня +1)
+- Масленка (6 использований)
+- 3к6 золотых монет
+- Пайки (3 использований)
+- Фонарь
 
-## Why did you take the Oath?
+## Почему вы принесли клятву? Бросьте 1к6:
 
 |       |                                                                                                                                                                                                                                                                     |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Your family has a long tradition of serving, and you were trained from an early age on how to survive in the wild. When taking the Supply action, your yield increases by one step (e.g. 1d4 > 1d6). |
-| **2** | As a convict, the Oath was simply a means of avoiding punishment. Take a set of **Lockpicks** and the **Key** (_petty_) to a safehouse.                                                                                                                                          |
-| **3** | Noble-born, you joined to escape family trouble. Take a **Goosefelt Tarp** (fits two) that you stole before leaving home.                                                                                                                                           |
-| **4** | When your family lost everything, you took the Oath to avoid becoming a burden. Take extra **Rations** (3 uses) and a brace of **Throwing Knives** (d6).                                                                                                               |
-| **5** | Your life was saved by a member of the **Marchguard**, and you were inspired to join their ranks. Take a **Snare Trap** and a **Sketchbook** filled with detailed drawings.                                                                                         |
-| **6** | You were in a dark place and decided that your life needed a little direction. You're still not so sure it was the right choice. Take an **Oilskin Coat** and **Mapping Paper**.                                                                                   |
+| **1** | Ваша семья имеет давнюю традицию службы, и вас с раннего возраста обучали выживанию в дикой природе. При выполнении действия «Снабжение» ваш результат увеличивается на одну ступен (например, с 1к4 на 1к6). |
+| **2** |Вы были под приговором, и клятва стала для вас способом избежать наказания. Возьмите **Набор отмычек** и **Ключ** (_мелкий_) от безопасного дома. |
+| **3** | Родившись в знатной семье, вы присоединились к стражам, чтобы избежать семейных проблем. Возьмите украденную перед уходом из дома **Палатку из гусиного пуха** (вмещает двоих).    |
+| **4** | Когда ваша семья потеряла все, вы принесли стражам клятву, чтобы не стать обузой. Начните игру с дополнительными **Пайками** (3 порции) и **Метательными ножами** (к6).  |
+| **5** | Один из **стражей пограничья** спас вашу жизнь, и это вдохновило вас вступить в их ряды. Возьмите **Силок** и **Альбом для рисования**, заполненный детальными изображениями.  |
+| **6** | У вас были темные времена и вы решили, что вашей жизни нужна цель. Вы все еще не уверены, было ли вступление в стражу правильным выбором. Возьмите **Непромокаемый плащ** и **Картографическую бумагу**.  |
 
-## What do you carry as proof of your Oath?
+## Что вы носите как символ своей клятвы? Бросьте 1к6:
 
 |       |                    |                                                                                                                                                                          |
 | ----- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Impressive Pin** | A metal badge of honor from the Guard. It can open doors but leaves a trail. _Petty_.                                                                                            |
-| **2** | **Oath Compass**   | Points not towards North, but instead to the nearest member of the Guard. It also lets you know when they're getting close.                                              |
-| **3** | **Pullstones**     | Two jet-black stones. When separated, the stones will always roll toward one another.                                                                         |
-| **4** | **Fireflask**      | Highly alcoholic, yet strangely delicious. When thrown, it creates a wall of flames 10ft high that burns out after a few minutes. 1 use.                                                                    |
-| **5** | **Pain Band**      | Touch an injured creature to transfer their wounds to you. (Exchange their lost STR with your own.) **Recharge**: Wear the ring while in perfect health. You will lose 1 STR, permanently. _Petty_. |
-| **6** | **Poacher's Woe**  | Strongly-scented arrows (3 uses). The scent is powerful enough to track with ease.                                                                                       |
+| **1** | **Впечатляющий значок** | Металлический знак почета от стражи. Он может открывать двери, но оставляет след (_мелкий_).  |
+| **2** | **Клятвенный компас**   | Указывает не на север, а на ближайшего члена стражи пограничья. Также сообщает, когда они приближаются.  |
+| **3** | **Притягивающие камни**     | Два черных как смоль камня. Когда их разделяют, они всегда катятся друг к другу.   |
+| **4** | **Огненная колба**      | Удивительно вкусная смесь из крепкого алкоголя. При броске создает стену пламени высотой 10 фт, которая гаснет через несколько минут (1 использование).  |
+| **5** | **Повязка боли**      | Прикоснитесь к раненому существу, чтобы перенести его раны на себя (Обменяйте потерянные СИЛ с вашим значением СИЛ). **Перезарядка**: наденьте кольцо, будучи полностью здоровым. При этом вы потеряете  1 СИЛ навсегда (_мелкий_). |
+| **6** | **Бич браконьера**  | Сильно пахнущие стрелы (3 использования). Запах достаточно стойкий, чтобы легко отследить местонахождение стрелы.  |

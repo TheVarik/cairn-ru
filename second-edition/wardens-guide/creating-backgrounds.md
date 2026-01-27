@@ -1,36 +1,36 @@
 ---
 layout: default
-title: Creating Backgrounds
-parent: Warden's Guide
-grand_parent: Second Edition
+title: Создание предысторий
+parent: Книга Смотрителя
+grand_parent: Полное издание
 ---
 
-# Creating Backgrounds
+# Создание предысторий
 
-## Introduction
+## Введение
 
-In Cairn, a PC's Background is the most important element of their character, representing their past as well as their present. Backgrounds can influence a character's knowledge, expertise, their connection with the setting, and much more. Backgrounds are also a filter for interpreting the results of a dice roll, or a reason to not roll at all. A Greenwise doesn't need to save DEX when cutting leaves from a poisonous plant, just as a Scrivener knows how to read the older form of a local tongue. Most importantly, Backgrounds tell a story through the character's starting gear and unique history, connecting the PC to a setting and its themes.
+В Cairn предыстория ПИ - важнейший элемент его характера, отражающий как прошлое, так и настоящее. Предыстория может влиять на знания персонажа, его опыт, связь с окружающим миром и многое другое. Предыстория также служит фильтром для интерпретации результатов бросков костей или причиной для того, чтобы вообще их не бросать. Лесничий не должен совершать спасбросок ЛОВ, срезая листья с ядовитого растения, равно как и Писарь умеет читать на старой форме местного наречия. Что важнее всего, предыстория рассказывают историю через стартовое снаряжение и уникальное прошлое персонажа, связывая ПИ с сеттингом и его тематикой.
 
-## Principles
+## Основные принципы
 
-- Players should be excited about rolling on the Background tables.
-- Backgrounds can be archetypal and familiar, but leave room for alternative interpretations!
-- Backgrounds should tell the player something about the implied setting.
-- Each table result should be unique, so that characters with the same Background are still distinct from one another.
+- Игроки должны быть заинтересованы в бросках по таблицам предыстории.
+- Предыстории могут быть архетипичными и знакомыми, но оставляйте место для альтернативных трактовок!
+- Предыстории должны рассказывать игроку что-то о предполагаемом сеттинге.
+- Каждый результат в таблице должен быть уникальным, чтобы персонажи с одной и той же предысторией все равно отличались друг от друга.
 
-## Anatomy of a Background
+## Структура предыстории
 
-### Theme
+### Тема
 
-Prepare a list of common adjectives that describe your new Background. If designing a profession, ask yourself what would lead someone to take on such a career. If writing something more unique (such as the Half-Witch, for example), consider how such a person's strangeness would alienate them from others or bring them closer. And as you write the Background's starting gear and tables, keep in mind how the game world's implied setting, inspirational materials (books, film, etc.), and existing tropes might influence the results.
+Подготовьте список общих прилагательных, описывающих вашу новую предысторию. Выбирая профессию, спросите себя, что могло бы заставить человека избрать такую карьеру. Если вы пишете о ком-то более уникальном (например, о Полуведьме), подумайте о том, как странность такого человека может оттолкнуть его от других или сблизить с ними. И когда вы прописываете стартовое снаряжение и таблицы для предыстории, помните о том, как на результаты могут повлиять подразумеваемый сеттинг, источники вдохновения (книги, фильмы и т.д.) и существующие жанровые тропы.
 
-### Starting Gear
+### Начальное снаряжение
 
-Characters in Cairn are largely defined by their inventory, so starting gear should be the first place to start painting a Background's unique canvas. Each Background has:
-- Gold, food, and some kind of light source. These should still be unique; a Background might start with unusual Rations, a candle helmet, and so on.
-- Up to four _unique_ items that reinforce the overarching theme. At least one of these items should be a weapon of some kind.
-- Starting items should occupy no more than seven slots in total, so as to not overburden a character's inventory.
+Поскольку персонажи в Cairn во многом определяются своим инвентарем, стартовое снаряжение должно стать первым шагом к рисованию уникальной картины предыстории. У каждой предыстории есть:
+- Золото, еда и какой-либо источник света. Они все равно должны быть уникальными; предыстория может начинаться с необычных пайков, шлема со свечой и тому подобного.
+- До четырех _уникальных_ предметов, подкрепляющих основную тему. Хотя бы один из этих предметов должен быть каким-либо оружием.
+- Стартовые предметы в общей сложности не должны занимать более семи ячеек, чтобы не перегружать инвентарь персонажа.
 
-### Tables
+### Таблицы
 
-Tables are where a character's unique story really starts to come together. They also provide a level of diversity so that no two characters are alike. Each Background has a defining question, followed by six rows of answers. The first table question should be tailored around the character's distant or recent past and what experiences led to their present circumstances. The first table should offer the character a unique item, ability, or combination of the two. The second table question focuses on who the character is _today_, and the answers are typically related to a specific item or skill that broadly defines the character.
+Таблицы - это то место, где уникальная история персонажа действительно начинает складываться воедино. Они также обеспечивают определенный уровень разнообразия, так что ни один персонаж не похож на другого. У каждой предыстории есть определяющий вопрос, за которым следуют шесть строк с ответами. Первый вопрос таблицы должен быть сфокусирован на далеком или недавнем прошлом персонажа и на том, какой опыт привел его к нынешним обстоятельствам. Первая таблица должна предложить персонажу уникальный предмет, способность или их комбинацию. Второй вопрос таблицы фокусируется на том, кем персонаж является _сегодня_, и ответы обычно связаны с конкретным предметом или навыком, который в целом определяет персонажа.

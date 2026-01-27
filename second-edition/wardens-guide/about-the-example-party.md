@@ -1,12 +1,12 @@
 ---
 layout: default
-title: About the Example Party
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: Про группу для примера
+parent: Книга Смотрителя
+grand_parent: Полное издание
 ---
 
-# About the Example Party
+# Про группу для примера
 
-- **Wolfram**: A _Hexenbane_ belonging to the _Order of the Blank Eye_. Besides the usual equipment, he carries a Voidglass Shard and the _Disassemble_ Spellbook. He has taken a _Vow of Poverty_. 
-- **Lucius**: A _Mountebank_. Besides the usual equipment he carries Bandages (3 uses) and Miracle Oil (2 uses).
-- **Freya**: A _Cutpurse_. Besides the usual equipment she carries Smoke Pellets (3 uses) and a Catring (2 charges).
+- **Вольфрам**: _Антимаг_ из _ордена Пустого Глаза_. Помимо обычного снаряжения, он носит с собой осколок Стекла пустоты и книга заклинаний _Разбор_. Он принял _обет_ бедности.
+- **Люциус**: _Шарлатан_. Помимо обычного снаряжения, он носит с собой бинты (3 использования) и чудесное масло (2 использования).
+- **Фрейя**: _Карманник_. Помимо обычного снаряжения, она носит с собой дымовые шашки (3 использования) и Кольцо кошки (2 заряда).

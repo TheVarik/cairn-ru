@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Adventures
+title: Приключения
 has_children: true
 nav_order: 11
 ---
 
-# Adventures
+# Приключения

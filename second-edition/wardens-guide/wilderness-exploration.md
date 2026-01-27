@@ -1,35 +1,35 @@
 ---
 layout: default
-title: Wilderness Exploration
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: Исследование дикой местности
+parent: Книга Смотрителя
+grand_parent: Полное издание
 ---
 
-# Wilderness Exploration
+# Исследование дикой местности
 
-## Overview
+## Введение
 
-In Cairn, wilderness exploration and travel is mostly abstract, hand-waving away the minutiae of the journey while still giving the party ample opportunities for interactivity and character agency. 
+В Cairn исследование дикой местности и путешествия в основном подаются абстрактно: мелкие подробности пути опускаются, но при этом у группы остается достаточно возможностей для взаимодействия и проявления инициативы персонажей.
 
-### Exploration Example
+### Пример исследования
 
-The party is escorting an NPC between two POIs: a small village situated in the grasslands to a stronghold at the base of an impressive valley. The short journey should only take one day, as travel is limited to _Easy_ terrain and is along a clear _Trail_ all the way. 
+Группа сопровождает ПС между двумя МИ: небольшой деревней в лугах, и твердыней у подножия впечатляющей долины. Это короткое путешествие займет всего один день, так как оно проходит по _простому_ ланшафту и по отчетливой _тропе_ на протяжении всего пути.
 
-> At the start of the day, the Warden rolls for the local weather, then adjudicates its potential impacts on the journey that day. It is overcast and breezy (no impact). After each of the following **Wilderness Actions,** the party rolls 1d6 to see if they get lost, and the Warden rolls on the **Wilderness Events Table**.
+> В начале дня Смотритель бросает на местную погоду, а затем оценивает ее потенциальное влияние на путешествие в этот день. На улице пасмурно и ветрено (ни на что не влияет). После каждого из следующих **действий в дикой местности** группа бросает 1к6, чтобы определить, не сбились ли они с пути, а Смотритель бросает по таблице **событий в дикой местности**.
 
-#### Day One / Watch One 
+#### День 1 / Фаза 1
 
-- The party takes the **Travel** action. _They do not get lost_.
-- **Events Table**: **Sign**. One of the characters looks behind the party and spies something glittering in the distance behind them. It disappears after a few seconds. Could that be a spyglass, reflecting in the sun?
+- Группа совершает действие — **Путешествие**. _Они не теряются_.
+- **Таблица событий**: **Подсказка**. Один из персонажей оглядывается на группу и замечает что-то блестящее вдалеке позади них. Через несколько секунд оно исчезает. Неужели это подзорная труба, сверкающая на солнце?
 
-#### Day One / Watch Two 
+#### День 1 / Фаза 2
 
-- The party takes the **Travel** action again, continuing along the same trail and plain. _They do not get lost._
-- **Events Table**: **Environment**. The weather has worsened in the evening, and as a result, the plain is muddy and the trail harder to follow. The Warden adds 1 Watch to the journey, as the party is forced to slow their march considerably, only reaching the the edge of the grasses by nightfall. The party is forced to find shelter in the open plain rather than at their destination in the adjacent valley.
+- Группа вновь совершает действие — **Путешествие**, продолжая двигаться по той же тропе и равнине. _Они не теряются_.
+- **Таблица событий**: **Окружение**. К вечеру погода ухудшилась, и в результате равнина стала грязной, а тропу стало труднее различать. Смотритель добавляет 1 фазу к путешествию, так как группа вынуждена значительно замедлить свой ход. Они смогут добраться до границы равнины только к ночи. Группа вынуждена искать укрытие на открытой равнине, вместо того чтобы достичь пункта назначения в соседней долине.
 
-#### Day One / Watch Three 
+#### День 1 / Фаза 3
 
-- The party takes the **Make Camp** action. They set up a hastily-made shelter, and each character consumes a Ration. A lookout rotation is set, dividing the night between all four party members.
-- **Events Table**: **Sign**. The sky clears up enough for the first person on lookout to see a light in the distance, flickering slowly. A campfire! Someone is definitely following them.
+- Группа совершает действие — **Разбить лагерь**. Группа наспех обустраивает укрытие, и каждый участник съедает свой рацион. Выставляется дежурство, распределяющая ночь между всеми четырьмя членами группы.
+- **Таблица событий**: **Подсказка**. Небо проясняется настолько, что первый дежурный видит огонь, медленно мерцающий вдалеке. Костер! Их определенно кто-то преследует.
 
-> Note: the party could have chosen to continue on through the night, but doing so could increase the chance of getting lost and put the party at greater risk! 
+> Примечание: Группа могла бы продолжить свой путь ночью, но это увеличило бы риск заблудиться и подвергло бы группу большей опасности!

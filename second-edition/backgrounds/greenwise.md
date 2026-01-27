@@ -1,47 +1,46 @@
 ---
-title: Greenwise
+title: Лесничий
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Greenwise
+# Лесничий
 
-> You delve deep into the **Wood**, prying its secrets from between rough boughs and whispering leaves. To this verdant kingdom, you are no mere scholar but its confidant as well.
+> Вы проникаете глубоко в **Лес**, выискивая его тайны между грубыми ветвями и шепчущими листьями. Для этого зеленого царства вы не просто ученый, но и его доверенное лицо.
 
-## Names
+## Имена
 
-Gunther, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
+Гюнтер, Мосс, Ферн, Лишень, Корней, Иванка, Сажна, Ярра, Рован, Аша.
 
-## Starting Gear
+## Начальное снаряжение
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Iron Pot
-- Root Knife (d6)
-- Healing Salve (restore 1d4 STR, 1 use)
-- Twine Bauble (_petty_, _Ward_ once per day)
-_Ward_: A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.
+- 3к6 золотых монет
+- Пайки (3 использований)
+- Факел (3 использования)
+- Железный горшок
+- Корневой нож (к6 урон)
+- Целебная мазь (восстанавливает 1к4 СИЛ, 1 использование)
+- **Безделушка из бечевки** (_мелкий_), Оберегает раз в день. Оберег: _на земле появляется серебряный круг диаметром 50 фт. Выберите один вид существ, который не может пересекать его_.
 
-## How has the Wood failed you ? Roll 1d6:
+## Как Лес подвел вас? Бросьте 1к6:
 
 |       |                                                                                                                                                                                               |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | An ill-tempered forest spirit cursed you for stealing, marking you as an enemy of their kind. Take a **Bezoar Stone**. Ingesting it cures any poison (1 use, unless retrieved).             |
-| **2** | A close friend disappeared into the forest. Now you see their face in any tea you brew. Take a **Soporific Concoction** (3 uses).                                                                                 |
-| **3** | You were poisoned, losing your sense of taste and smell. You can now withstand noxious fumes and always carry **Antitoxin** (2 uses).                                                        |
-| **4** | Your radical experiments turned your skin green, and you now gain nourishment as a plant. You don't need **Rations**, but a day without sufficient sunlight and water leaves you _deprived_. |
-| **5** | Your impressive corpseflower won a local contest then promptly killed a judge. You fled, but not without the **Prize Money (100gp)** and a warrant for your arrest.                    |
-| **6** | You created a restorative tincture that also causes accidental infertility. Take a **Healing Potion** that completely restores STR. Only you know of its unintended side-effects.                       |
+| **1** | Раздосадованный дух леса проклял вас за воровство, пометив как врага. Возьмите **Камень безоара**. Прием внутрь излечивает от любого яда (1 использование, если камень не извлечен).            |
+| **2** | Ваш близкий друг исчез в лесу. Теперь вы видите его лицо в любом заваренном чае. Возьмите **Усыпляющий отвар** (3 использования).                                                                                 |
+| **3** |Вы были отравлены, потеряли вкус и обоняние. Теперь вы можете выдерживать ядовитые пары и всегда носите с собой **Противоядие** (2 использования).                                                   |
+| **4** | Ваши радикальные эксперименты окрасили вашу кожу в зеленый цвет, и теперь вы питаетесь как растение. Вам не нужен **Пайок**, но день без достаточного количества солнца и воды делает вас _истощенным_. |
+| **5** | Ваше впечатляющее хищное растение выиграло местный конкурс, но затем убило одного из судей. Вы сбежали, прихватив **Призовые деньги (100 зм)** и став разыскиваемой персоной.             |
+| **6** | Вы создали восстанавливающую настойку, которая с некоторым шансом способна привести к бесплодию. Возьмите **Лечебное зелье**, полностью восстанавливающее СИЛ. Только вы знаете о его побочном эффекте.                      |
 
-## What keeps you safe while in the Wood? Roll 1d6:
+## Что защищает вас в Лесу? Бросьте 1к6:
 
 |       |                  |                                                                                                          |
 | ----- | ---------------- | -------------------------------------------------------------------------------------------------------- |
-| **1** | **Amadou**       | A vermilion fungus that catches fire quite easily. 3 uses.                                              |
-| **2** | **Delphinium**   | Breathe water for up to one hour. 1 use, but can be divided into fractional doses.                       |
-| **3** | **Tacky Stalk**  | A woody reed that hardens into a permanent adhesive when chewed. 2 uses.                                 |
-| **4** | **Wisp Lantern** | Caged in wrought iron, provides a dim light so long as the wisp is able to feed on nearby pain and fear. |
-| **5** | **Seed Bomb**    | A canvas sack filled with seeds that explode on impact. d6 damage (_blast_, 3 uses).                     |
-| **6** | **Briarvine**    | Entangles any creature up to horse size (STR to break free). Reusable.                                   |
+| **1** | **Трутовик**       | Алый гриб, который легко воспламеняется (3 использования).                                          |
+| **2** | **Дельфиниум**   | Позволяет дышать под водой до одного часа (1 использование, можно разделить на несколько раз).                       |
+| **3** | **Клейкий стебель**  |Деревянистый тростник, который превращается в прочный клей при жевании (2 использования).                                |
+| **4** | **Фонарь с блуждающим огоньком** | Клетка из кованого железа, дающая слабый свет, пока огонек ощущает неподалеку боль и страх. |
+| **5** | **Бомба с семенами**    | Холщовый мешочек, наполненный семенами, взрывающимися при ударе. Урон к6 (взрыв, 3 использования).                   |
+| **6** | **Шиповник**    | Опутывает любое существо размером до лошади (проверка СИЛ, чтобы освободиться, многоразовый).                               |

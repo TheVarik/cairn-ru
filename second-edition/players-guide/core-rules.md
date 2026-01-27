@@ -1,167 +1,169 @@
 ---
 layout: default
-title: Core Rules
-parent: Player's Guide
-grand_parent: Second Edition
+title: Базовые правила
+parent: Книга Игрока
+grand_parent: Полное издание
 ---
 
-# Core Rules
+# Базовые правила
 
-## Attributes
+## Характеристики
 
-Each of the three **Attributes** are used in different circumstances. (See **Saves**, below.)
+Каждая из трех характеристик используется в различных ситуациях: (См. **Спасброски**, ниже.)
 
-- **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
-- **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
-- **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+- **Сила (СИЛ)**: Применяется для спасбросков, требующих физической силы, таких как поднятие ворот, сгибание прутьев, сопротивление яду и т.д.
+- **Ловкость (ЛОВ)**: Используется для спасбросков, где нужна ловкость, скорость, рефлексы, уклонение, лазание, скрытность, баланс и т.д.
+- **Воля (ВОЛ)**: Требуется для спасбросков при допросе, убеждении, запугивании, провокации, очаровании, обмане, управлении заклинаниями и т.д.
 
-## Saves
+## Спасброски
 
-- A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
-- If two opponents are each trying to overcome the other, whoever is most at risk should save.
-- If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
+- Спасбросок — это проверка, позволяющая избежать негативных последствий рискованных действий. Персонажи бросают к20 и сравнивают результат со значением соответствующей характеристики. Если результат меньше или равен характеристике — спасбросок успешен; в противном случае — нет.  Результат «1» всегда означает успех, а «20» — неудачу.
+- Если два оппонента пытаются превзойти друг друга, спасбросок делает тот, кто находится в менее выгодном положении.
+- Если персонажи действуют совместно, спасбросок выполняет тот из них, кто больше рискует (обычно персонаж с меньшим значением характеристики).
 
-## Healing & Recovery
+## Лечение и восстановление
 
-- Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilize a character that has taken critical damage.
-- Attribute loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
-- Some healing services are free, while magical or more expedient means of recovery may come at a cost. 
+- Для восстановления потерянных ОЗ — отдохните несколько минут и выпейте воды. Персонажа, получившего критический урон, можно стабилизировать с помощью бинтов.
+- Потеря характеристики (см. **Критический урон**) обычно восстанавливается после недели отдыха под наблюдением целителя или другого специалиста.
+- Некоторые услуги исцеления бесплатны, но за магические или ускоренные  варианты придется заплатить.
 
-## Deprivation & Fatigue
+## Истощение и усталость
 
-- A PC that lacks a crucial need (such as food or rest) is **Deprived**. Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one for each day. A **Deprived** PC cannot recover HP, Attributes, or item slots from **Fatigue**.
-- A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot).
-- If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
+- Персонаж игрока, без базовых потребностей (еды или отдыха), считается **Истощенным**. Если **Истощение** длится более суток — добавьте в инвентарь по **Одной Усталости** за каждый день. Истощенный ПИ не может восстанавливать ОЗ, характеристики или слоты, занятые **Усталостью**.
+- ПИ также может получить **Усталость** после использования заклинаний или в результате некоторых событий в игре. **Одна Усталость** занимает одну ячейку и остается в инвентаре до тех пор, пока персонаж не отдохнет (например, полный ночной сон в безопасном месте).
+- Если ПИ должен добавить в инвентарь **Усталость**, но не имеет свободных слотов — он обязан выбросить какой-либо предмет.
 
-## Armor
+## Броня
 
-- Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
-- Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
-- A PC, NPC, or monster cannot have more than 3 Armor.  
+- Прежде чем уменьшить количество ОЗ цели, из результата броска урона вычитается значение **Брони** цели.
+- Щиты и разнообразные доспехи предоставляют бонус к защите (например, Броня +1) лишь пока экипированы. Некоторые из них также могут давать ситуативные преимущества.
+- ПИ, ПС или монстры не могут иметь более 3 единиц брони.
 
-## Reactions
+## Реакции
 
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+Когда ПИ встречают Персонажа Смотрителя, чья реакция на группу не очевидна, Смотритель может бросить 2к6 и свериться с таблицей:
 
 |         |      |         |      |         |
 | :-----: | :--: | :-----: | :--: | :-----: |
 |    2    | 3-5  |   6-8   | 9-11 |   12    |
-| Hostile | Wary | Curious | Kind | Helpful |
+| Враждебен | Осторожен | Любопытен | Дружелюбен | Полезен |
 
-## Morale
+## Мораль
 
-- Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
-- Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
-- Morale does not affect PCs.
+- Враги должны пройти спасбросок ВОЛ, чтобы не сбежать после первой потери в своих рядах, и снова — когда лишатся половины группы.
+- Некоторые группы могут использовать значение ВОЛ своего лидера вместо собственного. Одиночные цели делают спасбросок, когда их ОЗ снижается до 0.
+- Правило морали не влияет на Персонажей игроков.
 
-## Hirelings
+## Наемники
 
-- Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.  
-- To create a hireling, choose an appropriate role from the [Hirelings](/second-edition/players-guide/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
-- Alternatively, choose an appropriate [**background**](/second-edition/players-guide/character-creation#backgrounds) and **name** from the [Character Creation](/second-edition/players-guide/character-creation) guide. Roll (or choose from) the tables for that background. Then roll for Rations, Gold Pieces, Attributes, HP, and age. 
+- Группа может рекрутировать наемников, чтобы использовать их уникальные навыки, знания и опыт в своих экспедициях. 
+- Чтобы создать наемника: выберите подходящую роль из таблицы [Наемники](/second-edition/players-guide/marketplace/#наемники-дневная-ставка) в разделе Рынок. Бросьте 3к6 для каждой характеристики и 1к6 для ОЗ. Предоставьте наемнику **снаряжение**, соответствующее их роли, затем используйте таблицы черт для проработки наемника.
+- Или можете выбрать подходящую [**Предысторию**](/second-edition/players-guide/character-creation/#предыстории) и **имя** из главы [«Создание персонажа»](/second-edition/players-guide/character-creation). Сгенерируйте или выберите по таблицам детали предыстории. Затем, сделайте броски на Рационы, Золото, Характеристики, ОЗ и возраст.
 
-## Die of Fate  
+## Кость судьбы
 
-- Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
-- A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
+- При желании, бросайте 1к6 всякий раз, когда исход ситуации не определен или вы хотите добавить в нее элемент случайности.
+- Результат 4 и выше обычно указывает на хороший исход, в то время как 3 и ниже означает непредвиденные осложнения для ПИ.
 
-## Combat
+## Сражение
 
-### Rounds
+### Раунды
 
-- A **Round** is roughly ten seconds of in-game time and and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
-- During the _first round of combat_, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save _lose their turn_ for this round.
-- Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
+- **Раунд** длится примерно десять секунд игрового времени, в течение которых стороны действуют по очереди. Каждый раунд начинается с действий персонажей игроков, затем ходят их противники. _Результат действий каждой стороны наступает одновременно_.
+- В _первом раунде боя_ ПИ должны пройти спасбросок ЛОВ, чтобы начать действовать. Особые обстоятельства, навыки, предметы могут отменить это требование. Персонажи, не прошедшие проверку, _пропускают свой ход_ в этом раунде.
+- Затем действуют противники, и первый раунд заканчивается. Далее цикл повторяется, пока бой не завершится победой одной из сторон или бегством.
 
-### Actions
+### Действия
 
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, moving for a second time, or some other reasonable action. Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. 
+В свой ход персонаж может переместиться на расстояние до 40 футов и совершить одно действие. Это может быть атака, применение заклинания, повторное перемещение или другое разумное действие. Игрок должен описать действие персонажа перед броском костей. Если персонаж действует рискованно, Смотритель может назначить прохождение спасброска всем затронутым участникам сцены.
 
-### Attacking & Damage
+### Атаки и урон
 
-- The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
-- If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
-- If an attack would take a PC's HP exactly to 0, refer to the [Scars](#scars-table) table to see how they are uniquely impacted.
+- Все атаки попадают автоматически. Атакующий бросает кости урона своего оружия, вычитает значение брони цели, затем наносит оставшийся урон по ее ОЗ.
+- Если несколько персонажей атакуют одного врага, то бросаются все кости урона и считается только наивысший бросок. Все действия должны быть согласованы до броска.
+- Если атака снижает количество ОЗ Персонажа игрока ровно до 0, обратитесь к таблице [Шрамы](#scars-table), чтобы определить уникальные последствия.
 
-### Attack Modifiers
+### Модификаторы атак
 
-- If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_, and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
-- If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
-- Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions to a dragon’s breath or the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
-- If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
+- Если персонаж атакует из невыгодного положения (например, через укрытие или со связанными руками), она будет _Ослаблена_, и атакующий нанесет 1к4 урона независимо от кости урона оружия. Безоружные атаки всегда наносят 1к4 урона.
+- Если персонаж атакует из выгодного положения (например, по беспомощному врагу или через смелый маневр), атака будет _Усилена_, позволяя атакующему бросить 1к12 вместо обычного кости урона.
+- Атаки со свойством _Взрыв_ воздействуют на все цели в указанной области. Это может быть взрыв пороха, дыхание дракона или падение метеорита. Атакующий бросает кость атаки отдельно для каждого пораженного персонажа. Если из описания неясно, сколько целей поразит ваша атака, _бросьте кость урона для определения их количества_.
+- При атаке двумя оружиями, все кости урона бросаются одновременно и выбирается наибольший результат. Обозначается такой тип атаки символом «+», например, к8+к8.
 
-### Critical Damage
+### Критический урон
 
-- Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immediately make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
-- Any PC that suffers Critical Damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. NPCs and monsters that fail a Critical Damage save are considered dead, per the **Warden's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
+- Когда цель получает урон, опускающий ее ОЗ ниже нуля, избыток урона отнимается от _значения СИЛ_. Затем цель должна немедленно пройти спасбросок СИЛ, используя _новое значение_, чтобы избежать получения **Критического урона**. При успехе цель остается в бою и должна проходить спасброски при каждом получении урона.
+- Получив критический урон, ПИ не может делать ничего, кроме как медленно ползти, цепляясь за жизнь. Если ему помогут — например, сделают перевязку — он стабилизируется. Если этого не произойдет - он умрет в течение часа.
+- Персонажи Смотрителя и монстры, не прошедшие проверку на критический урон — считаются мертвыми (по желанию Смотрителя). У некоторых врагов есть особые способности, которые срабатывают, когда их цель не проходит данную проверку.
 
-### Attribute Loss
+### Потеря характеристик
 
-- If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+- Если персонаж получает урон вне боя, его значение отнимается от характеристики, обычно СИЛ.
+- Если СИЛ ПИ снижается до 0, он умирает. Снижение ЛОВ до 0 парализует персонажа, а ВОЛ — делает его безумным. При полной потере ЛОВ или ВОЛ, персонаж считается недееспособным, пока не восстановит здоровье длительным отдыхом или необычными средствами.
 
-### Character Death
+### Смерть персонажа
 
-- When a character dies, the player should create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+- Когда персонаж умирает, игроку нужно создать нового или взять под контроль наемника. Он немедленно присоединяется к группе, чтобы уменьшить время простоя.
 
-### Detachments
+### Отряды
 
-- Large groups of similar combatants fighting together are treated as a single _Detachment_. When a _detachment_ takes **Critical Damage**, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
-- Attacks against detachments by individuals are _impaired_ (excluding _blast_ damage). Attacks against individuals by detachments are _enhanced_ and deal _blast_ damage.
+- Большие группы одинаковых противников, сражающихся вместе, можно рассматривать как один _Отряд_. При получении **Критического урона** — _Отряд_ морально подавлен, а когда его Сила достигает 0 — уничтожен.
+- Атаки одиночной цели против отряда _Ослаблены_, не считая урон от _Взрыва_. Атаки отряда по одиночной цели _Усилены_ и имеют модификатор _Взрыв_.
+ 
+### Бегство
 
-### Retreat
+- Чтобы сбежать из опасной ситуации, персонаж должен пройти спасбросок ЛОВ, а также иметь безопасное место, куда можно отступить.
 
-- Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+### Дальние атаки
 
-### Ranged Attacks
+- Атаки дальнобойного оружия могут поразить любого врага, если вы достаточно близко, чтобы видеть белки его глаз. Атаки по целям на большей дистанции _Ослаблены_.
+- Боеприпасы можно не подсчитывать, если не указано иначе.
 
-- Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
-- Ammunition is not tracked unless otherwise specified. 
+## Шрамы
 
-## Scars
+Если урон от атаки снижает ОЗ персонажа точно до 0, определите по таблице ниже полученный шрам, опираясь на _количество потерянных ОЗ_.
+Например, если ОЗ персонажа уменьшились с 3 до 0, следует выбрать пункт #3 (Опрокидывание).
 
-If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
-
-### Scars Table
+### Таблица шрамов
 
 |             |                                                                                                                                                                                                                           |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **HP Lost** | **Result**                                                                                                                                                                                                                |
-| 1           | Lasting Scar: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                     |
-| 2           | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                           |
-| 3           | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP.                                                         |
-| 4           | Broken Limb: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result.                                                                         |
-| 5           | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result.                                                           |
-| 6           | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute, take the new result.                                                                        |
-| 7           | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.                                                              |
-| 8           | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.                                                                              |
-| 9           | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.                                                                                    |
-| 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
-| 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
-| 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+| **ОЗ** | **Шрам**                                                                                                                                                                                                                |
+| 1           | Шрам: Бросьте 1к6. 1: Шея, 2: Рука, 3: Глаз, 4: Грудь, 5: Нога, 6: Ухо. Бросьте 1к6 еще раз. Если значение больше вашего максимального ОЗ, то запишите новый результат.               |
+| 2           | Ошеломление: Вы дезориентированы и потрясены. Опишите, как вы пытаетесь прийти в себя. Бросьте 1к6. Если значение больше вашего максимального ОЗ, то запишите новый результат.    |
+| 3           |Опрокидывание: Вас отбросило, и вы упали лицом вниз, вам тяжело дышать. Вы будете истощены, пока не отдохнете несколько часов. Затем бросьте 1к6 и добавьте это значение к вашему максимальному ОЗ. |
+| 4           | Перелом: Бросьте 1к6. 1-2: Нога, 3-4: Рука, 5: Ребро, 6: Череп. После заживления бросьте 2к6. Если сумма больше вашего максимального ОЗ, то запишите новый результат.   |
+| 5           | Болезнь: Вы заражены инфекцией, которая создает множество проблем и дискомфорта. После выздоровления, бросьте 2к6. Если сумма больше вашего максимального ОЗ, то запишите новый результат.                  |
+| 6           | Травма головы: Бросьте 1к6. 1-2: СИЛ, 3-4: ЛОВ, 5-6: ВОЛ. Бросьте 3к6. Если сумма больше вашего максимального значения, то запишите новый результат.                              |
+| 7           | Разрыв сухожилий: Вы едва можете двигаться, пока не получите серьезную помощь и не отдохнете. После восстановления, бросьте 3к6. Если сумма больше вашей максимальной ЛОВ, то запишите новый результат.   |
+| 8           | Потеря слуха: Вы не можете слышать, пока не отыщите опытного целителя. Не смотря на это, сделайте спасбросок ВОЛ. При успехе - увеличьте максимальное значение ВОЛ на 1к4.  |
+| 9           | Изменение психики: Некогда скрытая часть вашей личности вырывается на волю. Бросьте 3к6. Если сумма больше вашего максимального значения ВОЛ, то запишите новый результат.                      |
+| 10          | Разрыв: Конечность оторвана, искалечена или стала бесполезной. Смотритель подскажет, какая именно. Сделайте спасбросок ВОЛ. При успехе - увеличьте максимальное значение ВОЛ на 1к6. |
+| 11          | Смертельная рана: Вы лишены сил и выведены из строя. Вы умрете через час, если вас не спасут. После восстановления, бросьте 2к6. Запишите результат как ваше новое значение ОЗ.       |
+| 12          | Обречен: Смерть была рядом, но вам удалось избежать встречи с ней. Провалив следующий спасбросок против Критического урона, вы погибните в мучениях. При успехе, бросьте 3к6. Если сумма больше вашего максимального ОЗ, то запишите новый результат. |
 
-## Magic
+## Магия
 
-### Spellbooks 
+### Книги заклинаний
 
-- **Spellbooks** contain a single spell and take up one slot. They cannot be easily transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
-- Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
-- Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+- **Книги заклинаний** содержат только одно заклинание и занимает один слот. Их нелегко переписать или создать; вместо этого, они достаются из гробниц, подземелий, заброшенных поместий и других опасных мест.
+- Некоторые книги заклинаний обладают особыми свойствами, например, источают противный или неземной запах при открытии, имеют собственный разум или дают себя прочитать только при лунном свете.
+- Книги заклинаний — лакомая добыча для тех, кто желает овладеть их магической силой. Демонстрировать их наличие — опасная и опрометчивая затея.
 
-### Casting Spells
+### Наложение заклинаний
 
-- Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a **Fatigue** to inventory. 
-- Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. 
-- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
+- Кто угодно может творить заклинание, держа книгу обеими руками и читая ее вслух. После этого он должен добавить в инвентарь одну **Усталость**.
+- При наличии времени и находясь в безопасности, ПИ могут _улучшить_ заклинание без дополнительных затрат. Например, распространить его эффект на несколько целей, увеличить его силу и т.д.
+- Если ПИ _истощен_ или находится в опасности, Смотритель может потребовать пройти спасбросок ВОЛ, чтобы избежать негативных последствий от применения заклинания. Последствия неудачи соответствуют эффекту заклинания и могут привести к получению дополнительной **Усталости**, уничтожению книги, травме и даже смерти.
 
-### Scrolls
+### Свитки
 
-**Scrolls** are similar to Spellbooks, however:
+**Свитки** схожи с Книгами заклинаний, однако:
 
-- They are _petty_.
-- They do not cause **Fatigue**.
-- They disappear after one use.
+- Они _мелкие_.
+- Они не вызывают **Усталость**.
+- Они исчезают после использования.
 
-### Relics
+### Реликвии
 
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a **Recharge** condition.
+Реликвии — это предметы, пропитанные магическим заклинанием или силой. Они не вызывают **Усталость**, часто ограничены в количестве использований, а также имеют условие для **Перезарядки**.

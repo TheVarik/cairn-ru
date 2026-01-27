@@ -1,68 +1,68 @@
 ---
 layout: default
-title: Detachments
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: Отряды
+parent: Книга Смотрителя
+grand_parent: Полное издание
 ---
 
-# Detachments
+# Отряды
 
-## Introduction
+## Введение
 
-Detachments are large groups of enemies treated as a single entity. They are more difficult to hit and deal damage to multiple opponents at the same time. Crucially, they remain a single unit until they take critical damage, after which they are broken up or defeated entirely. Occasionally, a large creature (such as a dragon or giant) will be treated as a detachment as well. 
+Отряды — это большие группы врагов, рассматриваемые как единая сущность. По ним сложнее попасть, и они наносят урон нескольким противникам одновременно. Важно отметить, что они остаются единым целым до тех пор, пока не получат критический урон, после чего отряд распадается или оказывается полностью разгромленным. Иногда крупное существо (такое как дракон или великан) также рассматривается как отряд.
 
-## Example
+## Пример
 
-> The party is setting up camp deep in the forest, adjacent to a modest waterfall. It is nearly nightfall, and everyone is on high alert. Unbeknownst to the party, a colony of Traitor-Rats [3 HP, 5 STR, 15 DEX, 4 WIL, bite (d6), _detachment_] makes its home here.
+> Группа разбивает лагерь глубоко в лесу, рядом с небольшим водопадом. Уже почти стемнело, и все находятся в состоянии повышенной готовности. Без ведома отряда, здесь обосновалась колония Крыс-предателей [3 ОЗ, 5 СИЛ, 15 ЛОВ, 4 ВОЛ, укус (к6), _отряд_].
 
-**Warden**: _"Just as the sun finally dips behind the trees, you each hear an unusual noise, not unlike the tsk-tsk-tsk of an overbearing uncle. As you listen, it begins to grow both in volume and tempo, then quickly becomes somewhat uncomfortable to listen to. As you survey the perimeter of the campsite, you see dozens of small, rat-like creatures with enormous eyes watching your party. They appear to be the source of the strange sound, and they are moving closer! By the way, we're going to treat these creatures as a detachment until further notice."_
+**Смотритель**: _«Как только солнце окончательно скрывается за деревьями, каждый из вас слышит необычный звук, похожий на цоканье языка раздраженного дядюшки. Пока вы прислушиваетесь, звук нарастает как по громкости, так и по темпу, быстро становясь почти невыносимым для слуха. Осматривая периметр лагеря, вы видите десятки маленьких крысоподобных существ с огромными глазами, которые наблюдают за вашей группой. Похоже, они и есть источник странного звука, и они приближаются! Кстати, мы будем рассматривать этих существ как отдельный отряд до получения дополнительной информации.»_
 
-**Freya**: _"Will we need to make DEX saves in order to attack before these things? Assuming they intend to do us harm, that is."_
+**Фрейя**: _«Нужно ли нам делать спасбросок ЛОВ, чтобы атаковать раньше этих тварей? Если, конечно, они намерены причинить нам вред.»_
 
-**Warden**: _"No, you have enough time to make the first move."_
+**Смотритель**: _«Нет, у вас достаточно времени, чтобы сделать первый ход.»_
 
-**Freya**: _"OK. I'm going to see how many of these things I can take out at once."_
+**Фрейя**: _«Окей. Посмотрим, сколько из этих тварей я смогу убить за раз.»_
 
-**Wolfram**: _"I'm going to find their queen and shoot her. Assuming there even is a queen!"_
+**Вольфрам**: _«Я хочу найти их королеву и выстрелить в нее. Если у них вообще есть королева!»_
 
-**Lucius**: _"I hate to do this, but I am going to sacrifice 1 use of my bandages to use as stuffing for my ears. Just in case._"
+**Люциус**: _«Не хочу этого делать, но я пожертвую 1 использованием своих бинтов, чтобы заткнуть ими уши. На всякий случай.»_
 
-**Warden**: _"Let's start with Lucius, who sacrifices 1 use of bandages and stuffs them in his ears. The sound all but disappears. That ends his turn. Freya, go ahead and roll your attack dice."_
+**Смотритель**: _«Давайте начнем с Люциуса, который жертвует 1 использованием бинтов и затыкает ими уши. Звук практически исчезает. На этом его ход заканчивается. **Фрейя**, бросай свои кости на атаку.»_
 
-> Freya rolls two d4 dice, resulting in a 2 and a 2.
+> Фрейя бросает два к4, выпадает 2 и 2.
 
-**Warden**: _"Freya, you run into the mess of creatures, stabbing two of them with the Twins. They perish easily, but two more quickly fill their place. Even at the edge of the swarm, the sound they make is intense. You start to feel confused."_
+**Смотритель**: _«**Фрейя**, ты бросаешься в толпу существ, пронзая двоих из них своими Близнецами. Они гибнут легко, но двое других мгновенно занимают их место. Даже на краю роя издаваемый ими звук очень громкий. Ты начинаешь чувствовать себя сбитой с толку»_
 
-**Warden**: _"Wolfram, you move into the colony, passing through the swarm as you search for any sign of a queen. You spend your entire turn searching and are unable to take another action. However, in the fading light, you see a taller creature in the distance, a white stripe on its stomach."_
+**Смотритель**: _«**Вольфрам**, ты врываешься в колонию, пробиваясь сквозь рой в поисках хоть какого-нибудь признака королевы. Ты тратишь на поиски весь свой ход и не можешь совершить другое действие. Однако в сгущающихся сумерках ты замечаешь вдалеке более крупное существо с белой полосой на брюхе.»_
 
-**Wolfram**: _"Bingo. That's the one. A careful shot, that's all I need."_
+**Вольфрам**: _«Бинго. Вот и она. Аккуратный выстрел — все, что мне нужно.»_
 
-**Warden**: _"Standing amongst all the creatures, the sound becomes unbearable for both Freya and Wolfram. Please make a WIL save, each of you."_
+**Смотритель**: _«Находясь среди всех этих существ, звук становится невыносимым как для **Фрейи**, так и для **Вольфрама**. Пожалуйста, сделайте спасбросок ВОЛ, каждый из вас.»_
 
-**Freya**: _"Uh oh. I rolled a 15, a fail."_
+**Фрейя**: _«Ой-ой. Я выбросила 15, это провал.»_
 
-**Wolfram**: _"I roll an 11, a success!"_
+**Вольфрам**: _«У меня 11, успех!»_
 
-**Warden**: _"Freya collapses on the ground, the noise in her ears has grown so loud it has become an explosion of agony. Wolfram, you grit your teeth and carry on. Lucius is unaffected."_
+**Смотритель**: _«**Фрейя** падает на землю, шум в ее ушах стал настолько громким, что превратился во взрыв агонии. **Вольфрам**, ты стискиваешь зубы и выдерживаешь. Люциус не попадает под эффект.»_
 
-**Freya**: _"Eek. Do I lose my next turn?"_
+**Фрейя**: _«Ай. Я теряю свой следующий ход?»_
 
-**Warden**: _"That's right, but you can try to succeed at a WIL save to snap out of it. A few of the creatures nearby begin to nibble at your clothes as you writhe around. Finally, they attack both you and Wolfram!"_
+**Смотритель**: _«Верно, но ты можешь попытаться совершить успешный спасбросок ВОЛ, чтобы прийти в себя. Несколько ближайших тварей начинают грызть твою одежду, пока ты извиваешься по земле. Наконец они атакуют тебя и **Вольфрама**!»_
 
-> As a detachment, the Traitor-Rats have both the _blast_ property and deal _enhanced_ damage. The Warden rolls a d12 twice, dealing 1 damage to Freya and 6 to Wolfram.
+> Являясь отрядом, Крысы-предатели обладают свойством _«взрыв»_ и наносят _усиленный_ урон. Смотритель дважды бросает к12, нанося 1 урон Фрейе и 6 урона Вольфраму.
 
-**Warden**: _"Freya, you do not have HP as you are prone. However, your leather armor has protected you from taking any damage from the rats nipping at your back. Wolfram, you take 6 damage, but your HP and armor absorb the bulk of it. Next time you might not be so lucky."_
+**Смотритель**: _«Фрейя, у тебя нет очков защиты, так как ты лежишь ничком. Однако твоя кожаная броня защитила тебя от всего урона крыс, кусающих твою спину. Вольфрам, ты получаешь 6 единиц урона, но твои ОЗ и броня поглощают большую его часть. В следующий раз тебе может так не повезти.»_
 
-**Wolfram**: "_That's OK, because there won't be a next time! I take aim at the taller creature and fire. I realize I have to roll a d4, but that's the best we've got!"_
+**Вольфрам**: _«Да и черт с ним, следующего раза не будет! Я прицеливаюсь в крупное существо и стреляю. Я понимаю, что придется бросить к4, но ничего лучше у нас нет!»_
 
-**Freya**: "_All I can do is make a WIL save... and it's a success! Phew."_
+**Фрейя**: _«Все, что я могу делать, это кидать спасбросок ВОЛ... и это успех! Фух.»_
 
-**Lucius**: _"I rush towards Freya and try to drag her out of that mess."_
+**Люциус**: _«Я бросаюсь к Фрейе и пытаюсь вытащить ее из этого хаоса.»_
 
-> Wolfram rolls a 2, which is enough to deal damage to STR. The detachment must now make a Critical Damage save using its STR Attribute. The Warden rolls a 7, a fail.
+> Вольфрам бросает 2, чего достаточно, чтобы нанести урон по СИЛ. Теперь отряд должен совершить спасбросок от критического урона, используя свое значение СИЛ. Смотритель выбрасывает 7 — провал.
 
-**Warden**: _"The crossbow bolt zings through the air, striking the white-furred creature in the heart. It screeches and keels over, and immediately the terrible noise stops, as the creatures begin to run off! Lucius, you pull Freya out of the danger zone just as she is coming around."_
+**Смотритель**: _«Арбалетный болт свистит в воздухе, поражая белобрюхое существо прямо в сердце. Оно пронзительно визжит и падает, и тотчас ужасный шум прекращается, а существа начинают разбегаться! Люциус, ты вытаскиваешь Фрейю из опасной зоны как раз в тот момент, когда она приходит в себя.»_
 
-**Wolfram**: _"Thank goodness that's done with. I'm going to go grab whatever I just shot, though. Might make for a good dinner."_ 
+**Вольфрам**: _«Слава богу, с этим покончено. А я пойду заберу то, во что только что стрелял. Может получиться неплохой ужин.»_
 
-> The party rests for the night, and dines well.
+> Группа отдыхает и ужинает с удовольствием.

@@ -1,46 +1,46 @@
 ---
-title: Hexenbane
+title: Антимаг
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Hexenbane
+# Антимаг
 
-> You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.
+> Вы — всего лишь часть неумолимой руки правосудия. Вы идете туда, куда боятся ступить другие, непреклонный и несгибаемый.
 
-## Names
+## Имена
 
-Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
+Персиваль, Феликс, Изольда, Вольфрам, Альдрик, Эйра, Освин, Ивор, Беатрис, Брунгильда
 
-## Starting Gear
+## Начальное снаряжение
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Vestments of the Order (_petty_)
-- Blessed Tinctures
-- Silver Knife (d6)
-- Crossbow (d8, _bulky_)
+- 3к6 золотых монет
+- Пайки (3 использований)
+- Факел (3 использования)
+- Орденское облачение (_мелкий_)
+- Благословенные настойки
+- Серебряный нож (к6)
+- Арбалет (к8, _громоздкий_)
 
-## To which order do you belong? Roll 1d6:
+## К какому ордену вы принадлежите? Бросьте 1к6:
 
 |       |                                                                                                                                                                                                                |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Order of the Crossroads**. Take a **Pocket Leyfinder**. It points to nearby ley lines and other sources of arcane power. If you lose it, the punishment is death.                                            |
-| **2** | **Order of the Bleeding Star**. Take a **Star-Iron Mace** (d8). It shines faintly in darkness and becomes very hot in the presence of witchcraft.                                                   |
-| **3** | **Order of the Glass Sigil**. Take a short sword (d8) and chainmail (2 Armor, _bulky_). You have contacts in most towns (the more rural, the better) willing to provide aid, food, or even weapons.                 |
-| **4** | **Order of the Blank Eye**. Take a **Voidglass Shard**. Peer through it to see invisible marks, creatures, and other magical effects. Lose the use of your eye for an hour afterwards (you are _deprived_). |
-| **5** | **Order of Canaas**. Once per day, you can change into a wolf. Take a **Quicksilver Chain**. Without it, you are unable to shift back.                                                                           |
-| **6** | **Order of the Silent Veil**. Take a **Quell Stone** (2 uses) wrapped in burlap. Extinguishes any nearby flames once exposed to air.                                                                             |
+| **1** | **Орден Перекрестков**. Возьмите **Карманный лейфайндер**. Он указывает на ближайшие лей линии и другие источники магической силы. Если вы его потеряете, наказанием будет смерть.                                            |
+| **2** | **Орден Кровоточащей Звезды**. Возьмите **Булаву** из **Звездного железа** (к8). Она слабо светится в темноте и становится очень горячей в присутствии ведьмовства.                                                  |
+| **3** | **Орден Стеклянного Символа**. Возьмите **Короткий меч** (к8) и **Кольчугу** (Броня +2, _громоздкий_). У вас есть контакты в большинстве поселений, готовые предоставить помощь, еду и даже оружие.                 |
+| **4** | **Орден Пустого Ока**. Возьмите **осколок пустотного стекла**. Загляните в него, чтобы увидеть невидимые метки, существ и другие магические эффекты. После использования один ваш глаз теряет зрение на один час и вы получаете _истощение_. |
+| **5** |**Орден Канааса**. Один раз в день вы можете превращаться в волка. Возьмите **Ртутную цепь**. Без нее вам не обернуться обратно.                                                                  |
+| **6** | **Орден Безмолвной Вуали**. Возьмите **Камень подавления**, завернутый в мешковину. Гасит любые огни поблизости при контакте с воздухом (2 использования).                                                                           |
 
-## What was your vow? Roll 1d6:
+## Каков был ваш обет? Бросьте 1к6:
 
-|       |                                                                                                                                                                    |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Honesty**. Choose a **weapon type** (blunt, blade, etc). Attacks against you of this type are _impaired_. If your vow is broken, you lose d4 WIL.                |
-| **2** | **Poverty**. You carry the _Disassemble_ **Spellbook**. Only you can use it. If your vow is broken, it explodes (d12 STR damage). Disassemble: Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. _Regenerates any torn or defaced pages._                                 |
-| **3** | **Selflessness**. You are immune to **mind-altering magical effects**, such as _charm_, _hatred_, _frenzy_, and so on. If you break this vow, you lose d6 WIL.       |
-| **4** | **Mercy**. Choose a **weapon type** (blunt, blade, etc). Attacks with this weapon are _enhanced_. If your vow is broken, you can never use that weapon type again. |
-| **5** | **Charity**. Once per day you can shrug off a **Fatigue**. If your vow is ever broken, you permanently lose one inventory slot.                                           |
-| **6** | **Valor**. The first time you inflict **Critical Damage**, you receive +d4 HP, returning to the previous limit at the end of combat. If your vow is broken, you die.             |
+|       |                              |                                                                                                                                      |
+| ----- | ---- |------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | **Честность** | Выберите **тип оружия** (дробящее, колющее и т.д.). Атаки против вас этим типом оружия _ослаблены_. Если вы нарушите обет, то потеряете 1к4 ВОЛ.               |
+| **2** | **Бедность** | У вас есть **Книга заклинания** «Разборка». Только вы можете ее использовать. Если вы нарушите обет, она взорвется, нанеся 1к12 урона СИЛ.Разборка: любая часть вашего тела может быть отсоединена и присоединена по желанию, без боли или повреждений. Вы все еще можете их контролировать. _Восстанавливает любые порванные или поврежденные страницы._         |
+| **3** | **Альтруизм** | Вы невосприимчивы к магическим эффектам, таким как очарование, ненависть, безумие и т.д. Если вы нарушите этот обет, то потеряете 1к6 ВОЛ.       |
+| **4** | **Милосердие** | Выберите **тип оружия** (дробящее, колющее и т.д.). Атаки этим оружием получают _усиление_. Если вы нарушите обет, то больше никогда не сможете использовать этот тип оружия. |
+| **5** | **Щедрость** | Один раз в день вы можете снять одну **Усталость**. Если вы нарушите обет, то навсегда потеряете один слот инвентаря.                    |
+| **6** | **Доблесть** | В первый раз, нанеся **Критический Урон**, вы получаете +1к4 к ОЗ, возвращаясь к прежнему лимиту в конце боя. Если вы нарушите обет, то умрете.     |

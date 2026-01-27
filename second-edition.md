@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Second Edition
+title: Полное издание
 has_children: true
 nav_order: 8
 redirect_from: /wip/2e/
 ---
 
-# Second Edition
+# Полное издание

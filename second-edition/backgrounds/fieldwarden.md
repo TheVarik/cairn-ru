@@ -1,46 +1,46 @@
 ---
-title: Fieldwarden
+title: Страж полей
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Fieldwarden
+# Страж полей
 
-> Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. Roll a second time on the **Bonds** table. 
+> Защитник урожая, преграда от вредителей, воров и зверей. Это великая честь, пока вы живы: немногие стражи доживают до старости. Сделайте второй бросок по таблице Уз.
 
-## Names
+## Имена
 
-Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye 
+Сид, Треш, Диббер, Соу, Столк, Харроу, Кобб, Флакс, Брайар, Рай
 
-## Starting Gear
+## Начальное снаряжение
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Brigandine (1 Armor, _bulky_)
-- Sling (d6)
-- Hand Axe (d6)
-- Repellent (pick the type, 3 uses)
+- 3к6 золотых монет
+- Пайки (3 использований)
+- Бригантина (Броня +1, громоздкий)
+- Факел (3 использования)
+- Праща (к6а)
+- Ручной топор (к6а)
+- Репеллент (выбери вид, 3 использования)
  
-## What got the better of you? Roll 1d6:
+## Что вас одолело? Бросьте 1к6:
 
 |       |                                                                         |
 | ----- | --------------------------------------------------------------- |
-| **1** | A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take **Gale Seed Extract** (3 uses).  Ingesting it lets you sprint with a speed four times your regular rate. Afterward you add two **Fatigue**.        |
-| **2** | A crop spirit, angered by a poor tithing. The fires consumed nearly everything, and afterward you were able to gather a pouch of **Fireseeds** (d8, _blast_, 4 uses).        |
-| **3** | An antlered, toothy demon that nearly ended you. Take a blood-stained **Bone Knife** (d6). On **Critical Damage**, its next attack becomes _enhanced_ from contact with blood. |
-| **4** | _The Withering_, a type of stem rot from the **Roots**. Take a **Diseased Crop** (6 uses) that quickly decays any plant it touches.                        |
-| **5** | Wolves, or so you thought. You are now a **Werewolf** [8 HP, 15 STR, 14 DEX, claws (d6+d6), bite (d8)]. Your WIL remains the same. You can _turn_ at will (once per day) but must make a WIL save to revert. Anyone left alive from your attacks must make a WIL save to avoid infection. |
-| **6** | Crop thieves. Not all of them survived, but you were outnumbered. Start with +d4 HP and a **Cusped Falchion** (d8).  |
+| **1** | Ненасытная стая вредителей, пожиравшая урожай и животных. Оставшись без средств защиты, вы ушли. Возьмите **Экстракт семян бури** (3 использования). Выпив его, вы сможете бежать в четыре раза быстрее обычного. После этого добавьте две **Усталости**.        |
+| **2** | Дух урожая, разгневанный скудным подношением. Огонь уничтожил почти все, но вам удалось собрать мешочек **Огненных семян** (к8, _взрыв_, 4 использования).       |
+| **3** | Рогатый, зубастый демон, едва не убивший вас. Возьмите окровавленный **Костяной нож** (к6). При нанесении _Критического Урона_, его следующая атака становится _Усиленной_ из-за контакта с кровью. |
+| **4** | _Увядание_ — вид стеблевой гнили из Корней. Возьмите **Зараженный урожай** (6 использований), который быстро разлагает любое растение, к которому прикасается.                      |
+| **5** | Волки, по крайней мере, вы так думали.. Теперь вы — **Оборотень**  [8 ОЗ, 15 СИЛ, 14 ЛОВ, когти (к6+к6), укус (к8)]. Ваша ВОЛ остается прежней. Вы можете превращаться по желанию (раз в день), но должны пройти проверку ВОЛ, чтобы вернуть себе человеческий облик. Любой, кто выжил после вашей атаки, должен пройти проверку ВОЛ, чтобы избежать заражения. |
+| **6** | Воры урожая. Не все из них выжили, но вас было меньше. Начните с +1к4 ОЗ и **Зазубренным фальшионом** (к8).  |
 
-## What tool saved your life? Roll 1d6:
+## Какой инструмент спас вам жизнь? Бросьте 1к6:
 
 |       |                    |                                                                                                                                               |
 | ----- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Bloodvine Whip** | d8 damage. On **Critical Damage**, it drains the target's blood, granting the weapon's next attack the _blast_ quality             |
-| **2** | **Clatter Keeper** | A hand-cranked device that emits a loud noise, frightening away most creatures.                                                               |
-| **3** | **Sun Stick**      | Provides ample warmth and light for up to one hour. **Recharge**: Leave in heavy sunlight for a full day. 1 use. |
-| **4** | **Root Tether**    | When thrown, binds a creature as large as a wolf to the soil for a short time.                                                                        |
-| **5** | **Greenwhistle**   | A small flute that calms plants, making passage through areas heavy with plant life a bit easier.                                                   |
-| **6** | **Everbloom Band** | A circlet adorned with flowers that never wilt. On **Critical Damage**, the flowers dissolve into dust, but you act as if your save succeeded (STR loss still occurs). |
+| **1** | **Кнут из кровавой лозы** | Урон к8. При **Критическом Уроне** высасывает из цели кровь, придавая следующей атаке свойство _взрыва_.            |
+| **2** | **Коробка-хлопушка** | Ручное устройство, издающее громкий шум, отпугивающий большинство существ.                                          |
+| **3** | **Солнечная палочка**      | Обеспечивает достаточное тепло и свет в течение одного часа (1 использование). **Перезарядка**: оставьте на целый день на ярком солнце. |
+| **4** | **Корневая привязь**    | Метнув, вы на короткое время свяжете существо размером с волка с землей.                                         |
+| **5** | **Зеленый свисток**   | Небольшая флейта, успокаивающая растения и облегчающая проход через заросли.                                  |
+| **6** | **Вечноцветущий браслет** | Браслет, украшенный цветами, которые никогда не вянут. Когда вы получите **Критический Урон**, цветы обратятся в пыль, но вы сможете считать, что успешно прошли спасбросок (это не избавит вас от потери СИЛ). |

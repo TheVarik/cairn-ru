@@ -1,33 +1,33 @@
 ---
 layout: default
-title: Bonds and Omens
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: Узы и знамения
+parent: Книга Смотрителя
+grand_parent: Полное издание
 ---
 
-# Bonds and Omens
+# Узы и знамения
 
-## Introduction
+## Введение
 
-Bonds and Omens provide new player characters with adventure hooks, starting gear, and abilities. And while they are distinct from character Backgrounds, they are equally useful for building a setting, or even a complete adventure!
+**Узы и знамения** предоставляют новым игровым персонажам зацепки для приключений, стартовое снаряжение и способности. И хотя они отличаются от предысторий персонажей, они не менее полезны для создания сеттинга или даже целого приключения!
 
-## Bonds
+## Узы
 
-Bonds can often tie a player character to another PC, the setting, and its characters. A PC can resolve a Bond by discovering the truth behind its mysteries or by solving its root cause. In this case, the character should experience Growth of some kind, and the Warden can optionally create a new Bond for the PC. Player characters are not required to resolve their Bonds. 
+**Узы** часто могут привязывать персонажа игрока к другому ПИ, сеттингу и его персонажам. ПИ может разрешить Узы, раскрыв истину, стоящую за их тайнами, или устранив ее первопричину. В этом случае персонаж должен получить какой-либо Рост, и Смотритель может по желанию создать для него новые Узы. ПИ не обязаны разрешать свои Узы.
 
-### Bonds Should...
+### Узы должны...
 
-- Give a character an item (often _petty_) _or_ a unique ability.
-- Encourage character engagement with the implied setting.
-- Flesh out a character's history without relying on events tied to specific Backgrounds. 
-- Provide a character with a quest, opportunity, or plan of action. 
+- Давать персонажу предмет (чаще всего _мелкий_) _или_ уникальную способность.
+- Поощрять вовлеченность персонажа в подразумеваемый сеттинг.
+- Раскрывать историю персонажа, не полагаясь на события, связанные с конкретной предысторией.
+- Предоставлять персонажу задание, возможность или план действий.
 
-## Omens
+## Знамения
 
-Omens are the seeds of an adventure yet to come, premonitions of a future disaster, or the cause of a problem the characters are currently facing. An Omen is resolved when the characters reveal the truth behind its origin or resolve its dangers. Resolving an Omen should yield Growth of some kind, either for the party as a collective or to an entangled individual. If an Omen is ignored, it should come to pass and wreak whatever havoc it may.
+**Знамения** — это зачатки грядущего приключения, предчувствие будущей катастрофы или причина проблемы, с которой в данный момент сталкиваются персонажи. Знамение считается разрешенным, когда персонажи раскрывают правду о его происхождении или устраняют связанные с ним опасности. Разрешение знамения должно привести к какому-то Росту либо для группы в целом, либо для вовлеченного в него индивида. Если Знамение проигнорировать, оно должно сбыться и посеять любой возможный хаос.
 
-### Omens Should...
+### Знамения должны...
 
-- Never rely on a specific player character for relevance.
-- Alway tell the characters something about the setting they did not already know.
-- Reveal a pattern or other obvious indicator that something terrible is going on. 
+- Никогда не зависеть от конкретного персонажа игрока для своей значимости.
+- Всегда рассказывать персонажам что-то о сеттинге, чего они еще не знали.
+- Выявлять закономерность или другой очевидный признак того, что происходит нечто ужасное.

@@ -1,599 +1,599 @@
 ---
-title: Forest Seeds
+title: Основы леса
 layout: default
-parent: Warden's Guide 
-grand_parent: Second Edition
+parent: Книга Смотрителя
+grand_parent: Полное издание
 ---
 
-# Forest Seeds
-
-## Forestcrawls
-
-A forestcrawl is a simple method for exploring a large forested area, typically made up of branching trails connecting scattered points of interest. While a forestcrawl has some of the same properties as a traditional dungeon delve, it swaps stone walls and ceilings for the dense, non-linear design of a heavily wooded area. Instead of rooms, points of interest are defined as clearings or major changes in the forested landscape. However unlike exploring a dungeon, characters can take shortcuts, go "off-trail," or climb trees to get a better look around (with a cost, of course).
-
-### Exploring The Wood
-
-- Follow the _Dungeon_ exploration procedures found in the Player's Guide, but rather than rolling for Dungeon Events, use the Wilderness Events table instead.
-- If the party attempts to step off the trail and cut through the forest, the Warden should make any associated costs clear: added travel time, effort, special tools that may be required, and any obvious dangers. Going off-trail also automatically triggers a roll on the Wilderness Events table.
-- Points in a forestcrawl are close to each other. When traveling on clearly marked trails, a small forest (10-15 POIs) can be explored in a single Watch.
-- Rely on the fiction and common sense to determine how much daylight is available, whether a suitable area is available for rest, and what the costs or dangers the forest may contain in the darkness. 
-
-## Creating a Forest
-
-Follow this procedure for any forested terrain in a region. If a conflict or interesting pattern emerges, be open to restating or modifying any earlier results! 
-
-### Materials Required
-
-- A sheet of paper and a notebook. Letter/A4 is fine.
-- Pencils and erasers. Colored pencils or crayons are good, too.
-- At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
-
-> Going forward, we will refer to the sheet of paper as the **map**.
-> As with any other rule, if you don't like a table result, roll again or tweak as desired!
-
-### Overview
-
-1. Describe the forest.
-2. Describe the spirit of the forest.
-3. Create the forest's POIs.
-4. Create the forest's trails.
-5. Create forest encounters.
-6. Name the forest.
-
-## Forest Description
-
-Roll on the [Forest Description](#forest-description) and write the results in your notebook. This table both indicates how outsiders perceive the forest as well as any unique natural features it may have. If the forested terrain was generated using the methods described in the Setting Seeds chapter, consider how the associated Landmark affects it as well.
-
-> Landmarks help travelers navigate through the dense foliage, acting as geographic reference points: unusually tall trees, watchtowers, and so on. Most forest landmarks are visible only by climbing a tree, though a few are large enough to stand out from the green. Some landmarks are _heard_ rather than seen.
-
-Roll 1d20 for each column and combine the results.
-
-|         |                 |                 |
-| ------- | --------------- | --------------- |
-| **d20** | **Description** | **Description** |
-| **1**   | Barren          | Ancient         |
-| **2**   | Crystalline     | Awakening       |
-| **3**   | Diseased        | Buzzing         |
-| **4**   | Dying           | Decaying        |
-| **5**   | Flowering       | Flooded         |
-| **6**   | Glowing         | Foggy           |
-| **7**   | Hallowed        | Frigid          |
-| **8**   | Mossy           | Frozen          |
-| **9**   | Murky           | Fungal          |
-| **10**  | Perilous        | Hidden          |
-| **11**  | Petrified       | Infested        |
-| **12**  | Polluted        | Misty           |
-| **13**  | Primeval        | Mossy           |
-| **14**  | Scorched        | Overgrown       |
-| **15**  | Secluded        | Sacred          |
-| **16**  | Suffocating     | Secluded        |
-| **17**  | Timeless        | Silent          |
-| **18**  | Uncharted       | Smoldering      |
-| **19**  | Unspoilt        | Sunlit          |
-| **20**  | Winding         | Wild            |
-
-## The Spirit of the Forest
-
-In some ways, the Wood is a single entity, its brain alive within every tree and plant, connected via a network of thorn and branch. The animals and plants are its limbs, directing its wants, desires, fears, and needs. The creatures that live within its boundaries are its blood, answering its call by delivering much needed defenses and rebuffing interlopers. The Wood will always protect itself and its children. Roll on the [Traits](#traits) and [Forest Agenda](#forest-agenda) tables, writing the results in your notebook. This describes the general attitude of the creatures found in the forest as well as what the forest _wants_ as a whole.
-
-### Traits
-
-Roll 1d20 for each column and combine the results.
-
-|         |             |                |
-| ------- | ----------- | -------------- |
-| **d20** | **Virtues** | **Vices**      |
-| **1**   | Adaptive    | Aggressive     |
-| **2**   | Balanced    | Aloof          |
-| **3**   | Brave       | Covetous       |
-| **4**   | Clever      | Detached       |
-| **5**   | Cultivating | Dominating     |
-| **6**   | Empathic    | Doubtful       |
-| **7**   | Enduring    | Invasive       |
-| **8**   | Graceful    | Judgmental     |
-| **9**   | Hardy       | Naive          |
-| **10**  | Harmonious  | Obscuring      |
-| **11**  | Independent | Overzealous    |
-| **12**  | Learned     | Parasitic      |
-| **13**  | Nurturing   | Passive        |
-| **14**  | Observant   | Polluting      |
-| **15**  | Purifying   | Predatory      |
-| **16**  | Resolute    | Prideful       |
-| **17**  | Sensible    | Rigid          |
-| **18**  | Sharp       | Scatterbrained |
-| **19**  | Stable      | Selfish        |
-| **20**  | Trusting    | Territorial    |
-
-#### Forest Agenda
-
-Roll 1d20 for each column and combine the results.
-
-|         |                |              |
-| ------- | -------------- | ------------ |
-| **d20** | **Goal**       | **Obstacle** |
-| **1**   | Abundance     | Agreements    |
-| **2**   | Awakening     | Belief        |
-| **3**   | Balance       | Contamination |
-| **4**   | Cleansing     | Disease       |
-| **5**   | Conservation  | Exploitation  |
-| **6**   | Defense       | Fragmentation |
-| **7**   | Discovery     | Frailty       |
-| **8**   | Emancipation  | Greed         |
-| **9**   | Enrichment    | Ignorance     |
-| **10**  | Evolution     | Infestation   |
-| **11**  | Expansion     | Invasion      |
-| **12**  | Harmony       | Isolation     |
-| **13**  | Healing       | Leadership    |
-| **14**  | Integration   | Oppression    |
-| **15**  | Justice       | Pollution     |
-| **16**  | Metamorphosis | Scarcity      |
-| **17**  | Purification  | Stasis        |
-| **18**  | Rebirth       | Turmoil       |
-| **19**  | Tranquility   | Vulnerability |
-| **20**  | Unity         | Vulnerability |
-
-## Create the Map
-
-### Create POIs
-
-- Roll **8-12 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the Points of Interest (POI) in the forest.
-- Write the face-up results on the page using the [Forest Die Drop Table](#forest-die-drop-table). For example, the number **4** would indicate a **Shelter**, which you would denote with the letter "S".
-- Select two opposite points, preferably close to the page border. These are the forest's entrance and exit.
-- Starting with the entrance and ending at the exit, number each POI on the map.
-- Roll on the relevant tables for each point, writing the results in your notebook.
-- Filter the table results through the table results you generated earlier in this process.
-
-#### Forest Die Drop Table
-
-|         |         |
-| ------- | ------- |
-| **d6**  | **POI** |
-| **1**   | Monster |
-| **2-3** | Ruins   |
-| **4**   | Shelter |
-| **5-6** | Hazard  |
-
-## Trails
-
-### Trail Types
-
-- **Standard** trails are obvious or well-trod routes between two points. _Represented by a thick line._
-- **Hidden** trails do not appear on any known maps. Their discovery always requires some kind of cost. _Represented by a dashed line._
-- **Conditional** trails may be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
-
-### Draw Trails
-
-- Starting with the entrance, draw 1-4 paths between each point.
-  - Create loops, branching paths, dead-ends, and shortcuts between points.
-  - Some paths are Conditional, represented by a crossed line.
-  - Some paths are Hidden, represented by a dashed line.
-  - If possible, create intersections (crossed lines) with no points in between.
-- Create trails by drawing over paths that connect 3-4 points in an obvious, consistent, or interesting manner. 
-  - Hidden paths and short, isolated routes are not usually a part of a trail.
-  - Use colored pencils or crayons to help distinguish different trails.
-- Roll on the [Trail Types](#trail-types) table for each trail, recording the results in your notebook. 
-
-#### Trail Types
-
-Roll 1d20 for each column and combine the results.
-
-|         |                    |                    |
-| ------- | ------------------ | ------------------ |
-| **d20** | **Type**           | **Marker**         |
-| **1**   | Animal Path        | Bear Rubbings      |
-| **2**   | Bandit's Run       | Bent Trees         |
-| **3**   | Bouldered Way      | Claw Marks         |
-| **4**   | Cloistered Grove   | Damaged Flora      |
-| **5**   | Deer Crossing      | Deer Tracks        |
-| **6**   | Dry Riverbed       | Distant Singing    |
-| **7**   | Fae Passage        | Faint Laughter     |
-| **8**   | Farm Trail         | Fox Prints         |
-| **9**   | Foraging Path      | Fresh Spiderwebs   |
-| **10**  | Hunter's Track     | Giant Feathers     |
-| **11**  | King's March       | Glowing Toadstools |
-| **12**  | Merchant's Road    | Muted Bells        |
-| **13**  | Old Logging Road   | Peripheral Images  |
-| **14**  | Orchard Path       | Rabbit Droppings   |
-| **15**  | Pilgrim's Footpath | Serpent Traces     |
-| **16**  | Spore Saturated    | Smoke              |
-| **17**  | Sticky Sap Path    | Stillness          |
-| **18**  | Trail Tree         | Stone Piles        |
-| **19**  | Treeline Heights   | Swaying Plants     |
-| **20**  | War Route          | Tree Carvings      |
-
-> If some of the results seem incongruous, that's OK! Turn these juxtapositions into questions like "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
-
-#### Monster
-
-Monsters are any dangerous creatures one might encounter in the forest. This does not mean they will attack intruders by default! Monsters are not "waiting around" for characters to stumble upon them, but have their own wants and goals. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
-
-Roll 1d20 for each column and combine the results.
-
-|         |              |              |
-| ------- | ------------ | ------------ |
-| **d20** | **Monster**  | **Activity** |
-| **1**   | Bandit       | Burrowing    |
-| **2**   | Blink Dog    | Burying      |
-| **3**   | Blood Elk    | Destroying   |
-| **4**   | Centaur      | Devouring    |
-| **5**   | Dryad        | Dying        |
-| **6**   | Ettin        | Fighting     |
-| **7**   | Gargoyle     | Foraging     |
-| **8**   | Green Dragon | Guarding     |
-| **9**   | Grizzly Bear | Hiding       |
-| **10**  | Killer Bees  | Hunting      |
-| **11**  | Naga         | Killing      |
-| **12**  | Night Cat    | Mating       |
-| **13**  | Owlbear      | Mourning     |
-| **14**  | Pixie        | Patrolling   |
-| **15**  | Skeleton     | Prowling     |
-| **16**  | Treant       | Recuperating |
-| **17**  | Unicorn      | Scouting     |
-| **18**  | Will-o-Wisp  | Stalking     |
-| **19**  | Wolf         | Torturing    |
-| **20**  | Wood Troll   | Trapped      |
-
-#### Ruins
-
-Forests are wild places, but that does not mean people haven't tried to tame them. The remnants of these attempts still show up from time to time, hinting at the folly of those who would stand against the Wood.
-
-Roll 1d20 for each column and combine the results.
-
-|         |                     |                                        |
-| ------- | ------------------- | -------------------------------------- |
-| **d20** | **Ruin**            | **Feature**                            |
-| **1**   | Abandoned Manor     | A Forest Spirit, Ready to Die          |
-| **2**   | Broken Sundial      | A Hag, Foraging for Ingredients        |
-| **3**   | Chipped Bell Tower  | A Mirror of Itself                     |
-| **4**   | Collapsed Megalith  | A Self-Obsessed Sprite                 |
-| **5**   | Crumbled Watchtower | A Silent, Ghostly Concert              |
-| **6**   | Decomposed Canoes   | A Very Tiny Ruined Village             |
-| **7**   | Entangled Pavilion  | Bound by an Unbreakable Curse          |
-| **8**   | Exposed Workshop    | Bound Creature                         |
-| **9**   | Flooded Monastery   | Broken Portal                          |
-| **10**  | Moldering Farmhouse | Fresh Corpses                          |
-| **11**  | Neglected Shrine    | Hidden Cache                           |
-| **12**  | Overrun Estate      | Hooded Men Completing a Ritual         |
-| **13**  | Petrified Campsite  | Inaudible Whispers from All Directions |
-| **14**  | Rotted Mill         | Marked by Battles Of Yore              |
-| **15**  | Ruined Cloister     | Overrun with Unusual Flora             |
-| **16**  | Rusted Market       | Realistic Toy Soldiers                 |
-| **17**  | Shattered Bridge    | Remnants of a Failed Ritual            |
-| **18**  | Splintered Obelisk  | The Veil Between Worlds Is Thin        |
-| **19**  | Sunken Gazebo       | Visions of the Past                    |
-| **20**  | Toppled Statue      | Warded Grounds                         |
-
-#### Shelter
-
-Despite its wild and unpredictable nature, there have always been those brave, skilled, or foolhardy enough to try and build a life in the Wood. And some do succeed, leaving their mark via smoldering campfire or gray tower, offering a welcome respite to weary travelers. 
-
-Roll 1d20 for each column and combine the results.
-
-|         |                   |                                    |
-| ------- | ----------------- | ---------------------------------- |
-| **d20** | **Shelter**       | **Feature**                        |
-| **1**   | Bandit Hideout    | Abandoned, for Now                 |
-| **2**   | Falconer's Tower  | Attracts Wild Beasts               |
-| **3**   | Fishing Hut       | Built in Defiance of Customs       |
-| **4**   | Forgotten Ruins   | Constructed Within a Giant Tree    |
-| **5**   | Hermit's Cabin    | Forest-Knight Offers a Challenge   |
-| **6**   | Hidden Village    | Guarded by Trained Animals         |
-| **7**   | Hillside Cave     | Haunted by Unhelpful Ghosts        |
-| **8**   | Hollow Tree       | Hides a Powerful Artifact          |
-| **9**   | Hunter's Lodge    | Hunting Is Forbidden               |
-| **10**  | Hut with Legs     | Inhabited by a Supernatural Entity |
-| **11**  | Ivy-Wrapped Tower | Occupied by Army Deserters         |
-| **12**  | Lean-To           | Overrun with Cultists              |
-| **13**  | Lumber Site       | Pale Folk Dinner Locale            |
-| **14**  | Monastic Retreat  | Parasitic Foliage                  |
-| **15**  | Mossy Pool        | Pig Folk Hunting Grounds           |
-| **16**  | Night Market      | Popular with Smugglers             |
-| **17**  | Pale Folk Stable  | Presents a Ready Meal              |
-| **18**  | Ranger's Outpost  | Protected by a Playful Spirit      |
-| **19**  | Smoky Cabin       | Site of an Ancient Murder          |
-| **20**  | Tattered Windmill | Thieves' Camp                      |
-
-#### Hazard
-
-The Wood is a dangerous place and not to be trifled with. The forest and its inhabitants do what they must to survive, and even sated, are still preparing for their next meal. The trees, the plants, and the earth itself will leave deadly traps and dangers to root out those unworthy to pass beneath the boughs.
-
-Roll 1d20 for each column and combine the results.
-
-|         |                   |                              |
-| ------- | ----------------- | ---------------------------- |
-| **D20** | **Hazard**        | **Feature**                  |
-| **1**   | Animal Trap       | A Pet Basilisk               |
-| **2**   | Bog Shadows       | A Spell Gone Wrong           |
-| **3**   | Bone Orchard      | Animated Armor               |
-| **4**   | Bramble Tunnels   | Bird Spies                   |
-| **5**   | Frozen Troll      | Bleeding Trees               |
-| **6**   | Giant Spider Nest | Ghosts Trapped in Crystal    |
-| **7**   | Insect Swarm      | Giant Rodent Feeding Grounds |
-| **8**   | Moving Thickets   | Highly Localized Weather     |
-| **9**   | Poisonous Plants  | Howling Stones               |
-| **10**  | Psychic Fog       | Injured Creature             |
-| **11**  | Sap Trap          | Invisible Webs               |
-| **12**  | Sleeping Giant    | Living Scarecrows            |
-| **13**  | Slippery Moss     | Memory Stealers              |
-| **14**  | Slow Quicksand    | Mimic Vines                  |
-| **15**  | Spiked Pit        | Paths that Change Randomly   |
-| **16**  | Stinging Nettles  | Scavengers that Wait         |
-| **17**  | Thorny Thickets   | Watchful Dead                |
-| **18**  | Toxic Spores      | Tracks Erased by Mist        |
-| **19**  | Troll Den         | Trees that Grow From Bones   |
-| **20**  | Unstable Ground   | Will-o-Wisps Congregate      |
-
-## Example Forest
-
-### Map
-
-[![Click Me!](/img/2e/forest-seed-example.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/forest-seed-example.webp)
-
-### The Forest
-
-**Description**: Diseased, Frozen
-
-A thick forest infected with disease and rot. Parts of it are frozen solid.
-
-### Denizens
-
-**Traits**: Stable, Territorial
-
-Wish to return to the stability they once knew, but are threatened by ancient forest boundaries.
-
-**Forest Agenda**: Purification, Infestation
-
-The spirit of the forest wants nothing more than to purify itself of the disease that has taken hold. An infestation of Giant Spiders (**9**) has spun webs throughout, killing far too many creatures and undermining the ecosystem.
-
-### Forest Theme
-
-For decades, the order and stability of the forest was maintained through an agreement between the forest witch **Anglwyst** and **Sweeney**, the Wood's champion. The witch would use her magic to keep the trees and animals healthy, while the champion would ensure that hunters never kill any creatures deemed essential to the Wood (indicated by a shock of white in their fur). Their pact was permanent and immalleable, and the forest was divided, barring both the witch and the champion from crossing its boundary.
-
-After the old witch died, one of her spells grew wild, then dangerous. Now a magical disease has begun to infect the trees and creatures, threatening to consume the entire forest. Hunters call it the _Withering_, because it drains the life of everything it touches.
-
-## Trails 
-
-### Old Logging Road, Tree Carvings
-
-The path between **1** and **5** is blocked by a broad cliff face, requiring climbing gear to ascend. Carvings from the original loggers of this forest still mar the surface of some trees.
-
-### Treeline Heights, Stone Piles
-
-The monks at **7** left piles of stone alongside the path for each of their fallen members.
-
-### Foraging Path, Distant Singing
-
-Anglwyst survived largely on the plentiful fruit found on this trail. Her magic was so powerful that echoes of her presence still mark the path: those who travel it can still hear her faint, chipper singing.
-
-### Dry Riverbed, Fresh Spiderwebs
-
-A river once ran through the West end of the forest, but it dried up after a drought. Giant spiders travel the path as they make their way to **8**, spinning their web along the trail.
-
-### Hunter's Track, Damaged Flora
-
-Sweeney allows outsiders to hunt their quarry on this trail and no other, so long as they never kill any creature with white in their fur.
-
-### POIs
-
-### 1 - Diseased Campsite [Entrance]
-
-**Ruin**: _Petrified Campsite_, _Overrun With Unusual Flora_ 
-
-At the forest edge is a dead **campfire** with piles of dark gray **bedding** laid out close by. Plants, flowers, and other **flora** grow thickly over the campsite. A **trail** to the **North** leads into the forest. 
-
-- **Campfire**: The remaining wood is stained a deep gray, is very cold to the touch, and is as hard as iron.
-- **Bedding**: Splinters of gray wood are stuck in the cloth.
-  - Icy cold to the touch. The space beneath the cloth is partly blue and red, but gray circles grow out of the wood flecks. 
-- **Flora**: Rare and unique species not common to these parts.
-  - Skilled pruning and a few minutes of careful work produces a **Healing Salve** (restore 1d4 STR, 1 use).
-- **Trail**: Long grooves in the rough shape of a tree trunk are cut into the ground. 
-  - Fine spiderwebs block the forest entry, as if no one had walked through in a long while.
-
-### 2 - Amber Grave
-
-**Hazard**: _Sap Trap_, _Ghost Trapped In Crystal_
-
-A rounded copse of vermilion **trees** surround a wide **puddle** of bubbling sap. A pointy green **object** is just visible in the center of the pool. 
+# Основы леса
+
+## Лесные вылазки
+
+Лесная вылазка — это простой метод исследования большой лесной территории, обычно состоящей из разветвленных троп, соединяющих разбросанные места интереса. Хотя лесная вылазка имеет несколько тех же свойств, что и традиционный поход в подземелье, в ней каменные стены и потолки заменены на плотное нелинейное построение густо поросшей лесом местности. Вместо комнат, места интереса считаются полянами или значительными изменениями в лесном ландшафте. Однако, в отличие от исследования подземелья, персонажи могут пойти коротким путем, «сойти с тропы» или начать карабкаться по деревьям, чтобы лучше осмотреть окрестности (само собой, уплатив за это определенную цену).
+
+### Исследование леса
+
+- Следуйте инструкциям по _исследованию подземелий_, приведенным в Книге игрока, но вместо того, чтобы бросать кости по таблице событий в подземелье, воспользуйтесь таблицей событий в дикой местности.
+- Если группа попытается сойти с тропы и срезать путь через лес, Смотритель должен четко объяснить все связанные с этим траты: дополнительное время на дорогу, дополнительные усилия, специальные инструменты, которые могут потребоваться, и любые очевидные опасности. Уход с тропы также автоматически активирует бросок по таблице событий в дикой местности.
+- Во время лесной вылазки, различные места обычно расположены близко друг к другу. Путешествуя по четко обозначенным тропам, группа может исследовать небольшой лес (10-15 МИ) за одну фазу.
+- Полагайтесь на нарратив и здравый смысл, чтобы определить, сколько времени дневной свет будет доступен, есть ли подходящее место для отдыха и какие траты или опасности может таить в себе лес под покровом темноты.
+
+## Создание леса
+
+Следуйте этой процедуре для создания любой покрытой лесом местности в регионе. Если возникнет противоречие или интересная закономерность, будьте открыты для пересматривания или модификации любых предыдущих результатов!
+
+### Необходимые материалы
+
+- Лист бумаги и блокнот. А4 - подойдет.
+- Карандаши и ластики. Цветные карандаши или мелки тоже сгодятся.
+- По крайней мере, один к6 и один к20, но в идеале иметь 6к6 и 2к20.
+
+> В дальнейшем мы будем называть этот лист бумаги **картой**.
+> Как и в случае с любым другим правилом, если вам не нравится результат таблицы, бросьте кость еще раз или выберите на свой вкус!
+
+### Общие принципы
+
+1. Опишите лес.
+2. Опишите духа леса.
+3. Создайте лесные Места интереса.
+4. Создайте лесные тропы.
+5. Создайте встречи в лесу.
+6. Назовите лес.
+
+## Описание леса
+
+Бросьте кости по таблице [Описания леса](#описание-леса), записывая результаты в свой блокнот. Эта таблица показывает, как посторонние воспринимают лес, а также обозначает уникальные природные особенности, которыми он может обладать. Если покрытый лесом ландшафт был создан с использованием методов, описанных в главе «Основы сеттинга», подумайте о том, как связанный ориентир влияет на него.
+
+> Достопримечательности помогают путешественникам ориентироваться в густой листве, выступая в качестве географических ориентиров: необычно высокие деревья, сторожевые башни и так далее. Большинство лесных достопримечательностей можно увидеть, только забравшись на дерево, хотя некоторые из них достаточно большие, чтобы выделяться на фоне зелени. Некоторые достопримечательности скорее _слышны_, чем видны.
+
+Бросьте 1к20 за каждый столбец и объедините результаты.
+
+|         |                     |                    |
+| ------- | ------------------- | ------------------ |
+| **к20** | **Описание**        | **Описание**       |
+| **1**   | Бесплодный          | Древний            |
+| **2**   | Кристаллическое     | Пробуждающийся     |
+| **3**   | Пораженный болезнью | Жужжащий           |
+| **4**   | Умирающий           | Разлагающийся      |
+| **5**   | Цветущий            | Затопленный        |
+| **6**   | Светящийся          | Туманный           |
+| **7**   | Освященный          | Холодный           |
+| **8**   | Покрытый мхом       | Замерзший          |
+| **9**   | Мрачный             | Грибной            |
+| **10**  | Опасный             | Спрятанный         |
+| **11**  | Окаменевший         | Зараженный         |
+| **12**  | Загрязненный        | Мглистый           |
+| **13**  | Первобытный         | Мшистый            |
+| **14**  | Выжженный           | Заросший           |
+| **15**  | Уединенный          | Священный          |
+| **16**  | Удушливый           | Уединенный         |
+| **17**  | Вневременный        | Тихий              |
+| **18**  | Неизведанный        | Тлеющий            |
+| **19**  | Нетронутый          | Освещенный солнцем |
+| **20**  | Петляющий           | Дикий              |
+
+## Дух леса
+
+В каком-то смысле Лес - это единое целое, его мозг живет в каждом дереве и растении, соединенный шипами и ветвями. Животные и растения - это его конечности, управляющие его желаниями, стремлениями, страхами и нуждами. Существа, живущие в пределах его границ, — его кровь. Они отвечают на его зов, обеспечивая необходимую защиту и давая отпор незваным гостям. Лес всегда защитит себя и своих детей. Бросьте кости по таблицам, определив [Черту](#черты) и [Повестку леса](#повестка-леса), записывая результаты в свой блокнот. Это опишет общее отношение существ, обитающих в лесу, а также то, чего _хочет_ лес.
+
+### Черты
+
+Бросьте 1к20 за каждый столбец и объедините результаты.
+
+|         |                     |                 |
+| ------- | ------------------- | --------------- |
+| **к20** | **Добродетели**     | **Пороки**      |
+| **1**   | Приспосабливающийся | Агрессивный     |
+| **2**   | Уравновешенный      | Отчужденный     |
+| **3**   | Храбрый             | Алчный          |
+| **4**   | Умный               | Беспристрастный |
+| **5**   | Культивирующий      | Властный        |
+| **6**   | Эмпатический        | Сомневающийся   |
+| **7**   | Стойкий             | Инвазивный      |
+| **8**   | Изящный             | Осуждающий      |
+| **9**   | Выносливый          | Наивный         |
+| **10**  | Гармоничный         | Скрывающий      |
+| **11**  | Независимый         | Ревностный      |
+| **12**  | Ведающий            | Паразитирующий  |
+| **13**  | Воспитывающий       | Пассивный       |
+| **14**  | Наблюдательный      | Загрязняющий    |
+| **15**  | Очищающий           | Хищнический     |
+| **16**  | Решительный         | Горделивый      |
+| **17**  | Рассудительный      | Строгий         |
+| **18**  | Проницательный      | Легкомысленный  |
+| **19**  | Надежный            | Эгоистичный     |
+| **20**  | Доверчивый          | Территориальный |
+
+#### Повестка леса
+
+Бросьте 1к20 за каждый столбец и объедините результаты.
+
+|         |                |                 |
+| ------- | -------------- | --------------- |
+| **к20** | **Цель**       | **Препятствие** |
+| **1**   | Изобилие       | Договоренности  |
+| **2**   | Пробуждение    | Вероисповедание |
+| **3**   | Равновесие     | Загрязнение     |
+| **4**   | Чистка         | Эпидемия        |
+| **5**   | Консервация    | Эксплуатация    |
+| **6**   | Защита         | Раздробленность |
+| **7**   | Открытие       | Хрупкость       |
+| **8**   | Освобождение   | Алчность        |
+| **9**   | Обогащение     | Невежество      |
+| **10**  | Эволюция       | Заражение       |
+| **11**  | Расширение     | Вторжение       |
+| **12**  | Гармония       | Изоляция        |
+| **13**  | Исцеление      | Лидерство       |
+| **14**  | Слияние        | Угнетение       |
+| **15**  | Справедливость | Осквернение     |
+| **16**  | Преобразование | Дефицит         |
+| **17**  | Очищение       | Стагнация       |
+| **18**  | Перерождение   | Хаос            |
+| **19**  | Спокойствие    | Беззащитность   |
+| **20**  | Единство       | Слабость        |
+
+## Создание карты
+
+### Создайте Места интереса
+
+- Бросьте **8-12 костей к6** на карту, игнорируя все упавшие кости со страницы. Это Места интереса (МИ) в лесу.
+- Запишите результаты на странице, используя [таблицу распределения леса](#таблица-распределения-леса). Например, цифра **4** будет указывать на **Укрытие**, которое вы можете обозначить на странице буквой «У.»
+- Выберите две противоположные точки. Желательно чтобы они находились близко к границе страницы. Это будут вход и выход из леса.
+- Начиная со входа и заканчивая выходом, пронумеруйте каждое МИ на карте.
+- Бросьте кости по соответствующим таблицам для каждой точки, записывая результаты в свой блокнот.
+- Отфильтруйте результаты таблицы по результатам таблицы, которые вы получили ранее в ходе этого процесса.
+
+#### Таблица распределения леса
+
+|         |           |
+| ------- | --------- |
+| **к6**  | **МИ**    |
+| **1**   | Монстр    |
+| **2-3** | Руины     |
+| **4**   | Укрытие   |
+| **5-6** | Опасность |
+
+## Тропы
+
+### Типы троп
+
+- **Стандартные тропы** — это очевидные или хорошо проторенные маршруты между двумя МИ. _Отображаются толстыми линиями_.
+- **Скрытые тропы** не отображаются ни на одной из известных карт. Их обнаружение всегда требует определенных затрат. _Отображаются пунктирными линиями_.
+- **Условные тропы** могут быть заблокированы или для их пересечения могут потребоваться специальные инструменты (лодки, альпинистское снаряжение и т.д.). По некоторым из них невозможно пройти без карты или путеводителя. _Отображаются перечеркнутыми линиями_.
+
+### Нарисуйте тропы
+
+- Начиная со входа, нарисуйте 1-4 пути между каждой точкой.
+  - Создавайте петли, разветвления, тупики и срезы между МИ.
+  - Некоторые пути Условные и представлены перечеркнутыми линиями.
+  - Некоторые пути Скрытые и представлены пунктирными линиями.
+  - Если возможно, создайте пересечения (перечеркнутые линии) без точек посередине.
+- Создавайте тропы, рисуя пути, соединяющие 3-4 точки очевидным, последовательным или интересным образом.
+  - Скрытые пути и короткие изолированные маршруты обычно не являются частью тропы.
+  - Используйте цветные карандаши или мелки, чтобы было легче различать разные тропы.
+- Бросьте кости по таблице [типа тропы](#типы-троп) для каждой тропы, записывая результаты в свой блокнот.
+
+#### Типы троп
+
+Бросьте 1к20 за каждый столбец и объедините результаты.
+
+|         |                          |                             |
+| ------- | ------------------------ | --------------------------- |
+| **к20** | **Тип**                  | **Признак**                 |
+| **1**   | Звериная тропа           | Следы медведя               |
+| **2**   | Маршрут разбойников      | Согнутые деревья            |
+| **3**   | Мощеная дорога           | Следы когтей                |
+| **4**   | Уединенная роща          | Пострадавшая растительность |
+| **5**   | Переправа оленей         | Следы оленей                |
+| **6**   | Высохшее русло           | Отдаленное пение            |
+| **7**   | Проход фей               | Слабый смех                 |
+| **8**   | Фермерская тропа         | Следы лисиц                 |
+| **9**   | Тропа собирателей        | Свежая паутина              |
+| **10**  | Охотничья тропа          | Гигантские перья            |
+| **11**  | Королевский тракт        | Светящиеся поганки          |
+| **12**  | Дорога торговцев         | Приглушенные звуки колокола |
+| **13**  | Старая лесовозная дорога | Периферийные изображения    |
+| **14**  | Садовая тропа            | Кроличий помет              |
+| **15**  | Тропинка паломника       | Змеиные следы               |
+| **16**  | Насыщенная спорами       | Дым                         |
+| **17**  | Дорожка из липкой смолы  | Спокойствие                   |
+| **18**  | Тропа меж деревьев       | Груды камней                |
+| **19**  | Тропа по краю леса       | Качающиеся растения         |
+| **20**  | Военный маршрут          | Резьба по дереву            |
+
+> Если некоторые результаты кажутся вам неуместными — это нормально! Превратите эти противопоставления в вопросы типа: «_Почему_ к убежищу бандитов ведет старая лесовозная дорога?» Тем не менее, не бойтесь выбрать более подходящий результат, если у вас возникают трудности с реализацией!
+
+#### Монстр
+
+Монстры — это любые опасные существа, с которыми можно столкнуться в лесу. Но это не означает, что они будут атаковать незваных гостей по умолчанию! Монстры не будут ждать, пока персонажи наткнутся на них — у них есть свои собственные желания и цели. Некоторые монстры могут говорить, приводить доводы и даже молить о пощаде. _Люди тоже могут быть монстрами._
+
+Бросьте 1к20 за каждый столбец и объедините результаты.
+
+|         |                   |                   |
+| ------- | ----------------- | ----------------- |
+| **к20** | **Монстр**        | **Деятельность**  |
+| **1**   | Бандит            | Роет землю        |
+| **2**   | Мерцающий пес     | Хоронит           |
+| **3**   | Кровавый лось     | Уничтожает        |
+| **4**   | Кентавр           | Пожирает          |
+| **5**   | Дриада            | Умирает           |
+| **6**   | Эттин             | Сражается         |
+| **7**   | Гаргулья          | Собирает          |
+| **8**   | Зеленый дракон    | Охраняет          |
+| **9**   | Гризли            | Прячется          |
+| **10**  | Пчелы-убийцы      | Охотится          |
+| **11**  | Нага              | Убивает           |
+| **12**  | Ночной кот        | Спаривается       |
+| **13**  | Медвесыч          | Скорбит           |
+| **14**  | Пикси             | Патрулирует       |
+| **15**  | Скелет            | Крадется          |
+| **16**  | Древень           | Восстанавливается |
+| **17**  | Единорог          | Проводит разведку |
+| **18**  | Блуждающий огонек | Преследует        |
+| **19**  | Волк              | Пытает            |
+| **20**  | Древесный тролль  | Заточен           |
+
+#### Руины
+
+Лес - дикое место, но это не значит что люди не пытались его приручить. Остатки этих попыток все еще время от времени проявляются, намекая на глупость тех, кто выступает против Леса.
+
+Бросьте 1к20 за каждый столбец и объедините результаты.
+
+|         |                              |                                      |
+| ------- | ---------------------------- | ------------------------------------ |
+| **к20** | **Руина**                    | **Особенность**                      |
+| **1**   | Заброшенное поместье         | Дух леса, приготовился к смерти      |
+| **2**   | Сломанные солнечные часы     | Карга, собирает ингредиенты          |
+| **3**   | Облупившаяся колокольня      | Отражение самого себя                |
+| **4**   | Обрушившийся мегалит         | Самовлюбленная фея                   |
+| **5**   | Разрушенная сторожевая башня | Тихий призрачный концерт             |
+| **6**   | Сгнившие каноэ               | Крошечная разрушенная деревня        |
+| **7**   | Запутанный павильон          | Связана нерушимым проклятием         |
+| **8**   | Открытая мастерская          | Связанное существо                   |
+| **9**   | Затопленный монастырь        | Разрушенный портал                   |
+| **10**  | Трухлявая ферма              | Свежие трупы                         |
+| **11**  | Запущенный храм              | Скрытый тайник                       |
+| **12**  | Захваченное поместье         | Мужчины в капюшонах завершают ритуал |
+| **13**  | Окаменевший лагерь           | Неслышный шепот со всех сторон       |
+| **14**  | Сгнившая мельница            | Следы былых битв                     |
+| **15**  | Разрушенная обитель          | Изобилует необычной флорой           |
+| **16**  | Проржавевший рынок           | Реалистичные игрушечные солдатики    |
+| **17**  | Разрушенный мост             | Следы неудавшегося ритуала           |
+| **18**  | Расколовшийся обелиск        | Тонкая завеса между мирами           |
+| **19**  | Утопшая беседка              | Видения прошлого                     |
+| **20**  | Опрокинутая статуя           | Охраняемые территории                |
+
+#### Укрытие
+
+Несмотря на дикую и непредсказуемую природу Леса, всегда находились те, кто был достаточно смел, умел или безрассуден, чтобы попытаться обустроить в нем жизнь. Некоторым это удается, они оставляют свой след в виде тлеющего костра или серой башни, предлагая желанную передышку для усталых путников.
+
+Бросьте 1к20 за каждый столбец и объедините результаты.
+
+|         |                         |                                     |
+| ------- | ----------------------- | ----------------------------------- |
+| **к20** | **Укрытие**             | **Особенность**                     |
+| **1**   | Убежище бандитов        | Заброшено, пока                     |
+| **2**   | Башня сокольничего      | Привлекает диких зверей             |
+| **3**   | Рыбацкая хижина         | Построено вопреки традициям         |
+| **4**   | Забытые руины           | Построено внутри гигантского дерева |
+| **5**   | Хижина отшельника       | Лесной рыцарь бросает вызов         |
+| **6**   | Скрытая деревня         | Охраняется дрессированными зверьми  |
+| **7**   | Пещера на склоне холма  | Населено бесполезными призраками    |
+| **8**   | Полое дерево            | Скрывает могущественный артефакт    |
+| **9**   | Охотничий домик         | Охота запрещена                     |
+| **10**  | Хижина на ножках        | Жилище сверхъестественной сущности  |
+| **11**  | Обвитая плющом башня    | Оккупирована дезертирами            |
+| **12**  | Сарай                   | Захвачено культистами               |
+| **13**  | Место вырубки леса      | Место ужина Бледного народа         |
+| **14**  | Монашеское пристанище   | Паразитическая листва               |
+| **15**  | Мшистый пруд            | Охотничья угодья свиного народа     |
+| **16**  | Ночной рынок            | Популярное место контрабандистов    |
+| **17**  | Конюшня Бледного народа | Преподносит готовый обед            |
+| **18**  | Застава егерей          | Защищено игривым духом              |
+| **19**  | Задымленная лачуга      | Место древнего убийства             |
+| **20**  | Ветхая мельница         | Лагерь воров                        |
+
+#### Опасность
+
+Лес - опасное место, шутки с ним плохи. Лес и его обитатели сделают все возможное для выживания. Даже насытившись, они все еще готовятся к следующей охоте. Деревья, растения и сама земля готовят смертельные ловушки и опасности, чтобы искоренить тех, кто недостоин пройти под ветвями.
+
+Бросьте 1к20 за каждый столбец и объедините результаты.
+
+|         |                            |                                     |
+| ------- | -------------------------- | ----------------------------------- |
+| **к20** | **Опасность**              | **Особенность**                     |
+| **1**   | Засада зверей              | Ручной василиск                     |
+| **2**   | Тени трясины               | Неудачное заклинание                |
+| **3**   | Сад костей                 | Оживленный доспех                   |
+| **4**   | Туннели ежевичных зарослей | Птицы-шпионы                        |
+| **5**   | Морозный тролль            | Кровоточащие деревья                |
+| **6**   | Гигантское паучье гнездо   | Призрак запертый в кристалле        |
+| **7**   | Рой насекомых              | Место кормления гигантских грызунов |
+| **8**   | Движущиеся заросли         | Сильно локализованная погода        |
+| **9**   | Ядовитые растения          | Воющие камни                        |
+| **10**  | Психический туман          | Раненое существо                    |
+| **11**  | Смоляная ловушка           | Невидимая паутина                   |
+| **12**  | Спящий гигант              | Живые пугала                        |
+| **13**  | Скользкий мох              | Похитители памяти                   |
+| **14**  | Медленный зыбучий песок    | Лозы-мимики                         |
+| **15**  | Яма с шипами               | Изменяющиеся тропы                  |
+| **16**  | Жгучая крапива             | Поджидающие падальщики              |
+| **17**  | Колючие заросли            | Бдительный мертвец                  |
+| **18**  | Ядовитые споры             | Стертые туманом следы               |
+| **19**  | Логово тролля              | Деревья растущие из костей          |
+| **20**  | Неустойчивая земля         | Собрание блуждающих огоньков        |
+
+## Пример леса
+
+### Карта
+
+[![Нажми на меня!](/img/2e/forest-seed-example.webp "Нажмите для отображения"){:height="60%" width="60%"}](/img/2e/forest-seed-example.webp)
+
+### Лес
+
+**Описание**: Пораженный болезнью, Замерзший
+
+Густой лес, пораженный болезнью и гнилью. Некоторые его части полностью замерзли.
+
+### Обитатели
+
+**Черты**: Надежный, Территориальный
+
+Желают вернуться к стабильности, которая у них когда-то была, но им не позволяют древние лесные традиции.
+
+**Повестка леса**: Очищение, Заражение
+
+Больше всего дух леса желает очистить себя от охватившей его болезни. Лес заражен Гигантскими пауками (**9**), они оплели все паутиной, убивая слишком много существ, подрывая экосистему.
+
+### Тематика леса
+
+На протяжении десятилетий порядок и стабильность леса поддерживались благодаря соглашению между лесной ведьмой **Англвист** и чемпионом Леса **Суини**. Ведьма использовала свою магию для поддержания здоровья деревьев и животных, пока чемпион следил чтобы охотники не убивали существ, которые необходимы для Леса (они отмечены копной белой шерсти). Их договор был постоянным и нерушимым, лес был разделен, что не позволяло ни ведьме, ни чемпиону пересекать свою границу.
+
+После смерти старой ведьмы одно из ее заклинаний стало диким, а затем и опасным. Теперь магическая болезнь начала поражать деревья и живых существ, угрожая поглотить весь лес. Охотники называют это _Увяданием_, потому что оно высасывает жизнь из всего, к чему прикасается.
+
+## Тропы
+
+### Старая лесовозная дорога, Резьба по дереву
+
+Путь между **1** и **5** прегражден широким обрывом, для подъема по которому требуется альпинистское снаряжение. На некоторых деревьях до сих пор сохранились резные изображения первых лесорубов бывавших в этом лесу.
+
+### Тропа по верхушкам деревьев, Груды камней
+
+Монахи из **7** оставили груды камней вдоль тропинки в память о каждом из своих павших собратьев.
+
+### Тропа собирателей, Отдаленное пение
+
+Англвист выживала в основном благодаря обильному количеству фруктов, которые растут на этой тропе. Ее магия была настолько сильна, что отголоски ее присутствия до сих пор отмечают путь: те, кто идут по нему, все еще могут слышать ее тихое, бодрое пение.
+
+### Высохшее русло, Свежая паутина
+
+Когда-то через западный край леса протекала река, но она высохла после засухи. Гигантские пауки путешествуют по тропы в сторону **8**, плетя свою паутину вдоль тропы.
+
+### Маршрут охотников, Пострадавшая растительность
+
+Суини позволяет чужакам охотиться на зверей на этой тропе и ни на какой другой, при условии, что они никогда не убьют ни одного существа с белым мехом.
+
+### Места интереса
+
+### 1 - Зараженный лагерь [Вход]
+
+**Руина**: _Окаменевший лагерь_, _Изобилует необычной флорой_
+
+На границе леса расположен потухший **костер**, а рядом разложены темно-серые груды **постельных принадлежностей**. На территории лагеря густо растут растения, цветы и другая **флора**. **Северная** **тропа** ведет в лес.
+
+- **Костер**: Оставшаяся древесина окрашена в темно-серый цвет, очень холодная на ощупь и твердая, как железо.
+- **Постельные принадлежности**: В ткани застряли щепки от серого дерева
+  - Ткань ледяная на ощупь. Пространство под тканью частично синее и красное, но из-под древесных щепок по ткани идут круги серого цвета.
+- **Флора**: Редкие и уникальные виды, не характерные для этих мест.
+  - При умелом срезе и нескольких минутах тщательной работы можно получить **Заживляющую мазь** (восстанавливает 1к4 СИЛ, 1 использование).
+- **След**: На земле длинная грубая борозда, по форме напоминает след от ствола дерева.
+  -  Вход в лес затянут тонкой паутиной, как будто здесь долгое время никто не проходил.
+
+### 2 - Янтарная могила
+
+**Опасность**: _Смоляная ловушка_, _Призрак, плененный в кристалле_
+
+Круглая роща алых **деревьев** окружает широкую **лужу** пузырящейся живицы. В центре лужи виден заостренный зеленый **предмет**.
  
-- **Trees**: The base of each tree bleeds golden sap that runs into the puddle below. They do not appear to be diseased.
-- **Puddle**: 12ft of sticky sap.
-  - Ankle-high and extremely sticky. Irritates the skin.
-- **Object**: Appears crystalline in nature.
-  - Very slippery. Difficult and time-consuming to extract without adequate tools (gloves, a pole, etc.).
-  - Trapped inside the crystal is the spirit of a familiar called **Gundersnatch**.
-  - If shattered, the shadow of a great bird will rise above the party, then disappear. Any characters with the _deprived_ condition will have it resolved. 
+- **Деревья**: Из основания каждого дерева течет золотистая живица, она стекает в лужу внизу. Они не выглядят больными.
+- **Лужа**: 12 футов липкой живицы.
+  - Глубина по щиколотку, сок невероятно липкий. Вызывает раздражение на коже.
+- **Предмет**: Кажется кристаллическим.
+  - Очень скользкий. Без соответствующих инструментов (перчаток, шеста и т.д.) извлечь его будет трудно и это потребует больших затрат по времени.
+  - Внутри кристалла заключен дух фамильяра по имени **Гандерснэтч**.
+  - Если его разбить, тень огромной птицы поднимется над группой, а затем исчезнет. Все _истощенные_ персонажи потеряют этот статус
 
-#### Gundersnatch
+#### Гандерснэтч
 
-- Can communicate telepathically with anyone holding the crystal. 
-  - Will plead for anyone to destroy the crystal. (A good whack with something hard will do it.) 
-  - In exchange for his freedom, he will give the party a black feather, telling them that with it they can enter the Anglwyst's Chicken Hut at **4**.
+- Может телепатически общаться с любым, кто держит кристалл.
+  - Будет молить любого, чтобы он уничтожил кристалл. (Для этого достаточно хорошего удара чем-нибудь твердым.)
+  - В обмен на свою свободу он подарит группе черное перо, сказав им, что с ним они могут посетить Курятник Англвист в **4**.
 
-### 3 - Sweeney's Cabin
+### 3 - Хижина Суини
 
-**Shelter**: _Hermit's Cabin_, _Presents a Ready Meal_
+**Укрытие**: _Хижина отшельника_, _Преподносит готовый_
 
-Atop a small hill is a wooden **cabin**. Small **logs** are arranged in rows on the West side of the building, and a tall **rack** is installed on the East wall.
+Деревянная **хижина** на вершине небольшого холма. Небольшие **бревна** сложены рядами с западной стороны здания, у восточной стены установлена высокая **вешалка**.
 
-- **Cabin**: There is a 3-in-6 chance that Sweeney is here. Otherwise, he is out hunting. A ring of white dust is sprinkled across the doorway. 
-  - If the dust is disturbed, Sweeney will know and come investigate.
-- **Logs**: Arranged in rows of four by four. 
-  - A stained outline of an animal (bear, rabbit, beaver, etc.) is drawn on each. A drop of white is painted on the rabbit. It looks new.
-- **Rack**: Various animal skins are stretched tightly across, drying. 
-  - Stitched together, the skins are equal to two sets of protective clothing (1 Armor) and are highly resistant to environmental damage.  
+- **Хижина**: Вероятность того, что Суини здесь, составляет 3 к 6. В противном случае, он на охоте. Дверной проем опоясан кольцом белой пыли.
+  - Если задеть пыль, Суини узнает об этом и направится в хижину.
+- **Бревна**: Разложены рядами по четыре на четыре.
+  - На каждом из них нарисован окрашенный контур животного (медведя, кролика, бобра и т.д.). На кролике капля белого цвета. Она кажется новой.
+- **Вешалка**: Шкуры различных животных плотно натянуты поперек для просушки.
+  - Сшитые вместе, эти шкуры эквивалентны двум комплектам защитной одежды (Броня 1) и обладают высокой устойчивостью к воздействию окружающей среды.
 
-#### Inside the Cabin
+#### Внутри хижины
 
-Very austere, with only a simple **cot** and small dining **table**.
-  
-- **Cot**: Speckled with green moss and twigs. Smells faintly of rain.
-  - The floor beneath the cot is thick with green moss. If Sweeney places his hands on the moss, it falls away, revealing an underground tunnel to **4**. Only Sweeney can activate this passage.
-- **Table**: On the table is a fully prepared meal of roast duck and root vegetables, equal to a full meal for 2.
-  - A gift from Anglwyst. If eaten, the meal will reform in d12 hours. 
+Очень аскетично, простая **кушетка** и маленький обеденный **стол**.
 
-#### Sweeney
+- **Кушетка**: Покрыта зеленым мхом и веточками. Слабо пахнет дождем.
+  - Пол под кушеткой покрыт толстым слоем зеленого мха. Если Суини положит руки на мох, он провалится, открывая подземный туннель в **4**. Только Суини может открыть этот туннель.
+- **Стол**: На столе полностью приготовленное блюдо из запеченной утки и корнеплодов, равное полноценному обеду на 2 персоны.
+  - Подарок от Англвист. Если блюдо будет съедено, оно появится снова через к12 часов.
 
-12 HP, 2 Armor, 13 STR, 15 DEX, 17 WIL, yew bow (d8)
+#### Суини
 
-- A cantankerous, mossy old man. If he is injured, the Wood will protect and even heal him. Each time he dies, he returns more green than before.
-- Would like to stop the _Withering_, but cannot enter **6** due to his pact with Anglwyst. As a test of their honor and skill, he will ask the party for help expelling the Giant Spiders at **9**.
-  - If the party successfully completes their first task, he will give the party a **Pendant of Karnon**, as well as the promise of further riches if they can undo the magic that is ravaging the forest at **6**. 
-  - If the party is able to disrupt the _Withering_, he will open the secret path to **4**, telling them that they may enter the hut there.
-  
-#### Pendant of Karnon
+10 ОЗ, Броня 2, 13 СИЛ, 15 ЛОВ, 17 ВОЛ, тисовый лук (к8)
 
-- A wooden amulet of a bearded, horned man. When in the forest, add a Fatigue to borrow the senses of any nearby creature. _Petty_.
+- Вздорный, замшелый старик. Если он ранен, Лес будет защищать и исцелять его. Умирая, каждый раз он возвращается более зеленым, чем раньше.
+- Хотел бы остановить _Увядание_, но не может войти в **6** из-за своего соглашения с Англвист. В качестве испытания чести и мастерства он попросит отряд о помощи в изгнании гигантских пауков из **8**.
+  - Если они успешно выполнят свое первое задание, он подарит группе **Подвеску Карнона**, а также пообещает дополнительные богатства, если они смогут развеять магию, разоряющую лес в **6**.
+  - Если группа сможет остановить _Увядание_, он откроет секретный путь к **4**, сказав им, что они могут войти в хижину там.
 
-### 4 - Anglwyst's Chicken Hut
+#### Подвеска Карнона
 
-**Shelter**: _Hut with Legs_, _Hunting Is Forbidden_
+- Деревянный амулет в виде бородатого рогатого мужчины. Находясь в лесу, добавьте Жетон усталости, чтобы позаимствовать чувства любого находящегося поблизости существа. _Мелкий_ предмет.
 
-A cylindrical, chimneyed **hut** covered in thick **foliage** sits at the edge of a small clearing. A wooden **sign** is pressed into the ground at the West entrance. A long spool of **chicken wire** is installed on the North side.
+### 4 - Курятник Англвист
 
-- **Hut**: The front-facing windows are dark, and there is no light or smoke coming from inside. 
-  - The door has no keyhole and will only open to friends of Anglwyst, Sweeney, or Gundersnatch. 
-  - If the door is forced open or the hut is threatened, two legs will sprout from underneath and the hut will quickly retreat into the forest.
-- **Foliage**: Both the roof and the windows are covered in thick leafy vines. 
-  - None of the vines touch the ground, as they would be torn were the hut to stand.
-- **Sign**: Covered in vines. In red letters it says: "No Hunting Here. Harsh penalties." 
-  - The witch cast a spell of protection over this place. If an animal is killed here by anyone capable of speech, their killer immediately turns to stone (no save).
-  - Nothing dangerous  will follow the party into this part of the wood.
-- **Wire**: Encircles a small, shriveled garden. A vine-covered stone statue of a young hunter stands in the middle.
-  - The shocked-looking hunter (a victim of the clearing's spell) holds a limp rabbit upside-down, a knife held to its throat.
+**Укрытие**: _Хижина на ножках_, _Охота запрещена_
 
-#### Inside the Hut
+На краю небольшой поляны стоит покрытая густой **листвой** цилиндрическая **хижина** с дымоходом. У западного входа в здание стоит деревянный **знак**. Длинная катушка **проволочной сетки** установлена с северной стороны.
 
-Lavishly decorated. A tall wooden **barrel** is set near the North fireplace, a long broom sticking out. A large **stove** is installed on the East wall. A **string** of herbs and root vegetables hang from the ceiling.
-  - **Barrel**: Joined by thick mortar. Free of dust and empty save for the broom.
-    - The barrel can fit up to one person and is capable of flight. Use the broom to "paddle" the air. 
-  - **Stove**: Warm, and large enough to sleep on. A red scarf is tied around one of the iron handles.
-    - The scarf given to Anglwyst by Sweeney that is otherwise mundane. Sweeney would love to have it back.
-  - **String**: Goods of rare and extinct quality. Worth 500gp to the right buyer. 
-    - A mandrake root hangs from the string. If fed water daily, it will indicate a lie when it hears one. Screams loudly if cut.
+- **Хижина**: Передние окна темные, изнутри не проникает ни свет, ни дым.
+  - В двери нет замочной скважины, и она открывается только перед друзьями Англвист - Суини или Гандерснэтчем.
+  - Если дверь будет взломана или хижине будет угрожать опасность, у нее вырастут две ноги, и она быстро отступит в лес.
+- **Листва**: Крыша и окна увиты густыми лиственными растениями.
+  - Ни одна из лоз не касается земли, так как они были бы оборваны, если бы хижина стояла.
+- **Знак**: Покрыт лозами. Красными буквами написано: «Охота запрещена. Суровое наказание».
+  - Ведьма наложила защитное заклинание на это место. Если кто-либо способный говорить, убивает животное, он немедленно превращается в камень (без спасброска).
+  - Никакие опасности не последует за отрядом в эту часть леса.
+- **Проволока**: опоясывает маленький, увядший сад. Посередине стоит увитая лозой каменная статуя молодого охотника.
+  - Потрясенный охотник (жертва заклинания поляны) держит обмякшего кролика вверх ногами, приставив нож к его горлу.
 
-### 5 - Tree at the Crossroads
+#### Внутри хижины
 
-**Monster**: _Grizzly_, _Guarding_
+Хижина богато обставлена. Возле северного камина стоит высокая деревянная **бочка**, из которой торчит длинная метла. У восточной стены установлена большая **печь**. С потолка свисает **связка** зелени и корнеплодов.
+  - **Бочка**: Скреплена густым раствором. Очищена от пыли и пуста, не считая метлы
+    - В бочке может поместиться один человек, и она способна летать. (Используйте метлу, чтобы «грести» по воздуху)
+  - **Печь**: Теплая и достаточно большая, чтобы на ней можно было спать. Вокруг одной из железных ручек повязан красный шарф.
+    - Суини подарил шарф Англвист, в остальном он вполне обыденный. Суини был бы рад получить его обратно.
+  - **Связка**: Товары редкого качества. Стоит 500 золотых для подходящего покупателя.
+    - В связке есть корень мандрагоры. Если его ежедневно поить водой, он укажет на ложь, когда услышит ее. Громко кричит, если начать его резать.
 
-A long **tree** lays across a small glade at the intersection of two **trails**. A sharp **cliff** to the South offers a steep climb to the bottom.
+### 5 - Дерево на перекрестке
 
-- **Tree**: Enormous and at least partially hollowed out. Bear prints mark the East entrance. 
-  - A Grizzly Bear and her three cubs make this tree their den. They hibernate in the winter, but any other time they are awake. The mother will attack anyone entering the tree (skip the reaction roll). 
-- **Trails**: Broken leaves and tree rubbings on the trail are clear evidence of the bear's habitation.
-- **Cliff**: Metal hoops are pounded into the cliff face.
-  - Installed when the forest was still being logged, but still solid. Perfect for ropes. 
+**Монстр**: _Гризли_, _Охраняет_
 
-#### Grizzly Bear
+На небольшой поляне, на пересечении двух **тропинок**, стоит длинное **дерево**. С острого **утеса** на юге начинается крутой спуск вниз.
 
-6 HP, 15 STR, 13 DEX, 5 WIL, claws (d8+d8)
+- **Дерево**: Огромное и частично полое. У восточного входа видны отпечатки медвежьих лап.
+  - Гризли и трое ее детенышей устроили в этом дереве свою берлогу. Зимой они впадают в спячку, но бодрствуют в любое другое время. Медведица атакует любого, кто заберется на дерево (пропускайте бросок по таблице реакций).
+- **Тропы**: Смятые листья и потертости на деревьях - явные свидетельства обитания медведя.
+- **Утес**: В скалу вбиты металлические обручи.
+  - Установлены во времена, когда в лесу еще проводилась вырубка, все еще прочные. Идеально подходят для веревок.
 
-- Reddish-brown bears commonly found in mountains, woodlands, and prairies. 
-- Prefer to eat fish and meat, and will attack the rare unfortunate who crosses their path.
-- **Critical Damage**: Bite the targeting for an additional d6 STR damage. The target bleeds out very quickly.
+#### Гризли
 
-### 6 - Gray Sanctuary
+6 ОЗ, 15 СИЛ, 13 ЛОВ, 5 ВОЛ, когти (к8+к8)
 
-**Hazard**: _Frozen Troll_, _A Spell Gone Wrong_
+- Красновато-бурые медведи обычно обитают в горах, лесах и степях.
+- Предпочитают питаться рыбой и мясом и будут нападать на редких путников, которые попадутся им на тропы.
+- **Критический урон**: Кусает жертву, нанося дополнительный урон к6 СИЛ. Жертва очень быстро истекает кровью.
 
-A gray forest **sanctuary** stands at the intersection of four trails. In its center, two enormous **statues** appear to be wrestling.
+### 6 - Серое святилище
 
-- **Sanctuary**: All nearby plant life is lifeless and dull, as if all color has been bled away.
-  - The air shimmers with magic, emanating most strongly above the two statues.
-  - The _Withering_ effect is evident even before entering the clearing, as the _Withering_ has begun to spread in all directions.
-  - Plant matter brought into the clearing will soon begin to petrify, even without direct contact.
-- **Statues**: Two wood trolls are fighting over a shiny object held high in the air by the larger of the two.
-  - The object is a **Yore Glass**, a mirror Relic whose magic has disrupted the delicate spell that once made this place a verdant haven for forest life.
-  - The Witch's spell can only be disrupted by removing the mirror from the area or by destroying it completely. It is tightly held by the statue but can be removed by the application of grease, or by breaking the troll's arm.
-  - If the spell is broken, the magical effect will end, and the trolls will slowly awaken. They will immediately try to reclaim the mirror.
+**Опасность**: _Морозный тролль_, _Неудачное заклинание_
 
-#### Yore Glass
+Серое лесное **святилище** стоит на пересечении четырех троп. В его центре две огромные **статуи**, похоже, борются друг с другом.
 
-- Once per day, the holder can replay 5 minutes of their life from the third-person. Long-term use can be addictive. Suffer _deprivation_ if not used regularly.
-- **Recharge**: Catch another's reflection in the glass without them knowing.
+- **Святилище**: Вся растительность поблизости безжизненна и тускла, как будто краски были стерты.
+  - Воздух переливается магией, особенно сильно она ощущается над двумя статуями.
+  - Эффект _Увядания_ заметен еще до выхода на поляну, так как оно начало распространяться во всех направлениях
+  - Растения, принесенные на поляну, вскоре начнут каменеть даже без прямого контакта.
+- **Статуи**: Два лесных тролля дерутся из-за блестящего предмета, который держит более высокий тролль.
+  - Этот предмет - **Зеркало Былого**, реликвия, чья магия разрушила хрупкие чары, которые поддерживали это безопасное место для обитателей леса.
+  - Заклинание ведьмы можно развеять, если унести зеркало из леса или уничтожить его. Статуя крепко держит зеркало, но его можно вытащить, смазав жиром или сломав троллю руку.
+  - Если заклинание будет развеяно, магический эффект прекратится, и тролли медленно проснутся. Они немедленно попытаются вернуть зеркало.
 
-#### Wood Troll
+#### Зеркало Былого
 
-10 HP, 15 STR, 12 DEX, 7 WIL, bite (d8), club (d10)
+- Раз в день владелец может воспроизвести 5 минут своей жизни от третьего лица. Длительное использование может вызвать привыкание. При привыкании, владелец не использующий зеркало регулярно, будет страдать от _истощения_.
+- **Перезарядка**: Незаметно поймайте чужое отражение зеркалом.
 
-- Large humanoids with elongated arms made of bark or root. They live in forests, sharing a deep connection with the vegetation around them.
-- If killed, they will slowly regenerate unless their corpse is taken out of the forest or burned with fire.
-- **Critical Damage**: Moss and twigs begin growing out of the target's wounds.
+#### Древесный тролль
 
-### 7 - Flooded Abbey
+10 ОЗ, 15 СИЛ, 12 ЛОВ, 7 ВОЛ, укус (к8), дубина (к10)
 
-**Ruins**: _Flooded Monastery_, _Hidden Cache_
+- Крупные гуманоиды с удлиненными руками из коры или корней. Они живут в лесах, разделяя глубокую связь с окружающей их растительностью.
+- После смерти, они будут медленно регенерировать, если не вынести труп из леса или не сжечь его на костре.
+- **Критический урон**: Из ран цели начинают расти мох и ветки.
 
-Three flooded **buildings** sprout from the center of a small pond, their **conical** roofs peaking out from beneath the waters. On the North side, a dry riverbed runs directly into the pond. The Eastern path is lined with dozens of piled **stones**.
+### 7 - Затопленное аббатство
 
-- **Buildings**: Archaic, with subtly beautiful religious iconography. Obviously an abbey.
-  - Flooded after the dam at **8** was destroyed. 
-- **Roofs**: The tallest of the three buildings has a glass window high above the water.
-  -  The window is rusted shut but can be pried or broken open to enter the abbey's Chapter House.
-- **Stones**: Piled along the Southern side of the Eastern path. Names are engraved on most.
-  - The monks left piles of stone alongside the path for each of their fallen members.
+**Руина**: _Затопленный монастырь_, _Скрытый тайник_
 
-#### Chapter House
+В центре небольшого пруда возвышаются три затопленных **строения**, их **конические** крыши торчат из-под воды. С северной стороны высохшее русло реки впадает прямо в пруд. Восточная тропа выложена десятками сложенных друг на друга **камней**.
 
-**Tapestries** line the walls of this circular room, its wooden **floor** all but rotted away from water damage. A collapsed bannister on the Southwest side is all that remains of the flooded **stairwell** down into the rest of the building. 
+- **Строения**: Архаичные, с утонченно-красивой религиозной иконографией. Очевидно, это было аббатство.
+  - Затоплено после того, как была разрушена дамба в **8**.
+- **Крыши**: В самом высоком из трех зданий есть стеклянное окно, возвышающееся высоко над водой.
+  -  Окно проржавело, но его можно взломать, чтобы попасть в здание капитула аббатства.
+- **Камни**: Сложены вдоль южной стороны восточной тропы. На большинстве из них выгравированы имена.
+  - Монахи оставили груды камней вдоль тропинки в память о каждом из своих павших собратьев.
 
-- **Tapestries**: Moldy and unsalvageable.
-  - Originally depicted the abbey in its former glory and the monks who lived here.
-- **Floor**: One of the wooden boards is less withered than the others. It smells faintly of something floral.
-  - Below the board is a hidden Spellbook, _Yearning Path_.
-- **Stairwell**: Completely underwater. The rooms below contain only floating corpses and ruined books.
+#### Капитул
 
-#### _Yearning Path_
+**Гобелены** украшают стены этой круглой комнаты, деревянный **пол** почти прогнил от повреждения водой. Рухнувшие перила на юго-западной стороне - это все, что осталось от затопленной **лестницы**, ведущей вниз, в остальную часть здания.
 
-- Shows the shortest path to the object of a heart's _true_ desire. _Smells of lavender. Adds an extra Fatigue if read more than once per day. The process is cumulative._
+- **Гобелены**: Заплесневелые, не подлежат восстановлению.
+  - Первоначально на них было изображено аббатство в его былом великолепии и монахи, которые здесь жили.
+- **Пол**: Одна из деревянных досок засохла чуть меньше, чем остальные. Она источает легкий цветочный аромат.
+  - Под доской спрятана книга заклинаний - _Тоскливый путь_.
+- **Лестница**: Полностью под водой. Нижние комнаты содержат лишь плавающие трупы и испорченные книги.
 
-### 8 - Black Mass
+#### _Тоскливый путь_
 
-**Hazard**: _Giant Spider Nest_, _Injured Creature_
+- Показывает кратчайший путь к объекту _истинного_ желания вашего сердца. _Пахнет лавандой. Применение более одного раза в день вызывает дополнительный жетон усталости. Процесс носит кумулятивный характер._
 
-A black **boar** limps noisily near a large **mass** of black thread and trees. Fat, desiccated **carcasses** hang in spun silk from the treetops. A dry **riverbed** to the South is filled with piles of wood. 
+### 8 - Черная масса
 
-- **Boar**: Half-wrapped in thick black silk, it mews plaintively. 
-  - Poisoned by the spider bite in its hind quarters. If the party comes to its aid, the Wood will remember.
-- **Mass**: Threads of thick black silk hold together a 10ft pile of wood.
-  - The nest is home to 3 **Black Silk Spiders**. They will attack anyone that that interacts with their food or gets too close to their nest. 
-  - 200gp of black silk can be carefully gathered from the nest. It makes a fine rope (about 60ft) that is also incredibly strong and is sought after for its hydrophobic qualities.
-- **Carcasses**: Mostly animal corpses. A human shape is visible through the black webbing.
-  - The human was a hunter who ignored Sweeney's warnings and hunted North of the _Hunter's Track_. On the corpse are Rations (2 uses left), 33gp, and a hip-knife (d6).
-- **Riverbed**: Large piles of wood are thrown about. Bits of black silk can be seen tied around the longer pieces.
-  - A former beaver dam that kept the water to a trickle. The spiders brought the dam down to build their nest. The subsequent flooding destroyed the monastery at **7**, but the river only dried up after a drought earlier this year. 
+**Опасность**: _Гигантское паучье гнездо_, _Раненое существо_
 
-#### Boar
+Черный **кабан** шумно хромает возле большой **массы** черных нитей и деревьев. Жирные, высушенные **трупы** свисают на шелковых нитях с верхушек деревьев. Высохшее **русло** реки на юге завалено кучами древесины.
 
-4 HP, 12 STR, 5 DEX, 6 WIL, tusks (d6+d6)
+- **Кабан**: Наполовину завернут в толстый черный шелк, он жалобно стонет.
+  - Отравлен укусом паука в заднюю конечность. Лес запомнит, если группа поможет кабану
+- **Масса**: Нити из плотного черного шелка скрепляют 10-футовую стопку дерева.
+  - В гнезде обитают 3 **Черных шелковых паука**. Они нападут на любого, кто прикоснется к их пище или подойдет слишком близко к гнезду.
+  - Из гнезда можно извлечь черного шелка на 200 золотых. Из шелка получится тонкая веревка (около 60 футов), которая также невероятно прочна и ценится за свои гидрофобные свойства.
+- **Трупы**: В основном трупы животных. Сквозь черную паутину видна человеческая фигура.
+  - Человек был охотником, который проигнорировал предупреждения Суини и охотился к северу от _маршрута охотников_. На трупе находятся рационы (осталось 2 использования), 33 золотых и набедренный нож (к6).
+- **Русло**: Повсюду разбросаны большие кучи древесины. Вокруг более длинных кусков можно увидеть кусочки черного шелка.
+  - Бывшая бобровая плотина, из-за которой вода текла тонким ручьем. Пауки разрушили плотину, чтобы построить свое гнездо. Последовавшее наводнение разрушило монастырь в **7**, но река пересохла только после засухи в начале этого года.
 
-#### **Black Silk Spider**
+#### Кабан
 
-4 HP, 4 STR, 13 DEX, 5 WIL, bite (d8)
+4 ОЗ, 12 СИЛ, 5 ЛОВ, 6 ВОЛ, клыки (к6+к6)
 
-- **Critical Damage:** Poison paralyzes the victim and deals an additional d4 DEX damage. The victim is then dragged to the spider's nest to be eaten.
+#### **Черный шелковый паук**
 
-### 9 - Fishing Hut
+4 ОЗ, 4 СИЛ, 13 ЛОВ, 5 ВОЛ, укус (к8)
 
-**Shelter**: _Fishing Hut_, _Occupied by Army Deserters_ [Exit]
+- **Критический урон:** Яд парализует жертву и наносит дополнительный урон к4 ЛОВ. Затем жертву тащат в паучье гнездо, чтобы съесть.
 
-A ramshackle **hut** built beside a small **lake** to the North. **Smoke** streams from a cooking rack on the West side, and loud **voices** echo through the South-facing window.
+### 9 - Рыбацкая хижина
 
-- **Hut**: Built from simple logs tied together with rope, which appears fresh. Fishing wire can be seen leading out of the North side and into the lake.
-- **Lake**: Placid, but filled with bugs. A path on the West side leads away from the forest.
-  - The lake hasn't been fished for some time and has become overpopulated. Fishing is easy pickings.
-- **Smoke**: Spills from a wooden cooking rack adjacent to a pile of fried fish (4 x Rations, 3 uses each). 
-- **Voices**: Laughing and muffled speech. At least two voices can be heard from inside.
-  - There are three ex-soldiers squatting in this hut. They are pacifists who were forcibly conscripted into military service. They are seeking refuge in the abbey at **7** but haven't made it that far yet. They are jovial and kind-hearted but absolute cowards. 
-  - They know little about the forest, other than that there used to be a river running South from the lake that ended somewhere near an abbey.
+**Укрытие**: _Рыбацкая хижина_, _Оккупирована дезертирами_ [Выход]
 
-### Encounters
+Ветхая **хижина** построена на берегу небольшого **озера** на севере. С западной стороны от решетки для приготовления пищи поднимается **дым**, из окна, выходящего на южную сторону, доносятся громкие **голоса**.
 
-|         |                                                                                            |
-| ------- | ------------------------------------------------------------------------------------------ |
-| **d20** | **Encounter**                                                                              |
-| **1**   | A tiny bearded man argues with a squawking raven. It holds something shiny in its beak.    |
-| **2**   | A dryad sits atop a stone, a purple fungus lining her arms. There is violence in her eyes. |
-| **3**   | A patch of quicksand is disguised as soft ground. A broken spool of rope lies nearby.      |
-| **4**   | A snarling pack of wolves surround a fresh kill. They are not keen to share.               |
-| **5**   | Wild berries grow here in abundance. None have been eaten, not even by birds.              |
-| **6**   | A trap, hastily set and poorly concealed. It smells strongly of urine.                     |
+- **Хижина**: Построена из простых бревен, связанных вместе веревкой, которая выглядит новой. С северной стороны к озеру ведет рыболовная леска.
+- **Озеро**: Спокойное, но кишит насекомыми. Тропа на западной стороне ведет прочь из леса.
+  - В озере давно не рыбачили, теперь оно переполнено рыбой. Рыбалка здесь идет довольно просто.
+- **Дым**: Идет от деревянной реи для приготовления пищи рядом с горкой жареной рыбы (4 рациона, по 3 использования каждый).
+- **Голоса**: Смех и приглушенная речь. Изнутри доносятся по меньшей мере два голоса.
+  - Три бывших солдата поселились в этой хижине. Это пацифисты, которые были насильственно призваны на военную службу. Они ищут убежища в аббатстве в **7**, но пока не дошли так далеко. Они веселые и добросердечные, но абсолютные трусы.
+  - Они мало что знают о лесе, кроме того, что когда-то из озера на юг текла река, которая заканчивалась где-то рядом с аббатством.
+
+### Встречи
+
+|         |                                                                                                  |
+| ------- | ------------------------------------------------------------------------------------------------ |
+| **к20** | **Встреча**                                                                                      |
+| **1**   | Крошечный бородатый мужчина спорит с каркающим вороном. Ворон держит в клюве что-то блестящее.   |
+| **2**   | На камне сидит дриада, ее руки обвиты фиолетовыми грибами. В ее глаза видна жестокость.          |
+| **3**   | Участок зыбучего песка замаскирован под мягкую почву. Рядом валяется оборванная катушка веревки. |
+| **4**   | Рычащая стая волков окружает свежую добычу. Они не намерены делиться.                            |
+| **5**   | Здесь в изобилии растут лесные ягоды. Ни одна не была тронута, даже птицами.                     |
+| **6**   | Ловушка, поставлена наспех и плохо замаскирована. От нее сильно пахнет мочой.                    |

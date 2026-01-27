@@ -1,215 +1,213 @@
 ---
-title: Vald
+title: Сеттинг Вальда
 layout: default
-parent: Warden's Guide 
-grand_parent: Second Edition
+parent: Книга Смотрителя
+grand_parent: Полное издание
 ---
 
-# Vald
+# Сеттинг Вальда
 
-## Introduction
+## Введение
 
-The implied setting of Cairn is called _Vald_, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as most adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative.
+Предполагаемый сеттинг Cairn называется _Вальд_, охватывающий все освоенные или заселенные земли, города, поселения, леса и т.д. Конкретный правитель не важен, поскольку большинство приключений будут происходить в небольших городах и деревнях, в лесу и на окраинах королевства. Большинство жителей (независимо от региона) называют местные центры власти _Городами_, иногда в пренебрежительном ключе.
 
-Most towns and villages are built within a day's walk of one another, near sources of water and lumber. Larger villages try to be self-sufficient but may still rely on nearby farms and local hunters for food. Most settlements were originally organized around a specific industry such as lumber, brewing, fishing, or mining, and often a Fieldwarden or Beast Handler is posted to protect a community's most valuable assets.
+Большинство городов и деревень строятся в пределах дня пути друг от друга, неподалеку от источников воды и древесины. Более крупные деревни стараются быть самодостаточными, но все еще могут полагаться на продовольствие от близлежащих ферм и местных охотников. Большинство поселений изначально организовывались вокруг определенного промысла, такого как лесозаготовка, пивоварение, рыболовство или добыча руды, и часто там размещается Страж полей или Укротитель зверей для защиты самых ценных активов общины.
 
-Larger towns will elect a Reeve responsible for the community's well-being and external relationships. In the event of a crime or violence, a constable is empowered to enforce the local laws. Taverns and inns are common in villages close to trade routes, while large settlements often boast at least one temple or shrine.   
+В более крупных городах избирается управляющий, ответственный за благополучие общины и внешние взаимоотношения. В случае совершения преступления или насилия констебль уполномочен обеспечивать соблюдение местных законов. Таверны и постоялые дворы часто встречаются в деревнях, расположенных недалеко от торговых путей, в то время как крупные поселения часто могут похвастаться по крайней мере одним храмом или святилищем. 
 
-Established trails between larger towns are fairly common, while maintained roads are almost non-existent except to the distant cities. Itinerant merchants, Kettlewrights, and various peddlers pass through settlements on a semi-regular basis, sometimes hiring Outriders to protect and escort larger  caravans, or Rill Runners to help ferry passengers in the Riverlands.
+Проложенные маршруты между крупными городами довольно распространены, в то время как дороги в хорошем состоянии почти отсутствуют, за исключением путей к дальним городам. Странствующие торговцы, Котельщики и различные коробейники почти регулярно проезжают через поселения, иногда нанимая Наездников для защиты и сопровождения крупных караванов или Певцов ручьев, чтобы переправлять пассажиров через Речные земли.
 
-Even the smallest village may play host to scholarly types from the cities: a Scrivener, Aurifex, or Greenwise with keen interest in nearby tombs, barrows, and Gates. Often a Bonekeeper or Fungal Forager will be hired for their expertise, while clever adventurers will ensure that a Barber-Surgeon is never far away, or a Cutpurse if there is unsavory business that needs tending to. Of course, Mountebanks and Jongleurs often accompany these sorts, riding their coattails in hopes that they too will benefit from the next major discovery.
+Даже в самой маленькой деревне могут оказаться ученые из городов: Писарь, Ремесленник или Лесничий, проявляющие живой интерес к окрестным гробницам, курганам и Вратам. Часто нанимают Хранителя Костей или Грибного Следопыта за их экспертность, тогда как сообразительные авантюристы позаботятся о том, чтобы рядом всегда был Цирюльник или Карманник, если если предстоит неблаговидное дело. Конечно, Шарлатаны и Трюкачи часто сопровождают подобные компании, пользуясь их успехами в надежде, что и они получат выгоду от следующего крупного открытия.
 
-Those who enter the Wood hire a guide familiar with the territory, such as a Prowler or Fletchwind, while the truly determined traveler will seek the wisdom of a Half Witch or Foundling with some connection to its darker secrets. Closer to the border, the Marchguard work to keep the realm free of outside influence, while the Hexenbane seek to protect it from forces within.
+Те, кто отправляется в Лес, нанимают проводника, знакомого с территорией, например Ловчего или Ветрокрыла, тогда как действительно решительный путешественник обратится за мудростью к Полуведьме или Найденышу, имеющих связь с темными тайнами лесов. Ближе к границе Стражи пограничья стараются оградить королевство от внешнего влияния, в то время как Антимаги стремятся защитить его от внутренних угроз.
 
-## Belief
+## Религии и верования
 
-There are several major religions and spiritual beliefs popular among the smallfolk.
+Среди простого народа распространено несколько основных религий и духовных верований.
 
-### Tideborn
+### Рожденные приливом
 
-A hierarchical religious sect that worships _Rivulus_, a petty god of rivers and lakes. Even the unaffiliated are familiar with the group’s initiation ceremony, a ritual drowning that occasionally kills participants. Survivors are dubbed _Tideborn_ and adopt a new, water-related moniker (Carp, Reed, Oxbow, and so on). Only clergy need participate in the ritual; however, in recent years, their following among rural folk has increased, especially in villages near bodies of water. Within the clergy, there is little hierarchy, save for the _Aqua Primaris_, whom all obey without question.
+Религиозная секта, поклоняющаяся _Ривулусу_, мелкому божеству рек и озер. Даже непосвященные знакомы с обрядом инициации этой группы - ритуальным утоплением, которое иногда приводит к гибели участников. Выживших называют Рожденными приливом и дают им новое прозвище, связанное с водой (Карп, Тростник, Старица и так далее). В ритуале обязаны участвовать только священнослужители. Однако в последние годы число их последователей среди простого люда увеличилось, особенно в деревнях у водоемов. Внутри клира почти нет иерархии, за исключением _Аквы Примарис_, которой все беспрекословно подчиняются.
 
-The Tideborn are hardly the only faith in the realm, but their steady growth and zealotry have earned them the respect of some other factions, particularly the _House of Burgesses_. The continued expansion of their membership has, in turn, earned them some enemies, particularly from other factions. Their enmity is such that today Tideborn clergy never attempt solitary travel through heavily wooded areas, lest they risk a beating or worse.
+Рожденные приливом — не единственная религия в королевстве, но их стабильный рости и рвение заслужили им уважение некоторых других фракций, в особенности _Палаты горожан_. Продолжающийся рост их численности, в свою очередь, снискал им врагов, особенно среди прочих фракций. Вражда настолько сильна, что члены Рожденных приливом на данный момент не совершают одиночных путешествий по густым лесам, чтобы не подвергнуться избиению или чему похуже.
 
-### The White Raven
+### Белый ворон
 
-Popular among those who live close to the Wood, the followers of the _White Raven_ (or "the Flock," as they prefer) believe strongly in the power of the Wood and in keeping its forests and creatures healthy. They are in awe of the Woodwose and obey the will of the Wood without question. They can be identified by tattoos of a white bird on their wrists, necks, or backs. Every settlement keeps a Flock unique to their community, and their devotees distrust organized religion as a whole.
+Популярная среди живущих близ Леса, последователи _Белого ворона_ (или «Стая», как они предпочитают) сильно верят в силу Леса и в необходимость поддерживать здоровье его владений и обитателей. Они благоговеют перед Диким Человеком и беспрекословно подчиняются воле Леса. Их можно опознать по татуировкам с изображением белой птицы на запястьях, шее или спине. В каждом поселении есть Стая, уникальная для их общины, и ее приверженцы в целом не доверяют организованной религии.
 
-### The Five-Pointed Star
+### Пятиконечная звезда
 
-An older religion that owes its origin to the first peoples of the realm, who built stone structures to map the stars and constellations. Its worshipers adhere strictly to a set of religious principles that deny the legitimacy of all other beliefs, and local history is marked by its wars and forced conversions. Today, the _Five-Pointed Star_ keeps temples in every major settlement, which often provide needed services, particularly for the poor. In recent years, its prominence has waned as other faiths have risen, prompting some of its members to join a reactionary order known as the _Bleeding Star_.
+Древняя религия, обязанная своим происхождением первым народам королевства, которые возводили каменные сооружения для составления карты звезд и созвездий. Ее приверженцы строго следуют своду религиозных принципов, отрицающих легитимность всех прочих верований, а местная история отмечена ее войнами и насильственными обращениями. Сегодня Пятиконечная звезда содержит храмы в каждом крупном поселении, которые часто предоставляют необходимые услуги, особенно для бедных. В последние годы ее влияние ослабело с возвышением других верований, что побудило некоторых ее членов вступить в реакционный орден, известный как _Кровоточащая Звезда_.
 
-## Vald Principles
+## Принципы Вальда
 
-- Keep it small. Adventures take place in smaller towns, villages, forests, and the margins of the realm.
-- Keep it local. Major rulers (kings, queens, etc.) are far-off, almost irrelevant entities. They have power, but distance diminishes their impact.
-- Most people are human. Some have a drop of Fae blood or are born of two worlds. But for the most part, everyone looks, sounds, and acts recognizably human.
-- Distance matters. Most villages are within a day's walk from one another to ensure the safety of travelers. Camping is a last resort, and those that journey far rarely return.
-- Language matters. Most towns and villages share a common tongue, but it loses intelligibility the farther one travels. Written, older forms are common in places people no longer tread.
-- There is only one Wood. It is not one forest, but _all_ forests. It is neither Good nor Evil but simply wishes to grow, to be free, and to protect itself.
-- The Wood is a porous dungeon. It has rooms and traps and hazards but can also be traversed in different ways: one can always climb a tree. This makes it no less dangerous.
-- The Roots are a foreign land. Time, logic, and matter operate by principles so alien as to make them unknowable.
-- Magic is rare and dangerous. Relics and Spellbooks are not well understood, and attempting to manipulate their power may lead to self-destruction.
-- Relics originate in the Roots. They cannot be created by humans, only found. They are ancient, and yet they sprout from rubble as if grown there.
-- Monsters and other creatures do not follow the rules. They speak and act differently than the PCs and have abilities and magic beyond the reach of regular characters.
+- Сильно не размахивайтесь. Приключения происходят в небольших городах, деревнях, лесах и на окраинах королевства.
+- Придерживайтесь локальности. Верховные правители (короли, королевы и т.д.) далекие и практически нерелевантные фигуры. Они обладают властью, но расстояние уменьшает их влияние.
+- Большинство местных — люди. В некоторых из них есть капля фейской крови или они рождены между двух миров. Но по большей части все выглядят, говорят и ведут себя по-человечески.
+- Расстояние имеет значение. Большинство деревень находятся в пределах дня ходьбы друг от друга, что обеспечивает безопасность путников. Разбивка лагеря — крайняя мера, и те, кто отправляется в дальние путешествия, редко возвращаются.
+- Язык имеет значение. В большинстве городов и деревень говорят на общем языке, но чем дальше группа путешествует, тем менее понятным он становится. Письменные, более старые формы распространены в местах, куда люди больше не ступают.
+- Есть только один Лес. _Все_ леса вокруг являются одним Лесом. Лес не добрый и не злой, он просто хочет расти, быть свободным и защищать себя.
+- Лес — это пористое подземелье. В нем есть комнаты, ловушки и опасности, но перемещаться по нему можно разными способами: всегда можно залезть на дерево. От этого он не становится менее опасным.
+- Корни — это чужие земли. Время, логика и материя действуют там по принципам настолько чуждым, что их невозможно постичь.
+- Магия редка и опасна. Реликвии и Книги заклинаний плохо изучены, и попытка манипулировать их силой может привести к самоуничтожению.
+- Реликвии берут свое начало в Корнях. Они не могут быть созданы людьми, но их можно найти. Они древние, и все же прорастают из руин, словно выросли там.
+- Монстры и прочие существа не следуют правилам. Они говорят и действуют иначе, чем ПИ, и обладают способностями и магией, недоступными обычным персонажам.
 
-## The Wood
+## Лес
 
-The **Wood** surrounds and divides the realm, representing not just one forest, but _all_ forests. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its various peoples, creatures, and unrelenting natural elements have kept the outside world at bay since time immemorial. The Wood is the spirit of all forests, and they in turn are its flesh, and the life they support a sign of its health.
+**Лес** окружает и разделяет королевство, представляя собой не просто один лес, а все леса. Обитатели Леса яростно независимы, веря, что они подчиняются исключительно правилам Леса. Его многочисленные народы, существа и неумолимые природные стихии с незапамятных времен удерживают внешний мир на расстоянии. Лес - это дух всех лесов, а они его плоть, и жизнь, которую они поддерживают, свидетельствует о его здоровье.
 
-At the core of each forest is a _Heart Tree_ and the place where the forest is at its most powerful as well as its most dangerous. Each Heart Tree is born from a single _Heartseed_, acquired exclusively from a Heart Tree that is dying or dead. The Heart Tree acts as a pinion to the plants, trees, and animals all around it, observing and reacting to any problematic incursions into its domain. In particular, Heart Trees _fear humans_.
+В центре каждого леса находится _Сердцедрево_, в этом месте лес наиболее могуществен и наиболее опасен. Каждое такое дерево рождается из единственного _Сердечного семени_, которое можно получить лишь от умирающего или мертвого Сердцедрева. Сердцедрево служит стержнем для растений, деревьев и животных вокруг. Оно наблюдает за любыми проблемными вторжениями в свои владения и реагирует на них. В частности, Сердцедрева  _боятся людей_.
 
-Forests never live in isolation and will communicate with one another to give warning or ask for help. Aid can come in many forms, as the Heartseed has great reach. Raven Folk defenders may lay sap traps to capture stray hunters, while Dryads steal the hatchet from the lumberjack's toolbox. But none are more powerful (nor feared) than the Woodwose, the forest's true protector. A creature wrought from both plant and bone, the Woodwose lives for only one purpose: to protect the forest and any that live within its boundaries.
+Леса никогда не живут изолированно и общаются друг с другом, чтобы передать предупреждение или попросить помощи. Помощь может приходить во многих формах, поскольку сердечное семя охватывает большую территорию. Защитники народа воронов могут расставлять смоляные ловушки, чтобы поймать забредших охотников, в то время как дриады могут украсть топор из ящика дровосека. Но нет никого более могущественного и внушающего страх, чем Дикий Человек, истинный защитник леса. Существо, сотканное из растений и костей, Лесной Человек живет лишь с одной целью: защищать лес и всех, кто живет в его пределах.
 
-Despite its fearsome reputation, many tell tales of the wood's kindness as well. Green, muscular arms saving a child caught by a sudden rock slide. Will-o-Wisps revealing a hidden path once thought lost. Words of warning sung from a crow on a tree. And so, rangers and other outsiders will leave bowls of fruit and nuts alongside great rock piles as proof of their respect and admiration, in the hopes that they will be allowed to pass freely through a protected Wood.
+Несмотря на свою устрашающую репутацию, многие рассказывают истории о доброте леса. Зеленые мускулистые руки, спасающие ребенка, попавшего в неожиданный камнепад. Блуждающие огоньки, открывающие скрытый путь, который когда-то считался потерянным. Слова предупреждения, пропетые вороном на дереве. Потому следопыты и прочие чужаки оставляют миски с фруктами и орехами рядом с большими грудами камней в знак своего уважения и восхищения, в надежде, что им позволят свободно пройти через охраняемый лес.
 
-Of course, the Wood is not empty of people. Hidden in the boughs and in empty glades are populated villages, rustic cabins, and the odd tower. Those who can survive (or even thrive) in such places learn to live according to the rules of the forest, for those who ignore or foolishly oppose these rules often meet grisly ends. The Wood is populated by creatures strange and wondrous, such as Goblins, Spirits, Treants, Trolls, Werewolves, Witches, and even talking plants and animals. Most are openly hostile to outsiders (particularly humans), but others will (on occasion) parley with those that have shown respect for the Wood. Of course, all demonstrate utter respect for the Fae (sometimes called the Pale Folk, or the _Neighbors_).
+Само собой, в Лесу обитают и люди. Среди ветвей и на пустынных полянах прячутся населенные деревни, деревенские хижины и странные башни. Те, кто способен выжить и даже процветать в таких местах, учатся жить по правилам Леса. Тех же, кто игнорирует или по глупости противится им, часто настигает ужасный конец. Лес населен странными и дивными существами: гоблинами, духами, древнями, троллями, оборотнями, ведьмами и даже говорящими растениями и животными. Большинство из них враждебны к чужакам (особенно к людям), но некоторые могут вступить в переговоры с теми, кто проявил уважение к Лесу. Конечно, все они проявляют безоговорочное почтение к феям, которых также называют Бледным народом или _Соседями_.
 
-## The Neighbors
+## Соседи
 
-Through the bramble and over the bush, there is a liminal space where the realms of mortals and the Faerie touch. If you look for it, you will not find it. But if you need to pass over, you will. The creatures that inhabit this place may look and sound familiar, but make no mistake: they are not like us. Tall, slender, pale as ice, and eerily beautiful, the Fae obey no mortal law, nor do they submit to its morality. And yet they are crippled by sterility, lacking the ability to create their own kindred. For this deed, they must cross the threshold into the mortal realm to treat with mortals. There are many names for their kind, but only one has ever escaped their lips: Neighbors.
+За колючими зарослями и поверх кустарника лежит пограничное пространство, где соприкасаются миры смертных и фей. Если вы будете искать его, то не найдете. Но если вам нужно пройти, вы сможете это сделать. Существа, населяющие это место, могут выглядеть и звучать знакомо, но не заблуждайтесь: они не похожи на нас. Высокие, стройные, бледные как лед и жутко прекрасные, феи не подчиняются законам смертных и не признают их мораль. И все же они прокляты бесплодием, не имея способности создавать себе подобных. Чтобы восполнить эту утрату, они вынуждены переступать порог в мир смертных и вступать в сделку с ними. Существует множество названий для их рода, но лишь одно из них когда-либо срывалось с их уст: Соседи.
 
-The Neighbors are continually shrouded in mystery, and it can often be difficult to separate fact from rumor. There are some who say the Neighbors steal babes from their cribs, replacing them with a Changeling child. Others claim that they will pay great sums of wealth or bestow enormous power to those willing to give away their own flesh and blood. There is one truth that all agree on: to make deals with their kind is to invite ill luck not only to your life but that of your descendants as well.
+Соседи постоянно окутаны тайной, и зачастую бывает трудно отделить факт от слуха. Некоторые говорят, что Соседи крадут младенцев из их колыбелей, подменяя их подменышами. Другие утверждают, что они платят большие суммы или дарят невероятную силу тем, кто готов пожертвовать своей плотью и кровью. Есть одна истина, с которой согласны все: сделки с их родом навлекут несчастье не только на твою жизнь, но и на жизнь твоих потомков.
 
-Hunters swear that occasionally animals from the Faerie world will pass into ours, a white blaze burnt into their fur. They say that their meat is the sweetest you will ever taste and that afterward you will starve because of the lack of it. Worse, to be caught poaching these creatures invites a fate worse than death. Scholars have written that the Neighbors can spill magic as if it were water, having no need for Spellbooks or even Relics. They also claim that all magic has its origin in the land of the Pale Folk and that within each Spellbook are the trapped spirits of their most craven lawbreakers.
+Охотники клянутся, что иногда животные из мира фей попадают в наш, с белой отметиной, выжженной на их шерсти. Они говорят, что их мясо самое сладкое из всех, что вы когда-либо пробовали, и что после него вы будете голодать из-за его отсутствия. Хуже того, быть пойманным на браконьерстве этих существ означает навлечь на себя участь хуже смерти. Ученые писали, что соседи могут изливать магию, как воду, не нуждаясь ни в Книгах заклинаний, ни даже в Реликвиях. Они также утверждают, что вся магия берет свое начало в землях Бледного народа и что в каждой Книге заклинаний заключены души их самых подлых преступников.
 
-Those who make their lives in the Wood know to carry charms, gifts, and similar items in case of a chance meeting. And though the Neighbors rarely trouble the borders to their kingdom, they have been known to deliver harsh punishment to those that cross their boundary uninvited. However, it is common knowledge that the Neighbors are terrified of the Roots and will avoid Gates whenever possible.
+Те, кто живет в Лесу, знают, что нужно иметь при себе амулеты, дары и подобные предметы на случай неожиданной встречи. И хотя Соседи редко нарушают границы своего королевства, известно, что они сурово карают тех, кто пересекает их рубеж без приглашения. Однако общеизвестно, что Соседи боятся Корней и по возможности избегают Врат.
 
-## The Roots
+## Корни
 
-The **Roots** is a realm of mystery and horror underground, indifferent to the arbitrary divisions of the aboveground civilizations. Below, labyrinthine hollows stretch for immeasurable distances, connecting humble town sewers to far-flung ruins beyond the borders. Only the brave or foolish dare enter the Roots in search of forgotten Relics or profound wealth, and the few that do return whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Stories tell of adventurers lost for centuries in the depths, only to emerge claiming that just a few hours have passed. Others claim to have made a week-long journey above ground in just one day, traveling through the tunnels beneath.
+**Корни** — это подземное царство тайн и ужасов, безразличное к произвольным разделениям цивилизаций на поверхности. Внизу на неизмеримые расстояния тянутся лабиринтные впадины, связывая скромные городские стоки с далекими руинами за границами. Лишь отважные или глупые решатся войти в Корни в поисках забытых Реликвий или несметных богатств. Те немногие, что возвращаются, шепчут о неописуемых ужасах и зловещем разуме, охраняющих эти утраченные сокровища. Легенды рассказывают об искателях приключений, пропавших в глубинах на долгие века, а потом появились, утверждая, что прошло всего несколько часов. Другие утверждают, что проделали недельный путь по поверхности всего за один день, путешествуя по туннелям внизу.
 
-Entrances to the Roots, known as _Gates_, are scattered across the lands and are usually hidden or protected by powerful forces. Further, Gates cannot be opened without a proper key or alchemical pattern, and once opened, _can never be shut again._ Folk histories recount their openings as omens of great misfortunes, where creatures more vile than the darkest nightmare slink through, devouring nearby homes and villages. Others tell of great heroes raising their swords against these terrors, sealing away the Gates beneath rubble, mountains, lakes, or other impenetrable barriers.
+Проходы к Корням, известные как _Врата_, разбросаны по землям и обычно скрыты или защищены могущественными силами. Более того, Врата нельзя открыть без подходящего ключа или алхимического узора, и, будучи открытыми, _их уже никогда не затворить вновь_. Народные предания описывают их открытие как предзнаменование великих бедствий, когда существа, отвратительнее самого темного кошмара, проскальзывают наружу, пожирая ближайшие дома и деревни. Другие рассказывают о великих героях, поднявших свои мечи против этих ужасов и запечатавших Врата под завалами, горами, озерами или иными непреодолимыми преградами.
 
-What _is_ known is that the Roots are made of vast underground caves as large as an emptied ocean, without even a hint of sunlight. A variety of fungal growths provide weak light in some places, as do various minerals and strange, shallow pits of blue flame. Very little is known about these pits other than that they are tended to by terrible three-eyed Ogres who thirst for blood as if it were the sweetest wine. The various creatures and wild animals that survive in such harsh conditions have developed natural means to live in utter darkness, adapting their eyesight to function in even the dimmest light or eschewing vision altogether.
+Известно _лишь_ то, что Корни состоят из обширных подземных пещер, размером с опустошенный океан, в которых нет даже намека на солнечный свет. В некоторых местах слабый свет исходит от разнообразных грибных наростов, а также от различных минералов и странных мелких ям с голубым пламенем. Об этих ямах известно очень мало, кроме того, что за ними ухаживают ужасные трехглазые огры, жаждущие крови, словно это самое сладкое вино. Различные существа и дикие животные, выживающие в столь суровых условиях, обрели иные способы существования: одни адаптировали свое зрение к отсутствию света, другие вовсе отказались от него.
 
-Of the various peoples and tribes, it is said they speak a harsh, guttural speech, sprinkled with familiar words and phrases. Their warriors carry weapons that spin of their own volition, glowing brighter with each rotation. When the blades are finally released, their heated edges can split flesh and even rock with deadly ease. To date, no one has successfully parlayed with the _People Who Live Below_. Some contend that there are bustling towns, cities, and even great palaces in the Roots! Of course, few scholars believe them, and those that do have been ostracized into obscurity by their peers. Still, explorers cannot deny the ancient husks of impressive architecture found throughout the Roots, the ancient cities and enormous ships of an unimaginable world. Hazy reports claim that one such ruin, a gargantuan ziggurat boasting hundreds of levels, still flickers with light and life. These rumors have yet to be substantiated.
+Говорят, что представители различных народов и племен говорят на грубом, гортанном наречии, в которое вкраплены знакомые слова и фразы. Их воины носят оружие, которое вращается по их воле, светясь все ярче с каждым оборотом. Когда клинки наконец отпускают, их раскаленные лезвия с убийственной легкостью рассекают плоть и даже камень. По сей день никому не удавалось успешно договориться с «Народом, живущим внизу». Некоторые утверждают, что в Корнях существуют оживленные поселения, города и даже величественные дворцы! Конечно, немногие ученые верят им, а те, кто верит, подвергаются остракизму со стороны своих коллег. И все же исследователи не могут отрицать, что по всему пространству Корней встречается древняя архитектура: города и огромные корабли невообразимого мира. Смутные отчеты утверждают, что одна из таких руин, гигантский зиккурат, насчитывающий сотни уровней, до сих пор мерцает светом и жизнью. Но эти слухи еще только предстоит подтвердить.
 
-Today, most know to avoid any mention of Gates, or keys, or related alchemy. But of course, there are always those that cannot resist its draw...
+Сегодня большинство знает, что следует избегать любых упоминаний о Вратах, ключах или связанной с ними алхимии. Но, разумеется, всегда находятся те, кто не может устоять перед искушением…
 
-## Factions
+## Фракции
 
-### The House of Burgesses
+### Палата горожан
 
-An assembly of wealthy, land-owning lords and ladies. Cunning, assertive, and convinced of their own superiority, they can accomplish great things when acting as a single body. Unfortunately, their efforts are often undermined by individual squabbles, petty disputes, and their never-ending lust for power and prestige. Although there is a healthy distrust of the _Order of Nine_ in the House, a _Burgess_ will rarely speak ill of them in public. For their part, the House are openly friendly with the Tideborn, although internally there is much consternation regarding the upstart religion's recent increase in popularity.
+Собрание богатых лордов и леди, владеющих землями. Хитрые, напористые и уверенные в собственном превосходстве, они способны на великие свершения, действуя как единое целое. К сожалению, их усилия часто саботируются внутренними склоками, мелкими распрями и их ненасытной жаждой власти и престижа. Хотя в Палате существует здоровая неприязнь к Ордену девяти, Горожане редко плохо отзываются о них публично. Со своей стороны, Палата открыто дружит с Рожденными приливом, хотя внутри фракции существует немалое смятение из-за недавнего роста популярности этой религии-выскочки.
 
-### The Order of Nine
+### Орден девяти
 
-A consortium of merchants, scholars, and the very powerful, the Order relies on their substantial wealth and a vast network of spies to accomplish their aims. Their primary focus is on the discovery, identification, and regulation of Relics. In recent years, they've turned their focus onto the Roots, as they believe this to be the origin of most Relics, and they pay handsomely for any information regarding Gates. The organization owes its name to the founding members of the Order, whose names and titles are kept secret. The Order detests Spellbooks and any that carry them. They see little reason to openly engage in politics, yet keep spies in nearly every faction.
+Консорциум торговцев, ученых и весьма могущественных лиц, Орден полагается на свое значительное богатство и обширную сеть шпионов для достижения своих целей. Их основная задача заключается в обнаружении, идентификации и регулировании Реликвий. В последние годы они сосредоточили свое внимание на Корнях, поскольку считают, что они являются источником большинства Реликвий, и щедро платят за любую информацию о Вратах. Организация обязана своим названием основателям Ордена, чьи имена и титулы держатся в секрете. Орден питает отвращение к Книгам заклинаний и тем, кто их использует. Они не видят особого смысла открыто вмешиваться в политику, но при этом держат шпионов практически в каждой фракции.
 
-The Order employs several distinct ranks and titles (in order of primacy):
-- _Lector_: An initiate is deemed a _Junior Lector_ until they've proven themselves, after which they are awarded the title of _High Lector_. Only the latter may use Relics in their work.
-- _Keeper_: Protector of a Gate, akin to a typical soldier or mercenary.
-- _Archivist_: A highly respected researcher or librarian, led by the _Grand Archivist_.
-- _Chamberlain_: A master of Relics, charged with their protection, dispersal, and discovery.
-- _Inquisitor_: The highest-ranking position within the Order, sharing power as a triumvirate (called the _Three_) and answering only to the _Nine_.
+В ордене существует несколько различных рангов и титулов (в порядке старшинства):
 
-### The Marchguard
+- _Лектор_: Посвященный считается _Младшим лектором_ до тех пор, пока не докажет свою состоятельность, после чего ему присваивается титул старшего лектора. Только последние могут использовать реликвии в своей работе.
+- _Хранитель_: Защитник Врат, схож с обычным солдатом или наемником.
+- _Архивариус_: Высокоуважаемый исследователь или библиотекарь, возглавляемый _Верховным архивариусом_.
+- _Камергер_: Мастер реликвий, ответственный за их защиту, распределение и обнаружение.
+- _Инквизитор_: Высшая должность в Ордене, разделяющая власть как триумвират (называемый _Троицей_) и подчиняющаяся исключительно _Девяти_.
 
-At the margins of the realm and beyond the Wood lies a place so wild, so dangerous, that only the extremely brave or extremely foolish dare set foot. The borders of these lands are ever-shifting, growing, and changing along with the passage of time. And so the Marchguard was born. No one can remember when the Guard was formed nor who worked to create it, but all know their purpose: to protect the realm from any incursions that might cross the boundary and to prevent those attempting to cross without guidance.
+### Стража пограничья
 
-The Guard bends to no kings, knows no religion, and obeys no laws but their own. They lack even a central leadership, instead providing a masked volunteer to represent them in external negotiations. New members adopt a Blood Oath so powerful it is said to be inescapable by all but death itself. Of course, joining the Guard is rarely a choice, as their ranks are largely composed of ex-thugs, disgraced scholars, neglected knights, misbegotten rangers, and the like. This is how it must be, of course. For who else would willingly devote their lives to stand against such unknowable horrors?
+На окраинах королевства и за пределами Леса находится место столь дикое и опасное, что ступить туда отважатся лишь невероятно храбрые или безумно глупые. Границы этих земель постоянно смещаются, растут и меняются вместе с течением времени. Так на свет появилась Стража пограничья. Никто не помнит, когда была сформирована Стража и кто приложил руку к ее созданию, но все знают ее цель: защищать королевство от любых вторжений, и предотвращать попытки пересечь границу без сопровождения.
 
-Bloodhounds are members of the Guard who have been awarded special commendations or have demonstrated true belief in their cause. These hunters have adopted a single purpose of duty: enforcing the Oath. Utilizing a network of spies, informants, and plants, they ensure that any who escape the Guard are forced to return or die.
+Стража не служит королям, не признает религию и не подчиняется никаким законам, кроме своих собственных. У них даже нет централизованного правительства, вместо этого они выдвигают замаскированного добровольца, чтобы представлять их интересы во внешних переговорах. Новые члены приносят Кровавую клятву столь могущественную, что, как говорят, от нее может избавить лишь смерть. Разумеется, вступление в Стражу редко бывает добровольным, их ряды в основном состоят из бывших головорезов, опозоренных ученых, забытых рыцарей, несчастных следопытов и им подобных. Конечно, так и должно быть. Ибо кто еще добровольно посвятил бы свою жизнь противостоянию столь непостижимым ужасам?
 
-The Guard sees little reason to engage in politics or other such short-sighted quarrels with the other factions. However, decades of living near the borders have caused them to broker an uneasy friendship with those who call the Wood their home, and they will even treat with them on occasion. And although it is never discussed, on rare occasions the Guard will come the aid of those who live in the Wood as well.
+Ищейки - это члены Стражи, удостоенные особых отличий или доказавшие истинную преданность своему делу. Эти охотники взяли на себя единственную задачу: обеспечить соблюдение Клятвы. Используя сеть шпионов, информаторов и агентов, они гарантируют, что любой, кто дезертирует из Стражи, будет вынужден вернуться или умрет.
 
-## The Vald Calendar
+Стража не видит особых причин ввязываться в политику или подобные недальновидные распри с другими фракциями. Однако десятилетия жизни вблизи границ привели к тому, что они заключили шаткие дружеские отношения с теми, кто называет Лес своим домом, и даже иногда вступают с ними в переговоры. И хотя это никогда не обсуждается, в редких случаях Стража приходит на помощь и тем, кто живет в Лесу.
 
-### Overview
+## Календар Вальда
 
-There are 24 hours in a day and 6 days in a week. Each month has 24 days (4 weeks), with 12 months in a year. The year is divided into 4 seasons (Dead, Dry, Wet, and Harvest), each lasting 72 days. Every 10 years, a 6-day "Leap Week" (_Reclamation_) is added, and does not belong to any particular month. This makes the average length of a year over a decade 288.6 days. Each year starts just before the _Dry_ season begins. The current year is 7728.
+### Общие принципы
 
-### Days of the Week
+В сутках 24 часа, а в неделе 6 дней. Каждый месяц состоит из 24 дней (4 недель), а в году — 12 месяцев. Год делится на 4 сезона (Смерть, Сухость, Влага и Жатва), каждый из которых длится 72 дня. Каждые 10 лет добавляется 6-дневная «Високосная неделя» (Восстановление), которая не относится ни к какому конкретному месяцу. Таким образом, средняя продолжительность года за десятилетие составляет 288,6 дня. Каждый год  начинается непосредственно перед началом сезона Сухости. Текущий год — 7728.
 
-1. Market Day
-2. Garden Day
-3. Song Day
-4. Tithe Day
-5. Bathing Day
-6. Resting Day
+### Дни недели
 
-### Months
+1. День рынка
+2. День сада
+3. День песни
+4. День десятины
+5. День купания
+6. День отдыха
 
-1. Mourning
-2. Silence
-3. Veil
-4. Sunrise
-5. Bright
-6. Ashfall
-7. Flood
-8. Highwater
-9. Rise
-10. Quell
-11. Bane
-12. Sunset
+### Месяцы
 
-### Reclamation Week (Once per decade)
+1. Скорбь
+2. Тишина
+3. Пелена
+4. Восход
+5. Ясность
+6. Пеплопад
+7. Наводнение
+8. Прилив
+9. Возвышение
+10. Подавление
+11. Погибель
+12. Закат
 
-1. Recognize
-2. Remember
-3. Reward
-4. Rejoice
-5. Relinquish
-6. Renew
+### Восстановление (Раз в десять лет)
 
+1. День признания
+2. День памяти
+3. День вознаграждения
+4. День ликования
+5. День отречения
+6. День возобновления
 
-### Holidays, Festivals, & Events Sorted by Date
+### Праздники, фестивали и мероприятия (по датам)
 
-|               |                                                            |                                                                                                                                                                            |
-| ------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Month**     | **Date**                                                   | **Event**                                                                                                                                                                  |
-| **Mourning**  |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 4th (Tithe Day)                            | Dead season begins.                                                                                                                                                        |
-|               | Dusk on the 24th (Resting Day)                             | _First Light_: Commemorating the end of the first month of the new year. Torches and fire are lit all night, turning night to day.                                         |
-| **Silence**   |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 10th (Tithe Day)                           | Dead Equinox: Marks the midpoint of the Dead season.                                                                                                                       |
-|               | Dawn to dusk on the 11th (Bathing Day)                     | _Whisper_: Speaking above a whisper is taboo. Silent auctions are common.                                                                                                  |
-| **Veil**      |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 9th (Song Day)                             | _Lift the Veil_: The end of the Dead season is celebrated through solemn vows and humble gestures.                                                                         |
-|               | Afternoon to twilight on the 17th (Bathing Day)            | _Veil’s Edge_: A day for honoring ancestors with offerings and prayers at family altars.                                                                                   |
-| **Sunrise**   |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 4th (Tithe Day)                            | Dry season begins.                                                                                                                                                         |
-|               | Morning on the 14th (Garden Day)                           | _Bartermoot_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood.                              |
-| **Bright**    |                                                            |                                                                                                                                                                            |
-|               | Afternoon until midnight on the 9th (Song Day)             | _Dustset_: A carnival marked by parades and masquerades, where participants wear masks to protect from dust and wind.                                                      |
-|               | Midnight on the 10th (Tithe Day)                           | Dry Equinox: Marks the midpoint of the Dry season.                                                                                                                         |
-| **Ashfall**   |                                                            |                                                                                                                                                                            |
-|               | Dawn until the afternoon on the 16th (Tithe Day)           | _Boughmeal_: A market day held exclusively within the Wood, where artisans and merchants from all over the realm meet to trade their wares.                                |
-|               | Afternoon on the 24th (Resting Day)                        | _Parade of Ash_: In celebration of the final day of the Dry season, participants mark their faces with ash and play music. Most kinds of labor are frowned upon.           |
-| **Flood**     |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 4th (Tithe Day)                            | Wet season begins.                                                                                                                                                         |
-|               | 3 days starting on the 5th (Bathing Day to Market Day)       | _Splash Festival_: Celebrates the abundance of water, with boat races, contests, gifts, and water blessings.                                                               |
-|               | All day on the 14th (Garden Day)                           | _Float_: Communities build and decorate enormous boats or rafts to float down rivers.                                                                                      |
-| **Highwater** |                                                            |                                                                                                                                                                            |
-|               | Dawn until midnight on the 1st (Market Day)                | _Highwater Fair_: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                               |
-|               | Midnight on the 10th (Tithe Day)                           | Wet Equinox: Marks the midpoint of the Wet season.                                                                                                                         |
-|               | Afternoon of the 18th (Resting Day)                        | _First Plant_: A festival marking the beginning of planting season. Communities gather to plant the first seeds of the year together.                                      |
-| **Rise**      |                                                            |                                                                                                                                                                            |
-|               | Lunchtime on the 14th (Garden Day)                         | _Waterwish_: Participants write wishes on scrolls, place them into holes in a boulder, and roll it downhill. When it stops, any remaining wishes are thought to come true. |
-|               | Five days starting on the 19th (Market Day to Bathing Day) | _Storm Dance_: Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead.                                                    |
-| **Quell**     |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 1st (Market Day)                           | Harvest season begins.                                                                                                                                                     |
-|               | Afternoon on the 4th (Tithe Day)                           | _Harvest Festival_: Celebrates the start of the harvest with feasting and communal gatherings to begin harvesting crops.                                                   |
-|               | Dusk on the 24th (Resting Day)                             | _Gathering Night_: Communities come together to collect and store the harvested crops, followed by a night of storytelling and music.                                      |
-| **Bane**      |                                                            |                                                                                                                                                                            |
-|               | Daylight hours of the 12th (Resting Day)                    | _The Golden Hind_: Hunters from far and wide join a great hunt in search of a mythical stag amid great revelry.                                                            |
-|               | All day on the 18th (Resting Day)                          | _Firelight_: A day of kite-flying, wind chimes, and noisemakers. At night, massive bonfires are lit as dancers perform impressive fire dances.                             |
-| **Sunset**    |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 10th (Tithe Day)                           | Harvest Equinox: Marks the midpoint of the Harvest season.                                                                                                                 |
-|               | Evening on the 11th (Bathing Day)                          | _Ember_: Pays homage to the setting sun and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice.                          |
-|               | Evening of the 24th (Resting Day)                          | _Gloam_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                |
+|                |                                               |                                                                                                                                                                                                       |
+| -------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Месяц**      | **Дата**                                      | **Событие**                                                                                                                                                                                           |
+| **Скорбь**    |                                               |                                                                                                                                                                                                       |
+|                | 4-го в полночь (День десятины)                | Начало сезона Смерти                                                                                                                                                                                  |
+|                | 24-го на закате (День отдыха)                 | _Первые лучи солнца_: празднование окончания первого месяца нового года. Факелы и костры горят всю ночь, превращая ночь в день.                                                                       |
+| **Тишина**     |                                               |                                                                                                                                                                                                       |
+|                | 10-го в полночь (День десятины)               | Равноденствие Смерти: знаменует середину сезона Смерти.                                                                                                                                               |
+|                | 11-го от рассвета до заката (День купания)    | _Шепот_: Говорить громче шепота — табу. Распространены тихие аукционы                                                                                                                                 |
+| **Пелена**     |                                               |                                                                                                                                                                                                       |
+|                | 9-го в полночь (День песни)                   | _Поднятие пелены_: окончание сезона Смерти празднуется торжественными клятвами и скромными жестами                                                                                                    |
+|                | 17-го с полудня до сумерек (День купания)     | _Край пелены_: день почитания предков подношениями и молитвами у семейных алтарей.                                                                                                                    |
+| **Восход**     |                                               |                                                                                                                                                                                                       |
+|                | 4-го в полночь (День десятины)                | Начало сезона Сухости.                                                                                                                                                                                |
+|                | 14-го утром (День сада)                       | _Бартерное собрание_: представители небольших городов и деревень обменивают сталь на древесину по ритуальному соглашению с обитателями Леса.                                                          |
+| **Яркость**    |                                               |                                                                                                                                                                                                       |
+|                | 9-го с полудня до полуночи (День песни)       | _Пыльный сезон_: карнавал, отмечаемый парадами и маскарадами, где участники носят маски для защиты от пыли и ветра.                                                                                   |
+|                | 10-го в полночь (День десятины)               | Равноденствие Сухости: знаменует середину сезона Сухости.                                                                                                                                             |
+| **Пеплопад**   |                                               |                                                                                                                                                                                                       |
+|                | 16-го с рассвета до полудня (День десятины)   | _Лесная трапеза_: базарный день, проводимый исключительно в Лесу, где ремесленники и торговцы со всего королевства собираются для обмена товарами.                                                    |
+|                | 24-го в полдень (День отдыха)                 | _Парад пепла_: в честь последнего дня сезона Сухости участники наносят пепел на лица и играют музыку. Большинство видов труда в этот день не одобряются.                                              |
+| **Наводнение** |                                               |                                                                                                                                                                                                       |
+|                | 4-го в полночь (День десятины)                | Начало сезона Влаги.                                                                                                                                                                                  |
+|                | С 5-го по 7-е (от Дня купания до Дня рынка)   | _Фестиваль брызг_: празднование изобилия воды, включает в себя гонки на лодках, состязания, дарение подарков и благословение водой.                                                                   |
+|                | 14-го, весь день (День сада)                  | _Плавание_: общины строят и украшают огромные лодки или плоты для плавания по рекам.                                                                                                                  |
+| **Прилив**     |                                               |                                                                                                                                                                                                       |
+|                | 1-го с рассвета до полуночи (День рынка)      | _Высоководная ярмарка_: крупное торговое мероприятие, проводимое в период наивысшего уровня воды. Каждое крупное поселение празднует это событие, организуя ярмарки и рынки                           |
+|                | 10-го в полночь (День десятины)               | Равноденствие Влаги: знаменует середину сезона Влаги.                                                                                                                                                 |
+|                | 18-го в полдень (День отдыха)                 | _Первый посев_: праздник, отмечающий начало посевного сезона. Общины собираются вместе, чтобы посадить первые семена в этом году.                                                                     |
+| **Возвышение** |                                               |                                                                                                                                                                                                       |
+|                | 14-го в обеденное время (День сада)           | _Водное желание_: участники записывают желания на свитках, кладут их в отверстия в валуне и скатывают его с холма. Когда камни останавливаются, считается, что все оставшиеся в нем желания сбудутся. |
+|                | С 19-го по 23-е (от Дня рынка до Дня купания) | _Танец бури_: танцы и обручения, призванные умилостивить повелителей шторма и дождя для грядущего плодородного сезона Жатвы.                                                                          |
+| **Подавление** |                                               |                                                                                                                                                                                                       |
+|                | 1-го в полночь (День рынка)                   | Начало сезона Жатвы.                                                                                                                                                                                  |
+|                | 4-го в полдень (День десятины)                | _Праздник Жатвы_: знаменует начало сезона Жатвы пиршествами и общинными собраниями для начала сбора урожая.                                                                                           |
+|                | 24-го на закате (День отдыха)                 | _Ночь сбора_: общины собираются вместе, чтобы собрать и складировать урожай, после чего наступает ночь сказаний и музыки.                                                                             |
+| **Погибель**   |                                               |                                                                                                                                                                                                       |
+|                | 12-го в дневное время (День сада)             | _Золотая лань_: охотники со всех краев присоединяются к великой охоте в поисках мифического оленя на фоне грандиозного торжества.                                                                     |
+|                | 18-е весь день (День купания)                 | _Свет костра_: день, посвященный запуску воздушных змеев, мелодиям ветра и звукам шумовых инструментов. Ночью зажигают огромные костры, под которые танцоры исполняют впечатляющие огненные пляски.   |
+| **Закат**      |                                               |                                                                                                                                                                                                       |
+|                | 10-го в полночь (День десятины)               | Равноденствие Жатвы: знаменует середину сезона Жатвы.                                                                                                                                                 |
+|                | 11-е вечером (День купания)                   | _Тление_: отдает дань уважения заходящему солнцу и предстоящей тяжелой работе по подготовке к сезону Смерти. Церемонии запуска фонарей — обычная практика.                                            |
+|                | 24-е вечером (День отдыха)                    | _Мрак_: заключительный грандиозный пир года, посвященный благодарности за урожай, центральное место в котором занимает солнце. Зачатия во время него — обычное дело.                                  |
 
+## Погода
 
-
-## Weather in Vald
-
-|        |                 |                     |                    |                 |
-| ------ | --------------- | ------------------- | ------------------ | --------------- |
-| **d6** | **Dead**        | **Dry**             | **Wet**            | **Harvest**     |
-| **1**  | Cold and clear  | Hot and sunny       | Light rain         | Mild and sunny  |
-| **2**  | Frosty mornings | Warm and sunny      | Overcast           | Cool and clear  |
-| **3**  | Overcast skies  | Warm and breezy     | Breezy             | Warm and sunny  |
-| **4**  | Light snow      | Hot and humid       | Heavy rain         | Warm and breezy |
-| **5**  | Snow showers    | Occasional heatwave | Thunderstorms      | Light rain      |
-| **6**  | Freezing rain   | Dry and windy       | Occasional showers | Heavy rain      |
+|        |                |                     |               |                     |
+| ------ | -------------- | ------------------- | ------------- | ------------------- |
+| **к6** | **Смерть**     | **Сухость**         | **Влага**     | **Жатва**           |
+| **1**  | Холодно и ясно | Тепло и солнечно    | Легкий дождь  | Умеренно и солнечно |
+| **2**  | Морозное утро  | Умеренно и солнечно | Пасмурно      | Прохладно и ясно    |
+| **3**  | Пасмурное небо | Умеренно и солнечно | Ветрено       | Тепло и солнечно    |
+| **4**  | Легкий снег    | Жарко и влажно      | Сильный дождь | Тепло и ветрено     |
+| **5**  | Снегопады      | Тепловые волны      | Грозы         | Легкий дождь        |
+| **6**  | Ледяной дождь  | Сухо и ветрено      | Ливни         | Сильный дождь       |

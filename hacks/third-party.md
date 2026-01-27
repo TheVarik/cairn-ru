@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Third Party
-parent: Hacks
+title: Стороние хаки
+parent: Хаки
 nav_order: 10
 has_children: true
 ---
 
-# Third Party
+# Стороние хаки

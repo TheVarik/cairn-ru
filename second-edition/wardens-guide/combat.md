@@ -1,81 +1,81 @@
 ---
 layout: default
-title: Combat
-parent: Warden's Guide
-grand_parent: Second Edition
+title: Сражение
+parent: Книга Смотрителя
+grand_parent: Полное издание
 ---
 
-# Combat
+# Сражение
 
-## Introduction
+## Введение
 
-Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of combat are unique in a few key ways:
+Сражения в Cairn быстрые, хаотичные и часто смертельные. Кроме того, правила боя уникальны в нескольких ключевых аспектах:
 
-- **Side Initiative**: With the exception of the first round (when PCs must first save DEX to secure their turn), both the PCs and their opponents take turns acting together. The results of a side's individual actions occur simultaneously.
-- **Attacks Automatically Hit**: Combatants typically deal damage to their targets automatically, without rolling to see whether an attack "hits." When multiple attackers target the same foe, only the highest dice result is used in the attack.
-- **Hit Protection and Scars**: Hit Protection acts as a measurement of skill, stamina, resilience, and luck. It also refills automatically when the PC is safe and comfortable. If damage reduces a PC's HP to exactly 0, they receive a _Scar_, which can yield both positive and negative consequences.
-- **Critical Damage**: Damage that reduces a target’s HP below zero is subtracted from their STR by the amount of damage remaining. The target must then immediately make a STR save to avoid taking Critical Damage, using their new STR score. On a fail, the target is defeated.
+- **Инициатива сторон**: За исключением первого раунда (в котором ПИ должны сначала пройти спасбросок ЛОВ, чтобы получить свой ход), ПИ и их противники ходят по очереди, действуя всей группой. Результаты индивидуальных действий каждой стороны происходят одновременно.
+- **Атаки попадают автоматически**: Участники боя обычно наносят урон своим целям автоматически, без бросков на «попадание». Когда несколько атакующих нацеливаются на одного врага, в такой атаке используется только наивысший результат кубика.
+- **Очки защиты и Шрамы**:Очки защиты служат показателем мастерства, выносливости, стойкости и удачи. Они также автоматически восполняются, когда ПИ находится в безопасности и комфорте. Если урон понижает ОЗ персонажа игрока ровно до 0, он получает _Шрам_, который может привести как к положительным, так и к отрицательным последствиям.
+- **Критический урон**: Урон, снижающий ОЗ цели ниже нуля, вычитается из ее СИЛ на величину оставшегося урона. Затем цель немедленно совершает спасбросок СИЛ, чтобы избежать получения критического урона, используя свой новый показатель СИЛ. При провале цель считается побежденной.
 
-## Example
+## Пример
 
-> After days of stepping through endless muck and gloom, the party has finally found the barrow belonging to the Cutlass King, the notorious bandit of a bygone age. 
+> После нескольких дней блужданий по бесконечной грязи и мраку, группа наконец нашла курган, принадлежащий Королю сабель, печально известному бандиту ушедших времен.
 
-**Warden**: _"Finally, you reach the point marked on your map, and in the early morning light, the barrow's entrance becomes visible through the thick mist. But as the rolling fog begins to clear, you see a flash of colorful movement near the tomb's entrance."_
+**Смотритель**: _«Наконец вы достигаете точки, отмеченной на вашей карте, и в лучах утреннего солнца вход в курган становится виден сквозь густой туман. Но когда клубящийся туман начинает рассеиваться, вы замечаете мелькание пестрого движения у входа в гробницу.»_
 
-**Freya**: _"Nothing is ever easy, is it? That must be our dear friends from the Ursine Conclave, trying to steal our thunder!"_ 
+**Фрейя**: _«Просто никогда не бывает, не так ли? Это, должно быть, наши дорогие друзья из Медвежьего конклава, пытающиеся украсть нашу славу!»_
 
-**Lucius**: _"Come now, we don't know that there is an immediate danger. Right?"_
+**Люциус**: _«Ну же, мы пока не знаем, существует ли непосредственная опасность. Верно?»_
 
-**Wolfram**: _"It doesn't matter; we must be prepared for whatever comes next. Keep your weapons down, and I'll a shout. Perhaps we can avoid bloodshed yet."_
+**Вольфрам**: _«Неважно; мы должны быть готовы ко всему, что может произойти. Держите оружие наготове, а я покричу. Возможно, нам еще удастся избежать кровопролития.»_
 
-**Warden**: _"You bark a traditional warning in the direction of the barrow. There is no immediate response, then only a snicker. They appear to be laughing at you! Moments later, three figures step out of the mist and directly into your line of view, each brandishing a weapon. The largest of the three grins as he wields a two-handed war ax, and the other two (a man and woman who are clearly siblings) carry identical swords. Everyone roll a DEX save to see if you can act before they do."_
+**Смотритель**: _«Ты выкрикиваешь традиционное предупреждение в сторону кургана. Немедленного ответа не последовало, лишь слышится хихиканье. Похоже они смеются над тобой! Мгновения спустя из тумана выходят три фигуры, попадая прямо в ваше поле зрения, и каждая размахивает оружием. Самый крупный из троих усмехается, размахивая двуручным боевым топором, а двое других (мужчина и женщина, явно брат и сестра) держат одинаковые мечи. Пусть каждый совершит спасбросок ЛОВ, чтобы определить, успеете ли вы действовать раньше нихи.»_
 
-> Wolfram, Lucius, and Freya each save DEX to see whether they can take a turn in the first round. Wolfram and Freya succeed, but Lucius does not.
+> **Вольфрам**, **Люциус** и **Фрейя** совершают спасбросок. **Вольфрам** и **Фрейя** его проходят, а **Люциус** проваливает.
 
-**Lucius**: _"Well, shoot. I guess I fumbled my cane sword in all the excitement?"_
+**Люциус**: _«Да чтоб тебя. Видимо я от волнения уронил свой меч-трость?»_
 
-**Warden**: _"Indeed. Alright, Wolfram and Freya, each of you can move and take one action this turn. Assuming they survive, your three opponents will then have a chance to retaliate. Then it will be the PCs' turn to act, including Lucius."_
+**Смотритель**: _«Действительно. Хорошо, Вольфрам и Фрейя, каждый из вас может переместиться и совершить одно действие за этот ход. Если они выживут, у ваших трех противников будет шанс нанести ответный удар. Затем настанет очередь действовать ПИ, включая Люциуса.»_
 
-**Wolfram**: _"I don't have my crossbow ready, so I'm going to go after the big one with my silver knife. If we can take him down, the others might flee."_
+**Вольфрам**: _«Мой арбалет не наготове, так что я пойду на крупного со своим серебряным ножом. Если мы устраним его, остальные могут убежать.»_
 
-**Freya**: _"Hey, that was my plan as well! Why don't we both go after him?"_
+**Фрейя**: _«Мой арбалет не наготове, так что я пойду на крупного со своим серебряным ножом. Если мы устраним его, остальные могут убежать?»_
 
-> Wolfram and Freya each make individual attack rolls, but only the highest number counts as damage against the large man [8 HP, 15 STR, 7 DEX, 9 WIL, battleax (d10)]. Wolfram rolls a 4, and Freya a 5 and a 1 for each dagger respectively.
+> Вольфрам и Фрейя делают индивидуальные броски атаки, но только наивысший результат учитывается как урон по крупному мужчине [8 ОЗ, 15 СИЛ, 7 ЛОВ, 9 ВОЛ, боевой топор (к10)]. Вольфрам выбрасывает 4, а Фрейя — 5 и 1 за каждый кинжал соответственно.
 
-**Warden**: _"You each rush the man with the war ax. He easily sidesteps Wolfram's initial jab but nearly isn't quick enough for Freya! He is nearly eviscerated as her twin daggers slice the air where he stood only a millisecond before. That was a close one!"_
+**Смотритель**: _«Вы оба бросаетесь на мужчину с боевым топором. Он легко уклоняется от первого выпада Вольфрама, но удар Фрейи почти его настигает! Он едва не оказывается вспорот, когда ее парные кинжалы рассекают воздух там, где он стоял всего миллисекунду назад. Было очень близко!»_
 
-**Freya**: _"Thanks. That isn't much comfort though."_
+**Фрейя**: _«Спасибо. Впрочем, это слабое утешение.»_
 
-> It is now the opponents' turn to attack or take an action. Although the description of these events is delivered consecutively, the results happen roughly at the same time. The Warden rolls an attack die for each enemy combatant, targeting each PC only once. The large man rolls a d10 but deals only 3 damage against Freya, while his associates each roll a d6, dealing 1 and a 6 damage against Wolfram and Lucius respectively. As the Warden narrates the results, each player records any lost HP or STR on their character sheet.
+> Теперь наступает очередь противников атаковать или совершать действия. Хотя описание этих событий излагается последовательно, результаты происходят примерно в одно и то же время. Смотритель бросает кость атаки за каждого вражеского бойца, нацеливаясь на каждого ПИ один раз. Здоровяк бросает к10, но наносит Фрейе всего 3 урона, в то время как его напарники бросают по к6, нанося 1 и 6 единиц урона Вольфраму и Люциусу соответственно. Пока Смотритель описывает результаты, каждый игрок записывает потерянные ОЗ или СИЛ на листе своего персонажа.
 
-**Warden**: _"Now your opponents will get a crack at it. The large man swings his ax at Freya, but it misses, leaving a wide gap between her and the ax edge. You don't know if you'll be so lucky next time, however. Next, the shorter man stabs at Wolfram, who is the closer of the three. Luckily, the man's blade only glances off his armor. Now on to the man's sister, who nearly takes Lucius's head off with her blade. Somehow the blade doesn't draw blood but instead knocks him back so hard he nearly keels over, and his vision is filled with bright lights and sparkling things."_
+**Смотритель**: _«Теперь ваши противники попробуют преуспеть в бою. Крупный мужчина замахивается на Фрейю топором, но промахивается, оставляя широкий зазор между ней и лезвием. Однако неизвестно, повезет ли тебе в следующий раз. Затем мужчина пониже ростом наносит удар Вольфраму, который стоит ближе всех к нему. К счастью, клинок мужчины лишь скользит по его доспехам. Теперь перейдем к его сестре, которая чуть ли не сносит Люциусу голову своим клинком. Каким-то образом лезвие не проливает кровь, но отбрасывает его так сильно, что он почти заваливается, а его зрение заполняют яркие огни и сверкающие звезды.»_
 
-**Lucius**: _"Ouch. I think that takes me to exactly 0 HP. I should check the Scars table, right?"_
+**Люциус**: _«Ай. Я думаю, что это доводит меня ровно до 0 ОЗ. Я должен проверить таблицу Шрамов, верно?»_
 
-**Warden**: _"Yes, and you'll need to reference how much HP you lost in the attack. Now let's see... You had 6 HP but no armor, and you took 6 damage in the attack. That means you should receive a **Reorienting Head Wound**!"_
+**Смотритель**: _«Да, и тебе нужно будет свериться, сколько ОЗ ты потерял при этой атаке. Давай посмотрим... У тебя было 6 ОЗ, но не было брони, и ты получил 6 единиц урона от атаки. Это означает, что ты получаешь **Травму головы**!»_
 
-**Lucius**: _"You sound a little too excited about this. OK, it says I need to roll 1d6... I got a 3, which indicates DEX. Now I need to roll 3d6, and if the total is greater than my current Dexterity score, I get to keep it, right? Alright... hey, a 14! That's slightly higher than what I have already! Maybe getting knocked in the head isn't all that bad?"_
+**Люциус**: _«Ты слишком восторжено об этом говоришь. Ладно, здесь сказано, что мне нужно бросить 1к6… Выпало 3, что указывает на ЛОВ. Теперь мне нужно бросить 3к6, и если сумма больше моего текущего показателя Ловкости, я его сохраняю, верно? Ладно... эй, 14! Это немного выше, чем мой показатель! Может, получить удар по голове не так уж и плохо?»_
 
-**Warden**: _"Perhaps. One point fewer and you'd have been diseased, and one point greater and you'd lose your hearing for a while. Write down your new DEX score. You really are lucky, you know that? Anyway, it's now time for the PCs to act again."_
+**Смотритель**: _«Возможно. На одно значение ниже, и ты бы заразился, а на одно больше, и ты бы на некоторое время потерял слух. Запиши свой новый показатель ЛОВ. Ты чертовски удачлив, ты это понимаешь? В любом случае, теперь вам снова пора действовать.»_
 
-**Wolfram**: _"I shall riposte against the shorter man!"_
+**Вольфрам**: _«Я нанесу ответный удар мужчине пониже!»_
 
-**Freya**: _"I'm going to take another swing at the big fella."_
+**Фрейя**: _«Я еще раз ударю здоровяка.»_
 
-**Lucius**: _"I am going to try and stab that woman with my cane sword."_
+**Люциус**: _«Я попытаюсь заколоть эту женщину своим мечом-тростью.»_
 
-> Wolfram rolls a d6, dealing 2 damage to the shorter man, who has enough HP to absorb the attack. Freya rolls a d6 for each of her daggers, dealing a 1 and a 3. She keeps only the higher die, and the large man is able to absorb the damage, taking his HP down to 0 (but only PCs gain Scars). Lucius rolls a 6 against the woman [5 HP, 11 STR, 8 DEX, 14 WIL]. She loses 1 point of STR in the attack and so must then roll a Critical Damage save using her _new_ STR score.
+> **Вольфрам** бросает к6, нанося 2 урона мужчине пониже, у которого достаточно ОЗ, чтобы поглотить атаку. Фрейя бросает к6 за каждый из своих кинжалов, получая 1 и 3. Она оставляет кость с наивысшим значением, а крупный мужчина способен поглотить этот урон, снизив свои ОЗ до 0 (но Шрамы получают только ПИ). Люциус бросает 6 против женщины [5 ОЗ, 11 СИЛ, 8 ЛОВ, 14 ВОЛ]. Во время атаки она теряет 1 очко СИЛ от этой атаки и потому должна теперь совершить спасбросок от критического урона, используя свой _новый_ показатель СИЛ.
 
-**Warden**: _"Wolfram, you stab at the shorter man, but he deftly avoids your attack! Freya, your daggers slice at the large man with impressive speed and intensity, and it's clear that you've put him on the defensive, as you can see the sweat begin pouring down the sides of his head. He is running out of steam! Lucius, your cane sword pierces the woman in the stomach! She makes a STR save to see if she can stay in the fight. She rolls a 13, a fail! She goes down!"_
+**Смотритель**: _«Вольфрам, ты атакуешь мужчину пониже, но тот ловко уклоняется! Фрейя, твои кинжалы вонзаются в крупного мужчину с впечатляющей скоростью и силой, и становится ясно, что ты заставляешь его перейти в оборону, пот начинает стекать по его вискам. Он начинает выдыхаться! Люциус, твой меч-трость пронзает женщину в живот! Она делает спасбросок СИЛ, чтобы определить, сможет ли она остаться в бою. Она выбрасывает 13, провал! Она падает!»_
 
-> This is the first casualty of the fight, so the woman's allies must make a WIL save to continue or flee. The Warden rolls using the leader's WIL, and he fails!
+> Это первая потеря в бою, так что союзники женщины должны сделать спасбросок ВОЛ, чтобы продолжить или бежать. Смотритель делает бросок, используя ВОЛ лидера, и проваливает его!
 
-**Warden**: _"The short man sees his sister fall and screams a cry of anguish. He drops his sword and commands the larger man to drop his ax. 'Please,' he begs. 'I don't care about whatever is in that barrow. I beg of you: have mercy. Save my sister, if you have the means.'"_
+**Смотритель**: _«Невысокий мужчина видит, как падает его сестра, и испускает крик отчаяния. Он бросает свой меч и приказывает крупному мужчине бросить топор. "Прошу", умоляет он. "Мне нет дела до того, что в том кургане. Умоляю: сжальтесь. Спасите мою сестру, если есть возможность."»_
 
-**Wolfram**: _"My order takes mercy on all folk willing to forge a new path. If we save your sister with our skills and resources, will you vow to pledge yourself to a life of piety, poverty, and kindness?"_
+**Вольфрам**: _«Мой орден проявляет милосердие ко всем людям, желающим встать на новый путь. Если мы спасем твою сестру нашими умениями и средствами, поклянешься ли ты посвятить себя жизни в благочестии, бедности и доброте?»_
 
-**Warden**: _"The shorter man nods, then rushes to his sister. The larger man only smiles, then says, 'I ain't swearin' nothin'. But I do what he says, so long as he pays. Just let me keep my ax.'"_
+**Смотритель**: _«Мужчина кивает и бросается к своей сестре. Крупный мужчина лишь улыбается, а затем говорит: "Я ни в чем клясться не буду. Но я делаю, что он скажет, пока он платит. Просто позвольте мне оставить мой топор."»_
 
-> The party bandage up the woman, stabilizing her. Had they not, she would have bled out within the hour. Now out of danger, the PCs take a quick swig of water and regain their lost HP. Lucius tries to impress Freya by showing off the new battle scar on his eyebrow, but it doesn't work.
+> Группа перевязывает раны женщины, стабилизируя ее состояние. Если бы не они, она бы истекла кровью в течение часа. Теперь, когда опасность миновала, персонажи делают по глотку воды и восстанавливают утраченные ОЗ. Люциус пытается произвести впечатление на Фрею, демонстрируя новый боевой шрам на брови, но безрезультатно.
 
-**Wolfram**: _"Alright, that's all sorted then. You lot make your way back to town, and we'll convene later. For now, we've got business with this Cutlass King I've read so much about."_
+**Вольфрам**: _«Ладно, значит, с этим разобрались. Вы возвращайтесь в город, а мы встретимся позже. А сейчас у нас есть дело с этим Королем сабель, о котором я столько читал.»

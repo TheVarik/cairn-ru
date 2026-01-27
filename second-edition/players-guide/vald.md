@@ -1,38 +1,38 @@
 ---
 layout: default
-title: Vald
-parent: Player's Guide
-grand_parent: Second Edition
+title: Вальд
+parent: Книга Игрока
+grand_parent: Полное издание
 ---
 
-# Vald
+# Вальд
 
-## Introduction
+## Введение
 
-The implied setting of Cairn is called **Vald**, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as most adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative. 
+Мир Cairn носит название **Вальд** и включает все обжитые земли: города, деревни, леса и прочие территории. Правители тут не имеют значения, так как большинство приключений разворачивается в небольших поселениях, лесах и на окраинах королевства. Местные жители часто называют центры власти _«городами»_, иногда с оттенком пренебрежения.
 
-Towns and villages are built near water and lumber sources, within a day's walk of each other. Larger villages may rely on nearby farms and hunters. Settlements are often organized around specific industries like lumber, brewing, fishing, or mining, with a Fieldwarden or Beast Handler protecting their most valued assets. 
+Поселения обычно строятся вблизи источников воды и леса, на расстоянии дневного перехода друг от друга. Крупные деревни зависят от близлежащих ферм и охотников. Часто они специализируются на определенных ремеслах: деревообработке, пивоварении, рыболовстве или добыче полезных ископаемых. В таких местах можно встретить полевых стражей или укротителей зверей, охраняющих ценные ресурсы.
 
-Established trails between larger towns are fairly common, while maintained roads are almost non-existent except to the distant cities. Itinerant merchants, Kettlewrights, and various peddlers pass through settlements on a semi-regular basis, sometimes hiring Outriders to protect and escort larger caravans, or Rill Runners to help ferry passengers in the Riverlands.
+Между крупными поселениями довольно часто имеются протоптанные тропы, в то время как дороги редки и ведут лишь к отдаленным городам. Кочующие торговцы, котельщики и бродячие коробейники регулярно курсируют между поселениями, нанимая всадников для охраны больших караванов или певцов ручья для переправы через реки.
 
-Even the smallest village may play host to scholarly types from the cities: a Scrivener, Aurifex, or Greenwise with keen interest in nearby tombs, barrows, and Gates. Often a Bonekeeper or Fungal Forager will be hired for their expertise, while clever adventurers will ensure that a Barber-Surgeon is never far away, or a Cutpurse if there is unsavory business that needs tending to. Of course, Mountebanks and Jongleurs often accompany these sorts, riding their coattails in hopes that they too will benefit from the next major discovery.
+Даже самая маленькая деревня может стать домом для ученых из городов: писарей, ремесленников или лесничих, интересующихся древними гробницами, курганами и Вратами. Местные часто нанимают Хранителей костей или Грибных следопытов за их знания, а искатели приключений заботятся о том, чтобы рядом всегда был Цирюльник-хирург или Карманник для совершений неблагих дел. Естественно, за такими компаниями, часто по петам идут различные Троюкачи и Торгаши, в надежде поиметь выгоду со следующего крупного открытия.
 
-Those who enter the Wood hire a guide familiar with the territory, such as a Prowler or Fletchwind, while the truly determined traveler will seek the wisdom of a Half Witch or Foundling with some connection to its darker secrets. Closer to the border, the Marchguard work to keep the realm free of outside influence, while the Hexenbane seek to protect it from forces within.
+Те, кто отправляется в Лес, часто нанимают проводников, знакомых с местностью, например, Ловчего или Ветрокрыла. Опытные путешественники ищут совета у Полуведьмы или Найденыша, чьи жизни неразрывно связаны с тайнами Леса. Ближе к окраинам, стражи пограничья противостоят внешним угрозам, а истребители ведьм защищают королевство от внутренних.
 
-## The Wood
+## Лес
 
-The **Wood** surrounds and divides the realm, representing not just one forest, but _all_ forests. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its various peoples, creatures, and unrelenting natural elements have kept the outside world at bay since time immemorial. 
+**Лес** окружает и разделяет королевство, представляя собой совокупность всех лесов. Его обитатели независимы и считают себя подвластными только законам Леса. Разнообразные народы, существа и неумолимые силы природы с незапамятных времен держат внешний мир на расстоянии.
 
-At the core of each forest is a Heart Tree, the place where the forest is at its most powerful as well as its most dangerous. Each Heart Tree is born from a single Heartseed, acquired exclusively from a Heart Tree that is dying or dead. 
+В центре каждого леса находится Сердцедрево — место наибольшей силы и опасности. Каждое такое дерево рождается из единственного сердечного семени, которое можно получить лишь от умирающего или мертвого Сердцедрева.
 
-The Wood is populated by creatures strange and wondrous, such as Goblins, Spirits, Treants, Trolls, Werewolves, Witches, and even talking plants and animals. Most are openly hostile to outsiders (particularly humans), but others will (on occasion) parley with those that have shown respect for the Wood. Of course, all demonstrate utter respect for the Fae (sometimes called the **Pale Folk**, or the **Neighbors**).
+Лес населен странными и чудесными существами: гоблинами, духами, древнями, троллями, оборотнями, ведьмами и даже говорящими растениями и животными. Большинство из них враждебны к чужакам, особенно к людям, но некоторые могут вступить в переговоры с теми, кто проявляет уважение к Лесу. Все существа испытывают глубокое почтение к феи, которых называют также **Бледным народом** или **Соседями**.
 
-Of course, the Wood is not empty of people. Those who can survive (or even thrive) in such places learn to live according to the rules of the forest, for those who ignore or foolishly oppose these rules often meet grisly ends. 
+Конечно, в Лесу обитают и люди. Те, кто способен выжить и даже процветать в таких условиях, следуют его законам, а тех, кто игнорирует эти правила или по глупости противится им — часто ждет печальный конец.
 
-## The Roots
+## Корни
 
-The **Roots** is a realm of mystery and horror underground, where vast caves loom as large as an emptied ocean, without even a hint of sunlight. The various creatures and wild animals that survive there have developed natural means to live in the utter darkness, adapting their eyesight to function in even the dimmest light or eschewing vision altogether.
+**Корни** — это скрытое под землей царство тайн и ужасов, где огромные пещеры раскинулись, словно опустошенный океан, без единого луча света. Разнообразные создания и дикие животные, выжившие в этом мраке, обрели иные способы существования: одни приспособили свое зрение к отсутствию света, другие вовсе отказались от него.
 
-Entrances to the Roots, known as Gates, are scattered across the lands and are usually hidden or protected by powerful forces. Once opened, Gates permit dangerous creatures to pass through, giving them free reign over the weak and vulnerable.
+Проходы в Корни, называемые Вратами, разбросаны по всем землям. Чаще всего они хорошо спрятаны или охраняются могущественными силами. Когда Врата открыты, через них могут проходить опасные существа, получая власть над слабыми и беззащитными.
 
-Only the brave and foolish enter the Roots, and most do not return. The few that do whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Still, there will always be those who cannot resist the draw of forgotten Relics, profound wealth, or knowledge, for there are rumors that creatures far more interesting than wild beasts make their home in the depths below.
+Лишь самые смелые и безрассудные спускаются в Корни, и большинство из них не возвращается. Немногие, кто смог выбраться, шепчут о неописуемых ужасах и зловещем разуме, охраняющем потерянные сокровища. Тем не менее всегда находятся те, кто не может устоять перед искушением забытых реликвий, несметных богатств или запретных знаний. Ведь, согласно слухам, в глубинах обитают существа, гораздо более интересные, чем дикие звери.

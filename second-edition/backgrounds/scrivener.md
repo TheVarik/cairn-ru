@@ -1,46 +1,46 @@
 ---
-title: Scrivener
+title: Писарь
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Предыстории
+grand_parent: Полное издание
 ---
 
-# Scrivener
+# Писарь
 
-> You copy ancient texts and illuminate manuscripts, recording the voices of the clever, the great, and the powerful. You will prove that the pen truly is mightier than the sword.
+> Вы копируете древние тексты и иллюстрированные рукописи, записываете голоса мудрых, великих и могущественных. Вы докажете, что перо поистине сильнее меча.
 
-## Names
+## Имена
 
-Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
+Ласло, Стилио, Акшара, Пиза, Чжи-Юн, Каламос, Гюго, Шуи, Калам, Юлий
 
-## Starting Gear
+## Начальное снаряжение
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Quill & Ink
-- Blank Book
-- Awl (d6)
-- Badge (_petty_)
+- Факел (3 использования)
+- Значок (_мелкий_)
+- 3к6 золотых монет
+- Шило (к6)
+- Пайки (3 использований)
+- Перо и чернила
+- Чистая книга
 
-## What work did you keep for yourself? Roll 1d6:
+## Какую книгу вы носите при себе? Бросьте 1к6.
 
 |       |                                                                                                                                                                                                           |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **The Wild Tongue**. A bundle of leather-bound scrolls. A seminal work, cataloging the hidden languages of beasts and how to understand them.                                                            |
-| **2** | **The Silent Symphony**. Bound in fluorescent wrap. Very rare, it chronicles the subtle signs used by those employing invisibility magic.                                                                 |
-| **3** | **A Treatise on the Abyss**. A nondescript black book. An in-depth, largely theoretical text describing the **Roots**, as well as information about the location of a nearby **Gate**.                  |
-| **4** | **The Star Waltz**. A comet-shaped clasp bound in a fine leather cover. Detailed astronomical charts, celestial movements, and stellar festivals. Highly valued (100gp) for its usefulness to travelers. |
-| **5** | **The Cathedral and the Canopy**. Large-leaf binding over vellum. Nominally a children's storybook, the margins detail information about traveling, eating, and sleeping in the cloud forests.            |
-| **6** | **Garden of Glass**. Bound in the cover of another book. A heretical work, it describes the materials, procedures, and optimal locations required to open a **Gate**.                                     |
+| **1** | **Дикий язык**. Сборник свитков в кожаном переплете. Фундаментальный труд, каталогизирующий скрытые языки животных и способы их понимания.  |
+| **2** | **Безмолвная симфония**. Книга в флуоресцентной обертке. Очень редкая, описывает тонкие знаки, используемые практикующими магию невидимости.   |
+| **3** | **Трактат о Бездне**. Неописуемая черная книга. Глубокий, в основном теоретический труд, описывающий Корни, а также информацию о расположении ближайших Врат.    |
+| **4** | **Звездный вальс**. Переплет из тонкой кожи с застежкой в форме кометы. Детализированные астрономические карты, небесные движения и звездные фестивали. Высоко ценится (**100 зм**) за полезность для путешественников. |
+| **5** | **Собор и Крона**. Переплет из крупных листьев поверх пергамента. Номинально детская книга, но на полях содержится информация о путешествиях, питании и ночлеге в облачных лесах.     |
+| **6** | **Стеклянный сад**. Спрятана под обложкой другой книги. Еретический труд, описывающий материалы, процедуры и оптимальные места для открытия Врат.                        |
 
-## How do you transcribe sensitive information? Roll 1d6:
+## Как вы записываете конфиденциальную информацию? Бросьте 1к6.
 
 |       |                   |                                                                                                                           |
 | ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Fib Ink**       | Glows when used to write true statements but fades if used to write false ones.                                           |
-| **2** | **Cipher Stone**  | A pair of sharp black stones. Each one decrypts any message written by the other.                                         |
-| **3** | **Everquill**     | A quill that writes on any surface. You still need ink. _Petty_.                                                          |
-| **4** | **Whisper Vial**  | Whisper a message into the vial, and it will play it back to whoever opens it next.                                      |
-| **5** | **Sanguine Lens** | Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day. |
-| **6** | **Echo Leaf**     | A blank parchment. Whomever unfurls it sees their actions of the day slowly revealed in a tight scrawl. _Petty_.          |
+| **1** | **Чернила правды**       | Светятся при написании истинных утверждений, но исчезают, если написать ложь.  |
+| **2** | **Камень-шифратор**  | Пара острых черных камней. Каждый из них расшифровывает любое сообщение, написанное другим.  |
+| **3** | **Вечное перо**     | Перо, которое пишет на любой поверхности. Однако вам все равно нужна чернильница (_мелкий_).   |
+| **4** | **Флакон шепота**  | Прошепчите сообщение во флакон, и он воспроизведет его тому, кто откроет его следующим.  |
+| **5** | **Кровавая линза** | Извлекает кровь из цели без ее ведома. Капля, помещенная на глаз, раскрывает воспоминания за последний день. |
+| **6** | **Лист эха**     | Пустой пергамент (_мелкий_). Тот, кто его разворачивает, видит свои действия за день, медленно проявляющиеся в плотном почерке.     |

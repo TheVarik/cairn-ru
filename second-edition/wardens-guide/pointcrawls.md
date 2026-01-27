@@ -1,51 +1,51 @@
 ---
 layout: default
-title: Pointcrawls
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: Перемещение по точкам
+parent: Книга Смотрителя
+grand_parent: Полное издание
 ---
 
-# Pointcrawls
+# Перемещение по точкам
 
-Pointcrawls are a way of displaying potential points of interest on a map, including their entrances, exits, and connecting paths. Unlike hexcrawls, which provide omnidirectional paths by default, pointcrawls provide a set number of focused routes between locations. This approach abstracts some of the elements common to wilderness exploration, while maintaining the more interesting tidbits.
+Перемещение по точкам — это способ отображения потенциальных мест интереса на карте, включая их входы, выходы и соединяющие пути. В отличие от перемещения по гексам, которое по умолчанию представляет собой всенаправленное исследование, перемещение по точкам предоставляет ограниченное количество целенаправленных маршрутов между локациями. Такой подход позволяет абстрагироваться от некоторых элементов, общих для исследования дикой местности, сохраняя при этом более интересные детали.
 
-Although the standard setting generation procedures in this book assume a pointcrawl by default, most old school adventures do not. Some are hex maps that vary in length, while others simply indicate distances using miles. Fortunately it's fairly simple to convert almost any map into a pointcrawl.   
+Хотя стандартные процедуры генерации сеттинга в этой книге по умолчанию предполагают перемещение по точкам, большинство приключений в духе старой школы его не используют. Некоторые из них представляют собой карты гексов, различающиеся по длине, в то время как другие просто указывают расстояния в милях. К счастью, практически любую карту довольно просто преобразовать в перемещение по точкам.  
 
+## Преобразование карты
 
-## Converting a Map
+Следующий метод во многом опирается на процедуры исследования дикой местности из Книги Игрока Cairn 2e.
 
-The following method relies heavily on the Wilderness Exploration procedures in the Cairn 2e Player's Guide.  
+- Пронумеруйте все потенциальные места интереса на карте.
+- Определите потенциальные маршруты между каждой точкой, отметив очевидные дороги, тропы и водные пути. Укажите любые места, у которых отсутствуют соединяющие маршруты с другими точками.
+- Укажите приблизительное время пути (в фазах или днях пути) между любыми двумя точками с учетом скорости группы, ландшафта, погоды и других элементов игры, которые могут повлиять на путешествие.
 
-- Number any potential points of interest on the map.
-- Identify potential routes between each point, noting obvious roads, trails, and waterways. Indicate any sites that lack connecting routes to other points. 
-- Indicate the rough travel time (in Watches or days of travel) between any two points, accounting for the party's speed, terrain, weather, and other elements of play that might affect the journey. 
+### Пример
 
-### Example
+Время в пути между каждой точкой определяется следующим образом (при условии, что группа путешествует пешком):
 
-The travel times between each point were determined as follows (assuming that the party is traveling by foot):
-- The journey between points **1** to **2** is 6 Watches:  
-  - Add two Watches for the _medium_ path distance.
-  - Add one Watch for the _trail_ through the mountains and forests.
-  - Add two Watches for the _perilous_ mountain terrain and 1 Watch for the forest.
-- The journey between **2** and **3** takes 4 Watches:
-  - Add one Watch for the _short_ path distance.
-  - Add one Watch for the _trail_ through the mountains.
-  - Add two Watches for the _perilous_ mountain terrain.
-- The journey between **2** and **4** takes three Watches:
-  - Add two Watches for the _medium_ path distance.
-  - Add no penalty for traveling on a maintained _road_.
-  - Add one Watch for the _tough_ forest terrain.
-- The journey between **4** and **5** takes four Watches: 
-  - Add one Watch for the _short_ path distance.
-  - Add one Watch for the _trail_ through the swamp.
-  - Add two Watches for the _perilous_ swamp terrain.
-- The journey between **4** and **6** takes 4 Watches:
-  - Add two Watches for the _medium_ path distance.
-  - Add one Watch for the _trail_ through the plains.
-  - Add no penalty for the _easy_ plains terrain.
-- The journey to **7** from any other point should be at least 5 Watches:
-  - Add two Watches for the _medium_ path distance.
-  - Add two Watches for traveling through the _wilderness_.
-  - Add one Watch for the _tough_ forest terrain.
+- Время в пути от **1** до **2** занимает 6 Фаз:
+  - Добавьте две Фазы за _среднюю_ продолжительность пути.
+  - Добавьте одну Фазу за _тропу_ через горы и леса.
+  - Добавьте две Фазы за _опасную_ горную местность и одну Фазу за лесную местность.
+- Время в пути от **2** до **3** занимает 4 Фазы:
+  - Добавьте одну Фазу за _короткую_ продолжительность пути.
+  - Добавьте одну Фазу за _тропу_ через горы.
+  - Добавьте две Фазы за _опасную_ горную местность.
+- Время в пути от **2** до **4** занимает 3 Фазы:
+  - Добавьте две фазы за _среднюю_ продолжительность пути.
+  - Не добавляйте штрафов за проход по _дороге_ в хорошем состоянии.
+  - Добавьте одну фазу за _труднопроходимую_ лесную местность.
+- Время в пути от **4** до **5** занимает 4 Фазы:
+  - Добавьте одну Фазу за _короткую_ продолжительность пути.
+  - Добавьте одну Фазу за _тропу_ через болота.
+  - Добавьте две Фазы за _опасную_ болотистую местность.
+- Время в пути от **4** до **6** занимает 4 Фазы:
+  - Добавьте две Фазы за _среднюю_ продолжительность пути.
+  - Добавьте одну Фазу за _тропу_ через лес.
+  - Не добавляйте штрафов за _простую_ равнинную местность.
+- Путешествие до **7** с любой другой точки, должно занимать как минимум 5 Фаз:
+  - Добавьте две Фазы за _среднюю_ продолжительность пути.
+  - Добавьте две Фазы за путешествие через _дикую_ местность.
+  - Добавьте одну фазу за _труднопроходимую_ лесную местность.
 
-[![Click Me!](/img/2e/pointcrawl-example-map.png "Click to embiggen"){:height="60%" width="60%"}](/img/2e/pointcrawl-example-map.png)
+[![Нажми на меня!](/img/2e/pointcrawl-example-map.png "Нажмите для отображения"){:height="60%" width="60%"}](/img/2e/pointcrawl-example-map.png)

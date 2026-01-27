@@ -1,138 +1,140 @@
 ---
 layout: default
-title: Overview & Principles
-parent: Player's Guide
-grand_parent: Second Edition
+title: Введение и Принципы
+parent: Книга Игрока
+grand_parent: Полное издание
 ---
 
-# Overview & Principles
+# Введение и Принципы
 
-## Overview
+## Введение
 
-### Neutrality
+Cairn был разработан с учетом следующих принципов в философии дизайна:
 
-The Warden's role is to act as a neutral arbiter and portray the rules, situations, non-player characters (NPCs), and narrative clearly.
+### Нейтралитет
 
-### Classless
+Роль Смотрителя заключается в том, чтобы быть беспристрастным арбитром и ясно представлять правила, ситуации, неигровых персонажей, а также вести повествование.
 
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
+### Бесклассовость
 
-### Death
+Роли и навыки персонажа не привязаны к определенным классам. Вместо этого, специализацию персонажа определяет используемое снаряжения и полученный опыт.
 
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+### Смерть
 
-### Fiction First
+Персонажи могут обрести могущество, но все также остаются уязвимыми к различным повреждениям.Смерть всегда рядом, но она никогда не бывает случайной, и не приходит без предупреждения.
 
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are based on in-world elements and arbitrated by the Warden in dialogue with the players.
+### Сюжет превыше всего
 
-### Growth
+Игральные кости не всегда отражают сложность столкновения или его исход. Вместо этого успех и неудача зависят от обстоятельств и определяются Смотрителем в диалоге с игроками.
 
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+### Рост
 
-### Player Choice
+Персонажи развиваются через взаимодействие с игровым миром, приобретая новые навыки и способности, выживая в опасных ситуациях и преодолевая препятствия.
 
-Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
+### Выбор игрока
 
-### Principles
+Игроки должны всегда понимать предпосылки своих выборов, а информация о возможных рисках должна предоставляться открыто и регулярно.
 
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+### Принципы
 
-### Shared Objectives
+Смотритель и игроки придерживаются общих принципов, способствующих созданию игрового опыта, основанного на критическом мышлении, исследовании и совместном повествовании.
 
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore the party is typically working together towards a common goal, as a team.
+### Общие цели
 
-## Principles for Players
+Игрокам нужно доверять друг другу, чтобы всем было комфортно взаимодействовать с окружением, целями персонажей и задачами группы. Поэтому игроки обычно действуют сообща, как команда, сплотившаяся ради общей цели.
 
-### Agency
+## Принципы Игрока
 
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do; ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+### Влияние
 
-### Teamwork
+- Характеристики и связанные с ними спасброски не определяют вашего персонажа. Это лишь инструменты.
+- Думайте не только о том, что сделал бы ваш персонаж, но и что сделали бы вы сами.
+- Проявляйте изобретательность, используя вашу интуицию, а также предметы и связи вашего персонажа.
 
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+### Командная работа
 
-### Exploration
+- Сперва достигните консенсуса между игроками, и лишь потом двигайтесь вперед.
+- Помните об общих целях и ограничениях, уважайте друг друга. Действуя вместе, можно достичь большего, чем поодиночке.
 
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
+### Исследование
 
-### Talking
+- Задавать вопросы и прислушиваться к деталям куда полезнее, чем полагаться лишь на характеристики, предметы или навыки персонажа.
+- Принимайте описания Смотрителя без подозрений, но не стесняйтесь запрашивать дополнительную информацию.
+- Не существует единственно верного способа достижения цели.
 
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+### Общение
 
-### Caution
+- Относитесь к персонажам Смотрителя как к реальным людям. Полагайтесь на свое любопытство для безопасного получения информации и решения проблем.
+- Вы обнаружите, что большинство персонажей по-своему интересны и предпочитают обсудить ситуацию, прежде чем прибегать к насилию.
 
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor, and retreat when things seem unfavorable.
+### Осторожность
 
-### Planning
+- Сражение — это выбор, и не всегда мудрый. Подумайте, является ли насилие лучшим способом достижения ваших целей?
+- Старайтесь склонить чашу весов в вашу сторону, но не стесняйтесь отступать, если ситуация становится неблагоприятной.
 
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research, and ask around about your objectives.
+### Планирование
 
-### Ambition
+- Ищите способы преодолеть препятствия с помощью разведки, хитрости и анализа ситуации.
+- Ищите информацию о ваших целях и расспрашивайте окружающих.
 
-- Set goals, and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward, and play to see what happens.
+### Амбиции
 
-## Principles for Wardens
+- Ставьте цели и используйте все доступные ресурсы для их достижения.
+- Не ожидайте многого, заслужите свою репутацию.
+- Продвигайтесь вперед и играйте, чтобы увидеть результат ваших действий.
 
-### Information
+## Принципы Смотрителя
 
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+### Информация
 
-### Difficulty
+- Предоставляйте полезную информацию об игровом мире по мере того, как персонажи исследуют его.
+- Игрокам не нужно бросать кости, чтобы узнать об окружении.
+- Будьте полезны и прямолинейны, отвечая на вопросы игроков.
+- Отвечайте честно, описывайте последовательно и всегда давайте понять, что они могут продолжать задавать вопросы.
 
-- Default to context and realism rather than numbers and mechanics.
-- If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+### Сложность
 
-### Preparation
+- Перед цифрами и механиками, обращайтесь к контексту и реализму.
+- Если игрок искренне хочет сделать что-то невозможное, ни один бросок не позволит ему это сделать.
+- Разумно ли то, как игрок описывает, и что он использует для разрешения ситуации? Тогда позвольте этому случиться.
+- Спасброски охватывают множество неопределенных ситуаций и часто являются единственной необходимостью для рискованных действий.
 
-- The game world is organic, malleable and random. It intuits and makes sharp turns.
-- Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do, and how they affect the world.
-- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
+### Подготовка
 
-### Narrative Focus
+- Игровой мир органический, податливый и хаотичный. Он интуитивно понятен и делает резкие повороты.
+- Используйте таблицы и генераторы для создания ситуаций и стычек, а не историй или сюжетов.
+- Персонажи Смотрителя помнят, что говорят и делают персонажи игроков, и каким образом они влияют на мир.
+- Персонажи Смотрителя не хотят умереть. Придумайте для каждого личный интерес и волю к жизни.
 
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+### Фокус на нарратив
 
-### Danger
+- Важен опыт игры, а не математические выкладки или способности персонажа. Предоставляйте игрокам оружейных тренеров и персональные задания, чтобы способствовать совершенствованию и специализации.
+- Обращайте внимание на потребности и желания игроков, а затем предоставляйте им реальные возможности для этого.
+- Кинжал, приставленный к твоему горлу, убьет тебя. Несмотря на дорогую броню и впечатляющую подготовку.
 
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
+### Опасность
 
-### Treasure
+- Игровой мир создает реальную угрозу смерти для персонажей игроков.
+- Информируйте игроков о серьезной опасности, если она присутствует. Чем опаснее, тем очевиднее.
+- Ловушки должны находиться на виду, дайте игрокам время на поиск решения.
+- Дайте игрокам возможность решать проблемы и взаимодействовать с миром.
 
-- A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
-- Relics are not Treasure, though they are useful and interesting.
-- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
+### Сокровища
 
-### Choice
+- Сокровище связано с местностью, где оно было добыто. Оно должно рассказывать историю.
+- Сокровища очень ценны, почти всегда являются громоздкий
+- Реликвии — не являются сокровищами, но они должны быть полезными и интересными.
+- Используйте сокровище в качестве приманки, чтобы привести игроков в экзотические места под защитой устрашающих врагов.
 
-- Give players a solid choice to force outcomes when the situation lulls.
-- Use binary "so, A or B?" responses when their intentions are vague.
-- Work together using this conversational method to keep the game moving.
-- Ensure that the player character's actions leave their mark on the game world.
+### Выбор
 
-### Die of Fate
+- Предоставьте игрокам реальный выбор, чтобы добиться желаемого в моменты затишья.
+- Используйте бинарные ответы «А или Б?», когда намерения игроков неясны.
+- Работайте сообща, используя этот метод диалога, чтобы поддерживать игру в движении.
+- Убедитесь, что действия персонажа игрока оставляют свой след в игровом мире.
 
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+### Кость судьбы
+
+- Иногда вам понадобится элемент случайности (например: погода, уникальные знания персонажа и т.д.).
+- В таких ситуациях бросьте 1к6. Выпадение 4 и более будет трактоваться в пользу игроков.
+- Выпадение 3 и менее, как правило, означает неудачу для персонажей или их союзников.

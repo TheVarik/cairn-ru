@@ -1,170 +1,170 @@
 ---
 layout: default
-title: Saves
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: Спасброски
+parent: Книга Смотрителя
+grand_parent: Полное издание
 ---
 
-# Saves
+# Спасброски
 
-## Overview
+## Введение
 
-## When To Save
+## Когда совершать спасбросок
 
-There are three common scenarios in which a player character should save:
--  When avoiding the negative outcome of a risky action.
--  When acting in opposition to another player character, NPC, or creature.
--  When aiding one or more characters in a risky action. 
+Существует три типичных сценария, в которых персонаж игрока должен совершать спасбросок:
+-  Когда он пытается избежать негативного исхода рискованного действия.
+-  Когда он действует против другого ПИ, ПС или существа.
+-  Когда он помогает одному или нескольким персонажам в совершении рискованного действия.
 
-## Save Principles
+## Принципы спасбросков
 
-- When in doubt, ask whether the party has the time, resources, skills, or advantage to overcome a problem. If the answer is "no," then a save is usually warranted. If the answer is "I don't know," then a roll with the Die of Fate may be necessary.
-- Feel free to say "no," but remember to offer an alternative. If the party cannot proceed due to circumstances beyond their control, give them another option to consider.
-- Character death should never come as a surprise. If the risk is so great that the outcome might be fatal, make sure the player understands what they're getting into.
-- Always provide multiple viable options for the PCs to choose from. The more choices, the more interesting the situation becomes.
-- The outcome of a save need not be a simple binary. You can tailor the results based on the totality of input: the effort, forethought, resources, and skill that went into the roll.
-- Be transparent with players. This doesn't mean revealing all of the world's secrets, but provide each player with the maximum information their character might have.
-- Avoid requiring a dice roll whenever possible. If a PC can solve a problem using purely narrative components, _do not ask for a roll_.
-- Replace multiple dice rolls with a single dice throw. Simplifying results to a single roll can increase tension while maximizing player input. 
+- Если вы сомневаетесь, спросите себя, есть ли у группы время, ресурсы, навыки или преимущество для решения проблемы. Если ответ «нет», то спасбросок обычно оправдан. Если ответ «я не знаю», может потребоваться бросить Кость судьбы.
+- Не стесняйтесь говорить «нет», но не забудьте предложить альтернативу. Если группа не может продолжать по независящим от них обстоятельствам, предложите игрокам рассмотреть другой вариант.
+- Смерть персонажа никогда не должна быть неожиданностью. Если риск настолько велик, что исход может оказаться смертельным, убедитесь, что игрок понимает, во что ввязывается.
+- Всегда предоставляйте ПИ несколько жизнеспособных вариантов на выбор. Чем больше выборов, тем интереснее становится ситуация.
+- Результат спасброска не обязательно должен быть простым «да/нет». Вы можете варьировать результаты, основываясь на совокупности факторов: усилиях, предусмотрительности, ресурсах и навыках, которые были применены при броске.
+- Будьте откровенны с игроками. Это не значит, что нужно раскрывать все секреты мира, но предоставляйте каждому игроку максимум информации, которым может располагать его персонаж.
+- По возможности избегайте необходимости бросать кости. Если ПИ может решить проблему, используя чисто нарративные средства, _не следует просить его о броске_.
+- Заменяйте множество бросков одним. Сведение результатов к одному броску может увеличить напряжение, максимизируя вовлеченность игрока.
 
-## Traditional Saves
+## Примеры спасбросков
 
-### Strength
+### Сила
 
-> Wolfram dashes through the underground jail cell, a bundle of cloth held tightly to his chest. Lucius and Freya are right behind, fighting off a very large guard and his pet wolf. 
+> Вольфрам мчится по подземной тюрьме, крепко прижимая к груди сверток из ткани. Люциус и Фрейя бегут сразу за ним, отбиваясь от очень крупного стражника и его ручного волка.
 
-**Wolfram**: _"Remember, they are innocents! They don't need to die!"_
+**Вольфрам**: _«Помните, они невинны! Им не нужно умирать!»_
 
-**Freya**: _"Sorry, I can't hear you through the barks and snarling!"_
+**Фрейя**: _«Прости, не слышу тебя из-за лая и рычания!»_
 
-**Warden**: _"Suddenly, the guard stops and whistles, recalling his pet. He then pulls on a lever behind him, and a loud grating sound starts emanating from the other side of the hallway to the East. Then you see what he's done: a thick iron gate is coming down from the ceiling. If it closes, you'll be locked in this section of the jail! Wolfram, you can probably make it through without any risk. Lucius and Freya will need to each make DEX saves in order to make it."_
+**Смотритель**: _«Внезапно охранник останавливается и свистит, отзывая своего питомца. Затем он нажимает на рычаг позади себя, и с другой стороны коридора, с восточной стороны, раздается громкий скрежещущий звук. Затем вы видите результат его действия: с потолка спускаются толстые железные ворота. Если она закроется, вы будете заперты в этой части тюрьмы! Вольфрам, ты, вероятно, сможешь пробежать под вратами без всякого риска. Люциусу и Фрейе потребуется спасбросок ЛВ, чтобы пройти.»_
 
-**Wolfram**: _"I'm going to stop and hold the gate for as long as I can. What do I risk?"_
+**Вольфрам**: _«Я собираюсь остановиться и удерживать ворота настолько долго, насколько смогу. Чем я рискую?»_
 
-**Warden**: _"The gate is strong. It might break your bones, or you might get stuck underneath."_
+**Смотритель**: _«Ворота крепкие. Они могут сломать тебе кости, или ты можешь застрять под ними.»_
 
-**Wolfram**: _"I toss the bundle through to the other side, then take up a position to grab onto it. Lucius, Freya, you two run ahead. I've got this."_
+**Вольфрам**: _«Я бросаю сверток на другую сторону, затем занимаю позицию, чтобы ухватиться за врата. Люциус, Фрейя, пробегайте вперед. Этим я займусь.»_
 
-> Lucius and Freya agree, and Wolfram rolls a 13: a success!
+> Люциус и Фрейя соглашаются, и Вольфрам выкидывает 13: успех!
 
-**Warden**: _"You groan as the iron bars press down against your arms and shoulders. Just as you feel like the gate might crush you in two, Lucius and Freya jog past and into safety. You step back and the gate collapses onto the stone floor with such force that the mechanism itself breaks. There is no going back now! The large guard isn't getting through either, though."_
+**Смотритель**: _«Ты стонешь, когда железные прутья начинают давить на твои руки и плечи. Как только тебе начинает казаться, что врата раздавят тебя, Люциус и Фрейя пробегают мимо в безопасное место. Ты отступаешь, и врата обрушиваются на каменный пол с такой силой, что сам механизм ломается. Теперь назад пути нет! Однако огромный стражник тоже не пройдет.»_
 
-**Wolfram**: _"It's just as I've always said: 'Through strength, there is virtue.' Or was it, 'There is virtue in strength?' Ah, anyway... Hey, wait for me!"_
+**Вольфрам**: _«Как я всегда говорил: "В силе — добродетель." Или это было: "Добродетель — в силе?" В любом случае... Эй, меня подождите!»_
 
-### Dexterity
+### Ловкость
 
-> Freya crouches atop the rafters of a decrepit tavern, spying on a gang of heavily-armed thugs below. 
+> Фрейя сидит на стропилах ветхой таверны, наблюдая за бандой вооруженных до зубов головорезов внизу.
 
-**Warden**: _"After twenty minutes of cramped discomfort, the care and caution you put into this venture are finally rewarded as one of the men below speaks aloud the location of their hideout. Your mission is complete! What do you do now?_"
+**Смотритель**: _«После двадцати минут тесноты и дискомфорта забота и предостережение, которые ты вложила в это дело, наконец-то вознаграждаются, когда один из мужчин внизу громко называет местоположение их убежища. Твоя миссия выполнена! Что ты делаешь теперь?»_
 
-**Freya**: _"I need to skedaddle without these jokers knowing I was ever here. Does it look like they are nearly finished?"_
+**Фрейя**: _«Мне нужно смыться так, чтобы эти клоуны не узнали, что я вообще здесь была. Похоже ли, что они почти закончили?»_
 
-**Warden**: _"Actually, one of them is pulling out a deck of cards, and the others are nodding in approval. It looks like they'll be here for a while yet."_
+**Смотритель**: _«На самом деле, один из них достает колоду карт, а остальные одобрительно кивают. Похоже, они будут здесь еще долго.»_
 
-**Freya**: _"Rats. Well, no time like the present, right? I'm going to sneak back the way I came._"
+**Фрейя**: _«Ублюдки. Что ж, сейчас самое подходящее время, верно? Я собираюсь выбраться обратно тем же путем, которым и пришла.»_
 
-**Warden**: _"That's fine, but when you passed earlier there was no one here. That is no longer the case! You'll need to make a DEX save to avoid detection._"
+**Смотритель**: _«Ты можешь это сделать, но когда ты проходила там раньше, здесь еще никого не было. Сейчас это уже не так! Тебе нужно будет сделать спасбросок ЛВ, чтобы избежать обнаружения.»_
 
-> Freya rolls a 16: a fail!
+> Фрейя выбрасывает 16: провал!
 
-**Warden**: _"As you crest the final beam, it creaks. All six of the men look up and see you leap into the crawlspace leading out of the main hall and into the kitchens. They didn't get a bead on your face, but they know you're up there! They shout and draw their weapons."_
+**Смотритель**: _«Когда ты преодолеваешь последнюю балку, она скрипит. Все шестеро мужчин поднимают головы и видят, как ты прыгаешь в проход, ведущий из главного зала на кухню. Они не увидели твое лицо, но они знают, что ты наверху! Они кричат и достают оружие.»_
 
-**Freya**: _"I have one smoke bomb left, and I plan on using it. I'm going to drop into the kitchens to find a pot. If I recall correctly, water makes the smoke go crazy..."_
+**Фрейя**: _«У меня осталась одна дымовая шашка, и я планирую ее использовать. Я собираюсь спрыгнуть на кухню и найти кастрюлю. Если я правильно помню, от воздействия воды дым сходит с ума...»_
 
-### WIL
+### Воля
 
-> Lucius has been captured after helping a client try to break into the ancient vault of Der Thunn. In a sudden glut of courage, he allowed himself be taken so that the others could escape.
+> Люциус был схвачен после того, как помог клиенту проникнуть в древнее хранилище Дер Тунна. Во внезапном приливе храбрости он позволил схватить себя, чтобы остальные могли сбежать.
 
-**Wolfram**: _"Pity about Lucius. But we have to deliver our client to the vault immediately. We can rescue him after."_
+**Вольфрам**: _«Жаль Люциуса. Но мы должны немедленно доставить нашего клиента к хранилищу. Спасем его потом.»_
 
-**Freya**: _"I am NOT leaving him behind. You should still go, but I'm going to get him out. I'm a cutpurse, so I have friends everywhere, right? Or perhaps there's some kind of thieves' cant I can use to make connections here?"_
+**Фрейя**: _«Я НЕ оставлю его здесь. Тебе в любом случае следует идти, но я собираюсь вытащить его оттуда. Я карманник, у меня везде есть друзья, верно? Или, может быть, есть какой-нибудь воровской язык, который я могу использовать, чтобы наладить здесь связи?»_
 
-**Warden**: _"Indeed. You can spend the night trying to make connections among your kind, if you like._"
+**Смотритель**: _«Все так. Если хочешь, ты можешь провести ночь, пытаясь наладить связи среди себе подобных.»_
 
-> The party splits up, and Freya learns what she needs to from a local fence. (It costs her one of the Twins, and she is not happy about it). Lucius is awaiting his sentence in a jail beneath the constabulary.
+> Группа разделяется, и Фрейя узнает все, что ей нужно, от местного скупщика краденого. (Это стоило ей одного из Близнецов, и она этому не рада.) Люциус ожидает своего приговора в тюрьме под зданием полиции.
 
-**Warden**: _"In the dim light of the early dawn, you notice a note slipped through the street vent. It reads, 'Speak the following, and you will be free: "The Pale Man Longs To Die." You have but one chance.'"_
+**Смотритель**: _«В тусклом свете рассвета ты замечаешь записку, просунутую через уличную вентиляцию. В ней говорится: "Скажи следующее, и ты будешь свободен: «Бледный Человек жаждет смерти.» У тебя есть только один шанс."»_
 
-**Lucius**: _"...What? OK. Someone gave this to me? And I have to speak it aloud... but at the right time, or to the right person?"_
+**Люциус**: _«...Что? Окей. Мне это кто-то дал? И я должен произнести это вслух… но в нужное время или нужному человеку?»_
 
-**Warden**: _"You hear footsteps as the jailer approaches. He jingles his keys as if he intends to open your cell. What do you do?_"
+**Смотритель**: _«Ты слышишь шаги приближающегося тюремщика. Он звенит ключами, как будто собирается открыть твою камеру. Что ты делаешь?»_
 
-**Lucius**: _"OK! This is not the right person, I think. Perhaps I'll talk to someone higher up?"_
+**Люциус**: _«Окей! Я думаю, это не тот человек, который мне нужен. Может быть, мне поговорить с кем-нибудь повыше?»_
 
-**Warden**: _"He opens your cell and beckons for you to come out."_
+**Смотритель**: _«Он открывает твою камеру и подзывает тебя выйти.»_
 
-**Lucius**: _"Hello friend! Might I speak to your superior? I have some important news that might be very interesting to them..."_
+**Люциус**: _«Привет, друг! Могу я поговорить с твоим начальником? У меня есть кое-какие важные новости, которые могут быть ему очень интересны...»_
 
-**Warden**: _"The jailer smirks as he unlocks raises a pair of manacles._"
+**Смотритель**: _«Тюремщик ухмыляется, открывая и поднимая пару наручников.»_
 
-**Lucius**: _""THE PALE MAN LONGS TO DIE!"_
+**Люциус**: _«БЛЕДНЫЙ ЧЕЛОВЕК ЖАЖДЕТ СМЕРТИ!»_
 
-**Warden**: _"The jailer stops in his tracks, then lowers the manacles. He nods once, then gestures that you follow him."_
+**Смотритель**: _«Тюремщик останавливается как вкопанный, затем опускает кандалы. Он кивает один раз, затем жестом приглашает тебя следовать за ним.»_
 
-**Lucius**: _"Well, that was lucky. What is this, some code for jailers? Executioners? Well, whatever it is, I'm following."_
+**Люциус**: _«Что ж, вышло довольно удачно. Это что, какой-то код для тюремщиков? Палачей? Что бы это ни было, я следую за ним.»_
 
-**Warden**: _"The jailer guides you into the darkness of the jail, far from the light. As he reaches the far wall, he taps three times on a stone high above his head. After a moment, the wall swings inward, and the guard walks confidently inside, where a dark-haired woman waits at a desk. She smiles at you and gestures that you sit at the chair across from her."_
+**Смотритель**: _«Тюремщик ведет вас в темноту тюремной камеры, далеко от света. Дойдя до дальней стены, он трижды стучит по камню высоко над головой. Через мгновение стена раздвигается, и охранник уверенно заходит внутрь, где за столом ждет темноволосая женщина. Она улыбается вам и жестом приглашает вас сесть на стул напротив нее.»_
 
-**Lucius**: _"Uh oh. Can I go back to my cell, please? I kid, I kid. I take a seat."_
+**Люциус**: _«О-о. Могу я вернуться в свою камеру, пожалуйста? Я пошутил, пошутил. Я сажусь.»_
 
-**Warden**: _The jailor leaves as you take a seat. The room is small, with only one door on the other side of the woman. A very large man stands outside, his head visible through a small window on the door. The woman smiles again, saying, 'Welcome Mr... Well, it doesn't matter. There is only one reason you are here. You've spoken a code known only to thieves and scoundrels. And which one are you, I wonder?"_
+**Смотритель**: _«Тюремщик уходит, когда ты садишься. Комната маленькая, с единственной дверью по другую сторону от женщины. Снаружи стоит очень крупный мужчина, его голова видна через маленькое окошко в двери. Женщина улыбается вновь и говорит: 'Добро пожаловать, мистер… Что же, это не имеет значения. Может быть только одна причина, по которой вы здесь. Вы произнесли кодовую фразу, известную только ворам и прохвостам. Вы который из них, интересно знать?'»_
 
-**Lucius**: _"What happens now? I don't have anything to barter... Except for perhaps the truth? But that means I have to make a WIL save, right? So that I seem 'convincing?'"_
+**Люциус**: _«И что будет дальше? Торговаться мне нечем... За исключением, возможно, правды? Но это означает, что я должен сделать спасбросок Воли, верно? Чтобы я выглядел 'убедительно'?»_
 
-**Warden**: _"You'd need to make a WIL save even if you weren't telling the truth. You're definitely the most at risk here, and despite your experience as a charlatan, you think she can probably see through any lie. She and you might not be so different."_
+**Смотритель**: _«Тебе нужно было бы делать спасбросок, даже если бы ты говорил неправду. Ты определенно подвергаешься здесь наибольшему риску, и, несмотря на твой опыт шарлатана, ты думаешь, что она, вероятно, может раскусить любую ложь. Возможно, вы с ней не так уж сильно отличаетесь друг от друга.»_
 
-**Lucius**: _"OK. Madam: I'll be straight with you. My friends and I are here to sneak into the vault of Der Thunn. I only learned of that phrase a few minutes ago. I believe one of my friends (a cutpurse named Freya, you might know her) left me that note. If you set me free, I'll be sure to mention... what's your name, again?"_
+**Люциус**: _«Окей. Я буду с вами откровенен, мадам. Мы с моими друзьями здесь для того, чтобы проникнуть в хранилище Дер Тунна. Я узнал об этой фразе всего несколько минут назад. Я верю, одна из моих подруг (карманница по имени Фрейя, возможно, вы ее знаете) оставила мне эту записку. Если вы освободите меня, я обязательно упомяну… еще раз, как там вас зовут?»_
 
-**Warden**: _"Katja. And please, tell me everything._"
+**Смотритель**: _«Катя. И, пожалуйста, расскажи мне все.»_
 
-> Lucius describes the party's , and their efforts so far. He makes a WIL save. He rolls a 5, a success! Katja is convinced of his sincerity.
+> Люциус описывает миссию партии и их текущие стремления. Он совершает спасбросок ВЛ. Он выбрасывает 5, успех! Катя убеждена в его искренности.
 
-**Warden** _"As she listens to your story, Katja frowns, then finally smiles. 'Alright, alright, I believe you. Let's make a deal! You introduce me to this "client" of yours whom you've so kindly escorted into my town, and I'll make sure no one is watching while you slip away. But we have to go right now, before this place implodes. And if that happens, even I can't guarantee your safety..."_ 
+**Смотритель** _«Слушая твою историю, Катя хмурится, потом, наконец, улыбается. 'Хорошо, хорошо, я тебе верю. Давай заключим сделку! Вы представите меня вашему клиенту, которого вы так любезно сопроводили в мой город, и я позабочусь о том, чтобы никто не смотрел, пока вы ускользаете. Но мы должны уходить прямо сейчас, пока это место не взорвалось. И если это случится, даже я не смогу гарантировать вашу безопасность...»_
 
-> An hour later, Lucius finds Freya, but not the others. She explains that Wolfram and their client have already left for the vault. She agrees to take them there, but says that she needs to make a quick stop first. Something about reclaiming one of her daggers...
+> Час спустя Люциус находит Фрейю, но не остальных. Она объясняет, что Вольфрам и их клиент уже отправились в хранилище. Она соглашается отвести их туда, но говорит, что сначала ей нужно сделать небольшую остановку. Что-то насчет возвращения одного из ее кинжалов...
 
-## Opposed Saves
+## Встречные спасброски
 
-> The party has cornered their opponents (two Bandits and their Hobgoblin chief) against a steep cliff side. Lucius and Wolfram are able to take their turns right away, but Freya failed her initial DEX save and has to go after their opponents. As her friends take on each of their smaller foes, she only narrowly avoids getting her head bashed in by the Hobgoblin!
+> Группа загнала своих противников (двух Бандитов и их главаря-Хобгоблина) в угол на крутом склоне скалы. Люциус и Вольфрам могут сразу же начать ходить, но Фрейя провалила свой первоначальный спасбросок ЛВ и вынуждена ходить после своих противников. В то время как ее друзья сражаются с каждым из своих более мелких противников, она чудом избегает удара Хобгоблина, который должен был проломить ей голову!
 
-**Freya**: _"I don't think I can survive another bout with their leader, so I'm going to try and knock him off the cliff!"_
+**Фрейя**: _«Я не думаю, что смогу пережить еще одно столкновение с их лидером, поэтому я хочу попытаться столкнуть его со скалы!»_
 
-**Warden**: _"You are most at risk in this situation, meaning that if you try and push him, you will need to make the appropriate save!"_
+**Смотритель**: _«В этой ситуации ты подвергаешься наибольшему риску, а это значит, что если ты попытаешься столкнуть его, тебе нужно будет совершать соответствующий спасбросок!»_
 
-**Freya**: _"And if I fail, I go off the cliff, right? Alright.. I think I can do this. But just in case, I'm going to make sure I'm wearing my Catring!"_
+**Фрейя**: _«И если я его провалю, то полечу с обрыва, верно? Ну ладно... Я думаю, что у меня получится. Но на всякий случай на мне будет Кольцо кошки!»_
 
-> Freya rolls a STR save to try and grapple the Hobgoblin and toss him off the cliff. She rolls a 17, a fail!
+> Фрейя бросает спасбросок СЛ, чтобы попытаться схватить Хобгоблина и сбросить его со скалы. Она выбрасывает 17, провал!
 
-**Warden**: _"Their leader picks you up and flings you backward, sending you careening off the cliff. Fortunately the Catring activates its final charge, and you are able to gracefully catch a tree branch jutting off the mountainside 10ft below. It will take you two turns to climb back up, or you'll need to make a DEX save to do it quickly._"
+**Смотритель**: _«Их лидер хватает тебя и швыряет назад, отправляя в полет со скалы. К счастью, Кольцо кошки тратит свой последний заряд, и тебе удается изящно зацепиться за ветку дерева, растущую на склоне горы десятью футами ниже. Тебе потребуется два хода, чтобы подняться обратно, или можно сделать спасбросок ЛВ, чтобы сделать это быстрее.»_
 
-**Freya**: _"Damn. Well, hopefully my comrades will fare well enough without me until I return..."_
+**Фрейя**: _«Черт возьми. Что ж, надеюсь, мои товарищи справятся без меня, пока я не заберусь...»_
 
-## Aiding an Ally
+## Помощь союзнику
 
-> The party have just arrived at the entrance to the second level of a long-forgotten mountain tomb. Freya leads the group, followed by Lucius, with Wolfram taking up the rear. Wolfram holds a lit torch, but the others have their hands free.
+> Группа только что прибыла ко входу на второй уровень давно забытой горной гробницы. Фрейя возглавляет группу, за ней следует Люциус, а Вольфрам замыкающий. Вольфрам держит зажженный факел, у остальных руки свободны.
 
-**Warden**: _"The path to the North veers over a twisted archway positioned atop a dark chasm. To the East, a rocky path leads downward into the murk below. What do you do?"_
+**Смотритель**: _«Путь на север ведет через изогнутую арку, расположенную на вершине темного разлома. На востоке каменистая тропинка ведет вниз, в темноту. Что вы делаете?»_
 
-**Wolfram**: _"Our quarry is said to be at the top of this blasted place! I think we should press on to the North."_
+**Вольфрам**: _«Говорят, что наша добыча находится на вершине этого проклятого места! Я думаю, нам следует двигаться дальше, на Север.»_
 
-**Warden**: _"The rest of you agree? Alright, then. Assuming you continue with the same marching orders..."_
+**Смотритель**: _«Остальные согласны? Тогда ладно. Предполагая, что вы продолжите идти в том же порядке...»_
 
-**Wolfram**: _"Wait! Let me go first. My Order can reveal that which is hidden, and I feel something sinister lies ahead in the darkness. I will take the lead, stepping as cautiously as possible, my Voidglass Shard at the ready."_
+**Вольфрам**: _«Подожди! Я пойду первым. Мой Орден может раскрыть то, что скрыто, и я чувствую, что впереди, во тьме, таится что-то зловещее. Я пойду впереди, ступая как можно осторожнее, держа свой осколок Стекла пустоты наготове.»_
 
-**Warden**: _"Wolfram, you carefully start across the bridge, which moans and creaks with each step. It feels solid beneath your feet, though. As the party reaches the midway point, the ground begins to shudder violently, then blossoms with cracks. It looks like it's going to collapse from behind!"_
+**Смотритель**: _«Вольфрам, ты осторожно начинаешь переходить по мосту, который скрипит при каждом шаге. Несмотря на это, под ногами чувствуется твердость. Когда группа достигает середины пути, земля начинает сильно содрогаться, а затем покрывается трещинами. Кажется, что сзади все вот-вот рухнет!»_
 
-**Wolfram**: _"If we run to the opposite side, does it look like we can make it safely?"_
+**Вольфрам**: _«Если мы побежим на противоположную сторону, получится ли у нас благополучно добраться туда?»_
 
-**Warden**: _"You and Lucius are the farthest ahead and likely the least at risk. But Freya is last and will need to make a DEX save to arrive there safely."_
+**Смотритель**: _«Вы с Люциусом ближе всего и, вероятно, подвергаетесь наименьшему риску. Но Фрейя последняя, и ей нужно будет сделать спасбросок ЛВ, чтобы безопасно добраться.»_
 
-**Freya**: _"You just had to take the lead, didn't you, Wolfie? I have a rope. Do I have time to toss it to one of the others?"_
+**Фрейя**: _«Тебе отчаянно нужно было идти впереди, не так ли, Вулфи? У меня есть веревка. У меня будет время кинуть ее кому-нибудь из них?»_
 
-**Warden**: _"Yes, you can do that. Wolfram has his hands full, so Lucius is your best bet. You can easily throw a rope to him, but a STR save will be required. As you will be the most at risk, you will need to make the save."_
+**Смотритель**: _«Да, ты можешь это сделать. У Вольфрама заняты руки, так что Люциус - твой лучший вариант. Ты можешь легко бросить ему веревку, но для этого потребуется спасбросок СЛ. Поскольку ты будешь подвергаться наибольшему риску, тебе нужно будет сделать спасбросок.»_
 
-**Freya**: _"A friend and a rope still seems like a good deal to me. Let's do it!"_
+**Фрейя**: _«Друг и веревка по-прежнему кажутся мне хорошим сочетанием. Давайте это сделаем!»_
 
-> Freya rolls a 5: a success!
+> Фрейя выбрасывает 5: успех!
 
-**Warden**: _"As the bridge collapses, Wolfram and Lucius dash to the opposite side with Freya right behind. Just as the ground disappears beneath her feet, she tosses Lucius her rope. As the bridge collapses behind her, she slams into the wall, hanging onto the rope for dear life. Slowly, she climbs along the wall, straining to reach the ledge a few feet above her. Finally, she pulls herself onto the dusty floor."_
+**Смотритель**: _«Когда мост рушится, Вольфрам и Люциус перебегают на противоположную сторону, а Фрейя сразу за ними. Как только земля исчезает у нее под ногами, она бросает Люциусу веревку. Мост рушится у нее за спиной, она врезается в стену, цепляясь за веревку изо всех сил. Фрейя медленно карабкается вдоль стены, тяжело дыша, пытаясь дотянуться до выступа, который находится всего в нескольких футах над ней. Наконец, у нее получается подтянуть себя на пыльный пол.»_
 
-**Freya**: _"That was fun. What's next?"_
+**Фрейя**: _«Было весело. Что дальше?»_
