@@ -7,14 +7,14 @@ logo: "/img/logo.svg"
 color_scheme: dark
 encoding: UTF-8
 plugins:
-  - jekyll-redirect-from
-  - jekyll-sitemap
+- jekyll-redirect-from
+- jekyll-sitemap
 include:
-  - js
+- js
 
 # Back to top link
 back_to_top: true
-back_to_top_text: "На вверх"
+back_to_top_text: "Наверх"
 
 footer_content: "Текст на этой странице распростроняется под <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC-BY-SA 4.0.</a>"
 # Footer last edited timestamp
