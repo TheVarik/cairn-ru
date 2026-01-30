@@ -34,7 +34,7 @@ nav_order: 3
 
 - [Создание предысторий](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/creating-backgrounds)
 - [Перемещение по точкам](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/pointcrawls)
-- _Frequently Asked Questions_
+- _FAQ_
     - [Про группу для примера](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/about-the-example-party)
     - [Исследование подземелий](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/dungeon-exploration)
     - [Отряды](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/detachments)
@@ -44,7 +44,7 @@ nav_order: 3
     - [Спасброски](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/saves)
     - [Вариативная сложность](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/variable-difficulty)
     - [Сражение](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/combat)
-- _The Setting of Vald_
+- _Сеттинг вальда_
     - [Сеттинг Вальда](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/vald)
     - [Таблицы ПС](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/npc-tables)
 - [Библиография](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/bibliography)
