@@ -20,7 +20,7 @@ nav_order: 3
 - [Основы подземелья](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/dungeon-seeds)
 - [Основы Леса](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/forest-seeds)
 
-### Part 2: Warden's Tools
+### Часть 2: Инструменты смотрителя
 
 - [Бестиарий](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/bestiary)
 - [Создание монстров](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/creating-monsters)
@@ -29,7 +29,7 @@ nav_order: 3
 - [Книги заклинаний](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/spellbooks)
 - [Реликварий](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/reliquary)
 
-### Part 3: Advice & Examples
+### Часть 3: Советы и примеры
 
 
 - [Создание предысторий](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/creating-backgrounds)
