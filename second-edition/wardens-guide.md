@@ -12,7 +12,7 @@ nav_order: 3
 ## Оглавление
 
 
-### Часть 1: Строительство мира
+### Часть 1: Создание мира
 
 - [Основы сеттинга](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/setting-seeds)
 - [Фракции](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/setting-seeds#factions)
