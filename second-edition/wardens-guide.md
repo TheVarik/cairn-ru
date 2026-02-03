@@ -20,7 +20,7 @@ nav_order: 3
 - [Основы подземелья](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/dungeon-seeds)
 - [Основы Леса](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/forest-seeds)
 
-### Часть 2: Инструменты смотрителя
+### Часть 2: Инструменты Смотрителя
 
 - [Бестиарий](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/bestiary)
 - [Создание монстров](https://github.com/TheVarik/cairn-ru//blob/main/second-edition/creating-monsters)
